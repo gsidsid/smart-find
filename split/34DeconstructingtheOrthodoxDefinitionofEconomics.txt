@@ -1,0 +1,593 @@
+
+
+
+3.4  DECONSTRUCTING  THE  ORTHODOX  DEFINITION  OF ECONOMICS
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Discuss the orthodox definition of economics.
+
+•    Understand the organization of the orthodox definition of economics.
+
+•    Describe the paradigmatic direction of orthodox economics.
+
+
+
+ometimes, in order to better understand how something works it is useful to break apart, or deconstruct  (de-engineer), 
+ the  object  of  examination.   During  periods  of  war,  oppositional armies  are  known  to  commandeer  their  
+opponent’s  weaponry  in  order  to  de-engineer,  or deconstruct, the equipment.   The United States Army Air Forces 
+Operation LUSTY (Luftwaffe Secret Technology) sought to capture German technology both during and after World War Two. 
+By taking apart a piece of equipment piece by piece the examiner gains insight into both how the equipment operates as 
+well as its weaknesses.  In times of war, stealing good ideas and developing better ways to destroy an opponent’s 
+weapons can be invaluable.  The object of deconstruction does not have to be physical or mechanical for the process to 
+be useful; deconstructing an idea is also a valuable process for enriching understanding.  Regarding the orthodox 
+definition of economics, as it is the object of
+both examination and critique, this same type of deconstruction will also be useful.
+
+In the first chapter of this text an example of the orthodox definition of economics was provided to the reader.  The 
+definition provided, similar to variations on the orthodox definition of economics in most textbooks, owes its origins 
+to a famous early 20th century economist, Lionel Robbins.  Rob- bins famously defined economics as, “the science which 
+studies human behaviour as a relationship between  ends  and  scarce means  which  have  alternative  uses.”   
+Contemporary  orthodox  economic textbooks tend to utilize a generic variation on Robbins’ definition, often 
+stipulating something akin to “Economics is the study of the allocation of limited resources over unlimited wants.”  In 
+order to examine the appropriateness, or lack thereof, of the orthodox definition of economics, a closer exam- ination 
+of the definition is necessary.
+
+One approach toward deconstructing the orthodox definition of economics is to define, specifically within the context 
+of the orthodox economic meaning of the words, the other terms within the defin- ition.  Given the organization of the 
+orthodox definition, with wants being conditioned by the avail- ability of resources, one possible starting point for 
+deconstruction is the orthodox definition of the term resources.
+
+PRINCIPLES  OF  ECONOMICS                                                                                      61
+
+As  should  be  noted  from  chapter  two  of  this  text,  the  orthodox  economic  definition  of  resources 
+emphasizes that resources are those things that are needed for production.  While other resources may  be  relevant,  
+orthodox  economics  nearly  exclusively  focuses  on  Land,Labor,  andCapital  as  the essential resources necessary 
+for production.  When more resources are present, more production is possible and when fewer resources are present, 
+less production is possible.  Obviously, if resources are unlimited, then production would be unlimited and all wants, 
+and presumably needs, could be met. Of course, as noted by the definition, resources are assumed to be limited, 
+otherwise referred to as scarce.
+
+The terms limited or scarce are fairly self-explanatory.  By definition, if something is scarce or limited, then there 
+is only so much of the thing in question.  In this case, orthodox economists are assuming that Land, Labor, and Capital 
+are in some way constrained.  In many ways this is a sensible assump- tion as the planet we reside upon has only so 
+much available land, human population, albeit signifi- cant, is limited to 7.4 billion people, and capital, consisting 
+of tools and equipment, are limited because only so many machines are available at any one time. Given limited or 
+scarce resources, the ability for wants to be met must be limited.
+
+Limits  to wants are an important  consideration.  Given the orthodox definition of economics,  the term wants  could, 
+presumably, represent  any and all things people could want.  However, because wants are deemed to be conditioned by 
+resources and what resources are capable of producing, it stands to reason that what orthodox economics means by its 
+use of the term “wants” are those things that are produced by resources.  Since resources are factors of production, 
+land, labor, and capital, then “wants” must be those things that are produced by land, labor, and capital—essentially 
+products (goods and services).
+
+But why do people want products?  According to orthodox economics people want products because people  garner  
+satisfaction  or  utility  (happiness)  from  their  consumption  of  products.   Given  that wants are considered to 
+be unlimited, which is to say endless or infinite, then, by logical continuation, people must have an endless desire 
+for utility or happiness.  Importantly, considering that wants must be the byproduct of the products produced by 
+resources, orthodox economics is arguing that people have an endless desire for happiness and that happiness is 
+derived, apparently exclusively, from the products that people acquire.  Additionally, consistent with the circular 
+logic of orthodox economics, if human beings have unlimited wants, then resources must be scarce.  All wants can never 
+be met, rendering resources on a finite planet scarce, if wants are endless.
+
+In summary, given the above set of definitions the following if-then statement provides a summary of the belief of 
+orthodox economists. If wants are unlimited and resources are used to produce the things that people want, those things 
+being products for consumption, then economists assume people have an insatiable desire to acquire products (aka. 
+inherently greedy).  Additionally, if, presumably, prod- ucts bring happiness and people have an endless desire for 
+products, then it must be that people have an endless desire to be happy.
+
+
+
+3.5  A  CRITICAL  EXAMINATION  OF  THE  ORTHODOX  DEFINITION OF  ECONOMICS  AND  ITS  RESULTANT  IMPACTS
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Discuss critiques of the orthodox definition of economics.
+
+•    Understand the differences between facts and beliefs.
+
+•    Describe the differences between needs and wants.
+
+•    Understand the interconnection between facts and values.
+
+•    Compare the differences between scarcity and surplus.
+
+•    Compare the differences between and individual and social approach to economics.
+
+•    Identify the relationship between unlimited wants and environmental degradation.
+
+
+
+hapter one presented the orthodox case for utilizing the limited resource, unlimited want def- inition.  For economists 
+outside of the orthodox paradigm, however, the orthodox story con- tains  troubling  elements.   While  potentially  
+insightful  in  certain  instances,  the  orthodox
+definition is also potentially misleading in terms of clarifying what it is that is actually happening in the economy.  
+What follows are, from a heterodox (alternative) economic perspective, four critiques of the orthodox definition of 
+economics and its implications.
+
+
+ARE UNLIMITED WANTS (AND THEREFORE SCARCE RESOURCES) A FACT OF LIFE OR A BELIEF?
+
+A fact is something immutable, it just is, whereas a belief is something that a person or people think, whether  there  
+is  evidence  to  support  their  contention  or  not.  An  atheist  or  a  theist  cannot  prove their beliefs, God 
+may or may not exist, but there is no way to empirically prove either view.  Athe- ism and theism are beliefs, not 
+facts.  In terms of belief-based versus fact-based analyses in the realm of economics, noted 20th century political 
+economist Karl Polanyi criticized the orthodox (neoclas- sical) scarcity story as scarcity assumed within the mind of 
+the orthodox economist. In other words, scarcity is a belief of the orthodox economist, not a fact.
+
+Outside of orthodox economics, such as within heterodox (alternative) economic circles as well as the  other  social  
+science  disciplines,  the  issue  of  scarcity  as  induced  by  unlimited  wants  has  been extensively evaluated and 
+re-evaluated.  For many theorists, the concept of unlimited/endless want
+
+PRINCIPLES  OF  ECONOMICS                                                                                      63
+
+of material items is simply not an immutable fact present in all times and places among all human beings.  Among 
+anthropologists, for example, there is a rich history of ethnographic studies docu- menting ways in which small-scale, 
+non-market oriented economies appear to behave differently than orthodox economists predict.  One such anthropologist, 
+Marshall Sahlins, explicitly notes that people residing in hunter-gatherer societies, while viewed as deeply 
+impoverished by the standards of people residing in advanced industrial economies, are actually quite affluent because 
+“all the people’s wants are easily satisfied.”  For Sahlins and other anthropologists, the hunter-gatherer’s affluence 
+is not one of vast material abundance, but rather a happiness shaped by being contented with having basic needs and 
+wants met.  By having little and demanding little, a successful hunt can yield great want satisfac- tion.
+
+Borrowing from psychology, there is also a sub-discipline of economics known as Happiness Eco- nomics.  Utilizing 
+survey data, theorists pursuing the study of happiness have repeatedly found that people that focus on the goals of 
+monetary gain and material benefits tend to be less happy than peo- ple who are less focused or not focused on those 
+goals.  It seems that for every endless maximizer of products, there are many more people that are apt to be content 
+and satisfied with far fewer material items, particularly if fewer material items mean a greater level of interpersonal 
+satisfaction like love, the respect of peers, affection, family fulfillment, and relationship fulfillment.  Apparently, 
+these and other equally non-material but important psychological factors are more important to the pursuit of happiness 
+than is monetary wealth.
+
+
+1.   CAN FACTS AND VALUES REALLY BE SEPARATED?
+
+Utilizing beliefs, ideas, or subjective values is not, however, an unacceptable practice for most social scientists.  
+Orthodox economics insists that facts and values are to remain separate, otherwise known as positive economics.  The 
+orthodox fact/value dichotomy is, however, misleading.  Nearly all the- orists apply some sort of pre-analytical value 
+to their analysis.  The very use of assumptions implies that some kind of value-based decision making process was 
+utilized by the theorist.  The irony in this instance is that orthodox economics insists that it is a fact based 
+science when, in fact, it utilizes value based (normative) propositions.
+
+Within  their  very  definition,  orthodox  economists  employ  subjective  values,  such  as  the  desire  to maximize 
+acquisition (an assumption, or belief, not a fact), to frame their vision of the discipline of economics.  Once again, 
+the use of subjective values on their own is not the problem or even a prob- lem (contrary to the orthodox perspective 
+that economics should be a positive science), but it becomes a problem when a definition states something as “is” as 
+opposed to “believed.”  Compare the follow- ing phrases, “the study of economics is” and “one belief is that economics 
+studies.”  The first phrase leads the reader to believe that economists deal in absolute facts while the second phrase 
+implies that some economists may have settled on an accepted set of ideas, but those ideas remain up for debate. An 
+honest presentation of the orthodox definition of economics would note its subjective, normative, non-positive nature.
+
+
+SCARCITY OR SURPLUS?
+
+There is another fundamental question that Polanyi’s critique alludes to: does scarcity as perceived by
+
+64                     ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+the mind actually mean that there is a scarcity resources?  For Polanyi, the orthodox definition of eco- nomics is 
+circular, it has neither a beginning nor an end, just continuous scarcity because of limitless want.  After all, if 
+human beings have unlimited wants, then resources have to be scarce, there is sim- ply no way for all wants to be met 
+if wants are endless.  Close inspection of the orthodox definition of economics makes it clear that the picture of the 
+homeless man on the bench presented in chapter one is not actually a result of scarcity, at least not as scarcity is 
+defined within the orthodox tradition.
+
+Again, recall that the orthodox definition of economics describes scarcity as resulting from endless “want.”  Endless  
+want  does  not  mean  that  there  are  not  enough  resources  available  to  fulfill  all  of humanities basic 
+needs.  Nor does endless “want” mean that many wants cannot be met given avail- able resources.  Obviously the man on 
+the park bench may have some very legitimate wants (certainly needs, like adequate shelter), but is he on the bench 
+because there are not enough resources available to make sure his basic needs, such as a home, or other wants, are met? 
+ At least in terms of available housing, the answer to this question is an overwhelming no.   According to the U.S. 
+Department of Housing and Urban Development on any given night in January of 2015 564,708 people were home- less.  At 
+the same time, the number of vacant residential properties in the United States numbered approximately 1.4 million.
+
+The homeless man’s lack of housing is not the byproduct of scarcity, at least not by the definition of scarcity that 
+many people are accustomed.  Rather, the homeless man on the bench is the byproduct of either misallocated resources or 
+a maldistribution of production.
+
+Homelessness (or house-less-ness) is not the only instance in which the orthodox economic scarcity story breaks down.  
+There are other well documented instances.  One particularly disturbing instance relates to malnourishment and general 
+starvation.  According to the World Hunger Education Service (WHES) around the world there is enough food produced on 
+an annualized basis to ensure that every person is adequately nourished.  In fact, the sheer amount of calories per 
+person generated by global food  production  has  risen  since  the  early  1960s  through  the  mid-2000s,  with  the  
+amount  of  per capita calories produced being enough to adequately feed an adult in both developed and developing 
+economies.  At the same time, “The United Nations Food and Agriculture Organization estimates that about 795 million 
+people of the 7.3 billion people in the world, or one in nine, were suffering from chronic undernourishment in 
+2014-2016.”
+
+http://www.fao.org/3/a-i4674e.pdf
+
+Again, this instance of basic needs not being met may be perceived as a situation of scarcity.  However, as  reported  
+by  the  WHES,  poverty  is  the  overwhelming  driver  of  global  malnourishment.   While poverty implies a scarcity 
+of income, possibly due to a scarcity of employment possibilities, the actual product  that  resolves  malnourishment,  
+food  is  produced  in  enough  abundance  to  adequately  feed everyone.  Once again, basic human needs are going 
+unmet and this has nothing at all to do with the scarcity of resources.
+
+An interesting outcome of reorienting the definition of economics away from the scarcity story, when evaluated on what 
+is actually available, is not that resources are endless or that all wants can neces- sarily be met, but that it is 
+apparent that there are often more than enough resources to meet all of humanity’s material needs as well as many, 
+many, many of humanities wants.  Reoriented this way the story of economics becomes a story of surplus and abundance, 
+rather than shortfall and hardship.  A much less dismal, and likely more realistic, science indeed!
+
+PRINCIPLES  OF  ECONOMICS                                                                                      65
+
+
+
+1.   NEEDS VERSUS WANTS
+
+A distinction must be made between needs and wants, as they are decidedly not the same.
+
+Need  –  Reflects  something  that  is  necessary  for  a  human  being  to  sustain  basic  physical  and  
+psychological health.
+
+One fairly well known measure defining needs is Maslow’s hierarchy of needs.  In Maslow’s hierarchy basic physiological 
+needs, like food, water, air, shelter, safety, must be met first, followed by psycho- logical needs, such as love and 
+affection, with self-actualizing needs being met last.  Importantly, while Maslow’s hierarchy provides a framework, it 
+must also be understood that the concept of need evolves depending on the social circumstances and technological make 
+up of a given economy.  In the absence of basic physiological needs being met, a person’s life will suffer to the 
+degree that in many instances their life may be shortened.  For example, homeless people have shorter life spans, 42 to 
+52 years, than non-homeless people, 78 years.
+
+A want is different from a need.
+
+Want – is something that is desired, but also not necessary for an individual to live and function in a society.
+
+For example, while basic shelter with appropriate utilities such as gas, electric, water, sanitation, and basic 
+cooking, cleaning, and food storage appliances will generally fulfill basic needs, additional prod- ucts such as 
+dishwashers, large screen televisions, hot tubs, and many, many other products are wants.
+
+To further distinguish between needs and wants, consider the following example.  In some communi- ties the existing 
+transportation infrastructure is nearly completely and exclusively automobile depen- dent.  In order for a person to 
+have a reasonable expectation of functioning, physically, socially, and economically in this socioeconomic environment, 
+a person will need access to an automobile.  In this case, a functional automobile is, in fact, a need, but a high end 
+SUV is not a need, it is a w ant.
+
+Based on the orthodox definition of economics it is clear that the orthodoxy is interested in wants rather than needs.  
+The absence of needs from the orthodox definition is a curiosity.  There are several possible reasons why needs are not 
+explicitly referenced in the orthodox definition.  Two possible rea- sons will be addressed here.  First, it is 
+possible that orthodox economists do not differentiate between needs and wants, thus all needs really are just wants.  
+Second, orthodox economists may be assuming that needs are already being met.  If basic needs are met, then it is not 
+only possible but reasonable to study what people want.
+
+In  critique,  the  orthodox  merger  of  needs  and  wants  seems  to  produce  potentially  misleading insights.  
+While one can certainly make the argument that all people want their needs to be met, such that a need is nothing more 
+than a type of want, basic needs must be met or the study of additional wants becomes useless as there can be no other 
+wants.  Additionally, even if it is assumed that needs are being met, this does not actually mean that needs are being 
+met in the world where people really live.  If needs are not being met, can orthodox economics be trusted to study the 
+situation and then prescribe a solution that might ease human suffering?  The answer to this question is unclear as the 
+orthodox definition of economics does not provide direction toward the study of needs.
+
+66                     ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+INDIVIDUAL PERSPECTIVE OR SOCIAL PERSPECTIVE?
+
+As a discipline, economics is categorized as a social science.  The social sciences, in general, seek to develop 
+understandings about human interactions on a social level.  For example, an anthropologist may be interested in 
+understanding the role of culture as it influences human behavior.  Culture can be represented as social norms, 
+rituals, and/or customs that different groups of people, mostly collec- tively, participate in performing.  Another 
+example of a social science is political science.  A political scientist may be interested in examining political 
+institutions and legal structures.  In order to bet- ter understand why individuals or larger social groups of people 
+exhibit certain behaviors, an under- standing of how a society structures its laws, the rewards or penalties people 
+encounter as a result of socially derived rules, is essential.
+
+For the orthodox economist, however, the social element of economics is secondary to that of the individual.   Again,  
+the  orthodox  definition  of  economics  gives  the  orthodox  economist  direction. Recall, the focus of the orthodox 
+economist is on want fulfillment with wants being satisfied by goods and services produced by resources.  The reason 
+products are wanted is because products, presum- ably,  provide  the  recipient  with  happiness,  or  utility.   Since 
+ people  are  presumed  to  have  endless wants, people are also presumed to have an endless desire for utility.  In 
+many ways orthodox eco- nomics is really just the study of the maximization of utility.  But how is utility measured?  
+Well, it’s not.  Utility is subjective, it is in the eye of the beholder.  As such, the study of utility maximization 
+is the study of individual choices.  After all, the only way to know what makes a person happy, or bring- ing the most 
+utility is to evaluate the consumption choices that people make.  As such, the focus of orthodox economics is that of 
+individual choice making.
+
+For some in the orthodox economic community, the focus on the individual is a conscious choice, purposeful  and  known, 
+ and  often  times  affectionately  referred  to  as  “metftodological individual- ism.”  A methodology is an approach 
+for addressing concerns that a discipline believes are essential. Methodological individualism is a method anchored to 
+examining the individual, placing front and center the issue most essential to that of the orthodox economist: 
+individual decision-making.  But if the individual is of utmost importance, then the role of social is much less clear 
+within orthodox eco- nomics.  This is not to say that the larger society is ignored by orthodox economists.  For 
+orthodox economics the social does emerge but, consistent with their dedication to studying individual choice, it is as 
+a byproduct of individual maximizing behavior.  Once individuals pursue their own self-inter- est, the orthodox 
+economist is tasked with simply summing or aggregating the individual behavior and the result is the larger social 
+outcome.
+
+For those outside of the orthodox economic tradition, many important considerations are seemingly lost by the direction 
+of orthodox economic analysis.  Take for example the question of how broader societal norms as a function of social 
+institutions may have influenced the behavior of individuals.  By assuming away the social and focusing exclusively on 
+the individual, the orthodox economist will be apt to ignore such issues as how social institutions may have influenced 
+individual behavior such that it is now not prone to maximizing individual acquisition.  In other words, let’s say 
+people really don’t just look out for themselves all of the time, seeking to acquire as many products for themselves as 
+they can, but instead, people behave such that they are concerned for the well-being of others, maybe because the norms 
+of their society encourage a less than self-centered set of behaviors.  Non-acquisi- tive, non-self-interested 
+individual behavior tends to be outside of the scope of orthodox economics,
+
+PRINCIPLES  OF  ECONOMICS                                                                                      67
+
+but it is not outside the scope of actual human economic interactions.  For many non-orthodox econ- omists, the absence 
+of a clear social perspective limits the understandings available to the practitioner of methodological individualism.
+
+
+1.   UTILITY AS EVERYTHING, UTILITY AS NOTHING
+
+Some orthodox economists have objected to the idea that they are assuming that people are greedy, only wanting products 
+or those things that can get products, namely resources or money as money is what is used to perform purchases.  One 
+orthodox economic argument that has emerged claims that the orthodox economic model can be extended to include the 
+story of “enligfttened self-inter- est.”  Enlightened self-interest is the idea that it can be in one’s self-interest 
+to act to benefit others. In  some  regards  enlightened  self-interest  can  be  interpreted  as  someone  serving  
+society  such  that through their service society is better-off and, subsequently, as a member of society, the 
+individual then benefits.
+
+A common example of enlightened self-interest is charitable giving.  Charitable giving is the opposite of individual 
+acquisition as the person giving to charity is presumably giving away something of per- sonal  value  for  themselves  
+so  that  someone  else  can  benefit.   Orthodox  economists  argue  that  the reason a person engages in charity, or 
+another type of enlightened self-interest, is because they gain utility from knowing that they have done something that 
+is perceived as “good” for society.
+
+There are two problems that become evident when the orthodox enlightened self-interest argument is compared to the 
+orthodox definition of economics.  First, enlightened self-interest is inconsistent with the basic premise described by 
+the orthodox definition of economics.  To once again reiterate, the  orthodox  definition  of  economics  is  
+stipulating  that  people’s  unlimited  wants  are  fulfilled  by resources and resources are utilized to produce 
+products, thus want fulfillment is synonymous with product acquisition.  Returning to the charitable giving example, it 
+is clear that charitable giving is not product acquisition but rather product dissipation.  Thus orthodox economics 
+cannot, without contradicting itself, apply its definition of economics to a story of enlightened self-interest.  
+Another definition of economics would be necessary to account for human behavioral actions associated with what is 
+perceived as enlightened self-interest, or really any human action that is not associated with the acquisition of 
+products.
+
+Some thoughtful orthodox economists have recognized the contradiction between their definition of economics and the 
+idea of enlightened self-interest.  As a result, some orthodox economists have re- cast their position arguing that 
+utility can be derived from anything, not just material products.  In other words, for the orthodox economist all human 
+actions and behaviors are driven around utility maximization and thus the study of economics is really the study of 
+utility maximization.  When re- cast in this light, however, the second problem appears.  If all actions provide a 
+person with utility, and all people are utility maximizers, then any action can be said to be utility maximizing, 
+otherwise the person would not engage in the action.  Based on this construction, the orthodox economist would be 
+reduced to observing what people do and then proclaiming that it must be in their best interest.  As a critical 
+thinking exercise an important question now emerges: when exactly does orthodox econom- ics become a social science?  
+Saying that people do as they do because otherwise they wouldn’t do it does not represent science, it has very little 
+empirical function. It is also not focused on the social as it does not account for any social factors that may 
+influence or disrupt individual behavior. And it pro-
+
+68                     ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+vides almost no predictive possibilities other than identifying what might happen in the future based on what has 
+happened in the past.  Once again, confronted with such limitations many economists suggest that another definition of 
+economics may be more substantive and useful.
+
+
+
+
+BREAKOUT BOX – WHAT ABOUT BEHAVIORAL ECONOMICS?
+
+Because  people  frequently  engage  in  behaviors  that  are  not  considered  rational,  that  is  to  say  
+individually  acquisitive, orthodox economics has been targeted for criticism that their models do not accurately 
+depict the real world.  In response a sub-field of orthodox economics, behavioral economics, has developed that seeks 
+to utilize experiments and psychology to better understand actual human behavior.  Behavioral economics tends to start 
+from the position that otherwise-rational, optimizing people will deviate from standard orthodox economic actions 
+because people can be influenced by non-eco- nomic factors, such as religious beliefs or cultural norms
+
+A common approach to identifying  the factors that condition individual  choice-making is to run experiments  that test 
+human response to incentives.  A controlled experiment provides researchers with empirical, data-driven evidence as to 
+how and why people may not respond to opportunities for individual gain in the ways that orthodox economics predicts.
+
+For many outside of orthodox economics,  the development of behavioral economics  is a step in right direction for the 
+larger science of economics.  Having evidence and being able to explain a wider range of phenomena rather than simply 
+stipulating that people do as they do otherwise they wouldn’t do it, appears to move the discipline of economics toward 
+more realistic insights.  At the same time, critiques of orthodox economics are also apt to note that behavioral 
+economics still does not go far enough with its approach.  Behavioral economics emphasizes an analysis that begins with 
+the standard orthodox isolated maximizing individual and then searches for deviations from this behavior.  By the very 
+nature of their focus, behavioral economics under-emphasizes social considerations.  As such, data may be derived that 
+draws out the idea that an individual is making choices that are influenced by social institutions, but absent the 
+study of those social institu- tions, the theorist is possibly still in the dark as to why the social institutions 
+elicit the response that they do on the part of the individual.  The result is that behavioral economics broadens the 
+scope of economic inquiry but, for those outside of orthodox economics, it is still too narrow of an approach.
+
+
+
+
+LIMITLESS VERSUS LIMITS: THE IMPLICATIONS FOR THE HEALTH OF THE PLANETARY ENVI- RONMENT
+
+The  final  critique  presented  here  may  be  the  most  important  in  terms  of  its  implications  for  the future 
+of humanity.  The Earth is a finite biosphere.  There is simply only so much atmosphere, land, water, minerals, ores, 
+and other natural resources within the bounds of the planet.  In this way, the Earth really is representative of a 
+circumstance of scarcity.  Certainly improved efficiency is capable of extending the productive capability of the 
+available natural resources, but this does not change the fact that there is a limit to how much is actually available.
+
+Regardless, for many orthodox economists, the principle of endless growth is unquestionably desir- able and it is 
+downright sacrilegious to doubt the merits of endless economic growth.  Consider the orthodox definition of economics 
+and its emphasis on the desirability of endless happiness and that happiness  being  derived  from  the endless  
+consumption of  products.  Given  the premise  of  unlim-
+
+PRINCIPLES  OF  ECONOMICS                                                                                      69
+
+ited wants, the need for endless production is obvious and, by continuation, endless production is a synonym for 
+endless, exponential, economic growth.  In the simplest sense, more products produced means that the material 
+well-being of society is improved.  For orthodox economists, the improved material well-being of society cannot be 
+understated.  For example, it is not uncommon for orthodox economists to argue that given enough growth, social 
+maladies such as poverty can be alleviated and, in time, eliminated.  Of course, the orthodox economic perspective 
+leaves aside incredibly important considerations such as whether or not new material products are equitably 
+distributed.  But, as ortho- dox economists would note, an unequal distribution of products is a separate problem from 
+inade- quate production and overt want, so the existence of inequality does not undermine the importance of economic 
+growth.
+
+The  issue  of  endless  growth  in  a  finite  biosphere  presents  orthodox  economics  with  interesting conundrums. 
+  If  resources  are  finite,  how  is  endless  growth  possible?   Again,  orthodox  economics does  provide  an  
+answer  in  form  of  the  advancement  of  knowledge  and  technology  that  allow  for improvements in productivity 
+and efficiencies creating opportunities for endless growth.  But what if endless growth then yields waste that pollutes 
+the natural environment making human life on the planet ever more difficult to sustain?  The answer to this question is 
+more difficult and the failure to answer is more perilous.  Even if knowledge and technological advancement can improve 
+productive efficiencies, absent the elimination of waste, exponential economic growth will add waste to the land, sea, 
+and air.  Just as lily pads can overrun a pond, with exponential economic growth and its asso- ciated waste, the 
+effluent byproducts of industrial production can inundate and overwhelm a finite biosphere.
+
+The mass annihilation of the Plain’s Bison in the 19th century is a grave depiction of the ability of humanity to 
+inflict harm upon the natural environment.
+
+70                     ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Credit: https://en.wikipedia.org/wiki/Renewable_resource#/media/File:Bison_skull_pile_edit.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Endless economic growth necessitates endless production.  At the expense of rich, biodiverse, rain- forest human beings 
+burn and clear cut the forest in order expand agricultural capacity.
+
+(Credit:  https://en.wikipedia.org/wiki/Tragedy_of_the_commons#/media/File:Lacanja_burn.JPG)
+
+PRINCIPLES  OF  ECONOMICS                                                                                      71
+
+It is clear that human economic activity nearly inevitably leads to the creation of waste byproducts, pollution.  Not 
+only is the Earth’s biosphere limited in terms of what it can provide in the way of nat- ural resources toward 
+productive output, it is also limited in terms of how much waste it is capable of absorbing on land, in the sea, and in 
+the air.  For example, the Stockholm Resilience Centre has identified nine planetary boundaries (environmental 
+thresholds) that must not be eclipsed if human life is to safely exist.  The nine planetary boundaries are 
+stratospheric ozone depletion, biodiversity loss,  chemical  pollution,  climate  change,  ocean  acidification,  
+freshwater  consumption,  land  system change, nitrogen and phosphorous flows to the biosphere and oceans, and 
+atmospheric aerosol load- ing.  Of these nine boundaries, three in particular, climate change, ocean acidification, and 
+stratos- pheric ozone depletion, are of such consequence that if the threshold is surpassed, then the planet’s basic 
+ecology will likely be fundamentally destabilized.  In the case of climate change and ocean acid- ification, the two 
+issues are caused by human economic activity and are inherently interrelated.  Cli- mate  change  is  caused  by  
+carbon  dioxide  emissions  and  ocean  acidification  is  triggered  when  the oceans absorb and process carbon 
+dioxide.  Strikingly, at least in the case of climate change, the pro- posed boundary for atmospheric carbon dioxide 
+has been surpassed as 350 parts per million (ppm) is the boundary while actual carbon dioxide levels now exceed 400 
+ppm.  Clearly, human economic activity, and the associated environmental destruction of the Earth’s biosphere as a 
+result of economic growth, does present a powerful challenge to the importance of economic growth.
+
+Given the above-stated considerations, going forward humanity must consider the possibility of ori- enting its economic 
+activity within the context of limits.  The direction of orthodox economics, as guided by its definition, is not, 
+however, oriented toward accepting limits.  In the face of the abun- dance of scientific evidence pointing toward human 
+factors as the cause of a de-stabilizing natural environment, the orthodox definition of economics appears to point 
+economic analysis in a direction counter-productive to health and well-being of life on this planet.  As a result, it 
+stands to reason that another definition of economics, one less rigid and one-dimensional, may be of use.
+
+
+1.   ENVIRONMENTAL RESOURCE ECONOMICS
+
+Orthodox  economics  is  not  entirely  oblivious  to  environmental  concerns.   Nearly  a  century  ago orthodox 
+economic  thinkers such as A. C. Pigou recognized  the potential  for a concept known as externalities.  Discussed in 
+chapter 12: Environmental Protection and Negative Externalities, nega- tive externalities represent the idea that 
+sometimes economic activities create unaccounted for costs that impact third parties, or those people who are not 
+directly involved in the economic activity.    Any failure to properly account for a negative externality means that 
+the market system has failed to effi- ciently allocate resources.  For Pigou and orthodox economics, the solution to 
+negative externalities is the development of institutional mechanisms that assign penalties to those that create 
+negative exter- nalities.
+
+A common orthodox example of an institutional mechanism designed to address negative external- ities  is  the  
+government  being  granted  the  regulatory  task  of  environmental  protection.   From  the standpoint  of  orthodox  
+economics,  pollution  and  environmental  degradation  represent  a  negative externality, an unaccounted for cost on 
+the larger society.  As a regulator, the government can utilize any number of regulatory tools to try and mitigate 
+pollution.  For example, one choice preferred by many, but not all, orthodox economists, is the use of taxation as a 
+way to increase costs to polluters. Overall, orthodox environmental resource economics places the environment as 
+sub-ordinate to the
+
+72                     ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+economy, and argues that marginal analysis should be utilized to measure the economic costs and benefits of 
+environmental changes.
+
+As will be later illustrated  in chapter 12: Environmental Protection and Negative Externalities,  by invoking a tax on 
+polluters in a market economy, costs to producers rise.  As costs rise the producer will produce less of the product 
+the production of which is creating pollution.  Additionally, with less production of the product, the supply of the 
+product will decline generating an increase in price of the product.  The outcome is three-fold.  First, with less 
+production comes less pollution.  Second, with less production the product now sells at a higher price, with the price 
+capturing more of the nega- tive externality and reflecting something closer to the true cost of the product.  Third, 
+the tax revenue generated from the tax has the potential to be used to compensate the victims of the negative exter- 
+nality.  On the face of it, it appears as though the taxation solution to an externality is providing a final outcome 
+that is close to ideal.
+
+Critics of the orthodox economic externality resolution argument have their doubts about the efficacy of the orthodox 
+approach.  The following questions represent a small sample of possible concerns. For starters,  it is possible to 
+conceive of an economy with a seemingly endless variety of negative externalities, does this mean that all 
+externalities will be taxed?  Failure to properly tax negative exter- nalities means that the economy is rife with 
+inefficiencies.  Additionally, how large of a government bureaucratic structure would be needed to adequately address 
+all externalities?  Might the solution be worse than the cure?  Also, even if all products to be taxed could be 
+identified, how can a regulator be certain to precisely calculate the size of the tax in order to correct for the costs 
+of the negative exter- nality.
+
+Of course, even if all of the questions above could be sorted out and resolved, there are still basic fundamental 
+issues and contradictions, associated with the orthodox definition of economics, which the orthodox argument fails to 
+address.  For example, all efforts to address negative environmental externalities call for the reduction of waste and 
+some kind of constraint on economic activity and growth.  Any check on growth clearly and obviously runs afoul of the 
+basic tenet of orthodox eco- nomics, as is clear in their definition, of endless want of products and the associated 
+desirability to try and meet those wants.  Also, any reduction in production will also act to reduce consumption, 
+presumably limiting consumers’ abilities to increase their utility by acquiring products.  The primary conclusion being 
+that orthodox economics’ own solution for externalities runs counter to the foun- dations of their definition of 
+economics.
+
+Some critics of the standard orthodox environmental resource economics arguments, through their application  and  
+advocacy  for  ecological  economics,  have  sought  to  re-orient  the  relationship between the economy and the 
+environment.  Whereas orthodox economics views the natural envi- ronment as an external factor that may be impacted by 
+economic activity, ecological economists place the economy in a sub-ordinate role to the natural environment.  
+Ecological economics generally tends to support the notion that the natural environment must be nurtured and protected, 
+as, without it, an economy and human life cannot function.  As such ecological economics has a more cautious perspec- 
+tive regarding economic activity and how it impacts the natural environment.  As a result, standard orthodox economic 
+concepts such as endless economic growth and want fulfillment are of secondary importance to long term sustained living 
+made possible through the protection of the natural envi- ronment.  As such, ecological economics operates outside of 
+the orthodox definition of economics.

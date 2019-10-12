@@ -1,0 +1,521 @@
+
+
+
+CHAPTER 12. MONOPOLY
+
+
+
+
+INTRODUCTION  TO  A  MONOPOLY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Political Power from a Cotton Monopoly. In the mid-nineteenth century, the United States, specifically the 
+Southern states, had a near monopoly in the cotton supplied to Great Britain. These states attempted to lever- age this 
+economic power into political power—trying to sway Great Britain to formally recognize the Confeder- ate States of 
+America. (Credit: modification of work by “ashleylovespizza”/Flickr Creative Commons)
+
+
+THE REST IS HISTORY
+
+Many of the opening case studies have focused on current events. This one steps into the past to observe how monopoly, 
+or near monopolies, have helped shape history. In the spring of 1773, the East India Company, a firm that, in its time, 
+was designated ‘too big to fail,’ was continuing to experience financial difficulties. To help shore up the failing 
+firm, the British Parliament authorized the Tea Act. The act continued the tax on teas and made the East India Company 
+the sole legal sup- plier of tea to the American colonies. By November, the citizens of Boston had had enough. They 
+refused to permit the tea to be unloaded, citing their main complaint: “No taxation without representation.” Arriving 
+tea-bearing ships were warned via several newspapers, including The Massachusetts Gazette, “We are prepared, and shall 
+not fail to pay them an unwelcome visit; by The Mohawks.”
+
+PRINCIPLES  OF  ECONOMICS                                                                                   339
+
+
+
+Step forward in time to 1860—the eve of the American Civil War—to another near monopoly supplier of historical signifi- 
+cance: the U.S. cotton industry. At that time, the Southern states provided the majority of the cotton Britain 
+imported. The South, wanting to secede from the Union, hoped to leverage Britain’s high dependency on its cotton into 
+formal diplomatic recognition of the Confederate States of America.
+This  leads  us  to  the  topic  of  this  chapter:  a  firm  that  controls  all  (or  nearly  all)  of  the  supply  
+of  a  good  or  service—a monopoly. How do monopoly firms behave in the marketplace? Do they have “power?” Does this 
+power potentially have unintended consequences? We’ll return to this case at the end of the chapter to see how the tea 
+and cotton monopolies influenced U.S. history.
+
+
+CHAPTER OBJECTIVES
+
+
+Introduction to a Monopoly
+In this chapter, you will learn about:
+
+•    How Monopolies form: Barriers to Entry
+
+•    How a Profit-Maximizing Monopoly Chooses Output and Price
+
+
+
+here is a widespread belief that top executives at firms are the strongest supporters of market competition, but  this 
+belief  is far from the truth. Think  about  it this way: If you very  much wanted to win an Olympic gold medal, would 
+you rather be far better than everyone else, or locked in competition with many athletes just as good as you are? 
+Similarly, if you would like to attain a very high level of profits, would you rather manage a business with little or 
+no competition, or strug- gle against many tough competitors who are trying to sell to your customers? By now, you 
+might have read the chapter on Perfect Competition. In this chapter, we explore the opposite extreme: monopoly.
+
+If perfect competition is a market where firms have no market power and they simply respond to the market price, 
+monopoly is a market with no competition at all, and firms have complete market power. In the case of monopoly, one 
+firm produces all of the output in a market. Since a monopoly faces no significant competition, it can charge any price 
+it wishes. While a monopoly, by definition, refers to a single firm, in practice the term is often used to describe a 
+market in which one firm merely has a very high market share. This tends to be the definition that the U.S. Department 
+of Justice uses.
+
+Even though there are very few true monopolies in existence, we do deal with some of those few every day, often without 
+realizing it: The U.S. Postal Service, your electric and garbage collection companies are a few examples. Some new 
+drugs are produced by only one pharmaceutical firm—and no close substitutes for that drug may exist.
+
+From the mid-1990s until 2004, the U.S. Department of Justice prosecuted the Microsoft Corporation for  including  
+Internet  Explorer  as  the  default  web  browser  with  its  operating  system.  The  Justice Department’s argument 
+was that, since Microsoft possessed an extremely high market share in the industry for operating systems, the inclusion 
+of a free web browser constituted unfair competition to other browsers, such as Netscape Navigator. Since nearly 
+everyone was using Windows, including Internet  Explorer  eliminated  the  incentive  for  consumers  to  explore  
+other  browsers  and  made  it impossible for competitors to gain a foothold in the market. In 2013, the Windows system 
+ran on more than 90% of the most commonly sold personal computers. In 2015, a U.S. federal court tossed
+
+340                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+out antitrust charges that Google had an agreement with mobile device makers to set Google as the default search 
+engine.
+
+This chapter begins by describing how monopolies are protected from competition, including laws that prohibit 
+competition, technological advantages, and certain configurations of demand and sup- ply. It then discusses how a 
+monopoly will choose its profit-maximizing quantity to produce and what price to charge. While a monopoly must be 
+concerned about whether consumers will purchase its products or spend their money on something altogether different, 
+the monopolist need not worry about the actions of other competing firms producing its products. As a result, a 
+monopoly is not a price taker like a perfectly competitive firm, but instead exercises some power to choose its market 
+price.
+
+
+
+12.1  HOW  MONOPOLIES  FORM:  BARRIERS  TO  ENTRY
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Distinguish between a natural monopoly and a legal monopoly.
+
+•    Explain how economies of scale and the control of natural resources led to the necessary formation of legal 
+monopolies
+•    Analyze the importance of trademarks and patents in promoting innovation
+
+•    Identify examples of predatory pricing
+
+
+
+ecause of the lack of competition, monopolies tend to earn significant economic profits. These profits  should  attract 
+ vigorous  competition  as  described  in  Perfect  Competition,  and  yet, because of one particular characteristic of 
+monopoly, they do not. Barriers to entry are the
+legal, technological, or market forces that discourage or prevent potential competitors from entering a market. 
+Barriers to entry can range from the simple and easily surmountable, such as the cost of renting retail space, to the 
+extremely restrictive. For example, there are a finite number of radio fre- quencies available for broadcasting. Once 
+the rights to all of them have been purchased, no new com- petitors can enter the market.
+
+In some cases, barriers to entry may lead to monopoly. In other cases, they may limit competition to a few firms. 
+Barriers may block entry even if the firm or firms currently in the market are earning profits. Thus, in markets with 
+significant barriers to entry, it is not true that abnormally high profits will attract new firms, and that this entry 
+of new firms will eventually cause the price to decline so that surviving firms earn only a normal level of profit in 
+the long run.
+
+There are two types of monopoly, based on the types of barriers to entry they exploit. One is natural monopoly, where 
+the barriers to entry are something other than legal prohibition. The other is legal monopoly, where laws prohibit (or 
+severely limit) competition.
+
+NATURAL MONOPOLY
+Economies of scale can combine with the size of the market to limit competition. (This theme was introduced in Cost and 
+Industry Structure). Figure 1 presents a long-run average cost curve for the airplane manufacturing  industry. It shows 
+economies  of scale  up to an output of 8,000  planes per year and a price of P0, then constant returns to scale from 
+8,000 to 20,000 planes per year, and disec- onomies of scale at a quantity of production greater than 20,000 planes per 
+year.
+
+342                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+Now consider the market demand curve in the diagram, which intersects the long-run average cost (LRAC) curve at an 
+output level of 6,000 planes per year and at a price P1, which is higher than P0. In this situation, the market has 
+room for only one producer. If a second firm attempts to enter the market at a smaller size, say by producing a 
+quantity of 4,000 planes, then its average costs will be higher than the existing firm, and it will be unable to 
+compete. If the second firm attempts to enter the market at a larger size, like 8,000 planes per year, then it could 
+produce at a lower average cost—but it could not sell all 8,000 planes that it produced because of insufficient demand 
+in the market.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Economies of Scale and Natural Monopoly. In this market, the demand curve intersects the long-run average 
+cost (LRAC) curve at its downward-sloping part. A natural monopoly occurs when the quantity demanded is less than the 
+minimum quantity it takes to be at the bottom of the long-run average cost curve.
+
+This situation, when economies of scale are large relative to the quantity demanded in the market, is called a natural 
+monopoly. Natural monopolies often arise in industries where the marginal cost of adding an additional customer is very 
+low, once the fixed costs of the overall system are in place. Once the main water pipes are laid through a 
+neighborhood, the marginal cost of providing water service to another home is fairly low. Once electricity lines are 
+installed through a neighborhood, the mar- ginal cost of providing additional electrical service to one more home is 
+very low. It would be costly and duplicative for a second water company to enter the market and invest in a whole 
+second set of main water pipes, or for a second electricity company to enter the market and invest in a whole new set 
+of electrical wires. These industries offer an example where, because of economies of scale, one producer can serve the 
+entire market more efficiently than a number of smaller producers that would need to make duplicate physical capital 
+investments.
+
+A natural monopoly can also arise in smaller local markets for products that are difficult to transport.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   343
+
+For example, cement production exhibits economies of scale, and the quantity of cement demanded in a local area may not 
+be much larger than what a single plant can produce. Moreover, the costs of transporting cement over land are high, and 
+so a cement plant in an area without access to water transportation may be a natural monopoly.
+
+CONTROL OF A PHYSICAL RESOURCE
+
+Another type of natural monopoly occurs when a company has control of a scarce physical resource. In the U.S. economy, 
+one historical example of this pattern occurred when ALCOA—the Aluminum Company of America—controlled most of the 
+supply of bauxite, a key mineral used in making alu- minum. Back in the 1930s, when ALCOA controlled most of the 
+bauxite, other firms were simply unable to produce enough aluminum to compete.
+
+As another example, the majority of global diamond production is controlled by DeBeers, a multi- national company that 
+has mining and production operations in South Africa, Botswana, Namibia, and Canada. It also has exploration activities 
+on four continents, while directing a worldwide distri- bution network of rough cut diamonds. Though in recent years 
+they have experienced growing com- petition, their impact on the rough diamond market is still considerable.
+
+LEGAL MONOPOLY
+
+For some products, the government erects barriers to entry by prohibiting or limiting competition. Under U.S. law, no 
+organization  but  the U.S. Postal Service  is legally allowed to deliver first-class mail. Many states or cities have 
+laws or regulations that allow households a choice of only one electric company, one water company, and one company to 
+pick up the garbage. Most legal monopolies are considered utilities—products necessary for everyday life—that are 
+socially beneficial to have. As a consequence, the government allows producers to become regulated monopolies, to 
+insure that an appropriate amount of these products is provided to consumers. Additionally, legal monopolies are often 
+subject to economies of scale, so it makes sense to allow only one provider.
+
+PROMOTING INNOVATION
+
+Innovation takes time and resources to achieve. Suppose a company invests in research and develop- ment and finds the 
+cure for the common cold. In this world of near ubiquitous information, other companies  could  take  the  formula,  
+produce  the  drug,  and  because  they  did  not  incur  the  costs  of research and development (R&D), undercut the 
+price of the company that discovered the drug. Given this possibility, many firms would choose not to invest in 
+research and development, and as a result, the world would have less innovation. To prevent this from happening, the 
+Constitution of the United States specifies in Article I, Section 8: “The Congress shall have Power . . . To Promote 
+the Progress of Science and Useful Arts, by securing for limited Times to Authors and Inventors the Exclusive Right to 
+their Writings and Discoveries.” Congress used this power to create the U.S. Patent and Trademark Office, as well as 
+the U.S. Copyright Office. A patent gives the inventor the exclusive legal right to make, use, or sell the invention 
+for a limited time; in the United States, exclusive patent rights last for 20 years. The idea is to provide limited 
+monopoly power so that innovative firms can recoup their investment  in  R&D,  but  then  to  allow  other  firms  to  
+produce  the  product  more  cheaply  once  the patent expires.
+
+A trademark is an identifying symbol or name for a particular good, like Chiquita bananas, Chevrolet
+
+344                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+cars, or the Nike “swoosh” that appears on shoes and athletic gear. Roughly 1.9 million trademarks are registered with 
+the U.S. government. A firm can renew a trademark over and over again, as long as it remains in active use.
+A copyrigftt, according to the U.S. Copyright Office, “is a form of protection provided by the laws of the United 
+States for ‘original works of authorship’ including  literary, dramatic, musical,  archi- tectural, cartographic, 
+choreographic, pantomimic, pictorial, graphic, sculptural, and audiovisual cre- ations.” No one can reproduce, display, 
+or perform a copyrighted work without permission of the author. Copyright protection ordinarily lasts for the life of 
+the author plus 70 years.
+
+Roughly speaking, patent law covers inventions and copyright protects books, songs, and art. But in certain areas, like 
+the invention of new software, it has been unclear whether patent or copyright pro- tection should apply. There is also 
+a body of law known as trade secrets. Even if a company does not have a patent on an invention, competing firms are not 
+allowed to steal their secrets. One famous trade secret is the formula for Coca-Cola, which is not protected under 
+copyright or patent law, but is simply kept secret by the company.
+
+Taken together, this combination of patents, trademarks, copyrights, and trade secret law is called intellectual 
+property, because it implies ownership over an idea, concept, or image, not a physical piece  of  property  like  a  
+house  or  a  car.  Countries  around  the  world  have  enacted  laws  to  protect intellectual property, although the 
+time periods and exact provisions of such laws vary across coun- tries.  There  are  ongoing  negotiations,  both  
+through  the  World  Intellectual  Property  Organization (WIPO) and through international treaties, to bring greater 
+harmony to the intellectual property laws of different countries to determine the extent to which patents and 
+copyrights in one country will be respected in other countries.
+
+Government limitations on competition used to be even more common in the United States. For most of the twentieth 
+century, only one phone company—AT&T—was legally allowed to provide local and long distance service. From the 1930s to 
+the 1970s, one set of federal regulations limited which des- tinations airlines could choose to fly to and what fares 
+they could charge; another set of regulations limited the interest rates that banks could pay to depositors; yet 
+another specified what trucking firms could charge customers.
+
+What products are considered utilities depends, in part, on the available technology. Fifty years ago, local and long 
+distance telephone service was provided over wires. It did not make much sense to have multiple companies building 
+multiple systems of wiring across towns and across the country. AT&T lost its monopoly on long distance service when 
+the technology for providing phone service changed from wires to microwave and satellite transmission, so that multiple 
+firms could use the same trans- mission mechanism. The same thing happened to local service, especially in recent 
+years, with the growth in cellular phone systems.
+
+The combination of improvements in production technologies and a general sense that the markets could provide services 
+adequately led to a wave of deregulation, starting in the late 1970s and contin- uing into the 1990s. This wave 
+eliminated or reduced government restrictions on the firms that could enter, the prices that could be charged, and the 
+quantities that could be produced in many industries, including telecommunications, airlines, trucking, banking, and 
+electricity.
+
+Around the world, from Europe to Latin America to Africa and Asia, many governments continue to
+
+PRINCIPLES  OF  ECONOMICS                                                                                   345
+control and limit competition in what those governments perceive to be key industries, including air- lines, banks, 
+steel companies, oil companies, and telephone companies.
+Visit this website for examples of some pretty bizarre patents.
+
+
+
+
+
+
+
+
+
+
+
+
+INTIMIDATING POTENTIAL COMPETITION
+
+Businesses have developed a number of schemes for creating barriers to entry by deterring potential competitors from 
+entering the market. One method is known as predatory pricing, in which a firm uses the threat of sharp price cuts to 
+discourage competition. Predatory pricing is a violation of U.S. antitrust law, but it is difficult to prove.
+
+Consider a large airline that provides most of the flights between two particular cities. A new, small start-up airline 
+decides to offer service between these two cities. The large airline immediately slashes prices  on  this  route  to  
+the  bone,  so  that  the  new  entrant  cannot  make  any  money.  After  the  new entrant has gone out of business, 
+the incumbent firm can raise prices again.
+
+After this pattern is repeated once or twice, potential new entrants may decide that it is not wise to try to compete. 
+Small airlines often accuse larger airlines of predatory pricing: in the early 2000s, for example, ValuJet accused 
+Delta of predatory pricing, Frontier accused United, and Reno Air accused Northwest.  In  2015,  the  Justice  
+Department  ruled  against  American  Express  and  Mastercard  for imposing restrictions on retailers who encouraged 
+customers to use lower swipe fees on credit trans- actions.
+
+In some cases, large advertising budgets can also act as a way of discouraging the competition. If the only way to 
+launch a successful new national cola drink is to spend more than the promotional bud- gets of Coca-Cola and Pepsi 
+Cola, not too many companies will try. A firmly established brand name can be difficult to dislodge.
+
+SUMMING UP BARRIERS TO ENTRY
+
+Table 1 lists the barriers to entry that have been discussed here. This list is not exhaustive, since firms have proved 
+to be highly creative in inventing business practices that discourage competition. When barriers to entry exist, 
+perfect competition is no longer a reasonable description of how an industry works. When barriers to entry are high 
+enough, monopoly can result.
+
+346                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+Barrier to Entry                         Government Role?                                                           
+Example
+
+Natural monopoly                       Government often responds with regulation (or
+ownership)
+
+Water and electric companies
+
+Control of a physical resource
+
+No                                                                                          DeBeers for diamonds
+Legal monopoly                           Yes                                                                            
+             Post office, past regulation of airlines and trucking
+
+
+Patent, trademark, and copyright
+Intimidating potential competitors
+Table 1. Barriers to Entry
+
+Yes, through protection of intellectual property        New drugs or software
+
+Somewhat                                                                            Predatory pricing; well-known brand 
+names
+
+
+KEY CONCEPTS AND SUMMARY
+
+Barriers to entry prevent or discourage competitors from entering the market. These barriers include: economies of 
+scale that lead to natural monopoly; control of a physical resource; legal restrictions on competition; patent, 
+trademark and copyright protection; and practices to intimidate the compe- tition like predatory pricing. Intellectual 
+property refers to legally guaranteed ownership of an idea, rather than a physical item. The laws that protect 
+intellectual property include patents, copyrights, trademarks, and trade secrets. A natural monopoly arises when 
+economies of scale persist over a large enough range of output that if one firm supplies the entire market, no other 
+firm can enter without facing a cost disadvantage.
+
+SELF-CHECK QUESTIONS
+
+
+
+1.    Classify the following as a government-enforced barrier to entry, a barrier to entry that is not government- 
+enforced, or a situation that does not involve a barrier to entry.
+
+a.    A patented invention
+b.    A popular but easily copied restaurant recipe
+c.    An industry where economies of scale are very small compared to the size of demand in the market
+d.    A well-established reputation for slashing prices in response to new entry
+e.    A well-respected brand name that has been carefully built up over many years
+
+2.    Classify the following as a government-enforced barrier to entry, a barrier to entry that is not government- 
+enforced, or a situation that does not involve a barrier to entry.
+
+a.    A city passes a law on how many licenses it will issue for taxicabs
+b.    A city passes a law that all taxicab drivers must pass a driving safety test and have insurance
+c.    A well-known trademark
+d.    Owning a spring that offers very pure water
+e.    An industry where economies of scale are very large compared to the size of demand in the market
+
+3.    Suppose the local electrical utility, a legal monopoly based on economies of scale, was split into four firms of
+
+PRINCIPLES  OF  ECONOMICS                                                                                   347
+
+
+
+
+equal size, with the idea that eliminating the monopoly would promote competitive pricing of electricity. What do you 
+anticipate would happen to prices?
+4.    If Congress reduced the period of patent protection from 20 years to 10 years, what would likely happen to the 
+amount of private research and development?
+
+
+
+REVIEW QUESTIONS
+
+
+
+1.    How is monopoly different from perfect competition?
+2.    What is a barrier to entry? Give some examples.
+3.    What is a natural monopoly?
+4.    What is a legal monopoly?
+5.    What is predatory pricing?
+6.    How is intellectual property different from other property?
+7.    By what legal mechanisms is intellectual property protected?
+8.    In what sense is a natural monopoly “natural”?
+
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+
+1.    ALCOA does not have the monopoly power it once had. How do you suppose their barriers to entry were weakened?
+2.    Why are generic pharmaceuticals significantly cheaper than name brand ones?
+3.    For many years, the Justice Department has tried to break up large firms like IBM, Microsoft, and most recently 
+Google, on the grounds that their large market share made them essentially monopolies. In a global market, where U.S. 
+firms compete with firms from other countries, would this policy make the same sense as it might in a purely domestic 
+context?
+4.    Intellectual property laws are intended to promote innovation, but some economists, such as Milton Friedman, have 
+argued that such laws are not desirable. In the United States, there is no intellectual property protection for food 
+recipes or for fashion designs. Considering the state of these two industries, and bearing in mind the discussion of 
+the inefficiency of monopolies, can you think of any reasons why intellectual property laws might hinder innovation in 
+some cases?
+
+
+
+PROBLEMS
+
+
+
+Return to Figure 1. Suppose P0 is $10 and P1 is $11. Suppose a new firm with the same LRAC curve as the incumbent tries 
+to break into the market by selling 4,000 units of output. Estimate from the graph what the new firm’s average cost of 
+producing output would be. If the incumbent continues to produce 6,000 units, how much output would be supplied to the 
+market by the two firms? Estimate what would happen to the market price as a result of the supply of both the incumbent 
+firm and the new entrant. Approximately how much profit would each firm earn?
+
+348                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+GLOSSARY
+barriers to entry the legal, technological, or market forces that may discourage or prevent potential competitors from 
+entering a market
+copyrigftt a form of legal protection to prevent copying, for commercial purposes, original works of
+authorship, including books and music
+deregulation removing government controls over setting prices and quantities in certain industries intellectual 
+property the body of law including patents, trademarks, copyrights, and trade secret law that protect the right of 
+inventors to produce and sell their inventions
+legal monopoly legal prohibitions against competition, such as regulated monopolies and intellectual property 
+protection
+monopoly a situation in which one firm produces all of the output in a market
+natural monopoly economic conditions in the industry, for example, economies of scale or control of a critical 
+resource, that limit effective competition
+patent a government rule that gives the inventor the exclusive legal right to make, use, or sell the
+invention for a limited time
+predatory pricing when an existing firm uses sharp but temporary price cuts to discourage new competition
+trade secrets methods of production kept secret by the producing firm
+trademark an identifying symbol or name for a particular good and can only be used by the firm that registered that 
+trademark
+
+SOLUTIONS
+
+
+Answers to Self-Cfteck Questions
+
+1.                a.    A patent is a government-enforced barrier to entry.
+b.    This is not a barrier to entry.
+c.    This is not a barrier to entry.
+d.    This is a barrier to entry, but it is not government-enforced.
+e.    This is a barrier to entry, but it is not directly government enforced.
+
+2.                a.    This is a government-enforced barrier to entry.
+b.    This is an example of a government law, but perhaps it is not much of a barrier to entry if most people can pass 
+the safety test and get insurance.
+c.    Trademarks are enforced by government, and therefore are a barrier to entry.
+d.    This is probably not a barrier to entry, since there are a number of different ways of getting pure water.
+e.    This is a barrier to entry, but it is not government-enforced.
+
+3.    Because of economies of scale, each firm would produce at a higher average cost than before. (They would each 
+have to build their own power lines.) As a result, they would each have to raise prices to cover their higher costs. 
+The policy would fail.
+4.    Shorter patent protection would make innovation less lucrative, so the amount of research and development would 
+likely decline.

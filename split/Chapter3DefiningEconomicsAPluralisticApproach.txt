@@ -1,0 +1,213 @@
+
+
+
+CHAPTER 3: DEFINING ECONOMICS: A PLURALISTIC APPROACH
+
+Defining Economics: A Pluralistic Approacft
+
+
+
+
+DEFINING  ECONOMICS:  A  PLURALISTIC  APPROACH
+
+
+
+CHAPTER OBJECTIVES
+
+
+
+In this chapter, you will learn about:
+
+•    Multiple Definitions of Economics
+
+•    Diversity of Paradigms in Economics
+
+•    A Critical Examination of the Orthodox (Neoclassical) Definition of Economics
+
+•    The Presentation of an Alternative Definition
+
+
+
+3.1  THE  IMPORTANCE  OF  DEFINITIONS
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Discuss how definitions provide theoretical direction.
+
+
+
+
+
+The  presentation  of  an  alternative  definition  may  appear  generic,  even  unimportant.  A  definition often 
+washes over a reader, leaving the reader influenced, but without any obvious new insight as to the intended meaning or 
+implications of a word.   Worse, without proper guidance, a reader may interpret a definition differently than what is 
+intended by the author, or in the case of economics, different  from  how  the  discipline  is  actually  employing  
+the  definition.   Definitions  are,  however, important, potentially very important.  A definition has the potential 
+to provide clarity.  At their best, definitions act like a compass, providing a lost reader with several potential 
+directions from which to proceed.
+
+
+
+3.2  MULTIPLE  PERSPECTIVES  REQUIRE  MULTIPLE  DEFINITIONS
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Define the term paradigm.
+
+
+
+he  importance  of  clarity  and  directionality  becomes  heightened  when  a  discipline  has  more than one 
+potential definition.  The discipline of economics, similar to the other social sciences, does not ascribe to only one 
+definition.  The definition of economics that is utilized by an econ-
+omist will often depend on the paradigmatic perspective of the economist.
+
+Paradigm – A school of thought.  It represents the boundary of a discipline, framing the types of questions and 
+phenomena that will be analyzed, and the approach or method of study a theorist will employ.
+
+The discipline of economics has more than one paradigm.  Not surprisingly, the discipline of econom- ics also has more 
+than one definition.
+
+
+
+3.3  A  BRIEF  SYNOPSIS  OF  DIFFERENT  ECONOMIC PERSPECTIVES
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Define the term ideology.
+
+•    Describe the relationship between ideology and paradigms
+
+•    Identify some of the differences between competing economic paradigms.
+
+
+
+ultiple theoretical perspectives tend to create multiple ideas as to what economic questions, phenomena, and methods 
+are most appropriate.  With paradigmatic differences come ideo- logical differences.
+
+Ideology – The ideas, beliefs, subjective values, and prevailing world views that a person holds.  One’s ideology 
+influences the way in which a person perceives what they believe is correct or incorrect about their social cir- 
+cumstance or the larger world in which they live.
+
+Broadly speaking, the discipline of economics is occupied by theorists who tend to fall within one of three categories.
+
+1.   Conservative economists
+2.   Progressive economists
+3.   Radical economists
+
+In terms of beliefs, while there is some crossover, the differences between each of the ideological per- spectives 
+tends to be overwhelming.
+
+Conservative Economists Believe…
+
+•   That markets works well on their own without outside interference.
+•   Because markets work well, a “Laissez-Faire” (Hands Off) view of markets is embraced.
+•   Given the belief in well-functioning markets, it is also believed, overwhelmingly, that markets should be 
+responsible for how societies allocate resources
+•   Limited government involvement in markets is best because extensive government involvement is disruptive to market 
+performance.
+
+58                     ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+Progressive Economists Believe…
+
+•   Markets should generally be responsible for the allocation of resources
+•   Free markets generate inequality
+•   Free markets are often unstable
+•   Government intervention is necessary
+
+Radical Economists Believe…
+
+•   Market economies are classed based economic systems.
+•   Class is determined by one’s position in the economy: owner, laborer, etc.
+•   Market economies empower the wealthy, typically owners of assets.
+•   Market economies exploit labor
+•   Free market capitalism is unstable
+•   Capitalism needs to be replaced
+
+
+
+
+COMPETING PARADIGMATIC VIEWS
+
+How might different economists address Different Microeconomic Issues?
+
+1.    Consider the issue of Negative Externalities – When a third party suffers a loss from the actions of others.  For 
+example, consider the massive social costs associated with carbon emissions and climate change.
+
+•    Conservative Economists: Argue that the solution to market failure associated with externalities is to assign 
+property rights. If the party causing or impacted by the externality has property rights, then markets and accurate 
+prices emerge.
+•    Progressive Economists: Argue that the government is needed to assist in correcting for externalities. Taxes and/ 
+or regulations can be instituted that require producers of externalities to account for the social costs they have 
+generated.
+•    Radical Economists: Argue that externalities are pervasive in market economies.   Assigning property rights 
+encourages producers of externalities to produce more negative externalities in an effort to extort payments from those 
+afflicted.  Also it is impossible to tax and/or regulate all externalities.  An alternative to the market, as an 
+allocative institution, is needed.
+
+
+How might different economists address structural issues in economics?
+
+1.    Consider the issue of Preferred Economic Institutional Structure(s),
+
+•    Conservative Economists: Argue that the free market is the ideal institution for allocating resources to their 
+best (socially optimal) outcomes. Advocate that government should be limited to institutions useful toward the defense 
+of private property and the enforcement of economic contracts.
+
+PRINCIPLES  OF  ECONOMICS                                                                                      59
+
+
+
+•    Progressive Economists: Argue that as a result of market failure such as environmental pollution and significant 
+unemployment, institutions, typically government institutions, are necessary in order to correct market failure and 
+return markets to a more efficient allocation of resources.
+•    Radical Economists: Argue that government institutions are an incomplete and ineffective mechanism for addressing 
+market failure. Advocate for the creation of alternative institutions, such as worker cooperatives, that are designed 
+to challenge and potentially supplant institutions favorable to the current operation of the economic system.
+
+
+How might different economists address economic development issues?
+
+1.    Consider the issue of Income Inequality,
+
+•    Conservative Economists: Argue that income inequality arises from productivity differences that emerge between and 
+among individuals.  Efforts to reduce inequality should be avoided as they distort incentives and market allocation.
+•    Progressive Economists: Argue that income inequality results from social circumstances.  Children born into higher 
+income (higher wealth) families have more opportunities available to garner both the resources and skills necessary for 
+higher incomes.  Hence, these economists favor government programs that promote equality of opportunity.
+•    Radical Economists: Argue that income inequality is a byproduct of a class-based economic system.  Also inequality 
+is exacerbated by social circumstances.  Generally, they would support government programs that promote equality of 
+opportunity, however, also argue that those programs cannot eliminate inequality in a system built upon inequality.
+
+
+How might different economists address world economic issues?
+
+1.    Consider the issue of Global Poverty,
+
+•    Conservative Economists: Argue that free trade between nations will drive specialization and the expansion of 
+material production, thus gradually reducing global poverty.
+•    Progressive Economists: Argue for a degree of government intervention in international trade. Suggest trade via 
+such policies as infant industry, fair labor standards, and environmental protections. Trade is an economic development 
+tool.
+•    Radical Economists: Argue that international trade worsens class tensions. Low wages in developing countries cause 
+wages to decline in developed countries.  Poverty is a part of capitalism, free trade and/or managed trade cannot end 
+global poverty.

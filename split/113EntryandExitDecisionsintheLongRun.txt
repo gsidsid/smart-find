@@ -1,0 +1,398 @@
+
+
+
+11.3  ENTRY  AND  EXIT  DECISIONS  IN  THE  LONG  RUN
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Explain how entry and exit lead to zero profits in the long run
+
+•    Discuss the long-run adjustment process
+
+
+
+he line between the short run and the long run cannot be defined precisely with a stopwatch, or even with a calendar. 
+It varies according to the specific business. The distinction between the short run and the long run is therefore more 
+technical: in the short run, firms cannot change
+the usage of fixed inputs, while in the long run, the firm can adjust all factors of production.
+
+In a competitive market, profits are a red cape that incites businesses to charge. If a business is making a profit in 
+the short run, it has an incentive to expand existing factories or to build new ones. New firms  may  start  
+production,  as  well.  When  new  firms  enter  the  industry  in  response  to  increased industry profits it is 
+called entry.
+
+Losses are the black thundercloud that causes businesses to flee. If a business is making losses in the short run, it 
+will either keep limping along or just shut down, depending on whether its revenues are covering its variable costs. 
+But in the long run, firms that are facing losses will shut down at least some of their output, and some firms will 
+cease production altogether. The long-run process of reducing production in response to a sustained pattern of losses 
+is called exit. The following Clear It Up fea- ture discusses where some of these losses might come from, and the 
+reasons why some firms go out of business.
+
+
+WHY DO FIRMS CEASE TO EXIST?
+
+Can we say anything about what causes a firm to exit an industry? Profits are the measurement that determines whether a 
+business stays operating or not. Individuals start businesses with the purpose of making profits. They invest their 
+money, time, effort, and many other resources to produce and sell something that they hope will give them something in 
+return. Unfortunately, not all businesses are successful, and many new startups soon realize that their “business 
+adventure” must eventually end.
+In the model of perfectly competitive firms, those that consistently cannot make money will “exit,” which is a nice, 
+bloodless word for a more painful process. When a business fails, after all, workers lose their jobs, investors lose 
+their money, and owners and managers can lose their dreams. Many businesses fail. The U.S. Small Business 
+Administration indicates that in 2011, 409,040 new firms “entered,” and 470,376 firms failed.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   329
+
+
+
+Sometimes  a business  fails  because  of poor management  or workers who are not very productive, or because  of tough 
+domestic or foreign competition. Businesses also fail from a variety of causes that might best be summarized as bad 
+luck. For example, conditions of demand and supply in the market shift in an unexpected way, so that the prices that 
+can be charged for outputs fall or the prices that need to be paid for inputs rise. With millions of businesses in the 
+U.S. economy, even a small fraction of them failing will affect many people—and business failures can be very hard on 
+the workers and managers directly involved. But from the standpoint of the overall economic system, business exits are 
+sometimes a neces- sary evil if a market-oriented system is going to offer a flexible mechanism for satisfying 
+customers, keeping costs low, and inventing new products.
+
+
+HOW ENTRY AND EXIT LEAD TO ZERO PROFITS IN THE LONG RUN
+No perfectly competitive firm acting alone can affect the market price. However, the combination of many firms entering 
+or exiting the market will affect overall supply in the market. In turn, a shift in supply for the market as a whole 
+will affect the market price. Entry and exit to and from the market are the driving forces behind a process that, in 
+the long run, pushes the price down to minimum aver- age total costs so that all firms are earning a zero profit.
+
+To understand how short-run profits for a perfectly competitive firm will evaporate in the long run, imagine the 
+following situation. The market is in long-run equilibrium, where all firms earn zero economic profits producing the 
+output level where P = MR = MC and P = AC. No firm has the incen- tive to enter or leave the market. Let’s say that the 
+product’s demand increases, and with that, the mar- ket price goes up. The existing firms in the industry are now 
+facing a higher price than before, so they will increase production to the new output level where P = MR = MC.
+
+This  will  temporarily  make  the  market  price  rise  above  the  average  cost  curve,  and  therefore,  the 
+existing firms in the market will now be earning economic profits. However, these economic profits attract other firms 
+to enter the market. Entry of many new firms causes the market supply curve to shift to the right. As the supply curve 
+shifts to the right, the market price starts decreasing, and with that, economic profits fall for new and existing 
+firms. As long as there are still profits in the market, entry will continue to shift supply to the right. This will 
+stop whenever the market price is driven down to the zero-profit level, where no firm is earning economic profits.
+
+Short-run losses will fade away by reversing this process. Say that the market is in long-run equilib- rium. This time, 
+instead, demand decreases, and with that, the market price starts falling. The existing firms in the industry are now 
+facing a lower price than before, and as it will be below the average cost curve, they will now be making economic 
+losses. Some firms will continue producing where the new P = MR = MC, as long as they are able to cover their average 
+variable costs. Some firms will have to shut down immediately as they will not be able to cover their average variable 
+costs, and will then only incur their fixed costs, minimizing their losses. Exit of many firms causes the market supply 
+curve to shift to the left. As the supply curve shifts to the left, the market price starts rising, and eco- nomic 
+losses start to be lower. This process ends whenever the market price rises to the zero-profit level, where the 
+existing firms are no longer losing money and are at zero profits again. Thus, while a perfectly competitive firm can 
+earn profits in the short run, in the long run the process of entry will push down prices until they reach the 
+zero-profit level. Conversely, while a perfectly competitive firm may earn losses in the short run, firms will not 
+continually lose money. In the long run, firms mak- ing losses are able to escape from their fixed costs, and their 
+exit from the market will push the price back up to the zero-profit level. In the long run, this process of entry and 
+exit will drive the price in
+
+330                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+perfectly competitive markets to the zero-profit point at the bottom of the AC curve, where marginal cost crosses 
+average cost.
+
+THE LONG-RUN ADJUSTMENT AND INDUSTRY TYPES
+
+Whenever there are expansions in an industry, costs of production for the existing and new firms could either stay the 
+same, increase, or even decrease. Therefore, we can categorize an industry as being (1) a constant cost industry  (as 
+demand increases,  the cost of production for firms stays the same), (2) an increasing cost industry (as demand 
+increases, the cost of production for firms increases), or (3) a decreasing cost industry (as demand increases the 
+costs of production for the firms decreases).
+For a constant cost industry, whenever there is an increase in market demand and price, then the supply curve shifts to 
+the right with new firms’ entry and stops at the point where the new long-run equilibrium intersects at the same market 
+price as before. But why will costs remain the same? In this type of industry, the supply curve is very elastic. Firms 
+can easily supply any quantity that consumers demand.  In  addition,  there  is  a  perfectly  elastic  supply  of  
+inputs—firms  can  easily  increase  their demand for employees, for example, with no increase to wages. Tying in to 
+our Bring it Home dis- cussion, an increased demand for ethanol in recent years has caused the demand for corn to 
+increase. Consequently, many farmers switched from growing wheat to growing corn. Agricultural markets are generally 
+good examples of constant cost industries.
+
+For an increasing cost industry, as the market expands, the old and new firms experience increases in their costs of 
+production, which makes the new zero-profit level intersect at a higher price than before. Here companies may have to 
+deal with limited inputs, such as skilled labor. As the demand for these workers rise, wages rise and this increases 
+the cost of production for all firms. The industry supply curve in this type of industry is more inelastic.
+
+For a decreasing cost industry, as the market expands, the old and new firms experience lower costs of production, 
+which makes the new zero-profit level intersect at a lower price than before. In this case, the industry and all the 
+firms in it are experiencing falling average total costs. This can be due to an improvement in technology in the entire 
+industry or an increase in the education of employees. High tech industries may be a good example of a decreasing cost 
+market.
+
+Figure 1 (a) presents the case of an adjustment process in a constant cost industry. Whenever there are output 
+expansions in this type of industry, the long-run outcome implies more output produced at exactly the same original 
+price. Note that supply was able to increase to meet the increased demand. When we join the before and after long-run 
+equilibriums, the resulting line is the long run supply (LRS) curve in perfectly competitive markets. In this case, it 
+is a flat curve. Figure 1 (b) and Figure 1 (c) present the cases for an increasing cost and decreasing cost industry, 
+respectively. For an increasing cost industry, the LRS is upward sloping, while for a decreasing cost industry, the LRS 
+is downward sloping.
+
+KEY CONCEPTS AND SUMMARY
+
+In the long run, firms will respond to profits through a process of entry, where existing firms expand output and new 
+firms enter the market. Conversely, firms will react to losses in the long run through a process of exit, in which 
+existing firms reduce output or cease production altogether. Through the process of entry in response to profits and 
+exit in response to losses, the price level in a perfectly com-
+
+PRINCIPLES  OF  ECONOMICS                                                                                   331
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Adjustment Process in a Constant-Cost Industry. In (a), demand increased and supply met it. Notice that the 
+supply increase is equal to the demand increase. The result is that the equilibrium price stays the same as quantity 
+sold increases. In (b), notice that sellers were not able to increase supply as much as demand. Some inputs were 
+scarce, or wages were rising. The equilibrium price rises. In (c), sellers easily increased supply in response to the 
+demand increase. Here, new technology or economies of scale caused the large increase in supply, resulting in declining 
+equilibrium price.
+
+petitive market will move toward the zero-profit point, where the marginal cost curve crosses the AC curve, at the 
+minimum of the average cost curve.
+
+The long-run supply curve shows the long-run output supplied by firms in three different types of industries: constant 
+cost, increasing cost, and decreasing cost.
+
+SELF-CHECK QUESTIONS
+
+
+
+1.    If new technology in a perfectly competitive market brings about a substantial reduction in costs of production, 
+how will this affect the market?
+2.    A market in perfect competition is in long-run equilibrium. What happens to the market if labor unions are able 
+to increase wages for workers?
+
+
+
+REVIEW QUESTIONS
+
+
+
+1.    Why does entry occur?
+2.    Why does exit occur?
+3.    Do entry and exit occur in the short run, the long run, both, or neither?
+4.    What price will a perfectly competitive firm end up charging in the long run? Why?
+
+332                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+
+1.    Many firms in the United States file for bankruptcy every year, yet they still continue operating. Why would they 
+do this instead of completely shutting down?
+2.    Why will profits for firms in a perfectly competitive industry tend to vanish in the long run?
+3.    Why will losses for firms in a perfectly competitive industry tend to vanish in the long run?
+
+
+
+GLOSSARY
+entry the long-run process of firms entering an industry in response to industry profits
+exit the long-run process of firms reducing production and shutting down in response to industry losses
+long-run equilibrium where all firms earn zero economic profits producing the output level where
+P = MR = MC and P = AC
+
+SOLUTIONS
+
+
+Answers to Self-Cfteck Questions
+
+1.    With a technological improvement that brings about a reduction in costs of production, an adjustment process will 
+take place in the market. The technological improvement will result in an increase in supply curves, by individual 
+firms and at the market level. The existing firms will experience higher profits for a while, which will attract other 
+firms into the market. This entry process will stop whenever the market supply increases enough (both by existing and 
+new firms) so profits are driven back to zero.
+2.    When wages increase, costs of production increase. Some firms would now be making economic losses and would shut 
+down. The supply curve then starts shifting to the left, pushing the market price up. This process ends when all firms 
+remaining in the market earn zero economic profits. The result is a contraction in the output produced in the market.
+
+
+
+11.4  EFFICIENCY  IN  PERFECTLY  COMPETITIVE  MARKETS
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Apply concepts of productive efficiency and allocative efficiency to perfectly competitive markets
+
+•    Compare the model of perfect competition to real-world markets
+
+
+
+hen profit-maximizing firms in perfectly competitive markets combine with utility-maxi- mizing  consumers,  something  
+remarkable  happens:  the  resulting  quantities  of  outputs  of goods and services demonstrate both productive and 
+allocative efficiency (terms that were
+first introduced in (Choice in a World of Scarcity) .
+
+Productive efficiency means producing without waste, so that the choice is on the production possi- bility frontier. In 
+the long run in a perfectly competitive market, because of the process of entry and exit, the price in the market is 
+equal to the minimum of the long-run average cost curve. In other words, goods are being produced and sold at the 
+lowest possible average cost.
+
+Allocative efficiency means that among the points on the production possibility frontier, the point that is chosen is 
+socially preferred—at least in a particular and specific sense. In a perfectly competi- tive market, price will be 
+equal to the marginal cost of production. Think about the price that is paid for a good as a measure of the social 
+benefit received for that good; after all, willingness to pay con- veys what the good is worth to a buyer. Then think 
+about the marginal cost of producing the good as representing not just the cost for the firm, but more broadly as the 
+social cost of producing that good. When perfectly competitive firms follow the rule that profits are maximized by 
+producing at the quantity where price is equal to marginal cost, they are thus ensuring that the social benefits 
+received from producing a good are in line with the social costs of production.
+To explore what is meant by allocative efficiency, it is useful to walk through an example. Begin by assuming that the 
+market for wholesale flowers is perfectly competitive, and so P = MC. Now, con- sider what it would mean if firms in 
+that market produced a lesser quantity of flowers. At a lesser quantity, marginal costs will not yet have increased as 
+much, so that price will exceed marginal cost; that is, P > MC. In that situation, the benefit to society as a whole of 
+producing additional goods, as measured by the willingness of consumers to pay for marginal units of a good, would be 
+higher than the cost of the inputs of labor and physical capital needed to produce the marginal good. In other words, 
+the gains to society as a whole from producing additional marginal units will be greater than the costs.
+
+334                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+Conversely, consider what it would mean if, compared to the level of output at the allocatively effi- cient choice when 
+P = MC, firms produced a greater quantity of flowers. At a greater quantity, mar- ginal  costs  of  production  will  
+have  increased  so  that  P  <  MC.  In  that  case,  the  marginal  costs  of producing additional flowers is greater 
+than the benefit to society as measured by what people are willing to pay. For society as a whole, since the costs are 
+outstripping the benefits, it will make sense to produce a lower quantity of such goods.
+
+When perfectly competitive firms maximize their profits by producing the quantity where P = MC, they also assure that 
+the benefits to consumers of what they are buying, as measured by the price they are willing to pay, is equal to the 
+costs to society of producing the marginal units, as measured by the marginal costs the firm must pay—and thus that 
+allocative efficiency holds.
+
+The statements that a perfectly competitive market in the long run will feature both productive and allocative 
+efficiency do need to be taken with a few grains of salt. Remember, economists are using the concept of “efficiency” in 
+a particular and specific sense, not as a synonym for “desirable in every way.” For one thing, consumers’ ability to 
+pay reflects the income distribution in a particular society. Thus, a homeless person may have no ability to pay for 
+housing because they have insufficient income.
+
+Perfect  competition,  in  the  long  run,  is  a  hypothetical  benchmark.  For  market  structures  such  as 
+monopoly, monopolistic competition, and oligopoly, which are more frequently observed in the real world than perfect 
+competition, firms will not always produce at the minimum of average cost, nor will they always set price equal to 
+marginal cost. Thus, these other competitive situations will not pro- duce productive and allocative efficiency.
+
+Moreover, real-world markets include many issues that are assumed away in the model of perfect competition, including 
+pollution, inventions of new technology, poverty which may make some peo- ple unable to pay for basic necessities of 
+life, government programs like national defense or education, discrimination in labor markets, and buyers and sellers 
+who must deal with imperfect and unclear information. These issues are explored in other chapters. However, the 
+theoretical efficiency of per- fect competition does provide a useful benchmark for comparing the issues that arise 
+from these real- world problems.
+
+
+A DIME A DOZEN
+
+A quick glance at Table 14 reveals the dramatic increase in North Dakota corn production—more than double. Taking into 
+consideration that corn typically yields two to three times as many bushels per acre as wheat, it is obvious there has 
+been a significant increase in bushels of corn. Why the increase in corn acreage? Converging prices.
+
+Year      Corn (millions of acres)       Wfteat (millions of acres)
+
+2014     91.6                                             56.82
+Table 14. (Source: USDA National Agricultural Statistics Service)
+
+Historically, wheat prices have been higher than corn prices, offsetting wheat’s lower yield per acre. However, in 
+recent years wheat and corn prices have been converging. In April 2013, Agweek reported the gap was just 71 cents per 
+bushel. As the difference in price narrowed, switching to the production of higher yield per acre of corn simply made 
+good business sense. Erik Younggren, president of the National Association of Wheat Growers said in the Agweek article, 
+“I don’t think we’re going to see mile after mile of waving amber fields [of wheat] anymore.” (Until wheat prices rise, 
+we will probably be seeing field after field of tasseled corn.)
+
+PRINCIPLES  OF  ECONOMICS                                                                                   335
+
+KEY CONCEPTS AND SUMMARY
+
+Long-run equilibrium in perfectly competitive markets meets two important conditions: allocative efficiency  and  
+productive  efficiency.  These  two  conditions  have  important  implications.  First, resources are allocated to 
+their best alternative use. Second, they provide the maximum satisfaction attainable by society.
+
+SELF-CHECK QUESTIONS
+
+
+
+1.    Productive efficiency and allocative efficiency are two concepts achieved in the long run in a perfectly 
+competitive market. These are the two reasons why we call them “perfect.” How would you use these two concepts to 
+analyze other market structures and label them “imperfect?”
+2.    Explain how the profit-maximizing rule of setting P = MC leads a perfectly competitive market to be allocatively 
+efficient.
+
+
+
+REVIEW QUESTIONS
+
+
+
+1.    Will a perfectly competitive market display productive efficiency? Why or why not?
+2.    Will a perfectly competitive market display allocative efficiency? Why or why not?
+
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+
+1.    Assuming that the market for cigarettes is in perfect competition, what does allocative and productive efficiency 
+imply in this case? What does it not imply?
+2.    In the argument for why perfect competition is allocatively efficient, the price that people are willing to pay 
+represents the gains to society and the marginal cost to the firm represents the costs to society. Can you think of 
+some social costs or issues that are not included in the marginal cost to the firm? Or some social gains that are not 
+included in what people pay for a good?
+
+
+
+REFERENCES
+
+Index Mundi. n.d. “Wheat Monthly Price—U.S. Dollars per Metric Ton.” Accessed March 11, 2015. 
+http://www.indexmundi.com/commodities/?commodity=wheat.
+
+Knutson, J. “Wheat on the Defensive in the Northern Plains.” Agweek, Associated Press State Wire: North Dakota (ND). 
+April 14, 2013.
+
+SBA Office of Advocacy. 2014. “Frequently Asked Questions: Advocacy: the voice of small business in   government.”   
+Accessed   March   11,   2015.   https://www.sba.gov/sites/default/files/advocacy/ FAQ_March_2014_0.pdf.
+
+336                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+SOLUTIONS
+
+
+Answers to Self-Cfteck Questions
+
+1.    Perfect competition is considered to be “perfect” because both allocative and productive efficiency are met at 
+the same time in a long-run equilibrium. If a market structure results in long-run equilibrium that does not minimize 
+average total costs and/or does not charge a price equal to marginal cost, then either allocative or productive (or 
+both) efficiencies are not met, and therefore the market cannot be labeled “perfect.”
+2.    Think of the market price as representing the gain to society from a purchase, since it represents what someone 
+is willing to pay. Think of the marginal cost as representing the cost to society from making the last unit of a good. 
+If P > MC, then the benefits from producing more of a good exceed the costs, and society would gain from producing more 
+of the good. If P < MC, then the social costs of producing the marginal good exceed the social benefits, and society 
+should produce less of the good. Only if P = MC, the rule applied by a profit-maximizing perfectly competitive firm, 
+will society’s costs and benefits be in balance. This choice will be the option that brings the greatest overall 
+benefit to society.

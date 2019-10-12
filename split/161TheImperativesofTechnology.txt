@@ -1,0 +1,378 @@
+
+
+
+16.1  THE  IMPERATIVES  OF  TECHNOLOGY
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Identify the important consequences of technological change for the organization of business
+
+•    Explain the implications for the relationship between business enterprises and market structure
+
+
+
+n chapter “Costs and Prices” you learned (or will learn) that modern businesses are treated as going concerns–that is, 
+organizations which are expected to continue to exist into the foreseeable future. This idea, reflected in accounting 
+practices developed in the second half of the 19th century, is central to how heterodox economists understand the 
+nature of the modern business enterprise.  Its historical roots are explored in more detail in chapter “The Rise of the 
+Big Business,” but here we want
+to focus on a particular cause, technological advance, and its implications.
+
+In his classic, The New Industrial State (1967), economist John Kenneth Galbraith compared the Ford Motor Company in 
+the year of its founding, 1903, to the same business at the introduction of the first Mustang in 1964.  In 1903 the 
+company employed around 125 people, worked with approximately
+$150,000 in capital, and required only months of negotiations, preparation, and production to bring an automobile to 
+the market.  It would be an understatement to say that, six decades later, the process was more involved.  The Mustang 
+was the result of several years of preparation, millions of dollars on engineering and ‘styling’, and tens of millions 
+on tooling for production.  At the time, Ford employed over 300,000 people.
+
+Galbraith argued that the essential cause of this massive increase in preparation, capital, and labor was the 
+tremendous advance in tecftnology (which he defined as “the application of scientific or other organized knowledge to 
+practical tasks”).  Increasingly sophisticated technology requires specializa- tion–of machinery and the materials it 
+will work on, as well as of workers.  All of which, of course, requires more capital (that is, money).  It also means 
+that increasingly specialized workers, machines, and  so  on  must  be  more  carefully  managed;  and  that  a  
+commitment  to  produce  something  must be made much further in advance of actually having something to sell.  As 
+Galbraith explained, the Dodge brothers’ machine shop, responsible for machining the engine and chassis of the original 
+Ford automobiles, could have hypothetically been asked to accommodate significant changes in the car’s design with only 
+a few hours delay.  The factories which built the Mustang, on the other hand, were effectively locked into making 
+Mustangs for well over a year.
+Finally, and most importantly, there is the technological imperative of planning.  As Galbraith argued, the large 
+financial and material commitments necessary to design a product and prepare for its pro-
+
+434                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. A 1964 Ford Mustang in Wimbledon White, photographed at the 50th anniversary of the Mustang at the Charlotte 
+Motor Speedway. (Source: Sicnag, Wikimedia, CC-BY-2.0)
+
+duction require that each part of the process works today so that, in the distant future, when all the parts are 
+brought together, the job is done correctly.  This means that the business  enterprise  will require specialists in 
+predicting (and shaping) future market conditions, specialists in materials acqui- sition, specialists in education to 
+ensure a competent workforce, and so on–all to ensure that what the organization set out to do some months or years or 
+decades earlier actually gets done and, with some luck, proves successful.  Without that capacity, the confidence to 
+set out on such a sophisticated enterprise would never have existed in the first place.
+
+What bearing, then, does this have on our theories of how businesses behave and how markets oper- ate?  We’ll start 
+with the  general points: first, the small firm of the perfect competition model will not do in an age of increasingly 
+sophisticated technology.  Both the complexity of specialized knowl- edge and its management through a large 
+organization suggest that a large business enterprise will be the norm.  Second, that complexity of knowledge and 
+organization suggests that the modern busi- ness enterprise ought to be considered in more dimensions that simply its 
+cost curves and a goal of maximizing profits.  The politics and culture of organization become relevant to 
+understanding what Galbraith called the tecftnostructure–that is, the whole of those people who participate in the 
+group decision-making that directs the business enterprise through time.
+
+viewpoint.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   435
+
+
+
+
+
+DOES THE INTERNET MOVE US CLOSER TO PERFECT COMPETITION?
+
+A common refrain in recent years argues that information technology–in particular, the internet–contradicts the 
+tendency toward big business.  Recall that the model of perfect competition doesn’t suggest that firms must be 
+absolutely tiny–say, having no more than a handful of employees.  Rather, it simply considers situations in which firms 
+are small relative to the size of the market.  Many have argued that the internet has made global markets out of local 
+markets; and, as a result, firms that used to be considered large are now small relative to the whole world of 
+competitors.
+Yet, within the tech sector, as in most other industries, concentration and big business appear to be the norm.  Large 
+busi- ness like IBM have long dominated traditional computing, before the World Wide Web, and relatively newer firms 
+like Google and Facebook continue to expand control over much of the newer, web-based markets.  Of course, Amazon, Pay- 
+pal, eBay, AirBnB, and Uber have allowed for a proliferation of small merchants, taxi drivers, and hotels; but with 
+these large corporations looming over the markets they’ve created, have we really returned to the traditional 
+competitive prod- uct markets of past centuries–or are we looking at the competitive (one might say, ‘divide and 
+conquer’) labor markets that characterized the rise of big business in the late 1800’s?
+
+Third, if planning is the central concern of the modern business enterprise, then we have to recon- sider how we see 
+firms relating to their markets.  In previous chapters, you have studied the basic neoclassical models of market 
+structure and how firms respond to particular market conditions.  The implicit assumption in these models is that firms 
+react to markets.  Yet, if long term planning is to be done effectively it would seem obvious that businesses cannot 
+take the markets as given and respond accordingly.  Instead, they will have to actively shape those markets to ensure 
+stable, predictable con- ditions into the future.
+
+This third point has a particular bearing on our theories of prices and competition.  History shows that businesses 
+often try to avoid competition in terms of price.  You can probably imagine why this is, given the complexity of modern 
+technologies and the magnitude of investments necessary to get a business off the ground.  Where starting a new 
+business or a new product line for an existing busi- ness requires huge sums of money and years of planning, it is 
+simply a must that the investors and management are reasonably sure that it will be able to sell the product profitably 
+in the relatively dis- tant future.  The business enterprise’s problem in this scenario is that competitors may be 
+making the same investments; and, in an attempt to make sure those investments don’t go to waste due to weak sales, 
+they may try to grab market share by lowering their prices.  If everyone in the market pursues the same strategy, what 
+do you think the result would be?
+
+Stiff competition based on prices is relatively rare in established markets for a simple reason: it tends to be 
+mutually destructive to most or all competitors who engage in it.  In fact, when prominent busi- nesses engage in that 
+sort of scenario–as, for instance, the fast food giants occasionally have in recent years–it is often considered 
+newsworthy, usually showing up in the headlines of the business press as a ‘price war’.  A century ago, the term ‘cut 
+throat competition,’ which includes aggressive price cuts and other efforts to drive competitors out of the market, was 
+common.  Clearly, both of the terms suggest that price competition can be a violent thing–something, one would hope at 
+least, that should be avoided if at all possible.
+
+In summary, then, heterodox economists typically see the modern business enterprise as a going con- cern, engaged in 
+long term planning which includes managing and shaping both technological and market conditions.  In this view firms 
+don’t maximize profits so much as they seek to survive through time.  If it is appropriate to say that businesses tend 
+to maximize anything, it would be growth through
+
+436                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+time rather than profits specifically.  Likewise, outright price competition is a relatively rare occur- rence  in 
+mature markets  today.  Though  most  businesses  will  take competition into  consideration when  setting  their  
+prices,  it  would  be  a  better  description  of  the  real  world  to  say  that  competi- tion occurs mainly 
+through other practices, like advertising and branding, product innovations, or more cost-effective production 
+practices.  That is to say that businesses compete chiefly through their investments, not their prices.
+
+
+
+16.2  BUSINESS  MODELS,  PLURAL:  AIMS  AND  METHODS  OF  THE MEGACORP
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Identify different general methods by which businesses can pursue profits
+
+•    Analyze the nature and significance of advertizing
+
+•    Apply heterodox concepts to the analysis of the pharmaceutical industry
+
+
+
+
+
+As a professor of mine, James Sturgeon, is fond of saying, there’s more than one way to make money: You could…
+
+•   Steal
+•   Extort
+•   Accept a bribe
+•   Speculate on the financial or real estate markets
+•   Inherit
+•   Con
+•   Or, perhaps failing all of the above, you could earn it
+
+For our purposes here, this can be interpreted as a rather cheeky way of saying that different busi- nesses have 
+different business models–that is, different ways of making money in a market (or sev- eral markets).  And, while they 
+might all be treated with the utmost abstraction as combining inputs to produce outputs of greater value, heterodox 
+economists are inclined to believe that not every way of making money is the same.
+
+Breaking down all of the means by which modern businesses make money is far beyond the scope of this chapter (though 
+the odds are good that the reader is taking this course to fulfill a requirement for a business degree for which she or 
+he will be spending plenty of time doing just that).  Instead, we’ll borrow from Karl Marx’s extensive work on how 
+capitalist economies function to create a simplified picture, Figure 4, of what a business enterprise does.  And from 
+there, we’ll look to institutional eco- nomics to understand qualitative difference in how businesses generate their 
+earnings.
+
+438                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. The Business Enterprise in a Monetary Production Econ- omy.
+
+In Figure 4, M represents an amount of money and C represents a commodity (for instance the lum- ber and other building 
+materials a construction company may use to build a house).  P represents the production process that converts the 
+commodity C (building materials) into some other commodity C’ (for instance, a house) to be sold for some amount of 
+money M’.  This process can be treated as a shorthand depiction of what any business does, with the requirement that if 
+the business is to remain in business M’ must be greater than M.  Take a moment to review the chapter “Cost and 
+Industry Structure,” specifically the definitions of firm and production therein.  How does Figure 4 differ?
+
+The  difference  may  not  be  obvious,  but  it  is  important.   In  the  neoclassical  tradition  in  econom- 
+ics–indeed, in the classical tradition which Marx was critiquing–production by businesses is treated as a C→ C’ 
+process.  That is, all business activity is part of converting commodity inputs into com- modity outputs which are of 
+greater value, ultimately, to consumers.  Clearly, Figure 4 is more than that: it treats money and commodities as 
+distinct things.  This allows us to look at the step-by-step process by which money is converted into commodities, 
+production creates new commodities, and money is created by sale of those new commodities.  The whole process of 
+turning money into com- modity inputs and ultimately selling commodity outputs for money we’ll call monetary 
+production. The full implications of these distinctions for Marxian (or radical political) economics would require its 
+own course.  For now, we can use this shorthand description of how a business enterprise works to think about different 
+types of business models.
+
+The  three  numbered  arrows  in  Figure  4  represent  three  different  ways  that  managers,  engineers, markers, 
+and others within a business enterprise can influence the process of monetary production. The first arrow, following M 
+to P, indicates something close to the traditional way of thinking of a business: money is invested into a production 
+process that turns inputs into outputs for sale.  This could include building a new factory or setting up a research 
+and development (R&D) team to design new products and more efficient production practices.  What is significant here is 
+that the focus is on producing something–turning stuff C into stuff C’, presumably with the hope that people will be 
+will- ing to pay more for C’ than was paid for the C necessary to produce it.
+
+The second arrow indicates a different business model–that is, another way the monetary production process could be 
+influenced to make money.  Here, you will notice, the initial money invested is going not to production, P, but to the 
+produced commodity, C’.  This is meant to indicate investments made to change the perceived value of the product the 
+business sells.  Of course, one way to do this is to improve the product itself, which would be indicated by the first 
+arrow.  With arrow 2, however, we’re
+
+PRINCIPLES  OF  ECONOMICS                                                                                   439
+
+dealing with changing the perceived value of the product without actually changing the product itself; and you’ve 
+probably already guessed the most salient way this can be done: advertising.
+
+Here, the founder of institutional economics, Thorstein Veblen, is worth quoting at length:
+
+The end sought by the systematic advertising of the larger business concerns is…a monopoly of custom and prestige.… The 
+great end of consistent advertising is to establish such differen- tial monopolies resting on popular conviction…. The 
+cost, as well as the pecuniary value and the magnitude, of this organized fabrication of popular convictions is 
+indicated by such state- ments as that the proprietors of a certain well-known household remedy, reputed among medical 
+authorities to be of entirely dubious value, have for a series of years found their prof- its in spending several 
+million dollars annually in advertisements.  This case is by no means unique.
+
+It  has been said, no doubt in good faith and certainly with some reason, that advertising as currently carried on 
+gives the body of consumers valuable information and guidance  as to the ways and means whereby their wants can be 
+satisfied and their purchasing power can be best utilized.  To the extent to which this holds true, advertising is a 
+service to the commu- nity.  But there is a large reservation to be made on this head.  Advertising is competitive; the 
+greater part of it aims to divert purchases, etc., from one channel to another channel of the same general class.  And 
+to the extent to which the efforts of advertising in all its branches are spent on this competitive disturbance of 
+trade, they are, on the whole, of slight if any immedi- ate service to the community. (Veblen 1904, pp. 55-7, Public 
+Domain, emphasis added)
+
+Veblen’s inimitable prose may be a bit irksome to read, but reference to the italicized bits above should be enough to 
+understand the argument.  ‘Custom and prestige,’ and the ‘fabrication of popular con- viction’ suggest that businesses 
+are competing through persuasion rather than production of some- thing of value.  The second paragraph, then, considers 
+whether these activities are actually of value to society (or perhaps, in neoclassical terms, whether or not they’re 
+‘welfare enhancing’).  For the most part, they are decidedly not.  They may create a pecuniary (that is, money) value 
+for the business–the perception of C’ is improved and M’ increases as a result.  But, to society in general they amount 
+to little more than a needless shifting of buying habits and consumption patterns.  As Professor Sturgeon notes, 
+there’s more than one way to make money.
+
+We should pause to consider the usefulness of this model. Separating money from commodities in the monetary production 
+process has allowed us to consider different business activities as essentially different things.  The abstract firm in 
+standard neoclassical theory might lead us to treat anything that makes a business more money as part of the production 
+process (C…P…C’), suggesting that advertis- ing was just another commodity in the production process improving the 
+value of the product to be sold.  By implication, then, the advertising added value to society.  Yet, treating 
+production and adver- tising as two different activities allowed room for the argument that, in fact, the advertising 
+was gen- erally wasteful.
+
+
+DISTINGUISHING ARROW 1 FROM ARROW 2: THE PHARMACEUTICAL INDUSTRY
+
+A contemporary example should indicate the importance of distinguishing between arrows 1 and 2.  The price of pharma- 
+ceutical drugs continues to be a controversial topic in the United States, and it’s no surprise why: according to the 
+OECD,
+
+440                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+pharmaceutical spending has risen from an average of $159 per person (or 0.87% of all spending in the US) in 1985 to
+$1,112 per person (or 2.04% of total spending) in 2014.  Moreover, a 2016 Reuters article found that the prices of 4 of 
+the top 10 most widely used drugs more than doubled in just the previous 5 years.
+
+A number of factors are important to explaining these rapid price increases, including an aging population in the US 
+and an exceedingly complex distribution and insurance system for pharmaceuticals.  But, let’s focus on the common 
+explanation given by the producers themselves: high prices are necessary to recover the high costs of research and 
+development (much of which leads to dead-end investments that don’t produce effective drugs that can be brought to 
+market) and the clinical trials necessary for regulatory approval.  Clearly, this is in line with the general framework 
+of heterodox economic theory. Pharmaceutical companies are engaging in long-run planning, including significant 
+investments into better products (that is, investments into P in Figure 1), and prices are a reflection of those 
+investments.
+
+But, what’s more, our monetary production model can help us find a fuller explanation of the nature and extent of those 
+investments.   Consider  estimates  from  Gagnon  and  Lexchin  (2008)  on  promotional  expenditures  by  the  
+industry.   The authors  found  that,  for  2004,  the  industry  devoted  about  24%  of  its  sales  revenue  to  
+promotion,  versus  about  13%  to research and development.  Looking specifically to promotion directed at physicians, 
+the authors estimate that approxi- mately $61,000 was spent per physician in the US.  To be sure,  there are other 
+estimates lower than those made by Gagnon and Lexchin.  Just the same, it is clear that pharmaceutical enterprises are 
+investing heavily not only in developing new drugs, but in promoting their use as well.
+
+Moreover, the pharmaceutical industry provides us with a somewhat unique opportunity to clearly distinguish investments 
+in C’ (arrow 2 in figure 1) from investments in P (arrow 1).  Because these drugs are systematically evaluated for 
+their effec- tiveness in treating specific illnesses, data exist to indicate how well supposedly-arrow 1 investments 
+are improving the product.  On this matter, Gagnon (2013) finds that fewer and fewer new molecular entities (truly new 
+drugs, without prece- dent in drugs already in use) are being developed, and only a small minority of new drugs 
+represent substantial therapeutic advances over existing treatments.  The proliferation of ‘me-too’ drugs, which are 
+new products to be marketed if not actu- ally better treatments for illnesses, suggests that the business model in this 
+industry is focused less on improvements in P and more on inflating C’.  That is, arrow 2 appears to dominate, with 
+arrow 1 a secondary concern, in the normal business models of this industry.
+
+Sources: https://data.oecd.org/healthres/pharmaceutical-spending.htm 
+http://www.reuters.com/article/us-usa-healthcare-drugpricing-idUSKCN0X10TH
+Gagnon, M. A. and J. Lexchin. (2008), “The Cost of Pushing Pills: A New Estimate of Pharmaceutical Promotion Expendi- 
+tures in the United States,” PLoSMedicine, 5(1), 29-33.
+Gagnon, M. A. (2013). Corruption of pharmaceutical  markets: Addressing  the misalignment  of financial  incentives and 
+public health. The Journal of Law, Medicine & Ethics, 41(3), 571-580.
+
+Finally, there is arrow 3, a direct line from an initial sum of money to a greater amount of money, bypassing all the 
+troublesome in-between steps of producing and selling a good or service.  This sort of business model takes many forms 
+and is becoming increasingly popular in the capitalism of today. The traditional exemplar is the financial firm–or, 
+say, the stock broker–which has no direct ties to actually producing something, but rather only to trading in the 
+ownership rights of those producers.
+
+The  full  role  and  consequences  of  financial  firms  and  markets  cannot  be  covered  here.   What’s  of 
+interest presently is business activity that can turn a profit without being concerned with producing something for 
+sale, or even simply with persuading people to buy a product.  You may have heard
+
+PRINCIPLES  OF  ECONOMICS                                                                                   441
+
+about the causes of the Great Recession of 2008-09 being chiefly linked to business models in finance, insurance,  and  
+real  estate  (the  so-called  FIRE  sector).   The  problem,  many  believe,  is  in  the  opac- ity and complexity of 
+a system in which mortgage contracts representing an agreement to pay for a house over time were packaged together into 
+derivative contracts to be sold to investors, then resold, repackaged, and so on.  Indeed to make a system even more 
+complex, many financial firms were mak- ing side bets that the contracts they themselves were selling would in fact not 
+pay out.  Many articles, books, and documentaries have been produced retelling that story, and The Big Short is an 
+effective and accurate dramatization of some of those events.  For now, it is enough to say that the businesses engaged 
+in those activities were largely concerned with turning money into more money by persuad- ing others that these 
+contracts built on contracts (built on contracts…) were worth more than they were.  These were arrow 3 business 
+activities, having little to do with the actual business of housing people.
+
+A century earlier, Veblen had described similar practices in the stock markets, where the goal is to,
+
+induce a discrepancy between the putative and the actual earning-capacity, by expedients well known and approved for 
+the purpose. Partial information, as well as misinformation, sagaciously given out at a critical juncture, will go far 
+toward producing a favorable tempo- rary discrepancy of this kind. (Veblen, 1904, p. 156, Public Domain)
+
+It was, more recently, precisely this type of behavior which ultimately caused the deepest recession since the Great 
+Depression (which, incidentally, had also been caused by this type of behavior).  As a result, many of the largest 
+banks and other financial institutions in the US and abroad have been made to pay fines in the 10’s of billions of 
+dollars.  Whether these fines will be enough to make this business model unattractive in the future is debatable–but it 
+seems unlikely.

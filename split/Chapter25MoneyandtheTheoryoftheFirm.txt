@@ -1,0 +1,246 @@
+
+
+
+CHAPTER 25. MONEY AND THE THEORY OF THE FIRM
+
+
+
+
+INTRODUCTION  TO  MONEY  AND  THE  THEORY  OF  THE  FIRM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A $10 National Gold Bank Note — issued by the First National Gold Bank of Oakland, California (c. 1870s). (Wikimedia, 
+Public Domain)
+
+PRINCIPLES  OF  ECONOMICS                                                                                   701
+CHAPTER OBJECTIVES
+
+
+In this chapter you will learn about:
+
+•    The Metallist and the Barter Myth
+
+•    Smith, Marx, Keynes, Chartalism and Modern Money Theory
+
+•    The Money Hierarchy and the False Duality of the State and Market
+
+•    Local Currency Systems: Social Money and Community Currencies
+
+
+
+
+
+The standard approach, taken in neoclassical texts, to describe the firm’s role in the economy is to ascribe a 
+coordinating function: the firm optimally selects the inputs of labor and capital to efficiently produce output for the 
+market.   This functional interpretation (1) of the firm allows the neoclassical economist to maintain the same level 
+of simplicity, or abstraction achieved in consumer theory. This approach limits the scope of value determination to 
+commodity market exchanges, as seen in Chap- ter XX (The Role of Value(s) in the Economics Discipline).  In this 
+chapter, we investigate how this abstract methodology of modeling the economy influences our understanding of money.
+
+q = f(k, l) where
+q is output, k is capital, l is labor,
+f provides the functional description of technology.
+
+
+Understanding the limitation of money in the neoclassical framework will be achieved in three steps. First, the story 
+of money will be told from the neoclassical perspective.  In telling this story, we will discover that the neoclassical 
+economist relegates money to a secondary role in economic activity. The neoclassical presentation describes money as a 
+commodity that facilitates the exchange of other commodities.  This secondary role for money allows the neoclassical 
+economist to continue to apply, what we will define as real analysis.  After our neoclassical story is completed, a 
+second story of money will be told.  This story is guided, not by theory, but by history, and will help us to 
+understand money’s true origins. In applying a historical and institutional methodology, we will see that money is much 
+more critical to economic activity than neoclassical economists suppose.  Money is special, because of how it can be 
+used, and who is able to produce it.  In the next section, the historical understand- ing of money not as a commodity, 
+but as a social relation will break down the traditional perspective of a strict duality between the state and the 
+market.  This is accomplished through an analysis of or
+
+702                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+economy not as a barter system, but as a monetary production economy that operates within the con- straints of the 
+legal and institutional framework of a money hierarchy.
+
+The final section extends our understanding of the monetary production economy by examining local currency systems.  
+Local currency systems are emerging across the world in communities that have been abandoned by mainstream economic 
+policies.  These local money systems are supporting single mothers, helping children go to school, cleaning up streets 
+and neighborhoods, and reducing waste. By comparing the monopoly issuing authority of the United States and these micro 
+currency systems, the coordinating function of money in economic activity will become clear.  Geoffrey Ingham once 
+argued that, money is our most powerful and underemployed social technology[1].  This chapter will help you to 
+understand why.
+
+[1] This insight is drawn from Geoffery Ingham’s contribution to John Smithin’s 2001 edited volume,
+What is Money?.
+
+
+
+
+25.1  THE  METALLIST  AND  THE  BARTER  MYTH
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Discuss the importance of barter in modern economic analysis
+
+
+
+n what kind of an economy do we live and operate our daily lives?  This is not a trivial question. As ideas about how 
+human beings can best organize their resources developed into enlightenment philosophy, a prominent method for 
+expressing what a society free of the feudal constraints would look like involved imaginary stories.  Philosophers, 
+such as John Locke, Thomas Hobbes, and Jean- Jacques Rousseau asked their audience to imagine a place called the state 
+of nature to consider possi- ble social outcomes, when this place is populated with free individuals.  In the state of 
+nature, will
+chaos, barbarism, or a harmonious stable society result?
+
+In Locke’s version, individuals needed to follow two constraints or simple rules in order for a har- monious and stable 
+society to emerge.  The first of these constraints is the spoilage constraint.  In the state of nature, no individual 
+should collect more food, nuts and berries than they can consume before they spoil.  Second, the prejudice constraint 
+cannot be violated.  This constraint is “predicated on the right to subsistence: the privatization of land [can]not 
+disadvantage non-property holders, violating their right to subsistence goods.”[1]  As long as all those in the state 
+of nature follow these two simple moral constraints, then a harmonious and stable society is argued to emerge.  Through 
+the evolution of similar stories, political economist would add their own plot twists and establish the setting for 
+neoclassical economics.
+
+What these imaginary stories have in common is the collective illusion that capitalism or free market economics grows 
+out of a state of nature.  The basic plot and stage for this story remains the same in neoclassical economics.  How 
+many of you got dressed and ready for your classes today in the Carte- sian plane?  Like their enlightenment 
+predecessors’ use of the state of nature the neoclassical story also takes place in a space that is not inhabited by 
+human beings.  The mathematical universe of max- imization and optimal decisions, like Locke’s imagined individuals, 
+aggregates to a harmonious and stable solution.  This solution is known as equilibrium in the formalized mathematical 
+models of neo- classical economics.  While the technical names and the math provide the neoclassical story with a 
+scientific veneer, the underlying plot remains generally the same as those told over the previous four hundred plus 
+years.   A strong characteristic of these stories is their staying power, but a significant cost of such longevity is a 
+lack of analysis regarding the actual economy in which we live and conduct our daily lives.
+
+704                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+The economy described by Jean Baptiste Say[2] and other classical political economists of his era, as well as by modern 
+neoclassical economists, is a barter economy.  In a barter economy, goods trade for other goods.  If we were to open a 
+barter market in class, students could trade their hats, backpacks, books, shoes, and whatever else they had in their 
+possession with other students.  In this scenario, would much trade occur?  Generally the answer would be no.  This is 
+because it would be rare that the double coincidence of wants would be solved very often.  This means that for trade to 
+occur I must have what you want and you must have what I want.  If and only if this is the case will trade occur, 
+because trade must make us both better off than we were before the trade took place.  To solve this problem and reduce 
+the amount of time individuals would need to spend seeking out solutions to the double coincidence of wants, society 
+spontaneously agrees to accept a commodity as the facilitator of exchange—or at least this is how the story is told 
+from state of nature and Cartesian plane origins.
+
+The magical device that solves the double coincidence of wants and sets the economy free is money. Commodity money in 
+the form of gold or silver has an intrinsic value that can be measured and all parties understand its value.  Intrinsic 
+value is a key concept and can be defined as the value the object has in and of itself. This is why precious metals are 
+central to this story, as it is believed gold has value in and of itself.  Thus, through this agreement, the 
+transaction costs for all the producers and consumers in this economy are reduced and are therefore better off.  This 
+is the story often told by a group of economists known as the Metallists, because of the use of precious metals to 
+denote the value of money.  We can model money as the facilitator of a barter transaction using the following notation 
+of C for commodity and M for money.
+
+This is likely the story you have heard before, and it is definitely the one told to your parents in their introductory 
+economics courses. As mentioned above, it is an old story.  Roots to its origins go as far back as Plato and Aristotle, 
+but the more modern versions are linked to the 16th and 17th cen- tury enlightenment philosophers discussed above. The 
+staying power and continued adherence to this story is heavily reliant upon metal’s intrinsic value.  If money’s value 
+is connected to the weight and quality of metal, then it, just like the gold, silver, or the other goods it trades for, 
+is a commodity.  As a commodity, money preserves the barter system.  In a barter framework, economists are able to 
+prac- tice real analysis.
+
+Real analysis is described by the 20th century economists Joseph Schumpeter as:
+
+[all] the essential phenomena of economic life are capable of being described in terms of goods and services, of 
+decisions about them, and of relations between them.  Money enters the picture only in the modest role of a technical 
+device that has been adopted in order to facilitate transac- tions.  This device can no doubt get out of order, and if 
+it does it will indeed produce phenom- ena that are specifically attributable to its modus operandi.  But so long as it 
+functions normally, it does not affect the economic process, which behaves in the same way as it would in a barter 
+economy.[3]
+
+In other words, economists can study real changes to output, employment, distribution, and growth without addressing 
+money as anything other than a facilitator of exchange, because in the long-run money is neutral.  Money does not 
+generate real changes only nominal changes that create short-run disturbances to the stability of economic equilibrium. 
+In other words, it disrupts the modus operandi in Schumpeter’s quote. By examining money,  within the context of modern 
+economic events, it will become  clear  that  the  commitment  made  by  neoclassical  economics  to  the  Metallist’s  
+story  is  not intended  to provide an accurate  understanding of history, but is rather  an effort to preserve their
+
+PRINCIPLES  OF  ECONOMICS                                                                                   705
+
+method of economic analysis and the continued application of optimization techniques and mathe- matical modeling.
+
+While the barter story is intuitively appealing, especially when described as an economy at a time and place far, far 
+away, difficult questions about value and the role of the state complicate the drama.  For instance, when gold or 
+silver was spontaneously accepted as the commodity money, did people just trade nuggets of the metal?  Where did coins 
+come from?  Who made the coins, and how was their value determined?  Then finally, as economies incorporate paper 
+money, how is the value of the cur- rency maintained, especially if it cannot be directly converted into gold or 
+silver? These questions are examples of critical analysis.  Rather than accepting the story as given, critical thinking 
+and investiga- tion will help economists’ and policy makers to develop an understanding of money and its evolution in 
+economic systems.
+
+To address these critical inquiries, let us return to Schumpeter’s description.  Money’s value is as a technical device 
+used in the facilitation of exchanges.  Its value is intrinsically derived through a pre- cious metal.  In this 
+scenario, it is a commodity like all other commodities.  Difficulty only emerges, if it gets out of order.  If money’s 
+modus operandi extends beyond the facilitator role, then the economy is no longer functioning as a barter system.  It 
+is in this capacity, as something more than a technical device that the Cftartalist school of thought is introduced 
+here, in the second act.
+
+The  complications,  regarding  money’s  value,  have  become  increasingly  difficult  for  Metallists  to assume away 
+and maintain money’s status as a commodity.  The most significant of these changes to the global economy has been the 
+development of fiat currency systems that have completely broken monetary systems from the gold standard. An example of 
+a fiat money is the U.S. dollar.  They are issued by fiat, because the issuer will not give us anything other than 
+other dollars in return.  It is an inconvertible paper money. The gold standard allowed for the commodity money story 
+to survive the complications associated with the expansions of both credit money lending and paper money, because money 
+remained convertible into gold. However, the elimination of the gold standard has ended the convertibility scene and 
+requires a new dialogue.  If money cannot be converted into gold, and value is not intrinsically determined, then where 
+does its value come from?
+
+[1] The academic journal The Review of Social Economy has published a number of works of by Modern Money Theorist 
+including the co-authored piece by John F. Henry, Stephanie Kelton, and L. Randall Wray, “A Chartalist Critique of John 
+Locke’s Theory of Peoples Accumulation, and Money: or is it Moral Trade your Nuts for Gold?”.
+
+[2] Jean Baptist Say is an important character in the development of the ideas that support neoclassical economics.  
+One of his most well known contributions is Say’ Law, which is commonly paraphrased as “supply creates its own demand”.
+
+[3] Joseph A. Schumpeter is widely regarded as one of the most influential economists of the 20th Century.  Students 
+are encouraged to explore his ideas on money in his 1954 text History of Economic Analysis.

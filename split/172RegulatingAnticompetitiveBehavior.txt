@@ -1,0 +1,482 @@
+
+
+
+17.2  REGULATING  ANTICOMPETITIVE  BEHAVIOR
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Analyze restrictive practices
+
+•    Explain tying sales, bundling, and predatory pricing
+
+•    Evaluate a real-world situation of possible anticompetitive and restrictive practices
+
+
+
+he U.S. antitrust laws reach beyond blocking mergers that would reduce competition to include a wide array of 
+anticompetitive practices. For example, it is illegal for competitors to form a  cartel to collude to make pricing and 
+output decisions, as if they were a monopoly firm. The Federal Trade Commission and the U.S. Department of Justice 
+prohibit firms from agreeing to fix prices or output, rigging bids, or sharing or dividing markets by allocating 
+customers, suppliers, ter-
+ritories, or lines of commerce.
+
+In the late 1990s, for example, the antitrust regulators prosecuted an international cartel of vitamin manufacturers, 
+including the Swiss firm Hoffman-La Roche, the German firm BASF, and the French firm Rhone-Poulenc. These firms reached 
+agreements on how much to produce, how much to charge, and which firm would sell to which customers. The high-priced 
+vitamins were then bought by firms like General Mills, Kellogg, Purina-Mills, and Proctor and Gamble, which pushed up 
+the prices more. Hoffman-La Roche pleaded guilty in May 1999 and agreed both to pay a fine of $500 million and to have 
+at least one top executive serve four months of jail time.
+
+Under U.S. antitrust laws, monopoly itself is not illegal. If a firm has a monopoly because of a newly patented 
+invention, for example, the law explicitly allows a firm to earn higher-than-normal profits for a time as a reward for 
+innovation. If a firm achieves a large share of the market by producing a better product at a lower price, such 
+behavior is not prohibited by antitrust law.
+
+RESTRICTIVE PRACTICES
+Antitrust  law  includes  rules  against  restrictive  practices—practices  that  do  not  involve  outright agreements 
+to raise price or to reduce the quantity produced, but that might have the effect of reduc- ing competition. Antitrust 
+cases involving restrictive practices are often controversial, because they delve into specific contracts or agreements 
+between firms that are allowed in some cases but not in others.
+
+460                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+For example, if a product manufacturer is selling to a group of dealers who then sell to the general public it is 
+illegal for the manufacturer to demand a minimum resale price maintenance agreement, which would require the dealers to 
+sell for at least a certain minimum price. A minimum price con- tract  is  illegal  because  it  would  restrict  
+competition  among  dealers.  However,  the  manufacturer  is legally allowed to “suggest” minimum prices and to stop 
+selling to dealers who regularly undercut the suggested price. If you think this rule sounds like a fairly subtle 
+distinction, you are right.
+
+An exclusive dealing agreement between a manufacturer and a dealer can be legal or illegal. It is legal if the purpose 
+of the contract is to encourage competition between dealers. For example, it is legal for the Ford Motor Company to 
+sell its cars to only Ford dealers, for General Motors to sell to only GM dealers, and so on. However, exclusive deals 
+may also limit competition. If one large retailer obtained the exclusive rights to be the sole distributor of 
+televisions, computers, and audio equipment made by a number of companies, then this exclusive contract would have an 
+anticompetitive effect on other retailers.
+
+Tying sales happen when a customer is required to buy one product only if the customer also buys a second product. 
+Tying sales are controversial because they force consumers to purchase a product that they may not actually want or 
+need. Further, the additional, required products are not necessarily advantageous to the customer. Suppose that to 
+purchase a popular DVD, the store required that you also purchase a portable TV of a certain model. These products are 
+only loosely related, thus there is no reason to make the purchase of one contingent on the other. Even if a customer 
+was interested in a portable TV, the tying to a particular model prevents the customer from having the option of 
+selecting one from the numerous types available in the market. A related, but not identical, concept is called 
+bundling, where two or more products are sold as one. Bundling typically offers an advantage for the consumer by 
+allowing them to acquire multiple products or services for a better price. For example, several cable companies allow 
+customers to buy products like cable, internet, and a phone line through a special price available through bundling. 
+Customers are also welcome to purchase these products separately, but the price of bundling is usually more appealing.
+
+In some cases, tying sales and bundling can be viewed as anticompetitive. However, in other cases they may be legal and 
+even common. It is common for people to purchase season tickets to a sports team or a set of concerts so that they can 
+be guaranteed tickets to the few contests or shows that are most popular and likely to sell out. Computer software 
+manufacturers may often bundle together a number of different programs, even when the buyer wants only a few of the 
+programs. Think about the software that is included in a new computer purchase, for example.
+Recall from the chapter on Monopoly that predatory pricing occurs when the existing firm (or firms) reacts to a new 
+firm by dropping prices very low, until the new firm is driven out of the market, at which point the existing firm 
+raises prices again. This pattern of pricing is aimed at deterring the entry of new firms into the market. But in 
+practice, it can be hard to figure out when pricing should be considered predatory. Say that American Airlines is 
+flying between two cities, and a new airline starts flying between the same two cities, at a lower price. If American 
+Airlines cuts its price to match the new entrant, is this predatory pricing? Or is it just market competition at work? 
+A commonly pro- posed rule is that if a firm is selling for less than its average variable cost—that is, at a price 
+where it should be shutting down—then there is evidence for predatory pricing. But calculating in the real world what 
+costs are variable and what costs are fixed is often not obvious, either.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   461
+
+The Microsoft antitrust case embodies many of these gray areas in restrictive practices, as the next Clear it Up shows.
+
+
+DID MICROSOFT® ENGAGE IN ANTICOMPETITIVE AND RESTRICTIVE PRACTICES?
+
+The  most  famous  restrictive  practices  case  of  recent  years  was  a  series  of  lawsuits  by  the  U.S.  
+government  against Microsoft—lawsuits that were encouraged by some of Microsoft’s competitors. All sides admitted that 
+Microsoft’s Win- dows program had a near-monopoly position in the market for the software used in general computer 
+operating systems. All sides agreed that the software had many satisfied customers. All sides agreed that the 
+capabilities of computer software that was compatible with Windows—both software produced by Microsoft and that 
+produced by other companies—had expanded dramatically in the 1990s. Having a monopoly or a near-monopoly is not 
+necessarily illegal in and of itself, but in cases where one company controls a great deal of the market, antitrust 
+regulators look at any allegations of restrictive practices with special care.
+The antitrust regulators argued that Microsoft had gone beyond profiting from its software innovations and its dominant 
+position in the software market for operating systems, and had tried to use its market power in operating systems 
+software to take over other parts of the software industry. For example, the government argued that Microsoft had 
+engaged in an anticompetitive form of exclusive dealing by threatening computer makers that, if they did not leave 
+another firm’s soft- ware off their machines (specifically, Netscape’s Internet browser), then Microsoft would not sell 
+them its operating system software. Microsoft was accused by the government antitrust regulators of tying together its 
+Windows operating system software, where it had a monopoly, with its Internet Explorer browser software, where it did 
+not have a monopoly, and thus using this bundling as an anticompetitive tool. Microsoft was also accused of a form of 
+predatory pricing; namely, giving away certain additional software products for free as part of Windows, as a way of 
+driving out the competition from other makers of software.
+In  April  2000,  a  federal  court  held  that  Microsoft’s  behavior  had  crossed  the  line  into  unfair  
+competition,  and  recom- mended that the company be broken into two competing firms. However, that penalty was 
+overturned on appeal, and in November 2002 Microsoft reached a settlement with the government that it would end its 
+restrictive practices.
+
+The concept of restrictive practices is continually evolving, as firms seek new ways to earn profits and government 
+regulators define what is permissible and what is not. A situation where the law is evolv- ing and changing is always 
+somewhat troublesome, since laws are most useful and fair when firms know what they are in advance. In addition, since 
+the law is open to interpretation, competitors who are losing out in the market can accuse successful firms of 
+anticompetitive restrictive practices, and try to win through government regulation what they have failed to accomplish 
+in the market. Officials at the Federal Trade Commission and the Department of Justice are, of course, aware of these 
+issues, but there is no easy way to resolve them.
+
+KEY CONCEPTS AND SUMMARY
+
+Firms are blocked by antitrust authorities from openly colluding to form a cartel that will reduce out- put and raise 
+prices. Companies sometimes attempt to find other ways around these restrictions and, consequently, many antitrust 
+cases involve restrictive practices that can reduce competition in certain circumstances, like tie-in sales, bundling, 
+and predatory pricing.
+
+462                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+SELF-CHECK QUESTIONS
+
+
+
+Why would a firm choose to use one or more of the anticompetitive practices described in Regulating Anticompetitive 
+Behavior?
+
+
+
+REVIEW QUESTIONS
+
+
+
+1.    What is a minimum resale price maintenance agreement? How might it reduce competition and when might it be 
+acceptable?
+2.    What is exclusive dealing? How might it reduce competition and when might it be acceptable?
+3.    What is a tie-in sale? How might it reduce competition and when might it be acceptable?
+4.    What is predatory pricing? How might it reduce competition, and why might it be difficult to tell when it should 
+be illegal?
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+
+1.    Can you think of any examples of successful predatory pricing in the real world?
+2.    If you were developing a product (like a web browser) for a market with significant barriers to entry, how would 
+you try to get your product into the market successfully?
+
+
+
+GLOSSARY
+bundling a situation in which multiple products are sold as one
+exclusive dealing an agreement that a dealer will sell only products from one manufacturer minimum resale price 
+maintenance agreement an agreement that requires a dealer who buys from a manufacturer to sell for at least a certain 
+minimum price
+restrictive practices practices that reduce competition but that do not involve outright agreements between firms to 
+raise prices or to reduce the quantity produced
+tying sales a situation where a customer is allowed to buy one product only if the customer also
+buys another product
+
+SOLUTIONS
+
+
+Answers to Self-Cfteck Questions
+Because outright collusion to raise profits is illegal and because existing regulations include gray areas which firms 
+may be able to exploit.
+
+
+
+17.3  REGULATING  NATURAL  MONOPOLIES
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Evaluate the appropriate competition policy for a natural monopoly
+
+•    Interpret a graph of regulatory choices
+
+•    Contrast cost-plus and price cap regulation
+
+
+
+ost true monopolies today in the U.S. are regulated, natural monopolies. A natural monop- oly  poses  a  difficult  
+challenge  for  competition  policy,  because  the  structure  of  costs  and demand seems to make competition unlikely 
+or costly. A natural monopoly arises when
+average costs are declining over the range of production that satisfies market demand. This typically happens when 
+fixed costs are large relative to variable costs. As a result, one firm is able to supply the total quantity demanded 
+in the market at lower cost than two or more firms—so splitting up the nat- ural monopoly would raise the average cost 
+of production and force customers to pay more.
+
+Public  utilities,  the  companies  that  have  traditionally  provided  water  and  electrical  service  across much 
+of the United States, are leading examples of natural monopoly. It would make little sense to argue that a local water 
+company should be broken up into several competing companies, each with its own separate set of pipes and water 
+supplies. Installing four or five identical sets of pipes under a city, one for each water company, so that each 
+household could choose its own water provider, would be terribly costly. The same argument applies to the idea of 
+having many competing companies for delivering electricity to homes, each with its own set of wires. Before the advent 
+of wireless phones, the argument also applied to the idea of many different phone companies, each with its own set of 
+phone wires running through the neighborhood.
+
+THE CHOICES IN REGULATING A NATURAL MONOPOLY
+
+So what then is the appropriate competition policy for a natural monopoly? Figure 1 illustrates the case of natural 
+monopoly, with a market demand curve that cuts through the downward-sloping por- tion of the average cost curve. Points 
+A, B, C, and F illustrate four of the main choices for regulation. Table 5 outlines the regulatory choices for dealing 
+with a natural monopoly.
+
+464                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Regulatory Choices in Dealing with Natural Monopoly. A natural monopoly will maximize profits by producing at 
+the quan- tity where marginal revenue (MR) equals marginal costs (MC) and by then looking to the market demand curve to 
+see what price to charge  for  this  quantity.  This  monopoly  will  produce  at  point  A, with a quantity of 4 and a 
+price of 9.3. If antitrust regulators split this company exactly in half, then each half would produce at point B, with 
+average costs of 9.75 and output of 2. The regulators might require the firm to produce where marginal cost crosses the 
+market demand curve at point C. However, if the firm is required to pro- duce at a quantity of 8 and sell at a price of 
+3.5, the firm will suf- fer from losses. The most likely choice is point F, where the firm is required to produce a 
+quantity of 6 and charge a price of 6.5.
+
+Quantity        Price       Total Revenue*             Marginal Revenue             Total Cost         Marginal Cost    
+       Average Cost
+1                        14.7         14.7                                 –                                            
+  11.0                     –                                    11.00
+2                        12.4         24.7                                 10.0                                        
+19.5                     8.5                                 9.75
+3                        10.6         31.7                                 7.0                                          
+ 25.5                     6.0                                 8.50
+4                        9.3           37.2                                 5.5                                         
+  31.0                     5.5                                 7.75
+5                        8.0           40.0                                 2.8                                         
+  35.0                     4.0                                 7.00
+6                        6.5           39.0                                 –1.0                                        
+39.0                     4.0                                 6.50
+7                        5.0           35.0                                 –4.0                                        
+42.0                     3.0                                 6.00
+8                        3.5           28.0                                 –7.0                                        
+45.5                     3.5                                 5.70
+9                        2.0           18.0                                 –10.0                                      
+49.5                     4.0                                 5.5
+Table 5. Regulatory Choices in Dealing with Natural Monopoly. (*Total Revenue is given by multiplying price and 
+quantity. However, some of the price values in this table have been rounded for ease of presentation.)
+
+The first possibility is to leave the natural monopoly alone. In this case, the monopoly will follow its
+
+PRINCIPLES  OF  ECONOMICS                                                                                   465
+
+normal approach to maximizing profits. It determines the quantity where MR = MC, which happens at point P at a quantity 
+of 4. The firm then looks to point A on the demand curve to find that it can charge a price of 9.3 for that 
+profit-maximizing quantity. Since the price is above the average cost curve, the natural monopoly would earn economic 
+profits.
+
+A second outcome arises if antitrust authorities decide to divide the company, so that the new firms can compete. As a 
+simple example, imagine that the company is cut in half. Thus, instead of one large firm producing a quantity of 4, two 
+half-size firms each produce a quantity of 2. Because of the declin- ing average cost curve (AC), the average cost of 
+production for each of the half-size companies each producing 2, as shown at point B, would be 9.75, while the average 
+cost of production for a larger firm producing 4 would only be 7.75. Thus, the economy would become less productively 
+efficient, since the good is being produced at a higher average cost. In a situation with a downward-sloping average 
+cost curve, two smaller firms will always have higher average costs of production than one larger firm for any quantity 
+of total output. In addition, the antitrust authorities must worry that splitting the natural monopoly into pieces may 
+be only the start of their problems. If one of the two firms grows larger than the other, it will have lower average 
+costs and may be able to drive its competitor out of the market. Alternatively, two firms in a market may discover 
+subtle ways of coordinating their behavior and keeping prices high. Either way, the result will not be the greater 
+competition that was desired.
+
+A third alternative is that regulators may decide to set prices and quantities produced for this industry. The 
+regulators will try to choose a point along the market demand curve that benefits both consumers and the broader social 
+interest. Point C illustrates one tempting choice: the regulator requires that the firm produce the quantity of output 
+where marginal cost crosses the demand curve at an output of 8, and charge the price of 3.5, which is equal to marginal 
+cost at that point. This rule is appealing because it requires price to be set equal to marginal cost, which is what 
+would occur in a perfectly competitive  market,  and  it  would  assure  consumers  a  higher  quantity  and  lower  
+price  than  at  the monopoly choice A. In fact, efficient allocation of resources would occur at point C, since the 
+value to the consumers of the last unit bought and sold in this market is equal to the marginal cost of produc- ing it.
+
+Attempting to bring about point C through force of regulation, however, runs into a severe difficulty. At point C, with 
+an output of 8, a price of 3.5 is below the average cost of production, which is 5.7, and so if the firm charges a 
+price of 3.5, it will be suffering losses. Unless the regulators or the govern- ment offer the firm an ongoing public 
+subsidy (and there are numerous political problems with that option), the firm will lose money and go out of business.
+
+Perhaps the most plausible option for the regulator is point F; that is, to set the price where AC crosses the demand 
+curve at an output of 6 and a price of 6.5. This plan makes some sense at an intuitive level: let the natural monopoly 
+charge enough to cover its average costs and earn a normal rate of profit, so that it can continue operating, but 
+prevent the firm from raising prices and earning abnormally high monopoly profits, as it would at the monopoly choice 
+A. Of course, determining this level of output and price with the political pressures, time constraints, and limited 
+information of the real world is much harder than identifying the point on a graph. For more on the problems that can 
+arise from a centrally determined price, see the discussion of price floors and price ceilings in Demand and Sup- ply.
+
+466                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+COST-PLUS VERSUS PRICE CAP REGULATION
+
+Indeed, regulators of public utilities for many decades followed the general approach of attempting to choose a point 
+like F in Figure 1. They calculated the average cost of production for the water or electricity companies, added in an 
+amount for the normal rate of profit the firm should expect to earn, and set the price for consumers accordingly. This 
+method was known as cost-plus regulation.
+
+Cost-plus regulation raises difficulties of its own. If producers are reimbursed for their costs, plus a bit more, then 
+at a minimum, producers have less reason to be concerned with high costs—because they can just pass them along in 
+higher prices. Worse, firms under cost-plus regulation even have an incentive to generate high costs by building huge 
+factories or employing lots of staff, because what they can charge is linked to the costs they incur.
+Thus, in the 1980s and 1990s, some regulators of public utilities began to use price cap regulation, where the 
+regulator sets a price that the firm can charge over the next few years. A common pattern was to require a price that 
+declined slightly over time. If the firm can find ways of reducing its costs more quickly than the price caps, it can 
+make a high level of profits. However, if the firm cannot keep up with the price caps or suffers bad luck in the 
+market, it may suffer losses. A few years down the road, the regulators will then set a new series of price caps based 
+on the firm’s performance.
+
+Price cap regulation requires delicacy. It will not work if the price regulators set the price cap unreal- istically 
+low. It may not work if the market changes dramatically so that the firm is doomed to incur- ring losses no matter what 
+it does—say, if energy prices rise dramatically on world markets, then the company selling natural gas or heating oil 
+to homes may not be able to meet price caps that seemed reasonable a year or two ago. But if the regulators compare the 
+prices with producers of the same good in other areas, they can, in effect, pressure a natural monopoly in one area to 
+compete with the prices being charged in other areas. Moreover, the possibility of earning greater profits or experi- 
+encing losses—instead of having an average rate of profit locked in every year by cost-plus regula- tion—can provide 
+the natural monopoly with incentives for efficiency and innovation.
+
+With natural monopoly, market competition is unlikely to take root, so if consumers are not to suffer the high prices 
+and restricted output of an unrestricted monopoly, government regulation will need to play a role. In attempting to 
+design a system of price cap regulation with flexibility and incentive, government regulators do not have an easy task.
+
+KEY CONCEPTS AND SUMMARY
+
+In the case of a natural monopoly, market competition will not work well and so, rather than allowing an unregulated 
+monopoly to raise price and reduce output, the government may wish to regulate price and/or output. Common examples of 
+regulation  are public  utilities, the regulated  firms  that often provide electricity and water service.
+
+Cost-plus regulation refers to government regulation of a firm which sets the price that a firm can charge over a 
+period of time by looking at the firm’s accounting costs and then adding a normal rate of profit. Price cap regulation 
+refers to government regulation of a firm where the government sets a price level several years in advance. In this 
+case, the firm can either make high profits if it manages to produce at lower costs or sell a higher quantity than 
+expected or suffer low profits or losses if costs are high or it sells less than expected.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   467
+
+
+
+
+SELF-CHECK QUESTIONS
+
+
+
+1.    Urban transit systems, especially those with rail systems, typically experience significant economies of scale in 
+operation. Consider the transit system whose data is given in the Table 6. Note that the quantity is in millions of 
+riders.
+
+Demand:    Quantity                      1       2       3       4       5    6       7       8       9       10
+Price                             10    9       8       7       6    5       4       3       2       1
+Marginal Revenue    10    8       6       4       2    0       –2     –4     –6     –8
+Costs:          Marginal Cost            9       6       5       3       2    3       4       5       7       10
+Average Cost              9       7.5    6.7    5.8    5    4.7    4.6    4.6    4.9    5.4
+Table 6.
+
+Draw  the  demand,  marginal  revenue,  marginal  cost,  and  average  cost  curves.  Do  they  have  the  normal 
+shapes?
+2.    From the graph you drew to answer Self-Check Question 1, would you say this transit system is a natural monopoly? 
+Justify.
+
+
+
+REVIEW QUESTIONS
+
+
+
+1.    If public utilities are a natural monopoly, what would be the danger in deregulating them?
+2.    If public utilities are a natural monopoly, what would be the danger in splitting them up into a number of 
+separate competing firms?
+3.    What is cost-plus regulation?
+4.    What is price cap regulation?
+
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+
+1.    In the middle of the twentieth century, major U.S. cities had multiple competing city bus companies. Today, there 
+is usually only one and it runs as a subsidized, regulated monopoly. What do you suppose caused the change?
+2.    Why are urban areas willing to subsidize urban transit systems? Does the argument for subsidies make sense to 
+you?
+
+
+
+PROBLEM
+
+
+
+Use Table 6 to answer the following questions.
+
+468                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+1.    If the transit system was allowed to operate as an unregulated monopoly, what output would it supply and what 
+price would it charge?
+2.    If the transit system was regulated to operate with no subsidy (i.e., at zero economic profit), what approximate 
+output would it supply and what approximate price would it charge?
+3.    If the transit system was regulated to provide the most allocatively efficient quantity of output, what output 
+would it supply and what price would it charge? What subsidy would be necessary to insure this efficient provision of 
+transit services?
+
+
+
+GLOSSARY
+cost-plus regulation when regulators permit a regulated firm to cover its costs and to make a normal level of profit
+price cap regulation when the regulator sets a price that a firm cannot exceed over the next few
+years
+
+SOLUTIONS
+
+
+Answers to Self-Cfteck Questions
+
+1.    Yes, all curves have normal shapes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2.
+
+2.    Yes it is a natural monopoly because average costs decline over the range that satisfies the market demand. For 
+example, at the point where the demand curve and the average cost curve meet, there are economies of scale.

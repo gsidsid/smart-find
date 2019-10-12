@@ -1,0 +1,559 @@
+
+
+
+INTRODUCTION  TO  MONOPOLY  AND  ANTITRUST  POLICY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Oligopoly versus Competitors in the Marketplace. Large corporations, such as the natural gas producer Kinder 
+Morgan, can bring economies of scale to the marketplace. Will that benefit consumers? Or is more com- petition better 
+for consumers? (Credit: modification of work by Derrick Coetzee/Flickr Creative Commons)
+
+
+MORE THAN COOKING, HEATING, AND COOLING
+
+If you live in the United States, there is a slightly better than 50–50 chance your home is heated and cooled using 
+natural gas. You may even use natural gas for cooking. However, those uses are not the primary uses of natural gas in 
+the U.S. In 2012, according to the U.S. Energy Information Administration, home heating, cooling, and cooking accounted 
+for just 18% of natural gas usage. What accounts for the rest? The greatest uses for natural gas are the generation of 
+electric power (39%) and in industry (30%). Together these three uses for natural gas touch many areas of our lives, so 
+why would there be any opposition to a merger of two natural gas firms? After all, a merger could mean increased 
+efficiencies and reduced costs to people like you and me.
+In  October  2011,  Kinder  Morgan  and  El  Paso  Corporation,  two  natural  gas  firms,  announced  they  were  
+merging.  The announcement stated the combined firm would link “nearly every major production region with markets,” cut 
+costs by “eliminating duplication in pipelines and other assets,” and that “the savings could be passed on to 
+consumers.”
+The objection? The $21.1 billion deal would give Kinder Morgan control of more than 80,000 miles of pipeline, making 
+the new firm the third largest energy producer in North America. As the third largest energy producer, policymakers and 
+the public wondered whether the cost savings really would be passed on to consumers, or would the merger give Kinder 
+Morgan a strong oligopoly position in the natural gas marketplace?
+That brings us to the central question this chapter poses: What should the balance be between corporate size and a 
+larger number of competitors in a marketplace? We will also consider what role the government should play in this 
+balancing act.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   449
+
+
+
+
+CHAPTER OBJECTIVES
+
+
+Introduction to Monopoly and Antitrust Policy
+In this chapter, you will learn about:
+
+•    Corporate Mergers
+
+•    Regulating Anticompetitive Behavior
+
+•    Regulating Natural Monopolies
+
+•    The Great Deregulation Experiment
+
+
+
+he previous chapters on the theory of the firm identified three important lessons: First, that competition, by 
+providing consumers with lower prices and a variety of innovative products, is a  good  thing;  second,  that  
+large-scale  production  can  dramatically  lower  average  costs;  and
+third, that markets in the real world are rarely perfectly competitive. As a consequence, government policymakers must 
+determine how much to intervene to balance the potential benefits of large-scale production against  the potential  
+loss of competition that can occur when businesses  grow in size, especially through mergers.
+
+For example, in 2011, AT&T and T-Mobile proposed a merger. At the time, there were only four major mobile phone service 
+providers. The proposal was blocked by both the Justice Department and the FCC.
+
+The two companies argued that the merger would benefit consumers, who would be able to purchase better 
+telecommunications services at a cheaper price because the newly created firm would be able to produce more efficiently 
+by taking advantage of economies of scale and eliminating duplicate invest- ments. However, a number of activist groups 
+like the Consumer Federation of America and Public Knowledge expressed fears that the merger would reduce competition 
+and lead to higher prices for consumers for decades to come. In December 2006, the federal government allowed the 
+merger to proceed. By 2009, the new post-merger AT&T was the eighth largest company by revenues in the United States, 
+and by that measure the largest telecommunications company in the world. Economists have spent – and will still spend – 
+years trying to determine whether the merger of AT&T and Bell- South, as well as other smaller mergers of 
+telecommunications companies at about this same time, helped consumers, hurt them, or did not make much difference.
+
+This chapter discusses public policy issues about competition. How can economists and governments determine when 
+mergers of large companies like AT&T and BellSouth should be allowed and when they should be blocked? The government 
+also plays a role in policing anticompetitive behavior other than mergers, like prohibiting certain kinds of contracts 
+that might restrict competition. In the case of natural monopoly, however, trying to preserve competition probably will 
+not work very well, and so government will often resort to regulation of price and/or quantity of output. In recent 
+decades, there has been a global trend toward less government intervention in the price and output decisions of 
+businesses.
+
+
+
+17.1  CORPORATE  MERGERS
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Explain antitrust law and its significance
+
+•    Calculate concentration ratios
+
+•    Calculate the Herfindahl-Herschman Index (HHI)
+
+•    Evaluate methods of antitrust regulation
+
+
+
+corporate merger occurs when two formerly separate firms combine to become a single firm. When one firm purchases 
+another, it is called an acquisition. An acquisition may not look just like a merger, since the newly purchased firm 
+may continue to be operated under its former
+company name. Mergers can also be lateral, where two firms of similar sizes combine to become one. However, both 
+mergers and acquisitions lead to two formerly separate firms being under common ownership, and so they are commonly 
+grouped together.
+
+REGULATIONS FOR APPROVING MERGERS
+
+Since a merger combines two firms into one, it can reduce the extent of competition between firms. Therefore, when two 
+U.S. firms announce a merger or acquisition  where at least one of the firms is above a minimum size of sales (a 
+threshold that moves up gradually over time, and was at $70.9 million in 2013), or certain other conditions are met, 
+they are required under law to notify the U.S. Federal Trade Commission (FTC). The left-hand panel of Figure 1 (a) 
+shows the number of mergers submitted for review to the FTC each year from 1999 to 2012. Mergers were very high in the 
+late 1990s, diminished in the early 2000s, and then rebounded somewhat in a cyclical fashion. The right- hand panel of 
+Figure 1 (b) shows the distribution of those mergers submitted for review in 2012 as measured by the size of the 
+transaction. It is important to remember that this total leaves out many small mergers under $50 million, which only 
+need to be reported in certain limited circumstances. About a quarter of all reported merger and acquisition 
+transactions in 2012 exceeded $500 million, while about 11 percent exceeded $1 billion. In 2014, the FTC took action 
+against mergers likely to stifle competition in markets worth 18.6 billion in sales.
+
+The laws that give government the power to block certain mergers, and even in some cases to break up large firms into 
+smaller ones, are called antitrust laws. Before a large merger happens, the antitrust regulators at the FTC and the 
+U.S. Department of Justice can allow the merger, prohibit it, or allow it if certain conditions are met. One common 
+condition is that the merger will be allowed if the firm
+
+PRINCIPLES  OF  ECONOMICS                                                                                   451
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Number and Size of Mergers. (a) The number of mergers in 1999 and 2000 were relatively high com- pared to the 
+annual numbers seen from 2001–2012. While 2001 and 2007 saw a high number of mergers, these were still only about half 
+the number of mergers in 1999 and 2000. (b) In 2012, the greatest number of mergers submitted for review was for 
+transactions between $100 and $150 million.
+
+agrees to sell off certain parts. For example, in 2006, Johnson & Johnson bought the Pfizer’s “consumer health” 
+division, which included well-known brands like Listerine mouthwash and Sudafed cold med- icine. As a condition of 
+allowing the merger, Johnson & Johnson was required to sell off six brands to other firms, including Zantac® heartburn 
+relief medication, Cortizone anti-itch cream, and Balmex diaper rash medication, to preserve a greater degree of 
+competition in these markets.
+
+The U.S. government approves most proposed mergers. In a market-oriented economy, firms have the freedom to make their 
+own choices. Private firms generally have the freedom to:
+
+•   expand or reduce production
+•   set the price they choose
+•   open new factories or sales facilities or close them
+•   hire workers or to lay them off
+•   start selling new products or stop selling existing ones
+
+If the owners want to acquire a firm or be acquired, or to merge with another firm, this decision is just one of many 
+that firms are free to make. In these conditions, the managers of private firms will sometimes make mistakes. They may 
+close down a factory which, it later turns out, would have been profitable. They may start selling a product that ends 
+up losing money. A merger between two compa- nies can sometimes lead to a clash of corporate personalities that makes 
+both firms worse off. But the fundamental belief behind a market-oriented economy is that firms, not governments, are 
+in the best position to know if their actions will lead to attracting more customers or producing more efficiently.
+
+Indeed, government regulators agree that most mergers are beneficial to consumers. As the Federal Trade Commission has 
+noted on its website (as of November, 2013): “Most mergers actually benefit
+
+452                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+competition and consumers by allowing firms to operate more efficiently.” At the same time, the FTC recognizes, “Some 
+[mergers] are likely to lessen competition. That, in turn, can lead to higher prices, reduced availability of goods or 
+services, lower quality of products, and less innovation. Indeed, some mergers create a concentrated market, while 
+others enable a single firm to raise prices.” The chal- lenge for the antitrust regulators at the FTC and the U.S. 
+Department of Justice is to figure out when a merger may hinder competition. This decision involves both numerical 
+tools and some judgments that are difficult to quantify. The following Clear it Up helps explain how antitrust laws 
+came about.
+
+
+WHAT IS U.S. ANTITRUST LAW?
+
+In the closing decades of the 1800s, many industries in the U.S. economy were dominated by a single firm that had most 
+of the sales for the entire country. Supporters of these large firms argued that they could take advantage of economies 
+of scale and careful planning to provide consumers with products at low prices. However, critics pointed out that when 
+competi- tion was reduced, these firms were free to charge more and make permanently higher profits, and that without 
+the goading of competition, it was not clear that they were as efficient or innovative as they could be.
+In many cases, these large firms were organized in the legal form of a “trust,” in which a group of formerly 
+independent firms were consolidated together by mergers and purchases, and a group of “trustees” then ran the companies 
+as if they were a single firm. Thus, when the U.S. government passed the Sfterman Antitrust Act in 1890 to limit the 
+power of these trusts, it was called an antitrust law. In an early demonstration of the law’s power, the U.S. Supreme 
+Court in 1911 upheld the government’s right to break up Standard Oil, which had controlled about 90% of the country’s 
+oil refining, into 34 inde- pendent firms, including Exxon, Mobil, Amoco, and Chevron. In 1914, the Clayton Antitrust 
+Act outlawed mergers and acquisitions (where the outcome would be to “substantially lessen competition” in an 
+industry), price discrimination (where different customers are charged different prices for the same product), and tied 
+sales (where purchase of one product com- mits the buyer to purchase some other product). Also in 1914, the Federal 
+Trade Commission (FTC) was created to define more specifically what competition was unfair. In 1950, the 
+Celler-Kefauver Act extended the Clayton Act by restricting vertical and conglomerate mergers. In the twenty-first 
+century, the FTC and the U.S. Department of Justice continue to enforce antitrust laws.
+
+
+THE FOUR-FIRM CONCENTRATION RATIO
+
+Regulators have struggled for decades to measure the degree of monopoly power in an industry. An early tool was the 
+concentration ratio, which measures what share of the total sales in the industry are accounted for by the largest 
+firms, typically the top four to eight firms. For an explanation of how high market concentrations can create 
+inefficiencies in an economy, refer to Monopoly.
+
+Say that the market for replacing broken automobile windshields in a certain city has 18 firms with the market shares 
+shown in Table 1, where the market sftare is each firm’s proportion of total sales in that market. The four-firm 
+concentration ratio is calculated by adding the market shares of the four largest firms: in this case, 16 + 10 + 8 + 6 
+= 40. This concentration ratio would not be considered especially high, because the largest four firms have less than 
+half the market.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   453
+
+
+If tfte market sftares in tfte market for replacing automobile windsftields are:
+Smooth as Glass Repair Company                            16% of the market
+The Auto Glass Doctor Company                             10% of the market
+Your Car Shield Company                                          8% of the market
+Seven firms that each have 6% of the market         42% of the market, combined Eight firms that each have 3% of the 
+market          24% of the market, combined Then the four-firm concentration ratio is 16 + 10 + 8 + 6 = 40.
+Table 1. Calculating Concentration Ratios from Market Shares
+
+The  concentration  ratio  approach  can  help  to  clarify  some  of  the  fuzziness  over  deciding  when a  merger  
+might  affect  competition.  For  instance,  if  two  of  the  smallest  firms  in  the  hypothetical market for 
+repairing automobile windshields merged, the four-firm concentration ratio would not change—which implies that there is 
+not much worry that the degree of competition in the market has notably diminished. However, if the top two firms 
+merged, then the four-firm concentration ratio would become 46 (that is, 26 + 8 + 6 + 6). While this concentration 
+ratio is modestly higher, the four- firm concentration ratio would still be less than half, so such a proposed merger 
+might barely raise an eyebrow among antitrust regulators.
+
+Visit this website to read an article about Google’s run-in with the FTC.
+
+
+
+
+
+
+
+
+
+
+
+
+THE HERFINDAHL-HIRSHMAN INDEX
+
+A four-firm concentration ratio is a simple tool, which may reveal only part of the story. For example, consider two 
+industries that both have a four-firm concentration ratio of 80. However, in one indus- try five firms each control 20% 
+of the market, while in the other industry, the top firm holds 77% of the market and all the other firms have 1% each. 
+Although the four-firm concentration ratios are iden- tical, it would be reasonable to worry more about the extent of 
+competition in the second case—where the largest firm is nearly a monopoly—than in the first.
+
+Another approach to measuring industry concentration that can distinguish between these two cases is called the 
+Herfindaftl-Hirscftman Index (HHI). The HHI, as it is often called, is calculated by sum- ming the squares of the 
+market share of each firm in the industry, as the following Work it Out shows.
+
+454                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+CALCULATING HHI
+
+Step 1. Calculate the HHI for a monopoly with a market share of 100%. Because there is only one firm, it has 100% 
+market share. The HHI is 1002 = 10,000.
+Step 2. For an extremely competitive industry, with dozens or hundreds of extremely small competitors, the value of the 
+HHI might drop as low as 100 or even less. Calculate the HHI for an industry with 100 firms that each have 1% of the 
+mar- ket. In this case, the HHI is 100(12) = 100.
+Step 3. Calculate the HHI for the industry shown in Table 1. In this case, the HHI is 162 + 102 + 82 + 7(62) + 8(32) = 
+744.
+Step 4. Note that the HHI gives greater weight to large firms.
+Step 5. Consider the example given earlier, comparing one industry where five firms each have 20% of the market with an 
+industry where one firm has 77% and the other 23 firms have 1% each. The two industries have the same four-firm con- 
+centration ratio of 80. But the HHI for the first industry is 5(202) = 2,000, while the HHI for the second industry is 
+much higher at 772 + 23(12) = 5,952.
+Step 6. Note that the near-monopolist in the second industry drives up the HHI measure of industrial concentration.
+Step 7. Review Table 2 which gives some examples of the four-firm concentration ratio and the HHI in various U.S. 
+indus- tries in 2009.  (You can find  market share data from multiple industry  sources. Data in the table are from: 
+Verizon  (for wireless), The Wall Street Journal (for automobiles), IDC Worldwide (for computers) and the U.S. Bureau 
+of Transportation Statistics (for airlines).)
+
+U.S. Industry                                                                                            Four-Firm 
+Ratio    HHI
+Wireless                                                                                                       91       
+                        2,311
+
+Largest five: Verizon, AT&T, Sprint, T-Mobile, MetroPCS
+Automobiles                                                                                                 63          
+                     1,121
+
+Largest five: GM, Toyota, Ford, Honda, Chrysler
+Computers                                                                                                   74          
+                     1,737
+
+Largest five: HP, Dell, Acer, Apple, Toshiba
+Airlines                                                                                                        44      
+                         536
+Largest five: Southwest, American, Delta, United, U.S. Airways
+Table 2. Examples of Concentration Ratios and HHIs in the U.S. Economy, 2009
+
+
+
+In the 1980s, the FTC followed these guidelines: If a merger would result in an HHI of less than 1,000, the FTC would 
+probably approve it. If a merger would result in an HHI of more than 1,800, the FTC would probably challenge it. If a 
+merger would result in an HHI between 1,000 and 1,800, then the FTC would scrutinize the plan and make a case-by-case 
+decision. However, in the last several decades, the antitrust enforcement authorities have moved away from relying as 
+heavily on measures of con- centration ratios and HHIs to determine whether a merger will be allowed, and instead 
+carried out more case-by-case analysis on the extent of competition in different industries.
+
+NEW DIRECTIONS FOR ANTITRUST
+
+Both the four-firm concentration ratio and the Herfindahl-Hirschman index share some weaknesses. First, they begin from 
+the assumption that the “market” under discussion is well-defined, and the only question is measuring how sales are 
+divided in that market. Second, they are based on an implicit assumption that competitive conditions across industries 
+are similar enough that a broad measure of concentration in the market is enough to make a decision about the effects 
+of a merger. These assump-
+
+PRINCIPLES  OF  ECONOMICS                                                                                   455
+
+tions, however, are not always correct. In response to these two problems, the antitrust regulators have been changing 
+their approach in the last decade or two.
+
+Defining a market is often controversial. For example, Microsoft in the early 2000s had a dominant share of the 
+software for computer operating systems. However, in the total market for all computer software and services, including 
+everything from games to scientific programs, the Microsoft share was  only  about  14%  in  2014.  A  narrowly  
+defined  market  will  tend  to  make  concentration  appear higher, while a broadly defined market will tend to make 
+it appear smaller.
+
+There are two especially important shifts affecting how markets are defined in recent decades: one centers on 
+technology and the other centers on globalization. In addition, these two shifts are inter- connected. With the vast 
+improvement in communications technologies, including the development of the Internet, a consumer can order books or 
+pet supplies from all over the country or the world. As a result, the degree of competition many local retail 
+businesses face has increased. The same effect may operate even more strongly in markets for business supplies, where 
+so-called “business-to-busi- ness” websites can allow buyers and suppliers from anywhere in the world to find each 
+other.
+
+Globalization has changed the boundaries of markets. As recently as the 1970s, it was common for measurements of 
+concentration ratios and HHIs to stop at national borders. Now, many industries find that their competition comes from 
+the global market. A few decades ago, three companies, Gen- eral Motors, Ford, and Chrysler, dominated the U.S. auto 
+market. By 2014, however, these three firms were making less than half of U.S. auto sales, and facing competition from 
+well-known car manufac- turers such as Toyota, Honda, Nissan, Volkswagen, Mitsubishi, and Mazda. When HHIs are 
+calculated with a global perspective, concentration in most major industries—including cars—is lower than in a purely 
+domestic context.
+
+Because attempting to define a particular market can be difficult and controversial, the Federal Trade Commission  has  
+begun  to  look  less  at  market  share  and  more  at  the  data  on  actual  competition between  businesses.  For  
+example,  in  February  2007,  Whole  Foods  Market  and  Wild  Oats  Market announced that they wished to merge. These 
+were the two largest companies in the market that the government defined as “premium natural and organic supermarket 
+chains.” However, one could also argue that they were two relatively small companies in the broader market for all 
+stores that sell gro- ceries or specialty food products.
+
+Rather than relying on a market definition, the government antitrust regulators looked at detailed evidence on profits 
+and prices for specific stores in different cities, both before and after other com- petitive stores entered or exited. 
+Based on that evidence, the Federal Trade Commission decided to block the merger. After two years of legal battles, the 
+merger was eventually allowed in 2009 under the conditions that Whole Foods sell off the Wild Oats brand name and a 
+number of individual stores, to preserve competition in certain local markets. For more on the difficulties of defining 
+markets, refer to Monopoly.
+
+This new approach to antitrust regulation involves detailed analysis of specific markets and compa- nies, instead of 
+defining a market and counting up total sales. A common starting point is for antitrust regulators to use statistical 
+tools and real-world evidence to estimate the demand curves and supply curves faced by the firms that are proposing the 
+merger. A second step is to specify how competition occurs in this specific industry. Some possibilities include 
+competing to cut prices, to raise output, to build a brand name through advertising, and to build a reputation for good 
+service or high qual-
+
+456                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+ity. With these pieces of the puzzle in place, it is then possible to build a statistical model that esti- mates the 
+likely outcome for consumers if the two firms are allowed to merge. Of course, these models do require some degree of 
+subjective judgment, and so they can become the subject of legal disputes between the antitrust authorities and the 
+companies that wish to merge.
+
+KEY CONCEPTS AND SUMMARY
+
+A corporate merger involves two private firms joining together. An acquisition refers to one firm buy- ing another 
+firm. In either case, two formerly independent firms become one firm. Antitrust laws seek to ensure active competition 
+in markets, sometimes by preventing large firms from forming through mergers and acquisitions, sometimes by regulating 
+business practices that might restrict competition, and sometimes by breaking up large firms into smaller competitors.
+
+A four-firm concentration ratio is one way of measuring the extent of competition in a market. It is calculated by 
+adding the market shares—that is, the percentage of total sales—of the four largest firms in the market. A 
+Herfindahl-Hirschman Index (HHI) is another way of measuring the extent of com- petition in a market. It is calculated 
+by taking the market shares of all firms in the market, squaring them, and then summing the total.
+
+The forces of globalization and new communications and information technology have increased the level of competition 
+faced by many firms by increasing the amount of competition from other regions and countries.
+
+SELF-CHECK QUESTIONS
+
+
+
+1.    Is it true that both the four-firm concentration ratio and the Herfindahl-Hirshman Index can be affected by a 
+merger between two firms that are not already in the top four by size? Explain briefly.
+2.    Is it true that the four-firm concentration ratio puts more emphasis on one or two very large firms, while the 
+Herfindahl-Hirshman Index puts more emphasis on all the firms in the entire market? Explain briefly.
+3.    Some years ago, two intercity bus companies, Greyhound Lines, Inc. and Trailways Transportation System, wanted to 
+merge. One possible definition of the market in this case was “the market for intercity bus service.” Another possible 
+definition was “the market for intercity transportation, including personal cars, car rentals, passenger trains, and 
+commuter air flights.” Which definition do you think the bus companies preferred, and why?
+4.    As a result of globalization and new information and communications technology, would you expect that the 
+definitions of markets used by antitrust authorities will become broader or narrower?
+
+
+
+REVIEW QUESTIONS
+
+
+
+1.    What is a corporate merger? What is an acquisition?
+2.    What is the goal of antitrust policies?
+3.    How is a four-firm concentration ratio measured? What does a high measure mean about the extent of competition?
+
+PRINCIPLES  OF  ECONOMICS                                                                                   457
+
+
+
+
+4.    How is a Herfindahl-Hirshman Index measured? What does a low measure mean about the extent of competition?
+5.    Why can it be difficult to decide what a “market” is for purposes of measuring competition?
+
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+
+1.    Does either the four-firm concentration ratio or the HHI directly measure the amount of competition in an 
+industry? Why or why not?
+2.    What would be evidence of serious competition between firms in an industry? Can you identify two highly 
+competitive industries?
+
+
+
+PROBLEMS
+
+
+
+1.    Use Table 3 to calculate the four-firm concentration ratio for the U.S. auto market. Does this indicate a 
+concentrated market or not?
+
+GM                                                                                                                      
+                            19%
+
+Ford                                                                                                                    
+                             17%
+
+Toyota                                                                                                                  
+                           14%
+
+Chrysler                                                                                                                
+                          11%
+
+Table 3. Global Auto Manufacturers with Top Four U.S. Market Share, June 2013. (Source: 
+http://www.zacks.com/commentary/ 27690/auto-industry-stock-outlook-june-2013)
+
+2.    Use Table 3 and Table 4 to calculate the Herfindal-Hirschman Index for the U.S. auto market. Would the FTC 
+approve a merger between GM and Ford?
+
+Honda                                                                                                                   
+                                         10%
+
+Nissan                                                                                                                  
+                                          7%
+
+Hyundai                                                                                                                 
+                                       5%
+
+Kia                                                                                                                     
+                                             4%
+
+Subaru                                                                                                                  
+                                         3%
+
+Volkswagen                                                                                                              
+                                    3%
+
+Table 4. Global Auto Manufacturers with additional U.S. Market Share, June 2013. (Source: 
+http://www.zacks.com/commentary/ 27690/auto-industry-stock-outlook-june-2013)
+
+
+
+
+GLOSSARY
+acquisition when one firm purchases another
+antitrust laws laws that give government the power to block certain mergers, and even in some cases to break up large 
+firms into smaller ones
+concentration ratio an early tool to measure the degree of monopoly power in an industry;
+
+458                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+measures what share of the total sales in the industry are accounted for by the largest firms, typically the top four 
+to eight firms
+four-firm concentration ratio the percentage of the total sales in the industry that are accounted
+for by the largest four firms
+Herfindaftl-Hirscftman Index (HHI) approach to measuring market concentration by adding the square of the market share 
+of each firm in the industry
+market sftare the percentage of total sales in the market
+merger when two formerly separate firms combine to become a single firm
+
+SOLUTIONS
+
+
+Answers to Self-Cfteck Questions
+
+1.    Yes, it is true. The HHI example is easy enough: since the market shares of all firms are included in the HHI 
+calculation, a merger between two of the firms will change the HHI. For the four-firm concentration ratio, it is quite 
+possible that a merger between, say, the fifth and sixth largest firms in the market could create a new firm that is 
+then ranked in the top four in the market. In this case, a merger of two firms, neither in the top four, would still 
+change the four-firm concentration ratio.
+2.    No, it is not true. The HHI includes the market shares of all firms in its calculation, but the squaring of the 
+market shares has the effect of making the impact of the largest firms relatively bigger than in the 4-firm or 8-firm 
+ratio.
+3.    The bus companies wanted the broader market definition (i.e., the second definition). If the narrow definition 
+had been used, the combined bus companies would have had a near-monopoly on the market for intercity bus service. But 
+they had only a sliver of the market for intercity transportation when everything else was included. The merger was 
+allowed.
+4.    The common expectation is that the definition of markets will become broader because of greater competition from 
+faraway places. However, this broadening doesn’t necessarily mean that antitrust authorities can relax. There is also a 
+fear that companies with a local or national monopoly may use the new opportunities to extend their reach across 
+national borders, and that it will be difficult for national authorities to respond.

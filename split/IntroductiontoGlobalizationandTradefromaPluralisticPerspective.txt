@@ -1,0 +1,420 @@
+
+
+
+INTRODUCTION  TO  GLOBALIZATION  AND  TRADE  FROM  A PLURALISTIC  PERSPECTIVE
+
+
+
+CHAPTER OBJECTIVES
+
+
+
+In this chapter, you will learn about:
+
+•    Review the Orthodox Economics Comparative Advantage and Trade Story.
+
+•    Examine Critiques of Orthodox Free Trade Story.
+
+•    Identify an Alternative Approach for Evaluating the Impact of International Trade.
+
+
+
+n Ch. 20: Globalization and Protectionism several concerns associated with free trade are tackled and, presumably, 
+debunked.  In 20.2 International Trade and Its Effects on Jobs, Wages, and Work- ing Conditions, three issues are 
+raised.
+
+1.   Fewer Jobs?
+2.   Trade and Wages
+3.   Labor Standards and Working Conditions
+
+In 20.3 Arguments in Support of Restricting Imports, another five issues are tackled.
+
+1.   Infant Industry Argument
+2.   Anti-Dumping
+3.   Environmental Protection
+4.   Low Foreign Wages
+5.   National Interest Argument
+
+But, are these issues really non-starters?  Does orthodox economics effectively minimize the above outlined issues?  
+From the standpoint of heterodox economists, the answer to both of these questions is no.  There is a significant body 
+of research available, within the context of a more pluralistic tra- ditions in economics, that point to other 
+interpretations of international trade in which the standard orthodox economic free trade story has very real 
+weaknesses.
+
+The intention of this section is to provide a counter-perspective to that of the orthodox comparative advantage story.  
+The critique is directed toward the orthodox presentation of its theoretical ideas, specifically how orthodox theory 
+promotes the merits and benefits of free trade.  The critique will take two forms.  The first and primary criticism 
+will focus on the wide array of ways in the orthodox theoretical story fails as both a technical and functional 
+theoretical presentation.  The second element
+
+PRINCIPLES  OF  ECONOMICS                                                                                   795
+of  criticism  will,  in  periodic  instances,  include  references  to  history  as  well  as  empirical  evidence to 
+document instances in which the orthodox comparative advantage story appears to not fulfill its claims.
+
+
+
+28.  1  THE  ORTHODOX  STORY  OF  TRADE:  A  SYNOPSIS
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Define the term comparative advantage.
+
+•    Explain the terms and conditions of trade from an orthodox economic perspective.
+
+
+
+f ever there was a sacrosanct idea within orthodox economic thought, it is the belief, faith even, that orthodox 
+economists have regarding the merits and benefits of economic actors being free to trade.  The basis for the orthodox 
+economists’ faith has much to do with the theoretical explana- tion orthodox economists utilize to explain how trade 
+works and why it is beneficial.  Consider the
+ideas presented in the chapter entitled International Trade.
+
+As presented, orthodox economics  organizes its free trade story around several assumptions.  The assumptions are 
+designed to constrain the scope of the analysis so as to simplify the story.  In the typ- ical introductory textbook 
+presentation, orthodox economists utilize production possibilities fron- tiers to depict their story.
+
+In  support  of  the  production  possibilities  frontier  presentation,  orthodox  economists  apply  eight 
+assumptions.  The following represents the eight, most common, assumptions.
+
+1.   Two producers
+2.   Two products
+3.   Fixed resources.
+4.   Fixed technology.
+5.   Full resource utilization.
+6.   Zero transactions costs
+7.   No external costs or benefits
+8.   Autarky
+
+Let’s take a moment to reflect upon these assumptions and what they mean.  For starters, it is typically to assume that 
+the two producers in the model will be countries.  Within the two countries, only two products will be produced.  Each 
+country will have a fixed number of resources available to produce those products.  Limited resources will subsequently 
+limit the amount of production of the two prod- ucts that is possible within the two countries.  Additionally, the 
+fixed technology assumption further limits the extent of possible production.  Given the limits to production, all 
+resources and technology are assumed to be used, fully utilized, meaning that production will take place at some point 
+on the
+
+PRINCIPLES  OF  ECONOMICS                                                                                   797
+
+production possibilities frontier.  Once products are produced, if the two countries seek to trade with one another, 
+there will be no transactions costs associated with trade.  Transactions costs are costs such as the legal costs of 
+creating contracts or the transportation costs associated  with shipping  a product from one part of the world to 
+another.  In addition to no transactions costs, external costs or benefits are assumed to be absent.  As a reminder, 
+external costs or benefits are the possible spillover effects that occur as a result of economic activity such as 
+production or consumption.  As one can imagine, because trade requires transportation, the social costs associated with 
+the wastes generated by transportation are very real.  However, for the sake of simplicity, the model assumes the costs 
+and/ or benefits of externalities are zero.  Finally, autarky means that each producer is self-sufficient.  Self- 
+sufficient producers do not require trade in order to survive.  If trade is a luxury rather than a neces- sity, then 
+when trade occurs it is voluntary trade and only to the benefit of the trading partners.
+
+Given the model’s assumptions, the orthodox free trade story then showcases three essential compo- nents to the trade 
+story.  First, the initial step in facilitating trade is for producers to identify their comparative advantage.  
+Recall, comparative advantage means that producers are capable of produc- ing some product(s) at a lower opportunity 
+cost than another producer is capable of producing the same product(s).  As a producer, regardless of whether the 
+producer is an individual, firm, or nation, as long as the producer is producing the product at a lower opportunity 
+cost than the other producer, the producer with the lower opportunity cost has a comparative advantage.  The second 
+step in the trade story is the specialization of production.  Upon identifying its comparative advantage, orthodox 
+economics argues that a producer should specialize in the production of the product that which it has a comparative 
+advantage.  Specialization means that a producer should direct their available resources toward the production of a 
+specific product.  The third component of the trade story is, trade.  Spe- cialized producers, producing a product of 
+which they have a comparative advantage, should now seek to identify trading partners that are also specialized 
+producers of desirable products.
+
+1                    →                        2                           →                3
+
+Producer                              Producer Specializes in                   Trade with Identifies its               
+          the Production                                 other Producers Comparative                        of the 
+Comparatively                       of other Advantage                            Advantageous Product                  
+ Products
+
+
+THE BENEFITS OF TRADE
+
+Orthodox economics sees the outcomes of trade as having predominantly positive impacts for the economic well-being of 
+those people participating in the trade.  Trade is deemed beneficial for several reasons.  Orthodox economics concludes 
+that trade will not only stimulate economic growth, increase efficiency, and enhance economic development, but that 
+trade is also the best path toward pursuing those goals.
+
+The  story  of  growth  is  relatively  straightforward.   The  economic  growth,  when  examined  more specifically, 
+such as in the case of international trade as producers get access to consumers beyond their domestic borders, the 
+number of available consumers should grow.  In the face of a larger poten-
+
+798                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+tial consumer market place, domestic producers will seek to expand their productive capacities, oth- erwise known as 
+growth, in order to produce more in an effort to take advantage of having more potential consumers.
+
+The  story  of  efficiency  is  less  obvious,  but  is  still  relatively  straightforward,  particularly  if  viewed 
+through the lens of international trade.  In an international trade environment, producers that may have  otherwise  
+been  subject  to  their  own  country’s  domestic  competition,  are  now  confronted  by international competition.  
+Given more competition, producers are forced to seek ever more efficient ways to produce products or risk being driven 
+out of business.  More trade equates to more competi- tion and, through the eyes of an orthodox economist,
+
+Finally, in the case of the economic development story, the relationship between trade and develop- ment is a bit murky 
+but still evident.  By focusing on the specialized production product(s) that pro- ducers are comparatively good at 
+producing, the total amount of available products should grow.  As two or more parties trade, each producer’s relative 
+abundance of production becomes available to more people to be consumed.  Essentially, with the growth of products 
+comes an increased ability to meet people’s wants.  As more wants are met, facilitated by trade, the sum total of 
+utility grows for all and everyone is made better off.  In this case, economic development is being defined as raised 
+living standards by virtue of access to consumer products.
+
+
+
+28.  2  A  CRITICAL  EXAMINATION  OF  THE  ORTHODOX  DEPICTION OF  FREE  TRADE
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Explain ways in which the Orthodox Economic Trade story is limited as a technique for analyzing trade.
+
+•    Define the different types of technical critiques of the orthodox free trade model
+
+•    Explain that critiques of the orthodox free trade model are of differing severity.
+
+•    Analyze applied examples of the limitations of the orthodox economic model.
+
+
+
+ithin the discipline of economics not all economists agree with the rather rosy picture pre- sented by orthodox 
+economists in their defense of free trade.  Critiques of the orthodox free trade story tend to focus on two areas.  
+Some heterodox economists emphasize what they
+see as the theoretical failures of the orthodox story, namely its disassociation with the “real world.” Other heterodox 
+economists focus their criticisms toward the orthodoxy’s depiction of the outcomes of  trade,  particularly  the  
+orthodoxy’s  conclusion  that  trade  stimulates  economic  growth  and  eco- nomic development
+
+Upon examination it can be argued that both paths of criticism really represent the two different sides of the same 
+coin.  For example, if the theoretical model presented by orthodox economics is, in fact, inaccurate because it is in 
+some way divorced of “real world” context, then the theoretical conclu- sions drawn by the theory will likely also be 
+flawed.  Looked at the other way, if “real world” evidence points to outcomes different from the outcomes predicted or 
+perceived by orthodox economics, then it stands to reason that the theoretical model utilized to predict outcomes is 
+failing in some capacity.
+
+In the following sub-sections each of the two critical paths will be explored.  The careful reader will note that the 
+two paths frequently intersect.
+
+
+28. 2.1 TECHNICAL CRITIQUES: THE ORTHODOX MODEL IS POORLY CONSTRUCTED
+
+In this section  of the chapter we will  explore the model  imperfections  approach to critiquing the orthodox 
+presentation of free trade.  The model imperfections critique is, essentially, a failure of the techniques employed by 
+orthodox economists.  There are two main types of model imperfections.
+
+1.   Type One – Mild
+
+800                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+2.   Type Two – More Severe to Very Severe
+
+For Type I critics of the orthodox economic free trade story, the shortcomings associated with the orthodox economic 
+presentation of free trade is strictly the result of a failure of technique, but not necessarily  a  failure  of  the  
+overall  theory.    In  other  words,  the  theory  does  generalize  to  the  real world, but due to model 
+imperfections such as the model’s choice of assumptions being overly simpli- fied, the model is unable to fully capture 
+actual real world circumstances.  The degree of seriousness associated with these critiques can be classified as mild.
+
+For Type II critics, the model imperfections critique represents a much more serious indictment of the standard 
+orthodox free trade story.  In this case, comparative advantage, specialization, and trade does not actually generalize 
+well to the real world.  The socially positive results that are depicted in the orthodox theoretical presentation, when 
+these imperfections are accounted for, will not emerge. In other words, because the real world will, and does, contain 
+imperfections that do not conform to the orthodox economic model, the orthodox theoretical presentation will often 
+deviate from actual events in the real world causing the model to blatantly misrepresent the benefits of trade.   
+Impor- tantly, with modifications designed to correct the imperfections, the model can be corrected enough so as to 
+reflect conditions in the real world.
+
+
+BREAKOUT BOX – A NOTE ON THE FAILURE OF TECHNIQUE
+
+
+A failure of technique means that by making alterations to the choice of assumptions, the comparative advantage story 
+can be modified to present theoretical outcomes that are more accurate to the real world.  As a general rule the 
+changes in assumptions are applied on an ad hoc basis, meaning that assumptions are altered from situation to 
+situation.  The goal becomes to modify assumptions in order to reflect phenomena experienced in the actual global 
+economy.  The modifica- tion of assumptions suggests that there are limits to the usefulness of the techniques utilized 
+within orthodox economic theory to explain.
+
+
+
+
+
+
+TYPE I MODEL IMPERFECTIONS
+
+The following represent examples of instances in which the restrictive features of the assumptions do not provide a 
+“real world” depiction, but also do not fundamentally undermine the free trade story.
+
+EXCLUSION OF TRANSACTIONS COSTS
+
+In  constructing their theoretical  presentation  of international  trade, orthodox economics  excludes transactions 
+costs.  Transactions costs include factors such as transportation, legal, and communica- tions costs.  As one can 
+imagine, in the actual world in which we live the trade of products will seem- ingly always include significant 
+transaction costs.  When transactions costs are included some trades that would have otherwise been beneficial will not 
+be worthwhile as the costs associated with making the trade become too high to justify the trade.  While this critique 
+certainly does point to instances in which some trades will not happen as would be the case in the standard orthodox 
+trade story, the critique is not a deal breaker as most of the orthodox trade story remains intact.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   801
+
+NON-LINEAR PRODUCTION POSSIBILITIES FRONTIERS
+
+Production possibilities curves are not linear (straight line) but rather concave (bowed outward).  A bowed outward PPF 
+reflects the principle of increasing opportunity cost.  Increasing opportunity cost implies that as a nation moves 
+closer and closer to specializing in the production of one good or one type of good, the opportunity cost of 
+specialization will rise. For example, for countries producing agricultural commodities, there tend to be land or 
+ecology limits on their productive capacity.  As a result, to specialize in an agricultural product and then expanding 
+production in an agricultural pro- ducing sector may cause there to be an increase in the average cost of production 
+due to declining productivity associated with the diseconomies of scale that accompanies introduction of less and less 
+fertile land.
+
+Since the free trade story is told on the basis of comparative advantage such that a nation produces those  goods  that 
+ require  a  low  opportunity  cost  of  production,  if  opportunity costs  are  changing (specifically, rising), then 
+production of a good that may have a low opportunity cost at one point, may have a significantly higher opportunity 
+cost after specialization.  The following table illustrates this point.
+
+
+
+CANADA
+SILVER (OUNCES)                    0                    500,000       600,000
+
+LUMBER (BOARD – FEET)    1,000,000    500,000       0
+1l : 1S           1l : 0.2S
+1S : 1L          1S : 5L
+
+
+MEXICO
+SILVER (OUNCES)                    0                    40,000          80,000
+
+LUMBER (BOARD – FEET)    80,000         50,000          0
+1L : 1.33S    1L : 0.8S
+1S : 0.75L    1S : 1.25L
+
+The ratios in red illustrate the lowest opportunity costs of production for both Canada and Mexico. For  Canada,  the  
+numbers  indicate  that  they  have  a  comparative  advantage  in  producing  lumber because they can produce 1 unit 
+of lumber at the expense of only 0.2 units of silver.  Canada’s com- parative advantage outcome emerges when Canadian 
+production changes from 0 lumber and 600,000 silver to 500,000 lumber and 500,000 silver.  For Mexico, the numbers 
+indicate that they have a com- parative advantage in producing silver because they are capable of producing 1 unit of 
+silver for 0.75 units of lumber.  Mexico’s comparative advantage emerges when Mexican production changes from 0 silver 
+and 80,000 lumber to 40,000 silver and 40,000 lumber.
+
+According to the logic of orthodox economic theory, now that the Canadian and Mexican compar- ative advantages have 
+been identified, with Canada having the advantage in lumber and Mexico the advantage in silver, Mexico and Canada 
+should then specialize and trade.  Specialization means that Canada should now only produce lumber, moving their 
+production outcome to 0 silver and 1,000,000
+
+802                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+lumber  while  Mexico  should  now  only  produce  silver,  moving  their  production  to  0  lumber  and 80,000 
+silver.  It is at this point that a problem appears.  Once each country specializes, what was a comparative advantage 
+dissolves into a comparative disadvantage.
+
+Examining the table, as a result of the principle of increasing opportunity cost, the opportunity cost in silver of 
+specializing in lumber increases as Canada moves to maximum lumber production becom- ing a 1 lumber to 1 silver ratio.  
+Mexico experiences as similar problem except theirs is the problem of a rising opportunity cost associated with forgone 
+lumber.  For Mexico the ratio changes to 1 silver for 1.25 lumber (which is also 1 lumber for 0.8 silver).  In fact, as 
+is demonstrated by this table, once the country’s specialize, each country now has a comparative advantage in the 
+opposite product from what it previously had a comparative advantage.  Post-specialization, Mexico is now capable of 
+pro- ducing lumber at a lower opportunity cost than Canada and Canada is now able to produce silver at a lower 
+opportunity cost than Mexico.  Clearly the orthodox economic story does not fit this circum- stance.  This is not to 
+say that free trade necessarily breaks down as a result of this scenario, but it does demonstrate that in a more 
+realistic setting, specialization and trade are not appropriate.  In fact, one thing the table clearly demonstrates is 
+that both countries are better off producing a combination, a diversity, of products.  At this point, based on a 
+diversity of products produced, if the countries trade, then trade will allow both countries to acquire even more of 
+the respective product that they do not have a comparative advantage in producing.
+
+
+TYPE II MODEL IMPERFECTIONS
+
+The following examples provide an overview of some of the Type II imperfections that appear to gen- erate a divide 
+between real, actual, world circumstances and the orthodox economic trade story.  Each imperfection represents a more 
+fundamental challenge to the orthodox model of trade than did the Type I imperfections.  As such, the imperfections are 
+presented from least significant to most signifi- cant in terms of their implications for the orthodox model.
+
+SPECIALIZATION AND ECONOMIC VULNERABILITY
+
+Any time production becomes highly specialized, the producer confronts potential risks.  Here are two potential risks 
+associated with specialization.
+
+1.   Any country that chooses to completely specialize in the production of one product runs the risk of a decline in 
+the market for the specialized good.  For example, consider a circumstance in which consumers lose interest in the 
+product.  In this case market demand declines and the country specializing in the production of this product will 
+necessarily suffers significant economic damage.
+
+2. Any country that specializes in the production of an agricultural good, beyond losses in consumer demand also face 
+production risks.  A change in weather or a natural disaster has the poten-
+tial to                      completely undermine the economy of the nation(s) producing the single agricul- tural 
+product and                 devastate an economy.
+
+In either of the above stated situations, the orthodox economic advice of specialization and trade has the potential to 
+cause negative, not positive effects, for the participants.  Clearly there are potentially economically devastating 
+risks associated with a program of rigid specialization.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   803
+
+Although the issue of risks does present a more pressing critique of the standard orthodox free trade story, because 
+potential risks are not definite risks, absent the emergence of these events, the ortho- dox free trade story is still 
+applicable.  Additionally, if the above stated risks are a concern, one can argue that the orthodox model can alter its 
+assumptions to acknowledge heightened risks and, subse- quently, advocate for more diversified economies.  Diversified 
+economies can still trade and, within the orthodox economic story, these economies would still be encouraged to open 
+their borders to the free flow of products.
+
+SPECIALIZATION AND LESS THAN FULL EMPLOYMENT
+
+While the orthodox economic free trade story presents the idea that trade may produce increases in available goods and 
+services to the trading partners, as a nation or nations specializes the industries suffering from a comparative 
+disadvantage will, ultimately, displace laborers.  Because the losses in one industry may not be fully compensated in 
+another industry or industries, more laborers may be displaced than necessarily employed, thus causing unemployment.
+
+An example of the above situation, consider the trading situation of two countries where one country has  an  abundance 
+ of  labor  and  the  other  country  has  an  abundance  of  capital  (tools,  equipment, machinery).  In the country 
+that tends to have an abundance of labor the firms within that country would tend to use a lot of labor, and less 
+capital, for their production.  In the country that tends to have an abundance of capital, the firms within the capital 
+intensive country will tend to use a lot of capital, rather than labor, in their production processes.
+
+According to orthodox economic theory, in identifying their respective comparative advantages, the labor intensive 
+country would determine that it has a comparative advantage in producing products that require a lot of labor while the 
+capital intensive country would find that it has an advantage in producing products that require a lot of tools, 
+equipment and machinery.   The challenge that emerges in this situation is that not all firms in the capital intensive 
+country will be capital intensive producers, some will be labor intensive producers.  The labor intensive firms in the 
+capital intensive country will discover that they are at a comparative disadvantage against labor intensive producers 
+from the labor intensive country.  The resulting outcome will be that the labor intensive firms, with an abundance of 
+labor, from the capital intensive country, will begin laying off workers.  At the same time, while the capital 
+intensive firms in the capital intensive country will likely grow and expand with trade, thus hiring more laborers, it 
+is likely that their hiring will be less than the number of layoffs from the labor intensive firms.  In summary, 
+because the firm using a lot of machines tends to use capital rather than labor for its production the number of 
+laborers it absorbs will likely be less than the number of work- ers the labor intensive firm fires.  The overall 
+outcome would be a rise in unemployment in the capital intensive country.
+
+In this instance, the increase in unemployment being described would imply that trading countries will frequently not 
+be operating at their maximum point of productive possibilities.  The notion of less than full employment is a concept 
+that is, more often than not, the case across the entire global economy.  The evidence of less than full employment is 
+overwhelming.  For example, over the last three decades (as global free trade policies and agreements have expanded, 
+not contracted) unemploy- ment rates across countries identified as economically advanced and developed (countries such 
+as the United States, Canada, Japan, Germany, France, the United Kingdom, Australia, Sweden, and others), unemployment 
+rates have ranged from between a low of 3% to as high as 25%.  Additionally, in the rest of world, where the majority 
+of the global population resides the absolute number of unemployed
+
+804                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+or underemployed laborers exceeds 1 billion people.  Clearly less than full employment is the norm, not the exception.
+
+A  less  than  full  employment  outcome  undermines  the  standard  orthodox  free  trade  story  because countries at 
+less than full employment can produce more of any two products while opportunity costs are zero.  In the case of less 
+than full employment, determine a comparative advantage is impossible because both products reflect the lowest possible 
+opportunity cost, zero.  In a circumstance such as this, the orthodox free trade story is not capable of explaining the 
+very real world situation of trade under conditions of less than full employment.  Correcting the model to account for 
+this imperfection would require that the model assume that an action will be taken to push the economy back to full 
+employment.  Such actions could include government (public) policy measures designed to alleviate the unemployment that 
+emerges as a result of trade.  Even for many orthodox economists acknowl- edging the less than full employment scenario 
+is a justification for government action to mitigate the negative consequences associated with trade.

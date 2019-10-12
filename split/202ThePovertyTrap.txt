@@ -1,0 +1,394 @@
+
+
+
+20.2  THE  POVERTY  TRAP
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Explain the poverty trap, noting how it is impacted by government programs
+
+•    Identify potential issues in government programs that seek to reduce poverty
+
+•    Calculate a budget constraint line that represents the poverty trap
+
+
+
+an you give people too much help, or the wrong kind of help? When people are provided with food, shelter, healthcare, 
+income, and other necessities, assistance may reduce their incentive to work. Consider a program to fight poverty that 
+works in this reasonable-sounding manner:
+the government provides assistance to the poor, but as the poor earn income to support themselves, the government 
+reduces the level of assistance it provides. With such a program, every time a poor person earns $100, the person loses 
+$100 in government support. As a result, the person experiences no net gain for working. Economists call this problem 
+the poverty trap.
+
+Consider the situation faced by a single-parent family. A single mother (earning $8 an hour) with two children, as 
+illustrated in Figure 1. First, consider the labor-leisure budget constraint faced by this family in a situation 
+without government assistance. On the horizontal axis is hours of leisure (or time spent with family responsibilities) 
+increasing in quantity from right to left. Also on the horizontal axis is the number of hours at paid work, going from 
+zero hours on the right to the maximum of 2,500 hours on the left. On the vertical axis is the amount of income per 
+year rising from low to higher amounts of income. The budget constraint line shows that at zero hours of leisure and 
+2,500 hours of work, the maximum amount of income is $20,000 ($8 × 2,500 hours). At the other extreme of the budget 
+constraint line, an individual would work zero hours, earn zero income, but enjoy 2,500 hours of leisure. At point A on 
+the budget constraint line, by working 40 hours a week, 50 weeks a year, the utility-maximizing choice is to work a 
+total of 2,000 hours per year and earn $16,000.
+
+Now suppose that a government antipoverty program guarantees every family with a single mother and two children $18,000 
+in income. This is represented on the graph by a horizontal line at $18,000. With this program, each time the mother 
+earns $1,000, the government will deduct $1,000 of its sup- port. Table 3 shows what will happen at each combination of 
+work and government support.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   551
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1.  The  Poverty  Trap  in  Action.  The  original  choice  is  500 hours  of  leisure,  2,000  hours  of  work  
+at  point  A,  and  income  of
+$16,000. With a guaranteed income of $18,000, this family would receive  $18,000  whether  it  provides  zero  hours  
+of  work  or  2,000 hours of work. Only if the family provides, say, 2,300 hours of work does  its  income  rise  above 
+ the  guaranteed  level  of  $18,000—and even then, the marginal gain to income from working many hours is small.
+
+Amount Worked (ftours)    Total Earnings    Government Support    Total Income
+0                                                 0                              $18,000                               
+$18,000
+500                                            $4,000                    $14,000                               $18,000
+1,000                                         $8,000                    $10,000                               $18,000
+1,500                                         $12,000                 $6,000                                 $18,000
+2,000                                         $16,000                 $2,000                                 $18,000
+2,500                                         $20,000                 0                                           
+$20,000
+Table 3. Total Income at Various Combinations of Work and Support
+
+The new budget line, with the antipoverty program in place, is the horizontal and heavy line that is flat at $18,000. 
+If the mother does not work at all, she receives $18,000, all from the government. If she works full time, giving up 40 
+hours per week with her children, she still ends up with $18,000 at the end of the year. Only if she works 2,300 hours 
+in the year—which is an average of 44 hours per week for 50 weeks a year—does household income rise to $18,400. Even in 
+this case, all of her year’s work means that household income rises by only $400 over the income she would receive if 
+she did not work at all. She would need to work 50 hours a week to reach $20,000.
+
+Indeed,  the  poverty  trap  is  even  stronger  than  this  simplified  example  shows,  because  a  working
+
+552                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+mother  will  have  extra  expenses  like  clothing,  transportation,  and  child  care  that  a  nonworking mother 
+will not face, making the economic gains from working even smaller. Moreover, those who do not work fail to build up 
+job experience and contacts, which makes working in the future even less likely.
+
+The bite of the poverty trap can be reduced by designing an antipoverty program so that, instead of reducing government 
+payments by $1 for every $1 earned, payments are reduced by some smaller amount instead. The bite of the poverty trap 
+can also be reduced by imposing requirements for work as a condition of receiving benefits and setting a time limit on 
+benefits.
+
+Figure 2 illustrates a government program that guarantees $18,000 in income, even for those who do not work at all, but 
+then reduces this amount by 50 cents for each $1 earned. The new, higher budget line in Figure 2 shows that, with this 
+program, additional hours of work will bring some economic gain. Because of the reduction in government income when an 
+individual works, an individual earn- ing $8.00 will really net only $4.00 per hour. The vertical intercept of this 
+higher budget constraint line is at $28,000 ($18,000 + 2,500 hours × $4.00 = $28,000). The horizontal intercept is at 
+the point on the graph where $18,000 and 2500 hours of leisure is set. Table 4 shows the total income differ- ences 
+with various choices of labor and leisure.
+
+However, this type of program raises other issues. First, even if it does not eliminate the incentive to work by 
+reducing government payments by $1 for every $1 earned, enacting such a program may still reduce the incentive to work. 
+At least some people who would be working 2,000 hours each year without this program might decide to work fewer hours 
+but still end up with more income—that is, their choice on the new budget line would be like S, above and to the right 
+of the original choice P. Of course, others may choose a point like R, which involves the same amount of work as P, or 
+even a point to the left of R that involves more work.
+
+The second major issue is that when the government phases out its support payments more slowly, the antipoverty program 
+costs more money. Still, it may be preferable in the long run to spend more money on a program that retains a greater 
+incentive to work, rather than spending less money on a program that nearly eliminates any gains from working.
+
+Amount Worked (ftours)             Total Earnings          Government Support            Total Income
+0                                                          0                                    $18,000                 
+                      $18,000
+500                                                      $4,000                          $16,000                        
+               $20,000
+1,000                                                  $8,000                          $14,000                          
+             $22,000
+1,500                                                  $12,000                       $12,000                            
+           $24,000
+2,000                                                  $16,000                       $10,000                            
+           $26,000
+2,500                                                  $20,000                       $8,000                             
+            $28,000
+Table 4. The Labor-Leisure Tradeoff with Assistance Reduced by 50 Cents for Every Dollar Earned
+
+The next module will consider a variety of government support programs focused specifically on the poor, including 
+welfare, SNAP (food supplement), Medicaid, and the earned income tax credit (EITC). Although these programs vary from 
+state to state, it is generally a true statement that in many states from the 1960s into the 1980s, if poor people 
+worked, their level of income barely rose—or did not rise at all—after the reduction in government support payments was 
+factored in. The following Work It Out feature shows how this happens.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   553
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Loosening the Poverty Trap: Reducing Government Assis- tance by 50 Cents for Every $1 Earned. On the original 
+labor-leisure opportunity set, the lower budget set shown by the smaller dashed line in the figure, the preferred 
+choice P is 500 hours of leisure and
+$16,000  of  income.  Then,  the  government  created  an  antipoverty program that guarantees $18,000 in income even 
+to those who work zero hours, shown by the larger dashed line. In addition, every $1 earned means phasing out 50 cents 
+of benefits. This program leads to the higher budget set shown in the diagram. The hope is that this program will 
+provide incentives to work the same or more hours, despite receiving income assistance. However, it is possible that 
+the recipients will choose a point on the new budget set like S, with less work, more leisure, and greater income, or a 
+point like R, with the same work and greater income.
+
+
+CALCULATING A BUDGET CONSTRAINT LINE
+
+Jason earns $9.00 an hour, and a government antipoverty program provides a floor of $10,000 guaranteed income. The 
+government reduces government support by $0.50 for each $1.00 earned. What are the horizontal and vertical intercepts 
+of the budget constraint line? Assume the maximum hours for work or leisure is 2,500 hours.
+Step 1. Determine the amount of the government guaranteed income. In this case, it is $10,000. Step 2. Plot that 
+guaranteed income as a horizontal line on the budget constraint line.
+Step 3. Determine what Jason earns if he has no income and enjoys 2,500 hours of leisure. In this case, he will receive 
+the guaranteed $10,000 (the horizontal intercept).
+
+554                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+Step 4. Calculate how much Jason’s salary will be reduced by due to the reduction in government income. In Jason’s 
+case, it will be reduced by one half. He will, in effect, net only $4.50 an hour.
+Step 5. If Jason works 1,000 hours, at a maximum what income will Jason receive? Jason will get the government 
+assistance of $10,000. He will net only $4.50 for every hour he chooses to work. If he works 1,000 hours at $4.50, his 
+earned income is $4,500 plus the government income of $10,000. Thus the total maximum income (the vertical intercept) 
+is $10,000 +
+$4,500 = $14,500.
+
+
+KEY CONCEPTS AND SUMMARY
+
+A  poverty  trap  occurs  when  government-support  payments  for  the  poor  decline  as  the  poor  earn more income. 
+As a result, the poor do not end up with much more income when they work, because the loss of government support 
+largely or completely offsets any income that is earned by working. The bite of the poverty trap can be reduced by 
+phasing out government benefits more slowly, as well as by imposing requirements for work as a condition of receiving 
+benefits and a time limit on bene- fits.
+
+SELF-CHECK QUESTIONS
+
+
+
+1.    Jonathon is a single father with one child. He can work as a server for $6 per hour for up to 1,500 hours per 
+year. He is eligible for welfare, and so if he does not earn any income, he will receive a total of $10,000 per year. 
+He can work and still receive government benefits, but for every $1 of income, his welfare stipend is
+$1 less. Create a table similar to Table 4 that shows Jonathan’s options. Use four columns, the first showing number of 
+hours to work, the second showing his earnings from work, the third showing the government benefits he will receive, 
+and the fourth column showing his total income (earnings + government support). Sketch a labor-leisure diagram of 
+Jonathan’s opportunity set with and without government support.
+2.    Imagine that the government reworks the welfare policy that was affecting Jonathan in question 1, so that for 
+each dollar someone like Jonathan earns at work, his government benefits diminish by only 30 cents. Reconstruct the 
+table from question 1 to account for this change in policy. Draw Jonathan’s labor-leisure opportunity sets, both for 
+before this welfare program is enacted and after it is enacted.
+
+
+
+REVIEW QUESTIONS
+
+
+
+1.    How does the poverty trap discourage people from working?
+2.    How can the effect of the poverty trap be reduced?
+
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+
+1.    Self-Check Question 1 and Self-Check Question 2 asked you to describe the labor-leisure tradeoff for Jonathon. 
+Since, in the first example, there is no monetary incentive for Jonathon to work, explain why he may choose to work 
+anyway. Explain what the opportunity costs of working and not working might be for
+
+PRINCIPLES  OF  ECONOMICS                                                                                   555
+
+
+
+
+Jonathon in each example. Using your tables and graphs from Self-Check Question 1 and Self-Check Question 2, analyze 
+how the government welfare system affects Jonathan’s incentive to work.
+2.    Explain how you would create a government program that would give an incentive for labor to increase hours and 
+keep labor from falling into the poverty trap.
+
+
+
+PROBLEMS
+
+
+
+Susan is a single mother with three children. She can earn $8 per hour and works up to 2,000 hours per year. However, 
+if she does not earn any income at all, she will receive government benefits totaling $16,000 per year. For every $1 of 
+income she earns, her level of government support will be reduced by $1. Create a table, patterned after Table 6. The 
+first column should show Susan’s choices of how many hours to work per year, up to 2,000 hours. The second column 
+should show her earnings from work. The third column should show her level of government support, given her earn- ings. 
+The final column should show her total income, combining earnings and government support.
+
+
+GLOSSARY
+poverty trap antipoverty programs set up so that government benefits decline substantially as people earn more 
+income—as a result, working provides little financial gain
+
+EXERCISES
+
+
+Answers to Self-Cfteck Questions
+
+1.    Jonathon’s options for working and total income are shown in the following table. His labor-leisure diagram is 
+shown in the figure following the table.
+
+Number of Work Hours    Earnings from Work    Government Benefits    Total Income
+
+1,500                                        $9,000                                $1,000                               
+  $10,000
+
+1,200                                        $7,200                                $2,800                               
+  $10,000
+
+900                                           $5,400                                $4,600                              
+   $10,000
+
+600                                           $3,600                                $6,400                              
+   $10,000
+
+300                                           $1,800                                $8,200                              
+   $10,000
+
+0                                               $0                                       $10,000                        
+       $10,000
+Table 5.
+
+2.    The following table shows a policy where only 30 cents in government support is pulled right back for every $1 of 
+income earned. Jonathon’s labor-leisure diagram is shown in the figure following the table. “Opportunity set after 
+program” extends from (0, $16,300) to (1,500, $10,000). “Opportunity set before program” slopes downward from (0, 
+$9,000) to (1,500, $0).
+
+556                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3.
+
+
+Number of Work Hours    Earnings from Work    Government Benefits    Total Income
+
+1,500                                        $9,000                                $7,300                               
+  $16,300
+
+1,200                                        $7,200                                $7,840                               
+  $15,040
+
+900                                           $5,400                                $8,380                              
+   $13,780
+
+600                                           $3,600                                $8,920                              
+   $12,520
+
+300                                           $1,800                                $9,460                              
+   $22,260
+
+0                                               $0                                       $10,000                        
+       $10,000
+Table 6.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   557
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4.

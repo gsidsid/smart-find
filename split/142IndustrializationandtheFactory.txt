@@ -1,0 +1,234 @@
+
+
+
+14.2  INDUSTRIALIZATION  AND  THE  FACTORY
+
+
+
+fter the Civil War, the United States economy passed into an era of rapid industrialization. The term industrialization 
+is used here to describe a process of development that reorganizes pro- ductive activities such that they conform to a 
+machine logic, as opposed to a handicraft logic.
+That  is,  the  economy  becomes  increasingly  constituted  by  a  series  of  interconnected  machine processes. When 
+we think of the United States undergoing industrialization we are really envisioning its economy becoming a large-scale 
+machine, capable of churning out all of the goods required to sus- tain the community efficiently and to sustain the 
+machine itself, through production of intermediate goods.  When  we  think  of  the  economy  as  industrializing  we  
+are  actually  considering  a  qualitative change in the economic system. To better understand what a qualitative 
+change in the economic sys- tem entails, consider the following key features of an industrialized, machine process 
+economy.
+
+LARGE-SCALE TECHNOLOGIES THAT MAKE UP THE CORE OF THE ECONOMIC SYSTEM.
+Particular combinations of technology incorporated into the economic system were massive in scale. For example, 
+consider again the case of the railroads. We have previously discussed why railroads required administration from the 
+managerial bodies of corporate entities capable of organizing the business over the scale and scope of its activities. 
+The technology itself was massive – establishment of steam powered with a rail and car transportation system over vast 
+geographical areas was quite literally the greatest engineering marvel that humans had achieved to date. With the 
+railroads came the telegraph, which created the possibility for transnational and interregional rapid communication. 
+Other hallmark technologies of an industrializing 19th century American economy include: electric light and power, 
+streetcars, improvements in steel production, and petroleum refining.
+
+INTEGRATED CHAINS OF PRODUCTION THAT LINK MARKETS AND INDUSTRIES.
+The largeness of the business enterprise implies a high degree of interconnectedness between differ- ent stages in the 
+production of the social product. To illustrate our point, consider the generation and provisioning of electric power. 
+We can envision a simplified model of electric generation by breaking the whole production process into four stages:
+
+1.   Production of fuel source. In this example, we will assume we’re talking about a coal fired power plant. This is a 
+good choice, because coal served as the primary fuel source for electric generating during its advent in the United 
+States. Coal is produced by mining and is subject to geological processes that have resulted in an uneven spatial 
+allocation of coal in the earth’s crust. Therefore, coal can only be mined in certain areas. The story of coal in 
+America begins in Pennsylvania.
+2.   Energy conversion. The chemical energy embodied in coal must be converted into mechanical energy before it may be 
+used to generate electricity. This conversion process is accomplished by burning the coal to transform water into 
+steam, which creates the
+
+406                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 7. Atlas of the Historical Geography of the United States, Plate 140 by Charles O. Paullin. Curated by the 
+Carnegie Institution of Science
+
+necessary pressure to power an engine. The engine now embodies some of the energy that existed in the coal, less losses 
+due to inefficiencies in the conversion process. The steam engine itself is the product of a set of interconnected 
+production processes.
+3.   Electric Generation. The mechanical energy of the steam engine is then used to power an electric generator. 
+Electric generators require steel, copper, and most importantly, a patent to produce.
+4.   Distribution. Once generated, the electricity is distributed to the end user via cables that conduct electricity. 
+Edison’s first system in New York used copper as its conductor.
+
+If you think about each of these stages of production occurring as a production process that occupies a different space 
+geographically, then you begin to see how something like the  provisioning of electric- ity is really a network of 
+interdependent production processes that establishes connections between different regions. Coal is mined in 
+Pennsylvania, and then shipped to New York for use as fuel in the production of steam. A boiler and steam-powered 
+electric generator is purchased from a firm in New York that is licensed to sell Edison patented systems. Edison’s 
+generators are produced in upstate New York and require a steady flow of steel from Pennsylvania and copper from 
+Michigan for ongo- ing production. And so on. Every single economic activity is the product of an orchestra of inter- 
+connected production processes. To function efficiently those interdependencies must be managed so
+
+PRINCIPLES  OF  ECONOMICS                                                                                   407
+that they they function as a whole machine. This is what we mean when we describe the economy as industrialized.
+
+
+
+14.3  BIG  BUSINESS  AND  ORGANIZED  LABOR
+
+
+
+s the business enterprise becomes large it operates on a scale of production that requires the labor of a 
+proportionally large number of workers. The managers of the firm must ensure that they reliably and efficiently meet 
+their production goals. To achieve this end, managers estab-
+lished methods for controlling their labor force so that rate of production remains within their full discretion. 
+Introduction of mechanization into the production process serves as one historical exam- ple of the methods of 
+controlling labor. Mechanization establishes the pace of production, by power- ing machine technology. For example, an 
+assembly line sets the rate at which workers must labor. In this sense, workers on an assembly line must work at 
+roughly the same pace, harmonizing their col- lected labor. By adjusting the speed of the machine, worker productivity 
+may be adjusted across the board as desired, subject to physical limits of the labor force. Similarly, the machine 
+process results in a “deskilling” process, which tends to homogenize the labor requirements for production. Deskilling 
+transforms the labor process by removing the power that workers enjoy via their specialized knowl- edge of craft 
+production. Machine production depends, to a much lesser degree, on the specialized knowledge of workers. Instead, this 
+knowledge is transferred to the managerial class, who may pos- sess knowledge of the machine and its technical 
+requirements or retain the expertise of an engineer.
+
+Loss of worker control over the production process results in the ability for the managerial class to retain a larger 
+share of the monetary value of the output of the labor process. Managerial focus on cost efficiency and meeting its 
+production targets, coupled with control over the labor process, resulted in dangerous and poor working conditions. The 
+large business enterprise, by exercising its control over the labor process in order to exploit its workers, created 
+the conditions for the emergence for an organized labor movement.
+
+An exhaustive review of the labor history in the United States is beyond our reach, however, we may highlight some of 
+the major themes and events that helped shape its development.
+
+THE KNIGHTS OF LABOR
+Organized in 1869 by tailors in Pennsylvania, the secret organization named the Noble Order of the Knights of Labor 
+would serve as an organizational body for workers seeking collective action follow- ing the Panic of 1873. Coal miners 
+helped drive membership growth in the Knights of Labor through the depression of the 1870s. By 1884 there were 70,000 
+members of the Knights of Labor. By 1886 this figure exploded to 700,000.
+
+The Knights of Labor participated in strikes in order to achieve their primary goal of an 8 hour work- day. Most 
+notably, the Knights of Labor won a struggle against Jay Gould over a dispute concerning the Wabash Railroad in 1885.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   409
+
+THE GREAT RAILWAY STRIKE OF 1877
+Railroads figure prominently in the course of American economic history for they have left lasting and transformative 
+imprints on the course of development. It is natural, then, to link a major moment in the history of the labor movement 
+to consequences of railroad speculation and administration. The economic depression of the 1870’s was global in nature 
+and was caused largely by a financial crisis related to the value of railroad securities. The Panic of 1873 emerged 
+from a financial system that had become increasingly fragile during the speculative episode in railroad securities, 
+mostly bonds, following the Civil  War. Jay Cooke, a major  US banker during the latter  part  of the 19th  century, 
+was heavily vested in the market for Northern Pacific bonds to interests in Europe. During the 1870s Europeans were 
+less keen to accept the risk associated with holding American railroad bonds. In turn, this led to the inability for 
+Cooke to continue issuing debt and ultimately resulted in his firm becom- ing insolvent. The failure of Jay Cooke & 
+Company set off a wave of bank failures and a closure of the New York Stock Exchange. The result of this financial 
+panic was a nearly decade long depression.
+
+As a result, railroads were under pressure to cut their labor costs. Notable railroads such as the Penn- sylvania  and  
+Baltimore  &  Ohio  Railroads  had  administered  waves  of  wage  cuts.  Railroad  workers organized themselves in the 
+summer of 1877 and succeeded in bringing the railroad system in the eastern part of the United States to a grinding 
+halt. Striking railroad workers were joined by sympa- thetic workers in other mining and manufacturing sectors, which 
+resulted in fears on the part of the state and business interests that labor was growing into a coherent and powerful 
+countervailing force. To quell the strikers, initially local militias were deployed. However, local militias were 
+ineffective due to their propensity to defect and join the strikers, as they found themselves in common interest with 
+their fellow members of the community. Consequently, National Guard and federal troops were brought into cities under 
+the control of the strikers and were far more effective, because the soldiers were not particularly vested with the 
+interests of the community and more likely to follow the orders of their commanding officers.
+
+The strikes of 1877 serve as an important moment in the development of the political economy of the  labor  situation  
+in  the  United  States.  Following  the  strikes,  membership  in  labor  organizations increased  substantially.  
+Likewise,  more  national  guard  units  were  established  with  an  eye  toward checking the power of labor going 
+forward. In the realm of economic theory, the struggle between big business and big labor was taken as a serious matter 
+of consideration. The development of neoclassi- cal economics owes much of its theory of distribution to the 
+international labor struggle that reached a fever pitch in the 1870s. For example, John Bates Clark, the father of the 
+marginal product theory of distribution, was working out a theory of distribution that sought to move consideration of 
+the distribution of the social product away from conflict between social classes, toward one based upon marginal 
+contributions of each factor of production (land, labor, capital) in the production process. The result, is a 
+theoretical system that finds fairness in an unequal distribution of income and wealth. Bates’ theory was a direct 
+response to the class conflict embodied in events like the Great Strikes of 1877.
+
+While it is not possible to give the history of the labor movement in the United States a thorough treatment here, we 
+can summarize some of central implications and consequences:
+
+•   Ongoing coherence and emphasize around the demand for an 8 hour working day.
+•   Development of systems of administration and organization capable of exerting a countervailing force against big 
+business.
+
+410                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maryland National Guard Sixth Regiment fighting to suppress strikers in Baltimore. Harper’s  Weekly,  Journal  of  
+Civilization,  Vol  XXL,  No.  1076,  New  York.  Public domain.
+
+•   Formation of institutions capable of allowing workers to regain some of the control over production that was lost 
+with the demise of handicraft production as a result of industrialization.

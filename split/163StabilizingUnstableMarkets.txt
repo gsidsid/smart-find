@@ -1,0 +1,176 @@
+
+
+
+16.3  STABILIZING  UNSTABLE  MARKETS
+
+
+
+LEARNING OBJECTIVES
+
+
+By the end of this section, you will be able to:
+
+•    Situate businesses and their business models within their market governance structures
+•    Define infrastructure, corporate governance, and market governance
+
+
+
+
+
+The previous sections dealt mainly with the nature of the modern business enterprise as an individual organization.  
+But, of course, no business is created in a vacuum, and no business can operate in com- plete isolation.  This section 
+will look at the economic, social, and political nature of markets to better understand how real businesses fit into a 
+heterodox understanding of the economy.
+
+Any business model–including those discussed above and beyond–is a plan for how to successfully operate a business 
+within one or more markets.  A good business plan will have to consider, among other things, the competition, the 
+potential customer base, rules and regulations, and the necessary infrastructure to produce and distribute the product, 
+whatever it may be.  Established businesses will have worked out their business models over time, will have built (or 
+had built for them) the neces- sary infrastructure (for instance, roads or communications protocols), and will 
+typically have helped define the rules and regulations that dictate which individual and competitive activities are 
+permis- sible and which are not.  This is to say that markets themselves are defined by (and the way business 
+enterprises behave in these markets is guided by) their infrastructure and their corporate and market governance 
+structures.
+
+
+DEFINITIONS
+
+Infrastructure: the common structures, facilities, and systems necessary for organizations to operate.  These may 
+include physical infrastructure like highways, bridges, electrical grids, and sewage systems; as well as systems like 
+the complex net- works of computers tied together through communications lines and protocols we know as the internet.
+
+Corporate governance: the rules and practices defining how and by whom a business is directed as well as how members of 
+the business will interact with each other and those outside of the business.  These are both formal rules like 
+accounting practices or the corporate hierarchy of who reports to whom, as well as informal norms, traditions, and 
+relationships.
+
+Market governance: the rules and practices defining how business enterprises will behave in a market, including 
+especially
+
+PRINCIPLES  OF  ECONOMICS                                                                                   443
+
+
+how they will interact with their competitors.  These may include formal agreements–for instance, a consent decree by 
+which a business agrees not to engage in an activity the government considers anticompetitive, or a joint venture 
+operation between two energy companies to explore a potential source of crude oil.  Probably more important, though, 
+are the var- ious informal arrangements by which certain types of competition and cooperation between businesses are 
+allowed while others are not.
+A side note: these shared rules and infrastructure are not fixed in time–they evolve, whether by unintended consequence 
+or intentional change.  Moreover, they are socially constructed, which means there is a political element to all of 
+them. Although we’re focusing for now on the private, business side of the matter, it should be remembered that there 
+is almost always a government role in the development, regulation, and sometimes prohibition of these structures.  
+Finally, a fourth component, property rigftts, is worth adding.  Property rights are legal norms defining who can own 
+what, what can be done with that property, and therefore how businesses can generate earnings and who has claims on 
+those earnings.  While property is often considered simply a natural right, the actual content of property rights is a 
+complex, perpetually evolving, and highly contested subject.
+
+These attributes of the organization of businesses and the markets in which they operate are all geared toward 
+essentially the same thing: stability.  As an earlier section explained, most parts of the modern economy involve 
+sophisticated and usually large-scale technologies.  For this and other reasons long term planning is necessary for 
+production to go forward; and long term planning requires predictable outcomes.  Hence, markets and businesses must be 
+organized to promote stability.  In particular, as a previous section explains, businesses require predictability in 
+prices.
+
+Now, consider the neoclassical models of previous chapters.  In each of these some, perhaps natural, equilibration 
+process is used–that is, a process by which firm’s, consumers, and ultimately markets move toward an equilibrium,  
+toward stability.  The utility maximizing consumer seeks an optimal combination of consumers goods, the profit 
+maximizing firm seeks an optimal level of production, and the market, through competition and price bidding, moves 
+toward the equilibrium price and out- put.
+
+Many heterodox economists reject each of these models, in part because of the unrealistic mecha- nisms by which 
+equilibrium is reached.  For instance, as chapter “Costs and Prices” demonstrates, few markets in the modern US economy 
+are characterized by the sort of price adjustments that the stan- dard market model relies on to reach a stable 
+equilibrium.  Moreover, considerable evidence suggests that competition–especially price competition–actually promotes 
+instability.  And it is for this reason that the concept of market governance is so important.  Without a workable set 
+of norms concern- ing acceptable and unacceptable forms of competition and cooperation, most markets would never reach 
+equilibrium.  Instead, price competition and chicanery would wreak havoc on businesses and consumers alike.
+
+
+
+16.4  THE  HIGH  PRICE  OF  COLLEGE  TEXTBOOKS
+
+
+
+n this concluding section of the chapter we’ll look at a question you’ve probably asked yourself: why do college 
+textbooks cost so much?  The question is particularly interesting for economic the- ory.  Nationally, textbooks prices 
+have risen more than three times the prices of other goods and services in the economy–an increase from the 1977 to 
+2015 of 1,041%, reports ABC News. As of Sep- tember 2016, the average  undergraduate student will be spending just shy 
+of $1,300 a year on text-
+books and supplies.  That’s no small sum.
+
+Standard analysis would look for low elasticities of demand and lack of competition to explain high prices.  Question: 
+as a student, is your demand for college textbooks elastic or inelastic?  Why?  Likely, you answered ‘very inelastic’ 
+since you have little choice in buying a textbook that is required for a course. (In fact a 2014 Student PIRG survey 
+found that two thirds of students had foregone buying at least one textbook due to cost.  Not surprisingly, almost all 
+of those students indicated concern that the decision would impact their grades negatively.)
+
+As for competition in the textbook publishing business, it may not surprise you to learn that, like in most other 
+markets, there are only a handful of large corporations controlling the bulk of the college textbook supply.  
+International corporations, which in many cases have existed for over a century, dominate the global market for these 
+products, bringing in billions of dollars in revenue each year. While not a pure monopoly, it would seem that this 
+industry is closer to our neoclassical monopoly model than to perfect competition.  The outcome of this captive-market 
+situation, as you’ve seen in a previous chapter, is clear: fewer students purchase textbooks than would like, and they 
+pay higher prices than would exist under more competitive conditions.
+
+But, then, is competition the solution?  Certainly, the industry meets the definition of high concentra- tion, 
+suggesting that textbook publishing is far from the ideal model of perfect competition.  Publish- ers appear to enjoy 
+significant market power, especially in setting their own prices, rather than taking the competitive market price as 
+given.  But, if we accept that these large corporations are not price takers in the markets for their books, we still 
+have to answer: how–that is, for what reasons–do they determine the prices they will charge?  And this is where the 
+business model becomes important.
+
+The mainstream assumption that firms, always and everywhere, maximize profits suggests that out- put is being set 
+according to marginal costs and marginal revenues, and that the high inelasticity of demand allows publishers to raise 
+prices well above the actual costs of production.  Firms produce to maximize profits, and a lack of competition allows 
+them to take monopoly rents through higher prices.
+
+But, consider the heterodox position–that business enterprises generally want to survive and grow, and that competition 
+occurs chiefly through investments, not prices.  This view suggests that it’s not so much that publishers wish to get 
+every last dollar of profit to be had (that is, to maximize profits),
+
+PRINCIPLES  OF  ECONOMICS                                                                                   445
+
+nor that they will raise prices to whatever the students (that is, demanders) are willing to pay.  Rather, these 
+producers are seeking to make the investments necessary to survive (to make a profit) in their markets.  The prices 
+they charge, then, may seem like price gouging, but may really just be the results of the markups necessary to cover 
+the costs of those investments.  (However, the more recent focus among publicly traded companies on keeping stock 
+prices up may drive them toward price gouging over simply pricing to cover full costs.)
+
+And this is where we come back to the original question: is competition the solution?  From the per- spective of 
+heterodox economics, the high price of college textbooks reflects the high cost of investing in new textbook 
+editions–in computer software tools to complement the text (and ensure the student pays for the online access), in test 
+banks and slideshows to aid the instructor using the text, and so on.  And what compels publishers to make these 
+investments?  Largely, competition.  If a publisher neglected to develop new editions, it could not compete with the 
+used textbook markets.  If a pub- lisher fell behind in developing software and supplements for instructors, the other 
+publishers would have a competitive advantage in pitching their texts to instructors.  Perhaps surprisingly, the 
+conclu- sion is that prices are high, not so much from a lack of price competition, but because of a particu- lar 
+dynamic in investment competition.  It is–or so one could argue–a lack of appropriate planning across the industry as a 
+whole that keeps publishers grasping at market share by investing in anything and everything that might help sell their 
+textbooks…and the student pays the price.
+
+
+THE COURTS AND PROPERTY RIGHTS
+
+In a previous breakout box it was mentioned that a proper understanding of market structure would require, among other 
+things, an understanding of the specific property rights relevant to production, exchange, and consumption processes of 
+the market.  A recent US Supreme Court case offers a good illustration of that very point.
+
+John Wiley & Sons, Inc. is a global publishing company with thousands of employees and a market cap (total value of 
+out- standing shares) in the billions of dollars.  In 2008 Wiley sued Supap Kirtsaeng for copyright infringement.  
+Kirtsaeng, a Thailand native who had studied in the US, had discovered that foreign edition textbooks could be imported 
+into the US to be sold at lower prices than the texts’ American-edition prices.  Wiley believed that this was a 
+violation of their property rights which included the right to prevent importation of their copyrighted works.
+
+While two lower courts sided with the publisher’s position on the control that copyright afforded them, the US Supreme 
+Court did not.  They argued in their ruling that the ‘first-sale doctrine’, allowing those who obtained a textbook 
+legally to re-sell it, limited Wiley’s right to control the importation of their books.  As an economist-in-training, 
+how do you think things would be different if the Supreme Court had ruled in favor of Wiley?  Would prices continue to 
+rise, plateau, or come down?  Would this change the direction of investment in the publishing industry?  How would 
+students, faculties, and higher education more generally be affected?
+
+
+
+
+
+
+CHAPTER 17. MONOPOLY AND ANTITRUST POLICY

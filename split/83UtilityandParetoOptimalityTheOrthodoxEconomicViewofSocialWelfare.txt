@@ -1,0 +1,458 @@
+
+
+
+8.3  UTILITY  AND  PARETO  OPTIMALITY:  THE  ORTHODOX ECONOMIC  VIEW  OF  SOCIAL  WELFARE
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Define Pareto optimality
+
+•    Explain how orthodox determines the conditions for societal well-being to be maximized.
+
+•    Analyze the ethical issues surrounding Pareto optimality.
+
+
+
+or orthodox economists the ideal outcome for an economy is an outcome in which Pareto opti- mality is achieved.  The 
+concept of Pareto optimality owes its origins to a 19th century Italian mathematician Vilfredo Pareto.  Stated simply, 
+the Pareto criterion for determining whether an economy has produced the “best” or “ideal” outcome is fulfilled when 
+economic outcomes are such that there is no way to make any one or many people better off without making any one person 
+or
+many worse off.
+
+On its own the Pareto criterion for social well-being is an attractive proposition.  After all if someone is harmed in 
+order to improve the plight of someone else or many others, then it appears obvious that someone is being granted 
+preferential treatment at the expense of someone else or many others.  The granting of preferential treatment hardly 
+seems fair or equitable.  In this context, the utilization of the Pareto criterion eliminates the need to make those 
+choices.
+
+Additionally, the granting of preferential treatment opens the door to a long series of ethical questions that can be 
+avoided by applying the Pareto criterion.  On what basis is the decision to harm or benefit being made?  How or when 
+are interventions that inflict harm or bestow benefits decided? If an inter- vention does take place, who is making the 
+decision to inflict harm or bestow benefits?  What is the degree of harm or benefit triggered by an intervention?  What 
+is the ethical basis for intervening? In many ways, whenever a government must make budgetary decisions, it is asking 
+and answering these questions.  For example, perhaps government policymakers would like to expand the size of the 
+military.  Expanding the size of the military requires that the government finance the expansion of the military.  
+Financing military expansion may require that other government spending programs be reduced.  Alternatively, perhaps 
+taxes will be raised to pay for the military expansion.  Either way, whomever is responsible for financing the military 
+expansion is directly paying for someone else to benefit.  In defense of expanding the military, policymakers may have 
+to justify to the public why the public will, presumably, benefit from the expansion of the military.  The Pareto 
+criterion appears to clearly answer these questions.  If a society knows when it is in a position of maximum benefit, 
+then,
+
+248                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+on the basis of the Pareto criterion, no justification can be made to either harm or benefit anyone, causing all of the 
+above questions become moot.
+
+Something important has now been revealed.  The Pareto criterion only becomes applicable when there is a measure of 
+what it means for someone, or many, to benefit and for someone, or many, to be harmed.  If some kind of metric exists, 
+then, once measured, a society will know when no one person or many can be made better off without someone or many 
+being harmed.  Therefore, what is essential to the Pareto criterion is the mechanism a theorist uses to measure and 
+determine a society’s overall well being.  For orthodox economists, the measure of individual and social well-being is 
+the amount of utility that individuals and society has derived.
+
+
+UTILITY MAXIMIZATION AND PARETO OPTIMALITY: ETHICAL IMPLICATIONS
+
+Given the nature of utility maximization, human social interaction is reduced to exchange between individuals.  Clearly 
+the utility assumption  generates  a distinct depiction of human beings, human needs, and human society.  The utility 
+maximizing assumption also generates a specific conception of what is an economically “just” society.  In other words, 
+orthodox economics has a specific view of what it believes is the best way for society to be organized economically.
+
+The orthodox worldview can be neatly summarized.  If people desire utility, then people can acquire utility by 
+exchanging with others.  Once people exchange with others, the act of exchanging makes them better off.  Once all 
+exchanges are complete, all people are as well off as they can become eco- nomically.  If everyone is as well off as 
+they can become, then no one, or many, can be made better off without someone, or many, being made worse off.  As far 
+as orthodox economics is concerned, soci- ety has reached its ideal, Pareto optimal, outcome because people were free 
+to make choices within an economy that facilitates exchanges, namely a market based economy.
+
+At this point it should be clear that utilitarianism provides the philosophical foundation supporting orthodox 
+economics while Pareto optimality represents the final outcome of the orthodox social wel- fare theory.  If utility is 
+the initial proposition on which orthodox theory is built, and Pareto optimal- ity is the culmination of orthodox 
+economic theory, then the utility and Pareto optimality must be intrinsically linked.
+
+The dilemma for orthodox economics is that by accepting the utility theory of value and adopting the Pareto criterion 
+as a social welfare measure, orthodox economics produces a very specific, and eth- ically limited, framework.  For 
+example, by focusing exclusively on the point of exchange, orthodox economics tends to ignore situations in which 
+people are in disagreement with one another, circum- stances of conflict.  The reason why conflict is generally ignored 
+is because the conditions of exchange are assumed in advance.  For orthodox economics, the institutions of exchange, 
+such as markets, con- tract law, and contract enforcement, are assumed to be in place prior to economic agents 
+exchanging. Additionally, by assuming that initial endowments are given, orthodox economics assumes the exis- tence of 
+income on the part of trading parties, but generally fails to recognize where income origi- nates.
+
+The trouble for orthodox economics is that it is not hard to imagine a world in which one’s income is affected by 
+discriminatory factors such as racism, sexism, sexual orientation or any other divisive perception. In fact, 
+imagination is not necessary, as the real world is filled with examples of discrim-
+
+PRINCIPLES  OF  ECONOMICS                                                                                   249
+
+ination and exploitation.  Regardless of form, the outcome of discrimination is the same, some are able to exploit 
+others by virtue of their power to discriminate.  Or, in another example, it is clear that conditions of inequality can 
+empower some relative to others.  People that disproportionately benefit from economic outcomes are endowed with more 
+income and have the power to acquire resources. In instances in which the acquisition of resources becomes concentrated 
+in the hands of a small num- ber of people, those with great wealth and/or income may have the power to exploit their 
+positions of power at the expense of others.  Of course, with exploitation, conditions of inequality may be wors- ened 
+allowing unequal situations to become further entrenched.
+
+Conscientious observers of a capitalist market system, including utilitarians, are aware that situations of 
+exploitation are not only present, but virtually unavoidable.  Given the existence of conflict and inherent disparities 
+of power, it is easy to imagine that someone might want to intervene in economic affairs in order to level the playing 
+field.  For example, someone might advocate to pass laws to penal- ize discriminatory behavior so as to reduce its 
+prevalence, or others might seek to impose taxes on some so as to redistribute income or wealth in the hopes of 
+reducing inequality.  The interventions in questions would certainly be designed to make someone, or many, better off 
+at the expense of some- one else, or many others.  As a result, no matter how justified the interventionist actions may 
+be, and they are certainly justifiable in the examples provided above, within the utilitarian and Pareto crite- rion 
+context the interventionist actions cannot be supported!
+
+If  the  significance  of  utilitarianism  and  the  Pareto  criterion  remains  obscure,  then  perhaps  less abstract 
+and much more obvious examples may be useful.  The following situations, using subjective measures of utility, are 
+Pareto sub-optimal and cannot be justified:
+
+1.   The defeat of Nazi Germany because Adolf Hitler was made worse off.
+2.   The end of slavery in the American South because slave owners were made worse off.
+
+Clearly, to any reasonable observer the defeat of Nazi Germany and the end of slavery in the American South are 
+justifiable as they ended horrible chapters in human history.  However, by following the utilitarian belief and 
+coupling it to the Pareto criterion, orthodox economics cannot really make any argument to defend the destruction of 
+Nazi Germany and the conclusion of slavery in the American South.  Subjectively speaking, Hitler’s loss of utility may 
+have more than offset the world’s gain in util- ity and thus made the world worse off.  Or, subjectively speaking, the 
+loss of utility to slave owners in the South may have more than offset the gain in utility experienced by the former 
+slaves.  After all, if no quantifiable measure is possible it is actually impossible to know whether or not total util- 
+ity has become larger or smaller so there is no way for a utilitarian to justify an intervention in the above, albeit 
+extreme, cases.  Additionally, any intervention in the above cases required someone or many being made worse off in 
+order to make some or many better off.  The utilitarian tradition has no adequate way of applying anything more than 
+some kind of hedonistic, happiness seeking, value judg- ment to human action.  Obviously, there are serious moral and 
+ethical weaknesses associated with the acceptance of utilitarianism.
+
+In summary, the significance and value-laden implications of accepting utility, appears to elude most orthodox  
+economists.   In  neoclassical  theory  price  and  utility  are  equalized,  specifically  price  and marginal 
+utility.  Therefore, price equals value and this concludes the story.  The neoclassical over- simplification of value 
+theory, which treats value and price as synonyms, fails to recognize that by believing in utility, the orthodox 
+economist is believing in a set of pre-ordained value judgments.  The importance of this point cannot be overstated.  
+Observe the significance of prices in a capitalist econ-
+
+250                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+omy as described in this textbook.  Marveling at how fluidly consumers and producers respond to price changes in 
+markets the textbook states:
+
+“…adjustments in response to price changes happen all of the time in a market economy, often so smoothly and rapidly 
+that we barely notice them…For both the U.S. economy and the world economy as a whole, markets – that is, demand and 
+supply – are the primary social mechanism for answering the basic questions about what is produced, how it is produced, 
+and for whom it is produced.”  (pg. 71)
+
+Because prices send the signals that determine the allocation of resources in a market economy, and the allocation of 
+resources has tremendous social ramifications, then the question of whether or not the allocation  of resources is  
+“socially just”  must  be  addressed.  Because  value  theory provides  the foundation for which the quantitative 
+origin of prices, it is value theory then that also provides the basis  for  the  normative  criterion  from  which  
+prices  and  the  allocation  of  resources  may  be  inter- preted.  Clearly, the choice of value theory is extremely 
+important.
+
+Unfortunately, for orthodox economics, the normative implications of the utilitarian assumption gen- erally lay 
+dormant.
+
+As non-orthodox economists are well aware, value theory acts as a cohesive, it is the glue that con- nects economic 
+theory to a society’s moral and ethical norms.  Any complete theoretical depiction of economic interaction necessarily 
+requires a theory of value.  As such, it is important to self- reflect on what values have been adopted by a theory and 
+how those values impact how economic outcomes are  interpreted.     Given  the  importance  of  value  theory,  the  
+one  dominant  proposition  presented throughout this paper is that it is absolutely necessary for any economic 
+theorist to anchor their the- oretical ideas to a theory of value.  Within this context, however, the utility theory of 
+value presents orthodox economists  with a dual horned dilemma.  To accept utility as the basis for their analysis 
+means that orthodox economists are implicitly valuing any and all market driven economic outcomes, regardless of the 
+negative impacts that those outcomes may have on large segments of the society.  To the contrary, to argue against any 
+and all market outcomes as just, an economist, orthodox or other- wise, necessarily must begin their theorizing 
+applying a different set of values outside of the value of endless hedonism that is central to utilitarian beliefs.
+
+
+
+8.4  ABANDONING  THE  NORMATIVE  CONSTRAINTS  OF UTILITARIANISM
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Explain the basic elements of Amartya Sen’s Capabilities approach
+
+•    Define capabilities and functionings
+
+•    Explain the Marxian Labor Theory of Value and its implications
+
+
+
+iven the limitations and challenges associated with utilitarianism, many students of econom- ics seek out alternative 
+approaches for measuring economic well-being and interpreting the societal implications of economic outcomes.  The 
+following describes, two alternative, hetero-
+dox, approaches for interpreting economic conditions.
+
+TWO NORMATIVE EXAMPLES FROM HETERODOX ECONOMICS
+
+Abandoning Utility: The Capabilities Approach the Ethical Considerations of Amartya Sen
+
+Where  do  the  seeds  of  discontent  sprout?   In  1998  Amartya  Sen  was  awarded  the  Nobel  Prize  in economics. 
+ Sen is a fascinating case study as he provides an example of an economist who is not a utilitarian.  Early in his 
+career Sen had abandoned utilitarianism.  What prompted Sen to abandon utility as a first principle?  The answer to 
+this question can be found at the beginning of Sen’s career when Sen encountered a utilitarian tradition in economics 
+that had shed nearly all the conventional characteristics of ethical analysis.  While the early 19th century 
+utilitarian thinkers such as Bentham had identified and described some of the ethical issues surrounding the idea of 
+diminishing marginal utility, by the late 20th century utilitarianism in economics had been reduced to revealed 
+preference theory.  For Sen, utilitarianism provides entirely too-narrow an assessment of what it means to be a person. 
+ The result is that there are far too many limits associated with utilitarianism for the utilitar- ian to be able to 
+make effective, and informed, moral evaluations.
+
+Taken further, Sen also recognizes the link between the moral vacuum produced by utilitarian philos- ophy and the 
+neoclassical application of the Pareto criterion.  For Sen, utilitarianism and the Pareto criterion are like a form of 
+normative handcuffs.  Neither the distribution of income nor initial util- ities factor in to the choice making, 
+exchange story, promoted by orthodox economics.  By ignoring the initial endowments of income or utility, Sen argues 
+that a condition of Pareto optimal may also be
+
+252                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+one of deep inequality and hardship.  Those without property and with little income often times find themselves without 
+property and little income even though they have engaged in market exchange.
+
+Admittedly, a person’s actual freedom to exchange may provide a person with a degree of additional utility.  Clearly 
+being free to make choices is empowering and valuable to individuals.  However, one’s freedom to act does not mean that 
+a person is in a remotely decent position in the market.  The fact is, a market outcome can be Pareto optimal and still 
+be less than socially optimal.  For example, instead of demanding change people in poor situations often simply adjust 
+to their negative circumstances. The deprived find some area of existence that gives them pleasure and make do.  The 
+result is a disad- vantaged yet acquiescent populace that not only continues to function, but may be falsely perceived 
+as happy or not too sad.  In this example, utilitarianism generates a persistently unfair outcome within a population 
+of people ill-equipped to effectively do anything to alter that outcome.  This utilitar- ian picture highlights a 
+tendency to under-estimate the plight of people in negative circumstances and causes Sen to conclude that neoclassical 
+welfare economics is incapable of addressing the ethical issues that accompany the existence of poverty and oppression.
+
+In  terms  of  the  problems  associated  with  the  distribution  of  utilities,  Sen  criticizes  the  utilitarian 
+notion that every action in life is based on pleasure or happiness.  There is no equality to be found in adding up 
+everyone’s utility to find a sum of total utility.  It is possible for a maximum of total social utility to be 
+generated under a circumstance in which one person receives the largest share of the available utility while many 
+others receive very little.  Further, it is not feasible to correct for an unequal distribution of utilities generated 
+by market outcomes.  The only way to rectify the impasse requires  that  the  theorist  be  able  to  engage  in  
+interpersonal  comparisons  of  well-being.   In  other words, people need to be able to compare how well off they are 
+relative to other people.  Relative comparisons are not something to which utility is adept at explaining.  Given all 
+of the problems Sen identifies, he departs from utilitarian precepts and develops an alternative measure of economic 
+well- being.
+
+
+The Capabilities Approach
+
+The capabilities approach represents Sen’s alternative to the neoclassical welfare model.  The capa- bilities approach 
+is a theoretical device that allows for interpersonal welfare comparisons, while also maintaining the ability and 
+freedom of people to make choices.  For Sen, the interpersonal compar- isons of well-being should be based on a group 
+of what Sen calls “functionings.”
+
+Functionings – Represents a state of being for an individual as well as the collection of all things an individual can 
+be doing.  Functionings can be as basic as being well-nourished and properly sheltered to as challenging as flying an 
+airplane.
+
+In turn, the measure of social welfare is the “capability” of people to access and develop their “func- tionings.”
+
+Capability – Is the availability of functionings coupled with the ability of the individual to achieve a combina- tion 
+of functionings.
+
+The combination of functionings that are available and the ability of an individual to achieve a com- bination of 
+functionings is the measure of an individuals well-being.  Consider the following table.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   253
+
+
+
+
+Limited Capabilities   Greater Capabilities Limited Functionings   Low Welfare                    Moderate Welfare 
+Greater Functionings      Moderate Welfare          High Welfare
+
+Based on the capabilities approach, having many options available, such as states of being or activities to pursue, and 
+then having the freedom to pursue those options is the ideal.  The highest social welfare is achieved when a society 
+produces an environment that meets basic needs while also provide people with ample opportunities to pursue challenging 
+and life enriching activities.  To the contrary, having limited access to functionings, and limited freedom in the 
+pursuit of those functionings is the least advantageous position.  In the case of moderate welfare outcomes, either 
+indiviudals have many pos- sible functionings available, but a limited freedom to pursue those functionings, or a 
+limited set of available functionings but substantial freedom to pursue those goals.
+
+
+BREAKOUT BOX – CAPABILITIES AND FUNCTIONGS EXAMPLES OF                                                WELFARE OUTCOMES
+
+
+
+Limited Functionings/Limited Capabilities
+
+
+Represents a case in which a person or a group of people are living with clearly definable limits to their functionings 
+as defined by abject poverty, malnourishment and/or starvation and with little to no medical care.  In this scenario 
+the person or people are simply seeking to survive from one day to the next, there is little to no long term planning 
+or goals.  Possibly the result of social and political unrest such as a civil war (the current situation in Syria for 
+example), or a weather calamity such as a drought, or a socioeconomic order such as the slave economy of the pre-Civil 
+War American South.
+
+Given the horrendous living conditions and limited functioning, any person living under these conditions would likely 
+attempt make changes in their lives in order to try and reduce their immediate suffering.  The ability to make changes, 
+their capabilities, may not be possible as they may be living under conditions of political, military, and economic 
+repression. Absent the freedom to maneuver, the person or people in this circumstance are rendered virtually helpless 
+to the situa- tion in which they have befallen.  For example, unless the slave is freed, as property, the slave simply 
+cannot pursue other options
+
+Limited Functionings/Greater Capabilities
+
+
+Represents a case in which a person or people are again deeply limited in terms of having basic needs and few wants 
+met. In this instance, however, the person or people in this circumstance have some options to escape their plight.  
+For exam- ple, consider the scenario of political unrest, if greater capabilities are present, the person or people can 
+possibly vacate the region in which the unrest in unfolding.  Evacuation of refugees to other more stable regions of 
+the world create capabil- ities for the now displaced residents from a place devoid of functionings to places with both 
+functionings and resources to expand capabilities.  Another example could be the freeing of slaves in the American 
+South during the post-Civil War period.
+
+Greater Functionings/Limited Capabilities
+
+
+Represents a case in which a person or people have their basic needs and wants met, while enjoying the luxury of having
+
+254                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+many other possible functionings available within the society such as educational, health care, and employment oppor- 
+tunities.  In this instance, however, the person or people in this circumstance do not have options available to access 
+the abundance of functionings.  For example, consider the scenario of repressive political forces that are the result 
+of situations of patriarchal social structures, or general totalitarian principles.  A society characterized by 
+repressive political regimes will restrict the freedom of its populace to enjoy the varied functionings that exist.  A 
+historic example would be the Jewish population that was subjected to the ruling principles of Nazi Germany.
+
+Greater Functionings/Greater Capabilities
+
+
+Represents a case in which a person or people have their basic needs and wants met, while enjoying the luxury of having 
+many other possible functionings available within the society such as educational, health care, and employment 
+opportuni- ties.  In this instance, however, the person or people in this circumstance also have a great many options 
+available to access the abundance of functionings.  For example, consider the example of the majority of people living 
+in economies charac- terized as advanced developed economies with largely democratic political institutions.  Certainly 
+there remain conditions of repression such as discrimination, sexism, racism, and any number of limiting conditions.  
+However, given democratic political structures and civil society outlets, people are able to continue to press for 
+ever-expanding capabilities.
+
+The capabilities approach then is not just a story of the freedom to pursue well-being, such as is the case in the 
+story pro- vided by orthodox economics.  Instead, the capabilities approach is asking questions about initial 
+endowments, available functionings, as well as the distributional outcomes associated with the pursuit of those 
+functionings.  Given the capabil- ities approach, the social welfare analysis of economics is no longer reduced to the 
+action of choice making, but rather to both the conditions preceding choice as well as the outcomes associated with 
+choices.  While functionings can vary for dif- ferent people across social circumstances, as well as time and place, so 
+long as people have the ability to obtain the outlined functionings then they have an opportunity to elevate their 
+well-being. Clearly, the capabilities approach represents for Sen, and others, a framework capable of generating more 
+ethically pleasing results than that of the utility-tainted Pareto criterion.
+
+In conclusion, Sen has managed to escape the ethical handcuffs of utilitarianism.   The capabilities approach offers 
+Sen, and other economists interested in exploring the capabilities approach, a new ethical theory.   Sen has clearly 
+avoided the fate of many neoclassical economists, i.e. being able study economics absent ethics.
+
+
+
+
+
+
+The Marxian Approach and the Labor Theory of Value
+
+Another  approach  to  applying  normative  reasoning  toward  economic  phenomena  is  the  Marxian labor theory of 
+value.  In stark contrast to the utility theory of value, the preanalytic vision associated with the labor theory of 
+value produces a view of humanity and human need that is virtually antithet- ical to the utilitarian depiction.  Rather 
+than experiencing social interaction through exchange, within the labor theory of value human beings are presented as 
+engaged in the act of production.
+
+The basic proposition on which the labor theory of value is constructed is the idea that before some- thing can be 
+exchanged it must be produced.  As a result, the value of products is generated at the point of production, where the 
+products are created.  At the point of production, labor is the essential component of production processes.  While 
+machines can enhance the productivity of human labor,
+
+PRINCIPLES  OF  ECONOMICS                                                                                   255
+
+machines only exist as a result of the collective accumulation of human labor over time.  Importantly, machines 
+themselves do not create labor.  After all, a nail cannot hammer itself.  The implication is that the process of 
+production has always required human labor power as even the most sophisticated machines require human operators.
+
+Additionally, production has always been a social endeavor as human beings work with one another to produce those 
+things that satisfy the material wants of people.  Consider, for example, a loaf of bread that you see on a grocery 
+store shelf.  The production and distribution process necessary to bring the loaf of bread to the grocery store shelf 
+is extensive, requiring the contribution of a great many people. For starters, the agricultural process that provides 
+the wheat, and/or oats, and/or grains that are the primary ingredients for making bread have to be grown by farmers.  
+The number of farmers involved may number in the hundreds or thousands.  Additionally, the farmers will use tools and 
+other inputs provided to them by other producers.  Those producer, the producers of farm equipment, will also bring 
+together laborers and equipment in a manufacturing process that will build farm equipment. By continuation, the tools 
+and equipment used in the manufacturing process that builds farm equip- ment will also have to be produced by laborers 
+using other tools and equipment in other production processes, and so on and so forth.  On the other end of the 
+production process, after harvesting, the basic agricultural inputs used in making bread will be transported to 
+processing facilities.  The act of transportation requires that laborers operate transportation equipment like trains 
+and trucks.  Just as was the case with farm equipment, transportation equipment will be made by many laborers that will 
+be utilizing many machines that will have been produced by many other laborers using many other machines, and so on and 
+so forth.  Of course, transportation equipment generally requires fuel. If the fuel is a petroleum byproduct, then the 
+extraction of petroleum will once again require many laborers using significant amounts of equipment through many 
+stages of production until a fuel is available that will be used to operate the transportation equipment.  Over and 
+over again, each ele- ment of production requires many other laborers in many other production processes in a seemingly 
+endless and nearly incomprehensible scale of human interaction.  Clearly, production is an inherently social process 
+that only takes place when human beings apply themselves to a multitude of production processes
+Because the sole universally necessary element in the production process is labor, labor becomes the only true and 
+relevant source of value.  Human history demonstrates that human survival necessitates that human beings engage first 
+and foremost in the process of providing for material needs.  If human beings exchange, it is only because they first 
+produced an excess that they are willing to exchange. Exchange is not a necessary condition for human survival, whereas 
+production is required for human existence.
+
+When juxtaposed, the differences between the vision generated by the utility theory of value and the labor theory of 
+value could not be more visible.  Let’s examine four primary differences.
+
+First, orthodox economics  downplays any necessary  human social  relationships,  as individuals  are viewed as 
+isolated utility maximizers within orthodox economic thought.  To the contrary, adherents to  the  labor  theory  of  
+value  see  human  behavior  itself,  including  exchange  relationships,  as  being the  result  of  social  
+relationships.  By  continuation,  a  strong  argument  can  be  made  that  there  are also important historical 
+understandings and divisions between the two value theories.  For utility theorists, because  human behavior is 
+perceived as a universal constant across time, understanding economic  history  is  not  a  necessary  component  of  
+their  theory.   Labor  theorists,  however,  must
+
+256                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+study history closely in order to attempt to understand and identify the important changes in social arrangements that 
+have historically arisen in different socioeconomic systems.
+
+Second, due to the fact that exchange is a voluntary form of social interaction, harmonious outcomes appear normal 
+within utilitarian thinking.  To the contrary, since labor is the source of value and pro- duction, if there are class 
+differences in a society, those class differences will inevitably end in con- flict.  The result is that conflict, not 
+harmony, is front and center for labor theorists.
+
+Third, while neoclassical economists take as given individual preferences, and by implication assert that the act of 
+choosing is always efficient, labor theorists argue that preferences arise from social relationships and social 
+interactions.  As such, adherents to the labor theory of value do not accept the choice-driven revealed preference 
+argument on social welfare.
+
+Fourth, whereas orthodox economists identify individual incomes as originating through a voluntary process of exchange 
+between individuals whose preferences are given, the labor theorist argues that the income that flows to non-laboring 
+classes is the byproduct of a process of exploitation.
+
+Exploitation – The idea that a producer or producers of a product receive compensation that is less than the value of 
+what the producer or producers contributed to the production process.
+
+Clearly the utility theory of value and the labor theory of value yield two different and competing conceptions of 
+human existence, producing two different normative criteria for evaluating human interaction.
+
+It would appear that the choice of value theory and recognition of its normative impact should be of the utmost 
+importance to a theorist.  This is not always the case.  Perhaps due to the obscure relation- ship between price and 
+value in neoclassical theory, there are many neoclassical theorists who directly violate the philosophical foundations 
+of their accepted theory of value and do so by attempting to temper  the  less-than-savory  ethical  outcomes  present  
+in  a  capitalist  market  system.   Alternatively, while most heterodox thinkers openly challenge the ethical outcomes 
+of the market system and the conclusions brought about by the use of utility, many very prominent heterodox thinkers 
+also either reject the need for a theory of value or do not explicitly endorse a formal theory of value.  Sen falls 
+under the latter category.  In both instances value theory’s importance is being inadequately recog- nized.  While 
+continued criticism of neoclassical theory is undoubtedly warranted, heterodox econo- mists, regardless of their lofty 
+accomplishments, prestige, and respectability, should not be absolved of deserved criticism.  Within this premise, an 
+evaluation of the relationship between value theory and Sen’s important contribution to the critique of neoclassical 
+welfare economics will be the focus of the remainder of this paper.

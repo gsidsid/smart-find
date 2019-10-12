@@ -1,0 +1,165 @@
+
+
+
+3.6  AN  ALTERNATIVE  APPROACH  TO  DEFINING  ECONOMICS
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Describe an alternative definition of economics.
+
+•    Understand the basis for framing an alternative definition of economics.
+
+
+
+he preceding presentation centered on deconstructing and then challenging the orthodox defi- nition of economics.  Of 
+central concern throughout is the way in which the orthodox defini- tion of economics potentially handcuffs the 
+economist into viewing economic activity through
+a very narrow and specific lens.  Given the problems associated with the orthodox definition of eco- nomics, a 
+concerned student may be apt to ask, what does an alternative definition of economics look like?  The answer to this 
+question is that there are many possible alternative definitional variations.
+
+The structure of an alternative definition of economics can take many forms, although the overall essence of 
+alternative definitions is frequently similar.  With regard to structure, some alternative def- initions are apt to 
+simplify economic activity to its most basic form.  For example, economics can be the study of how human beings must 
+work together, and with nature, to produce those things that fulfill the material needs and wants of society.  In other 
+instances alternative definitions of economics seek to reduce the definition to the essential characteristics of an 
+economy.  For example, economics can be defined as the study of how human beings organize production, distribution, and 
+consump- tion.  Still in other instances alternative definitions of economics focus on interdisciplinary facets of the 
+structure of economic decision making.  For instance, economics can be defined as the study of how cultural norms, 
+social institutions, political structures, and general decision making processes influence human behavior toward 
+economic ends.
+
+Importantly, each of the possible definitional structures stipulated above appear to avoid the pitfalls that plague the 
+orthodox definition of economics.  First, none of the above alternative definitional possibilities assumes scarcity. 
+Rather, each definition is open to the possibility of differing forms of economic organization and a diversity of ways 
+to meet societal needs and wants.  Second, none of the above alternative definitional structures make unprovable 
+assumptions about individual human behavior  and  motivation.  Rather,  the  social  elements  of  the  organization  
+of  economic  activity  are emphasized, opening the door to analyzing how individuals respond to social conditions.  
+Third, none of the above alternative definitional structures predicates endless want and the need and desirability for 
+endless economic growth. Rather, each is open to the possibility of alternative economic struc- tures that can be 
+coordinated to operate within the limits of the natural biosphere.
+
+74                     ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+Going forward, within the context of the alternative perspectives developed within this textbook, and in addition to 
+the above definitional structures, the following definition of economics is suggested.
+
+Economics  –  Is  the  study  of  social  provisioning,  in  which  an  understanding  of  the  development  of  
+political economies is rooted in social, political, natural, and cultural processes.
+
+
+
+CHAPTER 4. DEMAND AND SUPPLY
+
+
+
+
+INTRODUCTION  TO  DEMAND  AND  SUPPLY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Farmer’s Market. Organic vegetables and fruits that are grown and sold within a specific geographical region 
+should, in theory, cost less than conventional produce because the transportation costs are less. That is not, however, 
+usually the case. (Credit: modification of work by Natalie Maynor/Flickr Creative Commons)
+
+
+WHY CAN WE NOT GET ENOUGH OF ORGANIC?
+
+Organic food is increasingly popular, not just in the United States, but worldwide. At one time, consumers had to go to 
+specialty stores or farmer’s markets to find organic produce. Now it is available in most grocery stores. In short, 
+organic is part of the mainstream.
+Ever wonder why organic food costs more than conventional food? Why, say, does an organic Fuji apple cost $1.99 a 
+pound, while its conventional counterpart costs $1.49 a pound? The same price relationship is true for just about every 
+organic product on the market. If many organic foods are locally grown, would they not take less time to get to market 
+and there- fore be cheaper? What are the forces that keep those prices from coming down? Turns out those forces have a 
+lot to do with this chapter’s topic: demand and supply.
+
+PRINCIPLES  OF  ECONOMICS                                                                                      77
+CHAPTER OBJECTIVES
+
+
+Introduction to Demand and Supply
+In this chapter, you will learn about:
+
+•    Demand, Supply, and Equilibrium in Markets for Goods and Services
+
+•    Shifts in Demand and Supply for Goods and Services
+
+•    Changes in Equilibrium Price and Quantity: The Four-Step Process
+
+•    Price Ceilings and Price Floors
+
+
+
+n  auction  bidder  pays  thousands  of  dollars  for  a  dress  Whitney  Houston  wore.  A  collector spends a small 
+fortune for a few drawings by John Lennon. People usually react to purchases like these in two ways: their jaw drops 
+because they think these are high prices to pay for such
+goods or they think these are rare, desirable items and the amount paid seems right.
+
+Visit this website to read a list of bizarre items that have been purchased for their ties to celebrities. These 
+examples repre- sent an interesting facet of demand and supply.
+
+
+
+
+
+
+
+
+
+
+
+
+When economists talk about prices, they are less interested in making judgments than in gaining a practical 
+understanding of what determines prices and why prices change. Consider a price most of us contend with weekly: that of 
+a gallon of gas. Why was the average price of gasoline in the United States $3.71 per gallon in June 2014? Why did the 
+price for gasoline fall sharply to $2.07 per gallon by January 2015? To explain these price movements, economists focus 
+on the determinants of what gasoline buyers are willing to pay and what gasoline sellers are willing to accept.
+
+As it turns out, the price of gasoline in June of any given year is nearly always higher than the price in January of 
+that same year; over recent decades, gasoline prices in midsummer have averaged about 10 cents per gallon more than 
+their midwinter low. The likely reason is that people drive more in the summer, and are also willing to pay more for 
+gas, but that does not explain how steeply gas prices fell. Other factors were at work during those six months, such as 
+increases in supply and decreases in the demand for crude oil.
+
+This chapter introduces the economic model of demand and supply—one of the most powerful mod- els in all of economics. 
+The discussion here begins by examining how demand and supply determine
+
+78                     ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+the price and the quantity sold in markets for goods and services, and how changes in demand and supply lead to changes 
+in prices and quantities.

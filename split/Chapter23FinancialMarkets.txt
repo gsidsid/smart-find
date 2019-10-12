@@ -1,0 +1,516 @@
+
+
+
+CHAPTER 23. FINANCIAL MARKETS
+
+
+
+
+INTRODUCTION  TO  FINANCIAL  MARKETS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Building Home Equity. Many people choose to purchase their home rather than rent. This chapter explores how 
+the global financial crisis has influenced home ownership. (Credit: modification of work by Diana Parkhouse/Flickr 
+Creative Commones)
+
+
+THE HOUSING BUBBLE AND THE FINANCIAL CRISIS OF 2007
+
+In 2006, housing equity in the United States peaked at $13 trillion. That means that the market prices of homes, less 
+what was still owed on the loans used to buy these houses, equaled $13 trillion. This was a very good number, since the 
+equity represented the value of the financial asset most U.S. citizens owned.
+However, by 2008 this number had gone down to $8.8 trillion, and it declined further still in 2009. Combined with the 
+decline in value of other financial assets held by U.S. citizens, by 2010, U.S. homeowners’ wealth had declined by $14 
+tril- lion! This is a staggering result, and it affected millions of lives: people had to alter their retirement 
+decisions, housing deci- sions, and other important consumption decisions. Just about every other large economy in the 
+world suffered a decline in the market value of financial assets, as a result of the global financial crisis of 
+2008–2009.
+This chapter will explain why people buy houses (other than as a place to live), why they buy other types of financial 
+assets, and why businesses sell those financial assets in the first place. The chapter will also give us insight into 
+why financial mar- kets and assets go through boom and bust cycles like the one described here.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   643
+CHAPTER OBJECTIVES
+
+
+Introduction to Financial Markets
+In this chapter, you will learn about:
+
+•    How Businesses Raise Financial Capital
+
+•    How Households Supply Financial Capital
+
+•    How to Accumulate Personal Wealth
+
+
+
+hen a firm needs to buy new equipment or build a new facility, it often must go to the finan- cial market to raise 
+funds. Usually firms will add capacity during an economic expansion when profits are on the rise and consumer demand is 
+high. Business investment is one of the
+critical ingredients needed to sustain economic growth. Even in the sluggish economy of 2009, U.S. firms invested $1.4 
+trillion in new equipment and structures, in the hope that these investments would generate profits in the years ahead.
+
+Between the end of the recession in 2009 through the second quarter 2013, profits for the S&P 500 companies grew to 9.7 
+% despite the weak economy, with much of that amount driven by cost cutting and reductions in input costs, according to 
+the Wall Street Journal. Figure 2 shows corporate profits after taxes (adjusted for inventory and capital consumption). 
+Despite the steep decline in quarterly net profit in 2008, profits have recovered and surpassed pre-Recession levels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Corporate Profits After Tax (Adjusted for Inventory and Capital Consumption). Until 2008, corporate profits 
+after tax have generally continued to increase each year. There was a significant drop in profits during 2008 and into 
+2009. The profit trend has since continued to increase each year, though at a less steady or consistent rate. (Source: 
+Federal Reserve Economic Data (FRED) https://research.stlouisfed.org/fred2/series/CPATAX)
+
+644                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+Many firms, from huge companies like General Motors to startup firms writing computer software, do not have the 
+financial resources within the firm to make all the desired investments. These firms need financial capital from 
+outside investors, and they are willing to pay interest for the opportunity to get a rate of return on the investment 
+for that financial capital.
+
+On the other side of the financial capital market, suppliers of financial capital, like households, wish to use their 
+savings in a way that will provide a return. Individuals cannot, however, take the few thou- sand dollars that they 
+save in any given year, write a letter to General Motors or some other firm, and negotiate to invest their money with 
+that firm. Financial capital markets bridge this gap: that is, they find ways to take the inflow of funds from many 
+separate suppliers of financial capital and transform it into the funds desired by demanders of financial capital. Such 
+financial markets include stocks, bonds, bank loans, and other financial investments.
+
+Visit this website to read more about financial markets.
+
+
+
+
+
+
+
+
+
+
+
+
+Our perspective then shifts to consider how these financial investments appear to suppliers of capital such as the 
+households that are saving funds. Households have a range of investment options: bank accounts, certificates of 
+deposit, money market mutual funds, bonds, stocks, stock and bond mutual funds, housing, and even tangible assets like 
+gold. Finally, the chapter investigates two methods for becoming  rich:  a  quick  and  easy  method  that  does  not  
+work  very  well  at  all,  and  a  slow,  reliable method that can work very well indeed over a lifetime.
+
+
+
+23.1  HOW  BUSINESSES  RAISE  FINANCIAL  CAPITAL
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Describe financial capital and how it relates to profits
+
+•    Discuss the purpose and process of borrowing, bonds, and corporate stock
+
+•    Explain how firms choose between sources of financial capital
+
+
+
+irms often make decisions that involve spending money in the present and expecting to earn profits in the future. 
+Examples include when a firm buys a machine that will last 10 years, or builds a new plant that will last for 30 years, 
+or starts a research and development project. Firms
+can raise the financial capital they need to pay for such projects in four main ways: (1) from early-stage investors; 
+(2) by reinvesting profits; (3) by borrowing through banks or bonds; and (4) by selling stock. When owners of a 
+business choose sources of financial capital, they also choose how to pay for them.
+
+EARLY STAGE FINANCIAL CAPITAL
+
+Firms that are just beginning often have an idea or a prototype for a product or service to sell, but few customers, or 
+even no customers at all, and thus are not earning profits. Such firms face a difficult problem when it comes to 
+raising financial capital: How can a firm that has not yet demonstrated any ability to earn profits pay a rate of 
+return to financial investors?
+
+For many small businesses, the original source of money is the owner of the business. Someone who decides to start a 
+restaurant or a gas station, for instance, might cover the startup costs by dipping into his or her own bank account, 
+or by borrowing money (perhaps using a home as collateral). Alterna- tively, many cities have a network of well-to-do 
+individuals, known as “angel investors,” who will put their own money into small new companies at an early stage of 
+development, in exchange for owning some portion of the firm.
+Venture capital firms make financial investments in new companies that are still relatively small in size, but that 
+have potential to grow substantially. These firms gather money from a variety of individ- ual or institutional 
+investors, including banks, institutions like college endowments, insurance com- panies that hold financial reserves, 
+and corporate pension funds. Venture capital firms do more than just supply money to small startups. They also provide 
+advice on potential products, customers, and key employees. Typically, a venture capital fund invests in a number of 
+firms, and then investors in that fund receive returns according to how the fund as a whole performs.
+
+646                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+The amount of money invested in venture capital fluctuates substantially from year to year: as one example, venture 
+capital firms invested more than $48.3 billion in 2014, according to the National Venture Capital Association. All 
+early-stage investors realize that the majority of small startup busi- nesses will never hit it big; indeed, many of 
+them will go out of business within a few months or years. They also know that getting in on the ground floor of a few 
+huge successes like a Netflix or an Ama- zon.com can make up for a lot of failures. Early-stage investors are therefore 
+willing to take large risks in order to be in a position to gain substantial returns on their investment.
+
+PROFITS AS A SOURCE OF FINANCIAL CAPITAL
+
+If firms are earning profits (their revenues are greater than costs), they can choose to reinvest some of these profits 
+in equipment, structures, and research and development. For many established com- panies, reinvesting their own profits 
+is one primary source of financial capital. Companies and firms just getting started may have numerous attractive 
+investment opportunities, but few current profits to invest. Even large firms can experience a year or two of earning 
+low profits or even suffering losses, but unless the firm can find a steady and reliable source of financial capital so 
+that it can continue making  real  investments  in  tough  times,  the  firm  may  not  survive  until  better  times  
+arrive.  Firms often need to find sources of financial capital other than profits.
+
+BORROWING: BANKS AND BONDS
+
+When a firm has a record of at least earning significant revenues, and better still of earning profits, the firm can 
+make a credible promise to pay interest, and so it becomes possible for the firm to borrow money. Firms have two main 
+methods of borrowing: banks and bonds.
+
+A bank loan for a firm works in much the same way as a loan for an individual who is buying a car or a house. The firm 
+borrows an amount of money and then promises to repay it, including some rate of interest, over a predetermined period 
+of time. If the firm fails to make its loan payments, the bank (or banks) can often take the firm to court and require 
+it to sell its buildings or equipment to make the loan payments.
+Another source of financial capital is a bond. A bond is a financial contract: a borrower agrees to repay the amount 
+that was borrowed and also a rate of interest over a period of time in the future. A corporate bond is issued by firms, 
+but bonds are also issued by various levels of government. For example, a municipal bond is issued by cities, a state 
+bond by U.S. states, and a Treasury bond by the federal government through the U.S. Department of tfte Treasury. A bond 
+specifies an amount that will be borrowed, the interest rate that will be paid, and the time until repayment.
+
+A large company, for example, might issue bonds for $10 million; the firm promises to make interest payments at an 
+annual rate of 8%, or $800,000 per year and then, after 10 years, will repay the $10 million it originally borrowed. 
+When a firm issues bonds, the total amount that is borrowed is divided up. A firm seeks to borrow $50 million by 
+issuing bonds, might actually issue 10,000 bonds of $5,000 each. In this way, an individual investor could, in effect, 
+loan the firm $5,000, or any multiple of that amount. Anyone who owns a bond and receives the interest payments is 
+called a bondftolder. If a firm issues bonds and fails to make the promised interest payments, the bondholders can take 
+the firm to court and require it to pay, even if the firm needs to raise the money by selling buildings or equip- ment. 
+However, there is no guarantee the firm will have sufficient assets to pay off the bonds. The bondholders may get back 
+only a portion of what they loaned the firm.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   647
+
+Bank borrowing is more customized than issuing bonds, so it often works better for relatively small firms. The bank can 
+get to know the firm extremely well—often because the bank can monitor sales and  expenses  quite  accurately  by  
+looking  at  deposits  and  withdrawals.  Relatively  large  and  well- known firms often issue bonds instead. They use 
+bonds to raise new financial capital that pays for investments, or to raise capital to pay off old bonds, or to buy 
+other firms. However, the idea that banks are usually used for relatively smaller loans and bonds for larger loans is 
+not an ironclad rule: sometimes groups of banks make large loans and sometimes relatively small and lesser-known firms 
+issue bonds.
+
+CORPORATE STOCK AND PUBLIC FIRMS
+A corporation is a business that “incorporates”—that is owned by shareholders that have limited lia- bility for the 
+debt of the company but share in its profits (and losses). Corporations may be private or public, and may or may not 
+have stock that is publicly traded. They may raise funds to finance their operations or new investments by raising 
+capital through the sale of stock or the issuance of bonds.
+
+Those who buy the stock become the owners, or sftareftolders, of the firm. Stock represents owner- ship of a firm; that 
+is, a person who owns 100% of a company’s stock, by definition, owns the entire company. The stock of a company is 
+divided into sftares. Corporate giants like IBM, AT&T, Ford, General Electric, Microsoft, Merck, and Exxon all have 
+millions of shares of stock. In most large and well-known firms, no individual owns a majority of the shares of the 
+stock. Instead, large numbers of shareholders—even those who hold thousands of shares—each have only a small slice of 
+the overall ownership of the firm.
+
+When a company is owned by a large number of shareholders, there are three questions to ask:
+
+1.   How and when does the company get money from the sale of its stock?
+2.   What rate of return does the company promise to pay when it sells stock?
+3.   Who makes decisions in a company owned by a large number of shareholders?
+
+First, a firm receives money from the sale of its stock only when the company sells its own stock to the public (the 
+public includes individuals, mutual funds, insurance companies, and pension funds). A firm’s first sale of stock to the 
+public is called an initial public offering (IPO). The IPO is important for two reasons. For one, the IPO, and any 
+stock issued thereafter, such as stock held as treasury stock (shares that a company keeps in their own treasury) or 
+new stock issued later as a secondary offering, provides the funds to repay the early-stage investors, like the angel 
+investors and the venture capital firms. A venture capital firm may have a 40% ownership in the firm. When the firm 
+sells stock, the venture capital firm sells its part ownership of the firm to the public. A second reason for the 
+impor- tance of the IPO is that it provides the established company with financial capital for a substantial expansion 
+of its operations.
+
+Most of the time when corporate stock is bought and sold, however, the firm receives no financial return at all. If you 
+buy shares of stock in General Motors, you almost certainly buy them from the current owner of those shares, and 
+General Motors does not receive any of your money. This pattern should not seem particularly odd. After all, if you buy 
+a house, the current owner gets your money, not the original builder of the house. Similarly, when you buy shares of 
+stock, you are buying a small slice of ownership of the firm from the existing owner—and the firm that originally 
+issued the stock is not a part of this transaction.
+
+648                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+Second, when a firm decides to issue stock, it must recognize that investors will expect to receive a rate of return. 
+That rate of return can come in two forms. A firm can make a direct payment to its shareholders, called a dividend. 
+Alternatively, a financial investor might buy a share of stock in Wal- Mart for $45 and then later sell that share of 
+stock to someone else for $60, for a gain of $15. The increase in the value of the stock (or of any asset) between when 
+it is bought and when it is sold is called a capital gain.
+
+Third: Who makes the decisions about when a firm will issue stock, or pay dividends, or re-invest profits? To 
+understand the answers to these questions, it is useful to separate firms into two groups: private and public.
+A private company is owned by the people who run it on a day-to-day basis. A private company can be run by individuals, 
+in which case it is called a sole proprietorsftip, or it can be run by a group, in which case it is a partnersftip. A 
+private company can also be a corporation, but with no publicly issued stock. A small law firm run by one person, even 
+if it employs some other lawyers, would be a sole proprietorship. A larger law firm may be owned jointly by its 
+partners. Most private companies are relatively small, but there are some large private corporations, with tens of 
+billions of dollars in annual sales, that do not have publicly issued stock, such as farm products dealer Cargill, the 
+Mars candy company, and the Bechtel engineering and construction firm.
+
+When  a  firm  decides  to  sell  stock,  which  in  turn  can  be  bought  and  sold  by  financial  investors,  it is 
+called a public company. Shareholders own a public company. Since the shareholders are a very broad group, often 
+consisting of thousands or even millions of investors, the shareholders vote for a board of directors, who in turn hire 
+top executives to run the firm on a day-to-day basis. The more shares of stock a shareholder owns, the more votes that 
+shareholder is entitled to cast for the com- pany’s board of directors.
+
+In theory, the board of directors helps to ensure that the firm is run in the interests of the true own- ers—the 
+shareholders. However, the top executives who run the firm have a strong voice in choosing the candidates who will be 
+on their board of directors. After all, few shareholders are knowledgeable enough or have enough of a personal 
+incentive to spend energy and money nominating alternative members of the board.
+
+HOW FIRMS CHOOSE BETWEEN SOURCES OF FINANCIAL CAPITAL
+
+There are clear patterns in how businesses raise financial capital. These patterns can be explained in terms of 
+imperfect information, which as discussed in Information, Risk, and Insurance, is a situa- tion where buyers and 
+sellers in a market do not both have full and equal information. Those who are actually running a firm will almost 
+always have more information about whether the firm is likely to earn profits in the future than outside investors who 
+provide financial capital.
+
+Any young startup firm is a risk; indeed, some startup firms are only a little more than an idea on paper.  The  firm’s 
+ founders  inevitably  have  better  information  about  how  hard  they  are  willing  to work, and whether the firm 
+is likely to succeed, than anyone else. When the founders put their own money into the firm, they demonstrate a belief 
+in its prospects. At this early stage, angel investors and venture capitalists try to overcome the imperfect 
+information, at least in part, by knowing the man- agers and their business plan personally and by giving them advice.
+Accurate information is sometimes not available because corporate governance, the name econo-
+
+PRINCIPLES  OF  ECONOMICS                                                                                   649
+
+mists give to the institutions that are supposed to watch over top executives, fails, as the following Clear It Up 
+feature on Lehman Brothers shows.
+
+
+HOW DID LACK OF CORPORATE GOVERNANCE LEAD TO THE LEHMAN BROTHERS FAILURE?
+
+In 2008, Lehman Brothers was the fourth largest U.S. investment bank, with 25,000 employees. The firm had been in busi- 
+ness for 164 years. On September 15, 2008, Lehman Brothers filed for Chapter 11 bankruptcy protection. There are many 
+causes of the Lehman Brothers failure. One area of apparent failure was the lack of oversight by the Board of Directors 
+to keep managers from undertaking excessive risk. Part of the oversight failure, according to Tim Geithner’s April 10, 
+2010, testimony to Congress, can be attributed to the Executive Compensation Committee’s emphasis on short-term gains 
+with- out enough consideration of the risks. In addition, according to the court examiner’s report, the Lehman 
+Brother’s Board of Directors paid too little attention to the details of the operations of Lehman Brothers and also had 
+limited financial ser- vice experience.
+The board of directors, elected by the shareholders, is supposed to be the first line of corporate governance and 
+oversight for top executives. A second institution of corporate governance is the auditing firm hired to go over the 
+financial records of  the  company  and  certify  that  everything  looks  reasonable.  A  third  institution  of  
+corporate  governance  is  outside investors, especially large shareholders like those who invest large mutual funds or 
+pension funds. In the case of Lehman Brothers, corporate governance failed to provide investors with accurate financial 
+information about the firm’s operations.
+
+As a firm becomes at least somewhat established and its strategy appears likely to lead to profits in the near future, 
+knowing the individual managers and their business plans on a personal basis becomes less important, because 
+information has become more widely available regarding the company’s prod- ucts, revenues, costs, and profits. As a 
+result, other outside investors who do not know the managers personally, like bondholders  and  shareholders,  are more 
+willing  to provide  financial  capital to the firm.
+
+At this point, a firm must often choose how to access financial capital. It may choose to borrow from a bank, issue 
+bonds, or issue stock. The great disadvantage of borrowing money from a bank or issu- ing bonds is that the firm 
+commits to scheduled interest payments, whether or not it has sufficient income. The great advantage of borrowing money 
+is that the firm maintains control of its operations and is not subject to shareholders. Issuing stock involves selling 
+off ownership of the company to the public and becoming responsible to a board of directors and the shareholders.
+
+The benefit of issuing stock is that a small and growing firm increases its visibility in the financial markets and can 
+access large amounts of financial capital for expansion, without worrying about pay- ing this money back. If the firm 
+is successful and profitable, the board of directors will need to decide upon a dividend payout or how to reinvest 
+profits to further grow the company. Issuing and placing stock is expensive, requires the expertise of investment 
+bankers and attorneys, and entails compliance with reporting requirements to shareholders and government agencies, such 
+as the federal Securities and Exchange Commission.
+
+KEY CONCEPTS AND SUMMARY
+
+Companies can raise early-stage financial capital in several ways: from their owners’ or managers’ personal savings, or 
+credit cards and from private investors like angel investors and venture capital firms.
+
+650                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+A bond is a financial contract through which a borrower agrees to repay the amount that was bor- rowed. A bond 
+specifies an amount that will be borrowed, the amounts that will be repaid over time based on the interest rate when 
+the bond is issued, and the time until repayment. Corporate bonds are issued by firms; municipal bonds are issued by 
+cities, state bonds by U.S. states, and Treasury bonds by the federal government through the U.S. Department of the 
+Treasury.
+
+Stock represents ownership of a firm. The stock of a company is divided into shares. A firm receives financial capital 
+when it sells stock to the public. A company’s first sale of stock to the public is called the initial public offering 
+(IPO). However, a firm does not receive any funds when one shareholder sells stock in the firm to another investor. The 
+rate of return on stock is received in two forms: divi- dends and capital gains.
+
+A private company is usually owned by the people who run it on a day-to-day basis, although it can be run by hired 
+managers. A private company owned and run by an individual is called a sole propri- etorship, while a firm owned run by 
+a group is called a partnership. When a firm decides to sell stock that can be bought and sold by financial investors, 
+then the firm is owned by its shareholders—who in turn elect a board of directors to hire top day-to-day management—and 
+is called a public company. Corporate governance is the name economists give to the institutions that are supposed to 
+watch over top executives, though it does not always work.
+
+SELF-CHECK QUESTIONS
+
+
+
+1.    Answer these three questions about early-stage corporate finance:
+
+a.    Why do very small companies tend to raise money from private investors instead of through an IPO?
+b.    Why do small, young companies often prefer an IPO to borrowing from a bank or issuing bonds?
+c.    Who has better information about whether a small firm is likely to earn profits, a venture capitalist or a 
+potential bondholder, and why?
+
+2.    From a firm’s point of view, how is a bond similar to a bank loan? How are they different?
+
+
+
+
+REVIEW QUESTIONS
+
+
+
+1.    What are the most common ways for start-up firms to raise financial capital?
+2.    Why can firms not just use their own profits for financial capital, with no need for outside investors?
+3.    Why are banks more willing to lend to well-established firms?
+4.    What is a bond?
+5.    What does a share of stock represent?
+6.    When do firms receive money from the sale of stock in their firm and when do they not receive money?
+7.    What is a dividend?
+8.    What is a capital gain?
+9.    What is the difference between a private company and a public company?
+10.    How do the shareholders who own a company choose the actual managers of the company?
+
+PRINCIPLES  OF  ECONOMICS                                                                                   651
+
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+
+1.    If you owned a small firm that had become somewhat established, but you needed a surge of financial capital to 
+carry out a major expansion, would you prefer to raise the funds through borrowing or by issuing stock? Explain your 
+choice.
+2.    Explain how a company can fail when the safeguards that should be in place fail.
+
+
+
+
+PROBLEMS
+
+
+
+The Darkroom Windowshade Company has 100,000 shares of stock outstanding. The investors in the firm own the following 
+numbers of shares: investor 1 has 20,000 shares; investor 2 has 18,000 shares; investor 3 has 15,000 shares;
+investor 4 has 10,000 shares; investor 5 has 7,000 shares; and investors 6 through 11 have 5,000 shares each. What is 
+the minimum number of investors it would take to vote to change the top management of the company? If investors 1 and 2 
+agree to vote together, can they be certain of always getting their way in how the company will be run?
+
+
+REFERENCES
+
+National    Venture    Capital    Association.    “Recent    Stats    &    Studies.”    http://www.nvca.org/ 
+index.php?option=com_content&view=article&id=344&Itemid=103Update.
+
+Freddie Mac. 2015. “Freddie Mac Update: March 2015.” Accessed April 13, 2015. http://www.fred- 
+diemac.com/investors/pdffiles/investor-presentation.pdf.
+
+Former, Jamie D. “Should Your Small Business Go Public? Consider the Benefits and Risks of Becom- ing a Publicly Traded 
+Company.” U.S. Small Business Administration: Community Blog (blog). Publication date  March  23,  2010.  
+http://www.sba.gov/community/blogs/community-blogs/business-law-advi- 
+sor/should-your-small-business-go-public-consider-0.
+
+GLOSSARY
+bond a financial contract through which a borrower like a corporation, a city or state, or the federal government 
+agrees to repay the amount that was borrowed and also a rate of interest over a period of time in the future
+bondftolder someone who owns bonds and receives the interest payments
+capital gain a financial gain from buying an asset, like a share of stock or a house, and later selling it at a higher 
+price
+corporate bond a bond issued by firms that wish to borrow
+corporate governance the name economists give to the institutions that are supposed to watch over top executives in 
+companies owned by shareholders
+corporation a business owned by shareholders who have limited liability for the company’s debt yet
+a share of the company’s profits; may be private or public and may or may not have publicly-traded stock
+dividend a direct payment from a firm to its shareholders
+initial public offering (IPO) the first sale of shares of stock by a firm to outside investors
+
+652                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+municipal bonds a bond issued by cities that wish to borrow
+partnersftip a company run by a group as opposed to an individual
+private company a firm owned by the people who run it on a day-to-day basis
+public company a firm that has sold stock to the public, which in turn can be bought and sold by investors
+sftareftolders people who own at least some shares of stock in a firm
+sftares the stock of a firm, divided into individual portions
+sole proprietorsftip a company run by an individual as opposed to a group
+stock a claim on partial ownership of a specific firm
+Treasury bond a bond issued by the federal government through the U.S. Department of the Treasury
+venture capital financial investments in new companies that are still relatively small in size, but that
+have potential to grow substantially
+
+SOLUTIONS
+
+
+Answers to Self-Cfteck Questions
+
+1.                a.    The management of small companies might rather do an IPO right away, but until they get the 
+company up and running, most people would pay very much for the stock because of the risks involved.
+b.    A small company may be earning few or zero profits, and its owners want to reinvest their earnings in the future 
+growth of the company. If this company issues bonds or borrows money, it is obligated to make interest payments, which 
+can eat up the company’s cash. If the company issues stock, it is not obligated to make payments to anyone (although it 
+may choose to pay dividends).
+c.    Venture capitalists are private investors who can keep close tabs on the management and strategy of the 
+company—and thus reduce the problems of imperfect information about whether the firm is being well run. Venture 
+capitalists often own a substantial portion of the firm and have much better information than a typical shareholder 
+would.
+
+2.    From a firm’s point of view, a bond is very similar to a bank loan. Both are ways of borrowing money. Both 
+require paying interest. The major difference is who must be persuaded to lend money: a bank loan requires persuading 
+the bank, while issuing bonds requires persuading a number of separate bondholders. Since a bank often knows a great 
+deal about a firm (especially if the firm has its accounts with that bank), bank  loans are more common where imperfect 
+information would otherwise be a problem.

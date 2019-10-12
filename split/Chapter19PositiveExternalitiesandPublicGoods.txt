@@ -1,0 +1,539 @@
+
+
+
+CHAPTER 19. POSITIVE EXTERNALITIES AND PUBLIC GOODS
+
+
+
+
+INTRODUCTION  TO  POSITIVE  EXTERNALITIES  AND  PUBLIC GOODS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. View from Voyager I. Launched by NASA on September 5, 1977, Voyager 1’s primary mission was to provide 
+detailed images of Jupiter, Saturn, and their moons. It took this photograph of Jupiter on its journey. In August of 
+2012, Voyager I entered interstellar space—the first human-made object to do so—and it is expected to send data and 
+images back to earth until 2025. Such a technological feat has a lot to do with economic principles. (Credit: 
+modification of work by NASA/JPL)
+
+
+THE BENEFITS OF VOYAGER I LIVE ON
+
+The rapid growth of technology has increased our ability to access and process data, to navigate through a busy city, 
+and to communicate with friends on the other side of the globe. The research and development efforts of citizens, 
+scientists, firms, universities, and governments have truly revolutionized the modern economy. To get a sense of how 
+far we have come in a short period of time, let’s compare one of humankind’s greatest achievements to the smartphone 
+most of us have in our coat pocket.
+In 1977 the United States launched Voyager I, a spacecraft originally intended to reach Jupiter and Saturn, to send 
+back
+
+PRINCIPLES  OF  ECONOMICS                                                                                   515
+
+
+
+photographs and other cosmic measurements. Voyager I, however, kept going, and going—past Jupiter and Saturn—right out 
+of our solar system. At the time of its launch, Voyager had some of the most sophisticated computing processing power 
+NASA could engineer (8,000 instructions per second), but by the time it left the solar system (in 2012, actually) we 
+Earth- lings were using handheld devices that could process 14 billion instructions per second.
+Still, the technology of today is a spillover product of the incredible feats accomplished by NASA thirty years ago. 
+NASA research, for instance, is responsible for the kidney dialysis and mammogram machines that we use today. Research 
+in new technologies not only produces private benefits to the investing firm, or in this case to NASA, but it also 
+creates benefits for the broader society. In this way, new knowledge often becomes what economists refer to as a public 
+good. This leads us to the topic of this chapter—technology, positive externalities, public goods, and the role of 
+government in the encourage- ment of innovation and the social benefits that it provides.
+
+
+CHAPTER OBJECTIVES
+
+
+Introduction to Positive Externalities and Public Goods
+In this chapter, you will learn about:
+
+•    Why the Private Sector Under Invests in Technologies
+
+•    How Governments Can Encourage Innovation
+
+•    Public Goods
+
+
+
+an you imagine a world in which you did not own a cellular phone or use Wikipedia? New technology changes how people 
+live and work and what they buy. Technology includes the invention of new products, new ways of producing goods and 
+services, and even new ways of managing  a  company  more  efficiently.  Research  and  development  of  technology  is 
+ the  difference between horses and automobiles, between candles and electric lights, between fetching water in buck-
+ets and indoor plumbing, and between infection and good health from antibiotics.
+
+In December 2009, ABC News compiled a list of some of the technological breakthroughs that have revolutionized consumer 
+products in the past 10 years:
+
+•   GPS tracking devices, originally developed by the defense department and available to consumers in 2000, give users 
+up-to-date information on location and time through satellite technology.
+•   In 2000, Toyota introduced the Prius hybrid car, which greatly improved fuel efficiency.
+•   Also in 2000, AT&T offered its customers the ability to text on a mobile phone.
+•   In 2001, Wikipedia launched a user-generated encyclopedia on the Web.
+•   Even though Napster died in 2001, the company launched music downloading and file sharing, which revolutionized how 
+consumers get their music and videos.
+•   Friendster kicked off the social networking business in 2003, and Twitter and Facebook followed.
+•   In 2003, the Human Genome project was completed. It helps to fight disease and launch new pharmaceutical 
+innovations.
+
+516                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+•   Also in 2003, the search engine became a way of life for obtaining information quickly. The search engine companies 
+also became innovators in the digital software that dominates mobile devices.
+•   In 2006, Nintendo launched Wii and changed the way video games are played. Players can now be drawn into the action 
+and use their bodies to respond rather than a handheld device.
+•   Apple introduced the iPhone in 2007 and launched an entire smartphone industry. In 2015, cell phones now recognize 
+human voices via artificial intelligence.
+
+With all new technologies, however, there are new challenges. This chapter deals with some of these issues: Will 
+private companies be willing to invest in new technology? In what ways does new tech- nology have positive 
+externalities? What motivates inventors? Does government have a role to play in encouraging research and technology? 
+Are there certain types of goods that markets fail to pro- vide efficiently, and that only government can produce? What 
+happens when consumption or pro- duction of a product creates positive externalities? Why is it unsurprising when a 
+common resource, like marine fisheries, is overused?
+
+
+
+19.1  WHY  THE  PRIVATE  SECTOR  UNDER  INVESTS  IN INNOVATION
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Identify the positive externalities of new technology.
+
+•    Explain the difference between private benefits and social benefits and give examples of each.
+
+•    Calculate and analyze rates of return
+
+
+
+arket competition can provide an incentive for discovering new technology because a firm can  earn  higher  profits  by 
+ finding  a  way  to  produce  products  more  cheaply  or  to  create products  with  characteristics  consumers  
+want.  As  Gregory  Lee,  CEO  of  Samsung  said,
+“Relentless pursuit of new innovation is the key principle of our business and enables consumers to discover a world of 
+possibilities with technology.” An innovative firm knows that it will usually have a temporary edge over its 
+competitors and thus an ability to earn above-normal profits before com- petitors can catch up.
+In certain cases, however, competition can discourage new tecftnology, especially when other firms can quickly copy a 
+new idea. Consider a pharmaceutical firm deciding to develop a new drug. On average, it can cost $800 million and take 
+more than a decade to discover a new drug, perform the necessary safety tests, and bring the drug to market. If the 
+research and development (R&D) effort fails—and every R&D project has some chance of failure—then the firm will suffer 
+losses and could even be driven out of business. If the project succeeds, then the firm’s competitors may figure out 
+ways of adapting and copying the underlying idea, but without having to pay the costs themselves. As a result, the 
+innovative company will bear the much higher costs of the R&D and will enjoy at best only a small, temporary advantage 
+over the competition.
+
+Many inventors over the years have discovered that their inventions brought them less profit than they might have 
+reasonably expected.
+
+•   Eli Whitney (1765–1825) invented the cotton gin, but then southern cotton planters built their own seed-separating 
+devices with a few minor changes in Whitney’s design. When Whitney sued, he found that the courts in southern states 
+would not uphold his patent rights.
+•   Thomas Edison (1847–1931) still holds the record for most patents granted to an individual.
+
+518                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+His first invention was an automatic vote counter, and despite the social benefits, he could not find a government that 
+wanted to buy it.
+•   Gordon Gould came up with the idea behind the laser in 1957. He put off applying for a patent and, by the time he 
+did apply, other scientists had laser inventions of their own. A lengthy legal battle resulted, in which Gould spent 
+$100,000 on lawyers, before he eventually received a patent for the laser in 1977. Compared to the enormous social 
+benefits of the  laser, Gould received relatively little financial reward.
+•   In 1936, Turing delivered a paper titled, “On Computable Numbers, with an Application to the Entscheidungsproblem,” 
+in which he presented the notion of a universal machine (later called the “Universal Turing Machine,” and then the 
+“Turing machine”) capable of computing anything that is computable. The central concept of the modern computer was 
+based on Turing’s paper.
+
+A variety of studies by economists have found that the original inventor receives one-third to one- half of the total 
+economic benefits from innovations, while other businesses and new product users receive the rest.
+
+THE POSITIVE EXTERNALITIES OF NEW TECHNOLOGY
+Will private firms in a market economy under invest in research and technology? If a firm builds a factory or buys a 
+piece of equipment, the firm receives all the economic benefits that result from the investments. However, when a firm 
+invests in new technology, the private benefits, or profits, that the firm receives are only a portion of the overall 
+social benefits. The social benefits of an innova- tion take into account the value of all the positive externalities 
+of the new idea or product, whether enjoyed by other companies or society as a whole, as well as the private benefits 
+received by the firm that developed the new technology. As you learned in Environmental Protection and Negative Exter- 
+nalities, positive externalities are beneficial spillovers to a third party, or parties.
+
+Consider the example of the Big Drug Company, which is planning its R&D budget for the next year. Economists and 
+scientists working for Big Drug have compiled a list of potential research and devel- opment projects and estimated 
+rates of return. (The rate of return is the estimated payoff from the project.) Figure 1 shows how the calculations 
+work. The downward-sloping DPrivate curve represents the firm’s demand for financial capital and reflects the company’s 
+willingness to borrow to finance research and development projects at various interest rates. Suppose that this firm’s 
+investment in research and development creates a spillover benefit to other firms and households. After all, new 
+innovations often spark other creative endeavors that society also values. If we add the spillover ben- efits society 
+enjoys to the firm’s private demand for financial capital, we can draw DSocial  that lies above DPrivate.
+
+If there was a way for the firm to fully monopolize those social benefits by somehow making them unavailable to the 
+rest of us, the firm’s private demand curve would be the same as society’s demand curve. According to Figure 1 and 
+Table 1, if the going rate of interest on borrowing is 8%, and the company can receive the private benefits of 
+innovation only, then the company would finance $30 million. Society, at the same rate of 8%, would find it optimal to 
+have $52 million of borrowing. Unless there is a way for the company to fully enjoy the total benefits, then it will 
+borrow less than the socially optimal level of $52 million.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   519
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Positive Externalities and Technology. Big Drug faces a cost of borrowing of 8%. If the firm receives only 
+the private bene- fits of investing in R&D, then its demand curve for financial capital is shown by DPrivate, and the 
+equilibrium will occur at $30 million. Because there are spillover benefits, society would find it optimal to have $52 
+million of investment. If the firm could keep the social benefits of its investment for itself, its demand curve for 
+financial capital would be DSocial and it would be willing to borrow $52 mil- lion.
+
+Rate of Return    DPrivate (in millions)    DSocial (in millions)
+2%                           $72                                     $84
+4%                           $52                                     $72
+6%                           $38                                     $62
+8%                           $30                                     $52
+10%                         $26                                     $44
+Table 1. Return and Demand for Capital
+
+Big Drug’s original demand for financial capital (DPrivate) is based on the profits received by the firm. However, 
+other pharmaceutical firms and health care companies may learn new lessons about how to treat certain medical 
+conditions and are then able to create their own competing products. The social benefit of the drug takes into account 
+the value of all the positive externalities of the drug. If Big Drug were able to gain this social return instead of 
+other companies, its demand for financial capital would shift to the demand curve DSocial, and it would be willing to 
+borrow and invest $52 million. However, if Big Drug is receiving only 50 cents of each dollar of social benefits, the 
+firm will not spend as much on creating new products. The amount it would be willing to spend would fall somewhere in 
+between DPrivate and DSocial.
+
+WHY INVEST IN HUMAN CAPITAL?
+
+The investment in anything, whether it is the construction of a new power plant or research in a new
+
+520                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+cancer treatment, usually requires a certain upfront cost with an uncertain future benefit. The invest- ment in 
+education, or human capital, is no different. Over the span of many years, a student and her family invest significant 
+amounts of time and money into that student’s education. The idea is that higher levels of educational attainment will 
+eventually serve to increase the student’s future produc- tivity and subsequent ability to earn. Once the numbers are 
+crunched, does this investment pay off for the student?
+
+Almost universally, economists have found that the answer to this question is a clear “Yes.” For exam- ple, several 
+studies of the return to education in the United States estimate that the rate of return to a college education is 
+approximately 10%. Data in Table 2, from the U.S. Bureau of Labor Statistics’ Usual Weekly Earnings of Wage and Salary 
+Workers, Third Quarter 2014, demonstrate that median weekly earnings are higher for workers who have completed more 
+education. While these rates of return will beat equivalent investments in Treasury bonds or savings accounts, the 
+estimated returns to educa- tion go primarily to the individual worker, so these returns are private rates of return to 
+education.
+
+
+Less tftan a Higft Scftool Degree
+Higft Scftool Degree, No College
+Bacftelor’s Degree
+
+Median Weekly Earnings (full-time workers over the age of 25)
+
+$488                                           $668                                            $1,101
+Table 2. Usual Weekly Earnings of Wage and Salary Workers, Third Quarter 2014. (Source: http://www.bls.gov/ 
+news.release/pdf/wkyeng.pdf)
+
+What does society gain from investing in the education of another student? After all, if the govern- ment is spending 
+taxpayer dollars to subsidize public education, society should expect some kind of return on that spending. Again, 
+economists like George Psacftaropoulos have found that, across a variety  of nations,  the social rate of return  on 
+schooling  is also positive. After  all, positive exter- nalities exist from investment in education. While not always 
+easy to measure, according to Walter McMafton,  the  positive  externalities  to  education  typically  include  better 
+ health  outcomes  for  the population, lower levels of crime, a cleaner environment and a more stable, democratic 
+government. For these reasons, many nations have chosen to use taxpayer dollars to subsidize primary, secondary, and 
+higher education. Education clearly benefits the person who receives it, but a society where most people have a good 
+level of education provides positive externalities for all.
+
+OTHER EXAMPLES OF POSITIVE EXTERNALITIES
+
+Although technology may be the most prominent example of a positive externality, it is not the only one. For example, 
+being vaccinated against disease is not only a protection for the individual, but it has the positive spillover of 
+protecting others who may become infected. When a number of homes in a neighborhood are modernized, updated, and 
+restored, not only does it increase the value of those homes, but the value of other properties in the neighborhood may 
+increase as well.
+
+The appropriate public policy response to a positive externality, like a new technology, is to help the party creating 
+the positive externality receive a greater share of the social benefits. In the case of vac- cines, like flu shots, an 
+effective policy might be to provide a subsidy to those who choose to get vac- cinated.
+
+Figure 2 shows the market for flu shots. The market demand curve DMarket for flu shots reflects only the marginal 
+private benefits (MPB) that the vaccinated individuals receive from the shots. Assuming
+
+PRINCIPLES  OF  ECONOMICS                                                                                   521
+
+that there are no spillover costs in the production of flu shots, the market supply curve is given by the marginal 
+private cost (MPC) of producing the vaccinations.
+
+The equilibrium quantity of flu shots produced in the market, where MPB is equal to MPC, is QMarket and the price of 
+flu shots is PMarket. However, spillover benefits exist in this market because others, those who chose not to purchase 
+a flu shot, receive a positive externality in a reduced chance of con- tracting the flu. When we add the spillover 
+benefits to the marginal private benefit of flu shots, the marginal social benefit (MSB) of flu shots is given by 
+DSocial. Because the MPB is greater than MSB, we see that the socially optimal level of flu shots is greater than the 
+market quantity (QSocial exceeds QMarket) and the corresponding price of flu shots, if the market were to produce 
+QSocial, would be at PSocial. Unfortunately, the marketplace does not recognize the positive externality and flu shots 
+will go under produced and under consumed.
+
+So how can government try to move the market level of output closer to the socially desirable level of output? One 
+policy would be to provide a subsidy, like a voucher, to any citizen who wishes to get vaccinated. This voucher would 
+act as “income” that could be used to purchase only a flu shot and, if the voucher was exactly equal to the per-unit 
+spillover benefits, would increase market equilibrium to a quantity of QSocial and a price of PSocial where MSB equals 
+MSC. Suppliers of the flu shots would receive payment of PSocial  per vaccination, while consumers of flu shots would 
+redeem the voucher and only pay a price of PSubsidy. When the government uses a subsidy in this way, the socially 
+optimal quantity of vaccinations is produced.
+
+KEY CONCEPTS AND SUMMARY
+
+Competition creates pressure to innovate. However, if new inventions can be easily copied, then the original inventor 
+loses the incentive to invest further in research and development. New technology often has positive externalities; 
+that is, there are often spillovers from the invention of new technology that benefit firms other than the innovator. 
+The social benefit of an invention, once these spillovers are taken into account, typically exceeds the private benefit 
+to the inventor. If inventors could receive a greater share of the broader social benefits for their work, they would 
+have a greater incentive to seek out new inventions.
+
+SELF-CHECK QUESTIONS
+
+
+
+1.    Are positive externalities reflected in market demand curves? Why or why not?
+2.    Samsung’s R&D investment in digital devices has increased profits by 20%. Is this a private or social benefit?
+3.    The Gizmo Company is planning to develop new household gadgets. Table 3 shows the company’s demand for financial 
+capital for research and development of these gadgets, based on expected rates of return from sales. Now, say that 
+every investment would have an additional 5% social benefit—that is, an investment that pays at least a 6% return to 
+the Gizmo Company will pay at least an 11% return for society as a whole; an investment that pays at least 7% for the 
+Gizmo Company will pay at least 12% for society as a whole, and so on. Answer the questions that follow based on this 
+information.
+
+522                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure  2.  The  Market  for  Flu  Shots  with  Spillover  Benefits  (A  Positive  Externality).  The  market demand 
+curve does not reflect the positive externality of flu vaccinations, so only QMarket  will be exchanged.  This  outcome 
+ is  inefficient  because  the  marginal  social  benefit  exceeds  the  marginal social cost. If the government 
+provides a subsidy to consumers of flu shots, equal to the marginal social benefit minus the marginal private benefit, 
+the level of vaccinations can increase to the socially optimal quantity of QSocial.
+
+
+
+Estimated Rate of Return    Private profits of tfte firm from an R&D project (in $ millions)
+
+10%                                             $100
+
+9%                                               $102
+
+8%                                               $108
+
+7%                                               $118
+
+6%                                               $133
+
+5%                                               $153
+
+4%                                               $183
+
+3%                                               $223
+Table 3.
+
+a.    If the going interest rate is 9%, how much will Gizmo invest in R&D if it receives only the private benefits of 
+this investment?
+b.    Assume that the interest rate is still 9%. How much will the firm invest if it also receives the social benefits 
+of its investment? (Add an additional 5% return on all levels of investment.)
+
+4.    The Junkbuyers Company travels from home to home, looking for opportunities to buy items that would
+
+PRINCIPLES  OF  ECONOMICS                                                                                   523
+
+
+
+
+otherwise be put out with the garbage, but which the company can resell or recycle. Which will be larger, the private 
+or the social benefits?
+
+
+
+REVIEW QUESTIONS
+
+
+
+1.    In what ways do company investments in research and development create positive externalities?
+2.    Will the demand for borrowing and investing in R&D be higher or lower if there are no external benefits?
+
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+
+Can a company be guaranteed all of the social benefits of a new invention? Why or why not?
+
+
+
+PROBLEMS
+
+
+
+HighFlyer Airlines wants to build new airplanes with greatly increased cabin space. This will allow HighFlyer Airlines 
+to give passengers more comfort and sell more tickets at a higher price. However, redesigning the cabin means rethink- 
+ing many other elements of the airplane as well, like the placement of engines and luggage, and the most efficient 
+shape of the plane for moving through the air. HighFlyer Airlines has developed a list of possible methods to increase 
+cabin space, along with estimates of how these approaches would affect costs of operating the plane and sales of 
+airline tick- ets. Based on these estimates, Table 4 shows the value of R&D projects that provide at least a certain 
+private rate of return. Column 1 = Private Rate of Return. Column 2 = Value of R&D Projects that Return at Least the 
+Private Rate of Return to HighFlyer Airlines. Use the data to answer the following questions.
+
+Private Rate of Return    Value of R&D
+
+12%                                        $100
+
+10%                                        $200
+
+8%                                          $300
+
+6%                                          $400
+
+4%                                          $500
+Table 4.
+
+a.    If the opportunity cost of financial capital for HighFlyer Airlines is 6%, how much should the firm invest in 
+R&D?
+b.    Assume that the social rate of return for R&D is an additional 2% on top of the private return; that is, an R&D 
+investment that had a 7% private return to HighFlyer Airlines would have a 9% social return. How much investment is 
+socially optimal at the 6% interest rate?
+
+524                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+REFERENCES
+Arias, Omar and Walter W. McMahon. “Dynamic Rates of Return to Education in the U.S.” Economics of Education Review. 
+20, 2001. 121–138.
+
+Biography.com.  2015.  “Alan  Turing.”  Accessed  April  1,  2015.  http://www.biography.com/people/ 
+alan-turing-9512017.
+
+Canty  Media.  2015.  “The  World:  Life  Expectancy  (2015)  –  Top  100+.”  Accessed  April  1,  2015. 
+http://www.geoba.se/population.php?pc=world&type=15.
+
+Hyclak,  Thomas,  Geraint  Johnes,  and  Robert  Thornton.  Fundamentals  of  Labor  Economics.  Boston: Houghton 
+Mifflin Company, 2005.
+
+McMahon, Walter. Education and Development: Measuring the Social Benefits. Oxford: Oxford University Press, 2000.
+
+National Institute of Health. 2015. “Global Competitiveness—The Importance of U.S. Leadership in Science  and  
+Innovation  for  the  Future  of  Our  Economy  and  Our  Health.”  Accessed  April  1,  2015. 
+http://www.nih.gov/about/impact/impact_global.pdf.
+
+National  Science  Foundation.  2013.  “U.S.  R&D  Spending  Resumes  Growth  in  2010  and  2011  but Still  Lags  
+Behind  the  Pace  of  Expansion  of  the  National  Economy.”  Accessed  April  1,  2015. 
+http://www.nsf.gov/statistics/infbrief/nsf13313/.
+Psacharopoulos, George. “Returns to Investment in Education: A Global Update.” World Development
+22, 1994. 1325–1343.
+
+Salientes-Narisma,  Corrie.  “Samsung  Shift  to  Innovative  Devices  Pay  Off.”  Inquirer  Technology. Accessed    
+May    15,    2013.    http://technology.inquirer.net/23831/samsungs-shift-to-innovative- devices-pays-off.
+
+GLOSSARY
+positive externalities beneficial spillovers to a third party or parties
+private benefits the dollar value of all benefits of a new product or process invented by a company that can be 
+captured by the investing company
+private rates of return when the estimated rates of return go primarily to an individual; for
+example, earning interest on a savings account
+social benefits the dollar value of all benefits of a new product or process invented by a company that can be captured 
+by other firms and by society as a whole
+social rate of return when the estimated rates of return go primarily to society; for example,
+providing free education
+
+SOLUTIONS
+
+
+Answers to Self-Cfteck Questions
+
+PRINCIPLES  OF  ECONOMICS                                                                                   525
+
+
+
+
+1.    No. A market demand curve reflects only the private benefits of those who are consuming the product. Positive 
+externalities are benefits that spill over to third parties, so they create social benefits, and are not captured by a 
+market (or private benefit) demand curve.
+2.    Clearly Samsung is benefiting from the investment, so the 20% increase in profits is a private benefit. If 
+Samsung is unable to capture all of the benefit, perhaps because other companies quickly copy and produce close 
+substitutes, then Samsung’s investment will produce social benefits.
+
+3.                a.    $102 million.
+b.    If the interest rate is 9%, the cost of financial capital, and the firm can capture the 5% return to society, the 
+firm would invest as if its effective rate of return is 4%, so it will invest $183 million.
+
+4.    When the Junkbuyers Company purchases something for resale, presumably both the buyer and the seller 
+benefit—otherwise, they would not need to make the transaction. However, the company also reduces the amount of garbage 
+produced, which saves money for households and/or for the city that disposes of garbage. So the social benefits are 
+larger than the private benefits.

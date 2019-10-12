@@ -1,0 +1,214 @@
+
+
+
+15.3  COMPARING  NEOCLASSICAL  AND  HETERODOX  THEORY
+
+
+
+or quick reference, a table contrasting general views from neoclassical and heterodox econom- ics on firms, costs, and 
+prices is provided below.  The student should be aware that we are paint- ing  in  broad  strokes  here.   Both  
+neoclassical  and  heterodox  economics  include  a  variety  of
+sophisticated models and theories, some of which would contradict the characterizations made below. However, as an 
+introduction to microeconomics this table should suffice as a reflection of the core positions and standard ideas 
+within these two camps.
+
+
+
+
+Prices are determined in…
+Neoclassical                                      Heterodox
+
+the market                                                       the planning processes of the business enterprise
+Prices function to…           clear markets                                                  ensure the reproduction 
+and growth of business enterprises
+
+
+As production increases, average total costs…
+
+
+
+Marginal costs…
+
+
+
+Price and quantity supplied…
+
+first decline to some minimum (or efficient) point and then start to rise again (that is, ATC is ‘U’-shaped)
+
+eventually rise with higher levels of production due to the law of diminishing returns
+
+are functionally related–that is, when price changes quantity will generally change
+
+typically decline up to (or very near) the maximum output at which the production process was designed to operate
+are not generally contemplated by business executives and are not relevant to microeconomic theory, in part because 
+firms don’t (and couldn’t) typically produce according marginal costs and revenues.
+
+are, in most instances, determined completely separately
+
+Firms are viewed as…        terminal ventures, always and
+everywhere maximizing profits
+going concerns, organized and operated to (try to) stay in business into the foreseeable future
+
+
+Firms make sftort-run decisions…
+
+ignoring fixed costs, because by definition these cannot be changed
+typically in accordance with the long-run strategies determined through their long-run planning process
+
+
+
+
+
+
+CHAPTER 16. THE MEGACORP
+
+
+
+
+INTRODUCTION  TO  THE  MEGACORP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. The power of the Standard Oil trust. Udo Keppler’s political cartoon depicting the corporation which, circa 
+1900, had effectively monopolized petroleum distribution. The tentacles of this gargantuan octopus rep- resented the 
+power Standard Oil exercised over other industries (copper, steel, and shipping) as well as politics. (Wikimedia, 
+Public Domain)
+
+
+CHAPTER OBJECTIVES
+
+
+Introduction
+In this chapter, you will learn about:
+
+•    The imperatives of technology
+•    Business models, plural: Aims and methods of the megacorp
+•    Stabilizing unstable markets
+
+PRINCIPLES  OF  ECONOMICS                                                                                   431
+
+
+
+•    A case in point: The high prices of college textbooks
+
+
+
+he importance of businesses in modern capitalist economies cannot be overstated.  They are the local barber shops and 
+factories, as well as the multinational oil giants and online retail enter- prises. We do business with them when we 
+purchase nearly everything we buy as well as when
+we set out to earn a living.  While economists prefer simply to say ‘firm’, everyday conversations will often include 
+terms like ‘big business’, ‘corporations’, ‘entrepreneurs’, and ‘job creators’.  They may ref- erence  particular  
+firms,  known  by  name  to  everyone,  or  commonly  understood  terms  for  whole industries–for instance, ‘the 
+media’ or ‘Wall Street’.  Certainly, businesses are an important and com- plex  part  of  the  modern  world–not  just  
+the  economy,  but  society  more  broadly.   They  have  been applauded  and  derided,  praised  and  demonized  since 
+ before  the  Sons  of  Liberty  cast  crates  of  tea belonging to the East India Company, a large British 
+corporation, into Boston Harbor in 1773.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. “Boston Tea Party,” by W.D. Cooper, The History of North America. London: E. Newbury, 1789. Engraving. Plate 
+opposite p. 58. Rare Book and Special Collections Division, Library of Congress (40). (Wiki- media, Public Domain)
+
+Yet, neoclassical economics treats ‘the firm’ with typical abstraction: it is simply a production func- tion, 
+translated into a set of cost curves, with a singular objective to maximize profits.  That model of the firm, almost 
+regardless of the actual business or businesses it might represent, has a ‘U’-shaped average total cost curve, and 
+increasing marginal costs due to diminishing marginal returns (see chap- ter “Cost and Industry Structure”).  It 
+pursues, always and everywhere, the greatest possible profits by deciding what, how, and how much to produce, taking 
+technological possibilities as given.  As you
+
+432                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+have  seen  in  previous  chapters,  the  market  structure–and  therefore  the  outcome–may  differ  from industry to 
+industry, location to location, and so forth, but the firm remains essentially the same.
+
+Many heterodox economists will note that abstraction is not, in itself, a bad thing.  A complex reality has to be 
+simplified in our understanding of it, if we have any hope of understanding it at all.  But, it is important to get it 
+right–to simplify reality without departing too far from it.  The neoclassical depiction of the firm is not only 
+fundamentally problematic, heterodox economists would argue (see chapter “Costs and Prices: The Evidence”), it is part 
+of a view of capitalism that may no longer be appropriate to our modern economy.  Specifically, the plot of the 
+mainstream economics narrative casts the market as the star of the show–and, at least where that market is competitive, 
+really con- sumers play the roles of king and queen.  In contrast, heterodox economists tell a story in which mod- ern 
+capitalist economies have largely replaced consumer sovereignty with producer sovereignty.
+
+In  this  alternative  story,  the  true  importance  of  the  producer–specifically  the  large,  economically, 
+politically, and culturally influential corporation–is acknowledged.  The business enterprise (a term many heterodox 
+economists prefer to ‘firm’) is a socially recognized, legitimate organization.  It has certain requirements if it is 
+to be maintained as a coherent organization.  And, especially in its ‘big business’ form–what Post Keynesian economist 
+Alfred Eichner termed the Megacorp–those require- ments take priority in the way modern capitalist economies are 
+structured.
+
+
+DOES MONOPOLY POWER CAPTURE THE REAL BREADTH OF CORPORATE POWER?
+
+The starting point and focus of most of neoclassical theory has traditionally been voluntary exchange in a competitive 
+mar- ket–that is, individuals choosing to trade one good for another, and in doing so making each other better off.  
+This has colored the notion of power within this paradigm, limiting it somewhat to a failure to meet the standards of 
+the compet- itive ideal.  Such a narrow treatment of power, in the realm of big business, is evident in the monopoly 
+model presented in a previous chapter.  There, the reader will notice, the notion of power is explicitly treated; but 
+the focus is on the abil- ity to raise prices and restrict output compared to the outcome that would exist under 
+perfect competition.  Treatment of barriers to entry is secondary, showing the practical means by which business 
+enterprises may achieve higher prices through lower competition.  (Likewise, monopolistic competition and oligopoly are 
+typically defined as some mix of the two extremes of perfect competition and monopoly, rather than fundamentally 
+different situations.)  The quantity, more- over, is still determined by a comparison of marginal costs and revenues, 
+and price is still set with reference to demand–the same basic tenets of the model of perfect competition remain in 
+tact.
+Yet, consider the forms of power which the neoclassical abstraction sets aside.  The power to dictate both prices and 
+quan- tities, for instance through the billions of dollars of advertising spent each year in the US, is ignored–or, at 
+best, treated as a special case.  So, too, is the power to create new technologies, as well as to limit access to those 
+technologies through things like digital rights management.  Likewise, the political and cultural influences of 
+business are almost completely neglected in an analysis that focuses only on prices and quantities.
+
+If the reader is willing to accept this alternative story, setting big business at the center of the eco- nomic 
+landscape, as a plausible way to look at how our economy works, a host of new questions–and new answers–will open up.  
+The following sections will explore some of those questions while intro- ducing a number of important concepts and 
+theories from heterodox economics.  To illustrate these ideas, the chapter will conclude with a look at the college 
+textbook industry and a question you’ve probably asked yourself: why do textbooks costs so much?

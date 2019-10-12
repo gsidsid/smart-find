@@ -1,0 +1,409 @@
+
+
+
+15.1  TESTING  THE  NEOCLASSICAL  THEORY  OF  THE  FIRM
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Construct testable hypotheses from the neoclassical theory of the firm
+
+•    Test these hypotheses against the given data
+
+
+
+et’s review the basic properties of the neoclassical theory of the firm as given in previous chap- ters  (“Cost  and  
+Industry  Structure,”  “Perfect  Competition,”  and  “Monopoly”).  To  keep  things simple, we’ll focus on the short 
+run behavior of a single firm, and we’ll look to the similarities of
+this behavior regardless of whether the market is competitive or monopolistic.  First, the firm is por- trayed  as  a  
+functional  relationship  between  inputs  (factors)  and  outputs  (products).   Because  we’re considering the short 
+run, there are variable and fixed inputs, and therefore variable and fixed costs.
+
+Second, the firm accepts the demand for its product as given and determines how much it should produce–its quantity of 
+output (Q)–so that its profits are maximized where the cost of producing the last unit equals the revenue from selling 
+it–that is, where marginal cost (MC) equals marginal revenue (MR).  We assume that the firm is subject to diminishing 
+marginal returns.  Therefore marginal costs will always eventually rise to meet marginal revenue and will cause average 
+total cost (ATC) to even- tually rise (giving it its ‘U’ shape).  Hence, the very simple Hypotftesis 1: over some 
+short-run period, managers are aware of their firms’ marginal costs associated with increasing (or decreasing) their 
+pro- duction, and they generally find that marginal cost increases over a relevant range of production.
+
+Now, consider the conditions presented in the chapters “Cost and Industry Structure” and “Perfect Competition”:
+
+1.   If MC < ATC, then ATC is decreasing (marginal cost is ‘dragging down’ average total cost the same way a low test 
+score would drag down your course grade).  Therefore, if ATC is decreasing, it must be the case that MC < ATC.
+2.   Profits = Q(P-ATC), where P represents price.  Therefore, firms make losses when P < ATC, break even when P = ATC, 
+and make profits when P > ATC.
+3.   Profit maximizing firms under perfect competition produce where MC = MR = P.
+
+We can read these three conditions in reverse to establish a necessary condition for firms to avoid making a loss.  
+Plugging (3) into (2), it should be clear that, since the firm will produce where P = MC, the profit equation can be 
+restated as Profits = Q(MC – ATC) under perfect competition.  Hence, if the firm is going to break even or make a 
+profit then MC must be ≥  ATC.  Taking this back to (1),
+
+418                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+then, for MC to be equal to or greater than ATC, ATC must either be constant or increasing at some reasonable level of 
+output.
+
+Hence, Hypotftesis 2: if firms maximize profits by producing a quantity where marginal cost equals marginal revenue, 
+then under competitive conditions firms must normally be producing in a situation in which average total cost is either 
+constant or increasing.  Really, this is just an extension of hypoth- esis one which allows us to test our theory by 
+looking at average total costs rather than marginal costs.
+
+TESTING THE THEORY
+
+It  is  generally  held  that  a  developed  science  should  be  capable  of  expressing  ideas  about  how  the world 
+works in hypotheses, and that these hypotheses should be compared with actual observations to determine how well the 
+theory explains what we see in the real world.  Fortunately (and perhaps surprisingly), a considerable number of 
+studies on both costs and prices have been produced going back over 100 years.  Saving the reader a laborious trek 
+through all of them, we’ll just look at a couple to test the validity of our hypotheses.
+
+In 1998 Alan Blinder and colleagues published a book, Asking About Prices, which was not actually concerned  with  
+microeconomics  (it  was  concerned  with  testing  theories  of  macroeconomic  price ‘stickiness’),  but  just  the  
+same  can  help  us  test  our  hypotheses  [1].   Their  approach  was  somewhat uncommon to mainstream economics at 
+the end of the 20th century: they simply asked business peo- ple about how they did things.  For our purposes, their 
+work (see p. 103) sheds light on hypothesis 1. Asking business executives about the shape of their marginal cost curve 
+was apparently a bit tricky. Evidently,  most  do  not  normally  consider  the  concept  of  marginal  cost,  so  the  
+surveyors  had  to repeat, rephrase, and further explain the question before a response could be given.
+
+And the responses were not encouraging for the neoclassical theory of the firm.  Firms representing only 11% of GDP 
+were believed to have upward sloping marginal costs curves.  Nearly half reported constant marginal costs, and, almost 
+shockingly, 41% reported decreasing marginal costs (suggesting increasing returns).  Evidently, the ‘law’ of 
+diminishing marginal returns is more like a local custom, appropriate to only a small part (about 11%) of the US 
+economy.
+
+In fact, similar findings had been reported over 50 years ago.  In an article published in the American Economic Review 
+in 1952, Wilford Eitemen and Glenn Guthrie reported their findings from a survey of manufacturing companies across the 
+US.  Specifically, they found that only 5% of the goods pro- duced conformed to the standard ‘U’-shaped depiction of 
+average total costs.  The majority (60%) of products were reported as having average total cost curves which simply 
+declined as output increased up to maximum capacity.  (Almost all remaining products were reported as similar but with 
+a slight rise in average total costs just before capacity was reached.)
+
+DESIGNING THE AVERAGE TOTAL COST CURVE
+
+Eitemen offered a simple, intuitive reason why we should expect that most average total cost curves would always 
+decline with increased output.  One way to look at the matter is in terms of the per- centage of designed maximum 
+capacity output at which you would want your production process to operate most efficiently.  To give an example, 
+imagine you’re an engineer and you have been tasked with designing a machine (or a factory, or the layout of an office) 
+that can produce some maximum number of units in a given day.  In designing the machine, you find that it will have to 
+operate more
+
+PRINCIPLES  OF  ECONOMICS                                                                                   419
+
+or less efficiently depending on how heavily it’s being used.  Would you design it to operate most effi- ciently when 
+it’s only running at 20% capacity?  Maybe 60%?  Perhaps 99%?
+
+Most would say that a production process should work best when it’s operating somewhere near the level of output it was 
+designed to be capable of producing–otherwise, why should it be made to pro- duce so much  output in the first  place?  
+Translate  ‘work best’  into  ‘operate  at lowest  average  total cost’ and the implication should be clear: a 
+‘U’-shaped average total cost curve indicates a production process that was designed to be capable of producing up to 
+some maximum amount inefficiently.  In contrast, a declining average total cost curve indicates that the production 
+process was made to work best when it’s producing as much as it was designed to be capable of producing–the most 
+efficient, lowest average total cost point being at or near 100% of maximum capacity output.
+
+Returning to the three postulates we used to develop hypothesis 2, Eitemen and Guthrie’s findings indicate a clear 
+departure from the standard model of firm behavior.  If most firms believe their aver- age total costs decline as 
+output increases, then mathematically their marginal cost curves must be below (‘dragging down’) their average total 
+costs.  (Perhaps in many cases, the firm’s marginal costs are constant as Blinder et al. indicate is common throughout 
+the economy.) Now, if marginal costs are always less than average total costs, then there are only two possible 
+conclusions to be drawn:
+
+1.   Firms produce a quantity where MC = MR.  But, since MC is always < ATC, and under perfect competition profits = 
+Q(MC-ATC), then firms in perfectly competitive markets will always make a loss.  This doesn’t seem like an attractive 
+conclusion–surely we can find firms in competitive markets that manage to make a profit.  So it’s worth considering the 
+alternative:
+2.   Firms do not produce a quantity where MC = MR.  That is, under the cost structure that most firms report, the 
+standard profit maximization behavior postulated in the neoclassical theory of the firm is not only unrealistic, it’s 
+impossible.
+
+Clearly, the implications of these findings do not bode well for the neoclassical theory of the firm presented in 
+earlier chapters.  The preponderance of evidence may not wholly refute the neoclassical model, but it does expose 
+severe limitations. In the breakout box below, two additional hypotheses are examined, giving greater reason to abandon 
+the neoclassical theory of the firm.  The section that follows then introduces a few basic concepts from an 
+alternative, heterodox viewpoint.
+
+
+TWO MORE HYPOTHESES
+
+From the neoclassical perspective, we can imagine a firm incrementally increasing its, say, weekly output, and 
+continuing to do so as long as its marginal revenue is greater than its marginal cost.  Once the additional revenue of 
+one additional unit of output just covers the cost of that unit’s production, the firm settles on that level of 
+output–profit maximizing equi- librium has been reached where MC = MR.  Assuming that marginal cost must be positive 
+(most workers won’t pay their boss to let them work more hours, but perhaps there are exceptions), then marginal 
+revenue must also be positive.
+
+Now, refer back to chapter “Elasticity,” specifically the section asking “Does Raising Price Bring in More Revenue.”  
+There you learned that a firm that is able to set its own price can increase revenues by cutting prices if demand is 
+elastic.  If on the other hand demand is inelastic, cutting your price will increase your sales (that’s the law of 
+demand after all), but the lower price will weigh heavier on your revenues than the gained sales, and your revenues 
+will actually decline.  Mathematically, this works out to a simple rule: if demand is elastic then selling more will 
+increase revenues–which is to say that marginal
+
+420                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+revenue is positive when the elasticity of demand > 1 (and MR is zero when the elasticity of demand = 1, and negative 
+when elasticity of demand is < 1).  Hence, ftypotftesis 3: If firms produce where MC = MR, then MR must be positive, 
+and there- fore demand must be elastic.
+
+Blinder et al. (1998 p. 99) found some support for this–but not much.  While noting many businesses do not actually 
+calcu- late or even think along these lines, the authors found that, among those that could give an answer, 84% 
+believed demand to be inelastic (and, by implication, negative revenues).  In fact, 41% believed that the elasticity of 
+demand was zero–that is, a price cut would not increase sales at all.
+
+Now consider a more general issue.  In chapter “Supply and Demand” you were introduced to the centerpiece of neoclassi- 
+cal economics: the market model. The chief argument of that model is that prices in the market will adjust to bring 
+supply and demand into an equilibrium  in which the quantity  people wish to sell is equal to the quantity  people wish 
+to pur- chase–that is, the price mechanism acts to clear markets.  This model fits into the broader narrative of 
+neoclassical thought which holds that capitalist economies are organized by price adjustments in the complex network of 
+markets that make up these economies.  Therefore, Hypotftesis 4: unless the world changes very seldom or very slowly, 
+leaving most markets in their previously established equilibria for long stretches of time, prices should be changing 
+rapidly with frequent bidding, as in an auction market.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure  2  –  Left:  Auctioneer  does  brisk  business  at  the  Hickman  Saturday  Auction,  15  miles  south  of  
+Lincoln,  NE.  (O’Rear,  Public Domain). Right: Stock brokers on the New York Stock Exchange, 1963. (US News & World 
+Report, Public Domain). Price bidding is essential to auction markets like the ones depicted above. But, of the things 
+you’ve purchased in the last month, for how many of them did you bid–or even negotiate–a price?
+
+
+By now you could probably predict what the evidence was going to tell us about this important part of standard 
+neoclassical theory: throughout most of the modern US economy, prices change relatively infrequently.  Blinder et al. 
+(1998, p. 84) find that 49% of responding firms change their prices no more than once in a year or even longer.  
+Indeed, only 22% reprice daily, weekly, or monthly.  The auction market model at the core of neoclassical economics 
+exists, indeed; but, it would appear that it lies somewhere between minor and insignificant in today’s economy.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   421
+The evidence reviewed above suggests that basic ideas from neoclassical microeconomics about how businesses, markets, 
+and capitalist economies function have, at best, very limited application to the real world.  While the evidence 
+doesn’t necessarily deliver a fatal blow to the neoclassical theory of the firm, it should be disconcerting to find so 
+many businesses viewing their world and their work in a fundamentally contradictory way.  Likewise, the prevalence of 
+yearly price changes doesn’t invalidate the auction model of markets you learned in an earlier chapter; but it does 
+raise questions as to its usefulness, and to whether an alternative model should take priority in our understanding of 
+modern capitalist economies.
+
+
+
+15.2  COSTING  AND  PRICING:  A  HETERODOX  ALTERNATIVE
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Explain the concepts of costing, depreciation, going concerns, and pricing
+
+•    Identify the basic pricing methods of full cost pricing and target rate of return pricing
+
+•    Calculate prices according to these methods
+
+•    Discuss the implications of planning, costing, and pricing for the existence of a supply curve
+
+
+
+he empirical findings presented in the previous section suggest that our standard models of how firms  behave  and  
+what  determines  prices  are  not  appropriate  for  understanding  today’s economies.  Choosing the profit maximizing 
+level of output does not appear to be relevant to
+firm behavior in the short run.  Likewise, frequent price adjustments ‘in the market’ are not charac- teristic of most 
+real-world markets, in which prices are clearly determined by producers and main- tained  over  relatively  long  
+periods  of  time.   All  of  this  suggests  that  a  deeper  look  into  the  actual nature of firms’ costs and the 
+actual manner in which prices are determined is necessary.  Fortunately, ample  information  about  these  processes  
+is  available,  and  it  comes  from  the  costing  practices  of accountants and the pricing practices of management.
+Costing  is  the  process  of  estimating  the  costs  of  production  before  production  actually  takes place–and,  
+hence,  before  the  actual  costs  of  production  are  known  with  certainty.   To  do  this,  of course, it would 
+be necessary to have some idea of how much output the business will be producing and the direct and indirect expenses 
+that will be involved at that level of production.  Making such calculations may involve a simple, educated guess or a 
+sophisticated process of research, experiment, and forecast.  What is important, from a theoretical standpoint, is that 
+it is a fundamentally uncertain task which takes place before exchanges occur in the market.  This view is consistent 
+with what was suggested above, that firms plan their production processes before, a topic discussed further in chap- 
+ter “The Megacorp.”
+
+DEPRECIATION AND THE GOING CONCERN
+
+A complete review of cost accounting isn’t necessary here, but one particular type of cost, deprecia- tion, is of 
+particular historical and conceptual significance.  Depreciation is a way of accounting for the expense of an 
+asset–say, a machine press–over the life of the asset.  For instance, suppose your machine shop purchases a press (a 
+machine that does exactly what it sounds like it does) for $20,000.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   423
+
+If you expect that the press will be in use for the next 10 years you might account for a depreciation expense of 
+$2,000 per year for the next decade.
+
+To understand the significance of depreciation, consider how businesses usually calculated income before the late 
+1800s.  Before then, business enterprise was often treated as a terminal venture, having a clearly defined beginning 
+and end date.  Investors would pool money to start a business, purchase materials and capital (say, a ship and local 
+goods to be traded abroad), and hire workers (the ship’s crew).  At some predetermined date (perhaps when the ship 
+returned to port) the business would be liquidated: its crew would be paid and any remaining assets would be sold off.  
+The resulting profit to the investors would, in essence, simply be whatever money was leftover.  In this approach, what 
+was the relationship between the productive asset (the ship) and profit?
+
+Profits were simply decreased by the cost of the ship, but increased by whatever price could be fetched by selling the 
+ship at the end of the venture.
+
+But, accountants in the late 1800s asked, is that an appropriate way to think of, say, a railroad com- pany?  Will a 
+railroad lay thousands of miles of line, run trains across it for some predetermined num- ber of years, and then pull 
+up the line to be sold for scrap metal?  Clearly not.  Instead, fixed assets like a railroad’s line, or an airline’s 
+planes, or a law firm’s office building are depreciated over the course of their useful life.  Conceptually, this is 
+simply the recognition of the role those assets play in allowing these businesses to generate an income into the 
+foreseeable future.  Most importantly, this account- ing method reflects the fact that these businesses are not treated 
+as terminal ventures.  Rather, they, as nearly all businesses today, are considered going concerns: organizations which 
+are expected to continue to exist into the foreseeable future.
+
+PRICES FROM PRICING
+
+Similar to costing, pricing refers to procedures businesses use to determine, beforehand, the price at which they will 
+sell their product once production is up and running and sales can be made.  While modern  pricing  procedures  can  be 
+ complex  and  will  vary  widely  across  different  businesses  and industries, two basic methods should be 
+understood: full cost pricing and target rate of return pricing. Both are instances of markup (or cost-plus) pricing: 
+setting the price of a business enterprise’s prod- uct by adding some dollar amount over and above average costs of 
+production.
+Full cost pricing (sometimes called normal cost pricing) is the simpler of the two methods.  It can be written as
+
+
+
+Where:
+
+P is the price at which the business plans to sell its product
+
+ATC is the average total (or per-unit) cost determined in the costing process r is the predetermined markup
+Target rate of return pricing is similar, but a bit more complicated.  Here the price is being set, not to
+
+424                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+achieve a particular percentage profit above costs, but to earn a desired return on the money invested into the 
+business.  The formula can be written as
+
+
+
+Where:
+
+ROI is desired return on invested capital
+
+IC is invested capital–that is, money invested into producing the product Q is the expected quantity of output sold
+
+CALCULATING PRICES
+
+To illustrate both approaches, consider a business that invests $10 million into a plant designed to manufacture 
+inexpensive steak knives.  It expects that over some relevant period it will be able to produce and sell 2 million 
+knives; and, at that level of production, its per-unit costs will be $1.80 per knife.  The calculated prices using our 
+two pricing procedures are given below (assuming that in the first case the desired markup is 10% (or 0.1), and in the 
+second the desired return on invested capital is also 10%).
+
+Full cost price:
+
+
+Target rate of return price:
+
+Notice also that, even though the markup and desired return on invested capital are both 0.1 (10%), the resulting 
+markups and hence the prices are not the same.  This is because, although both procedures are essentially marking the 
+price up over costs, the treatment of the costs being marked up are different.
+
+It is worth reflecting on the significance of these insights into cost accounting and markup pricing, as they represent 
+important general concepts in heterodox economics which are usually neglected in standard neoclassical theory.    
+First, they suggest that business enterprises are making decisions before anything is even produced, let alone ‘brought 
+to market’.  In particular, pricing practices (and the intended quantity of output and corresponding cost estimates on 
+which pricing is based) are a component of the planning process which takes place within the business enterprise.  
+Contrary to the axiom that firms cannot recover fixed costs in the short run and therefore should ignore them in mak- 
+ing short run decisions, it is long run planning driving short run behavior that is most important for understanding 
+what determines prices.
+
+Second, to acknowledge costing and pricing as it actually occurs is to acknowledge that the future is fundamentally 
+unknowable.  While standard (neoclassical) models assume that firms know their pro- duction costs and, typically, also 
+the amount they can sell and the resulting revenues they can expect to take in, actual firms face uncertainty in how 
+their plans will work out.  A particular implication of this reality: since firms set prices based on estimated average 
+total costs at an expected level of output, a change in the actual quantity of production/sales is unlikely to affect 
+the predetermined price.  This
+
+PRINCIPLES  OF  ECONOMICS                                                                                   425
+
+suggests that price and quantity supplied are determined completely separately, which in turn means that there is no 
+such thing as a supply curve.
+
+
+THE ILLUSORY SUPPLY CURVE
+
+Recall from the basics of the neoclassical market model that a supply schedule (and its corresponding supply curve) 
+simply shows the relationship between how much a firm (or firms) would be willing to supply at various market prices.  
+That is, supply simply refers to the functional relationship between quantity supplied and the market price, with the 
+market price determining the quantity supplied.  If, however, the two are determined separately then there’s no way 
+around the impli- cation: quantity supplied is not functionally related to the market price–that is, there is no supply 
+curve.
+
+The astute reader may have already realized the impossibility of supply curves under certain conditions from the failed 
+hypotheses discussed earlier in this chapter.  Referring back to chapter “Perfect Competition,” specifically the 
+section titled “Marginal Cost and the Firm’s Supply Curve,” you’ll recall that a firm’s marginal cost curve (above 
+minimum average vari- able cost) is its supply curve.  (This is because quantity supplied is determined where MC = MR 
+and, under competitive conditions, MR = P.  Hence, quantity supplied is determined by P = MC.)  Now, as was shown with 
+the test of hypothesis 2 above, firms simply couldn’t determine their quantity supplied this way–at least not under 
+competitive conditions and having the empirically typical average total cost curves. This, of course, means that the 
+neoclassical theory of supply must be rejected for these cases.
+
+This doesn’t mean that the basic ideas of supply–higher prices leading to higher output and vice versa, for 
+instance–are completely absent in the real world.  Some industries–particularly, those related to mining and 
+agriculture–do in fact see diminishing  returns.   In  these  (albeit  limited)  parts  of  modern  economies  
+upward-sloping  supply  curves  may  be  found. However, as our examination of the cost structures of actual firms 
+suggested earlier in this chapter, this relegates what is considered the normal case in neoclassical economics to a 
+special–and pretty rare–case.
+
+Third and finally, a review of the evidence and history of actual businesses reveals an anachronism within the 
+neoclassical theory of the firm.  As you learned in chapter “Perfect Competition,” the firm chooses the most profitable 
+line of business (and appropriate production technique) in the long run, and the profit maximizing quantity to produce 
+in the short run.  If, in the short run, the firm is making a loss it will choose to shut down (if its fixed cost 
+losses would be lower than the losses on continu- ing production).  In an abstract, but important way the business 
+enterprise this theory is describing is a terminal venture.  Yet, beyond the halls and offices of economics 
+departments, firms are generally seen as going concerns.  This is reflected, for instance, in the accounting practices 
+discussed above, as well as in the relationships firms maintain with customers.  Blinder et al. (1998, pp. 96-7) found 
+that 85% of all sales in the economy are made to regular customers whom the business expects to sell to in the future.  
+In manufacturing and wholesale trade that number is over 90%.
+
+As will be explored in more depth in the chapter “The Megacorp,” the idea that businesses are orga- nized and run as 
+going concerns is a significant theoretical innovation over the standard neoclassical theory of the firm.   For now, we 
+only need to consider what it means for prices.  The role of the price mechanism–the ‘invisible hand of the market’–in 
+neoclassical economics cannot be overstated.  It is the process by which self-interested people (consumers, workers, 
+entrepreneurs, landlords, and all the rest) are brought together in exchange for their mutual benefit.  It is the 
+mechanism that allows econ- omists to believe in a (potentially) optimal equilibrium state–in an individual market, and 
+in a capital- ist economy as a whole.
+
+426                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+In contrast, what is being argued in this section is that prices–at least those prices not actually deter- mined 
+through an auction–are set by businesses themselves as part of their planning process.  The reader may have noticed 
+that in the markup pricing introduced above a glaring question was ignored: namely, what determines the markup?  A 
+succinct, if incomplete answer can now be given: if the firm is to be a going concern, the markup, as well as the 
+procedures that determined costs, will reflect the needs of the firm to continue to do business into the foreseeable 
+future.  For most firms there will also be plans to grow.  Hence, from this view, prices are not exchange-based, market 
+clearing values at all.  They are, rather, reproduction prices–allowing the firm to reproduce itself through time–and, 
+typically, also growth prices–ensuring the firm brings in the earnings necessary to expand.  To use a now-familiar 
+term, the vast majority of the prices we see in actual capitalist economies today might best be called going concern 
+prices.

@@ -1,0 +1,406 @@
+
+
+
+25.2  SMITH,  MARX,  KEYNES,  CHARTALISM  AND  MODERN MONEY  THEORY
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Explain and compare the two views of money’s origin and its value
+
+
+
+
+
+The answers to the questions of value raised in the previous section can be found by examining the following two 
+quotes, from arguably the two most significant characters in the history of political economy.  The first comes from 
+Adam Smith’s The Wealth of Nations:
+
+A prince, who should enact a certain proportion of his taxes be paid in a paper money of a certain kind, might thereby 
+give a certain value to this paper money.[1]
+
+The second quote, similar in theme, comes from Karl Marx’s Capital Vol. I, and reads:
+
+The only part of the so-called national wealth that actually enters into the collective possessions of modern peoples 
+is–their national debt. Hence as a necessary consequence, the modern doc- trine that a nation becomes the richer the 
+more deeply it is in debt.  Public credit becomes the credo of capital.  And with the rise of national debt-making, 
+want of faith in the national debt takes the place of the blasphemy against the Holy Ghost, which may not be 
+forgiven.[2]
+
+From these two quotes, the primary difference between the Metallists and Chartalists approaches to understanding money 
+is revealed.  Money is not a commodity.  Money is, in the words of the legal scholar Friedrich Knapp, a creature of the 
+state.
+
+What may seem to be a subtle difference is in reality substantial.  The reorientation of money as a state phenomenon, 
+rather than a market solution to the double coincidence of wants requires a completely different framework for 
+analyzing the economy.  The economy can no longer be modeled as a barter system.  Real analysis fails to capture the 
+complexity of money, and thus even the existence of general equilibrium itself is called into question. Returning to 
+Schumpeter, if the modus operandi of money is not simply a facilitator role, then we must conduct monetary analysis.  
+Simply put, this requires the abandonment “of the idea that all essential features of economic life can be represented 
+by a barter- economy model” (Schumpeter 1954).
+
+We can begin to appreciate the difference between the analysis of a barter system and a money econ-
+
+PRINCIPLES  OF  ECONOMICS                                                                                   707
+omy by applying Marx’s notation and modeling of the circuit of money capital.This notation is sim- ple and 
+straightforward (see also Chapter Y: “The Megacorp”).
+
+
+
+
+
+
+where the first stage M – C is termed purchase and is followed by the production process P culminat- ing with C’ – M’ 
+sale.  This analysis of the economy is a monetary analysis.  Returning to the barter notation, from above, the 
+transaction would look like this.
+
+
+
+
+
+Note, there is no C’ in this exchange.  This is because the value is generated, not by production or labor, but through 
+the act of exchange.  Remember, in the barter economy of the neoclassical school, trade does not occur unless both 
+parties benefit.  Value is created through the exchange process and relative prices become the measure of those values 
+(this is also described in Chapter 3 On Values). Where in Marx’s model, value is created through the production process 
+and comes from labor.
+
+As you can see, the interpretation of how the economy operates is very different. The predictions of outcomes from 
+market activity are also at odds. In the real analysis of neoclassical economics, mar- kets trend towards equilibrium.  
+Real analysis predicts a stable solution where quantity demanded is equal to the quantity supplied. However, if the 
+economy is investigated from the monetary analysis perspective, simple solutions do not immediately present themselves, 
+as conflict, business cycles, and crisis are all consistently observed in capitalist economies and central topics of 
+analysis in Marx’s the- oretical framework.
+
+This is one reason why John Maynard Keynes considered his approach to understanding the economy as The  General  Theory 
+ of  Employment,  Interest,  and  Money.  Similar to Marx, although Keynes denies any Marxian influence, Keynes moves 
+his analysis of the economy beyond the barter system and real analysis and attempts to understand the dynamics of a 
+monetary production economy.  For Keynes, in a monetary production economy, there is no reason to assume the economy 
+will trend towards full employment equilibrium in the labor market.  In fact, given the special properties of money, 
+the econ- omy is more than capable of coming to rest, for long periods of time, at a level of output far below what is 
+necessary to achieve full employment.
+
+Keynes argues that money has two special properties that differentiate it from all other commodities in the economy.  
+The first is that money has a near zero elasticity of production.  This means that, while it might be reasonable to 
+argue that a problem in our local economy is that there is a shortage of money, we cannot go into the business of 
+selling money.  So unlike wheat, milk, cars, tables, or any other good or service, as entrepreneurs, we cannot address 
+the unmet demand for money by produc- ing it ourselves.  The second of these properties is a near zero elasticity of 
+substitution.  This prop- erty relates to the use of money as a means of payment.  The state and most private vendors 
+will only accept dollars (in the United States) as means of payment to satisfy debt obligations.  Wow, that is a 
+mouthful, but it simply means that there are very few substitutes for money as a method of payment.
+
+708                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+The IRS will not take your laptop as a payment for your taxes.  The gas company is not interested in your tee shirts to 
+satisfy your bill, they will only accept one thing: cash.  As the Wu-Tang Clan so suc- cinctly puts it, C.R.E.A.M. cash 
+rules everything around me…. dollar dollar bill y’all.
+
+Figure 1.  $1 Federal Reserve Note
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Image    from    the    Federal    Reserve    Bank    of    Philadelphia, 
+https://www.philadelphiafed.org/education/teachers/publica- tions/symbols-on-american-money
+
+These two special characteristics of money influence a monetary production economy, by incorporat- ing two missing 
+pieces from the real analysis approach of neoclassical economics, uncertainty and the state. Hence, it is a more 
+“general theory.”  Let’s discuss the state first and then provide a brief discus- sion of uncertainty. Why can’t we 
+produce dollars?  Well this is against the law.  By law, the Treasury Department is the only producer of new U.S. 
+dollars. We will elaborate on this in detail in the next section. Second, why won’t the state take my laptop?  For this 
+let’s take a moment to look at the dol- lar (Figure 1 above).  Up in the upper left corner it says “THIS NOTE IS LEGAL 
+TENDER FOR ALL DEBTS, PUBLIC AND PRIVATE”.  This means that there is no reason for the state to accept anything else in 
+payment.  If you believe that your laptop is of sufficient value to cover your tax obligation, then you must first 
+convert it into cash to pay your tax bill, and this introduces an important concept in Keynes’s monetary framework, 
+liquidity.
+
+Liquidity is a measure of the costs associated with converting an asset into cash.  For example, your savings account 
+is an asset.  It is very liquid, but to convert it into cash you need to go to the bank and withdraw the funds.  This 
+time and effort is a cost, but these costs are relatively low.   An example of an asset that is not generally described 
+as being liquid is a home.  The sale and conversion of a home into cash is a time consuming and often-expensive 
+process.  An asset’s liquidity is of great importance for understanding economic volatility and how risk and 
+uncertainty differ.
+
+To describe the value of assets in a monetary production economy, Keynes uses what he describes as the own rate.  The 
+own rate is a measure of an asset’s economic value and is composed of three parts,
+
+PRINCIPLES  OF  ECONOMICS                                                                                   709
+
+the expected return on the asset (q), its carrying costs (c), and the liquidity premium (l).  This is dis- played 
+mathematically as,
+
+own rate = q – c + l.
+
+Returning to the example of a home, the expected return, pre-housing crisis, was strong, based on historical data.  A 
+home’s carrying costs are not cheap.  Maintenance, mortgage payments, property taxes, etc. all push up the carrying 
+costs, but you get to live there and conventional wisdom said that a homes value always increases.   The final 
+component is its liquidity premium, which is also related to the expected return.  A house in a sellers’ market in a 
+good neighborhood might sell quickly, whereas a home next to a newly constructed slaughterhouse might not be so easy to 
+unload.
+
+Thus, people’s view towards the future plays a critical role in determining the own rate.  If the housing market is 
+strong, then it is easy to sell because the expected return is positive and the future seller does not think selling in 
+the future has much risk either.  On the other hand, if the market is doing poorly, then expected return is going down, 
+carrying costs might be increasing, as pickier buyers are demanding more and more repairs, and the liquidity premium is 
+disappearing, as a buyer cannot be found.
+
+This equation can be applied to all sorts of commodities.  Give it a try in the exercise section below. Think about a 
+car, stocks and bonds, or a record collection.  These assets all change in own rate based on expectations of the future 
+and how quickly they can be converted into cash.  Because it is more dif- ficult to convert assets into cash when 
+markets are unstable and uncertain, people tend to hold onto the one asset that is not negatively impacted.  You 
+guessed it: money.
+
+The  saving  money  by  individual  in  times  of  uncertainty  is  problematic  for  the  economy.  Keynes argues that 
+this virtuous behavior, from the classical economic perspective, aggregates to difficulties for the macro economy as a 
+whole. If you are saving, then, yes, this practice can be beneficial for you, but if we are all saving, then we are not 
+spending and this sends negative signals to investors and busi- ness owners.  So while individual savings is good, the 
+aggregation of this positive behavior generates adverse economic conditions as a whole.  This problem is known as the 
+Paradox of Thrift.  This para- dox creates difficulties for the neoclassical argument that the aggregation of optimal 
+decisions aggre- gates to a stable and harmonious society or equilibrium conditions.
+
+If we return to Adam Smith’s comments above, we can add the contributions by Marx and Keynes to complete the basic 
+framework for understanding money, not as a commodity in a barter system, but as a social relation in a modern 
+capitalist economy.  Remember, the value of money in the Met- allist’s story is derived intrinsically by a precious 
+metal, but Adam Smith seems to be suggesting that value can be generated by the actions of the Prince.  This is a 
+prescient observation by Smith, as mod- ern fiat currencies maintain the value by generating demand through the 
+implementation of a tax or other obligation to the money issuing authority.  Therefore, an historical and institutional 
+approach to investigating money reveals fundamentally different dynamics and explanations of the operations of the 
+modern economy.  From this interdisciplinary perspective: all economic activity is observed to begin and end with 
+money, money plays this central role because it has special properties, and an authority, such as the state, is 
+responsible for maintaining their currency’s value.
+
+By breaking free from the methodological constraints of real analysis, Modern Money Theory (MMT) is able to provide 
+insights into economic activity where money serves as more than a contributor to the modus operandi in support of 
+barter.  In the next section, money is investigated as a social relation.
+
+710                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+This social relation can be described as a two-sided balance sheet operation.  These relations of credits and debits 
+are ordered in the modern economy by a hierarchical structure.  As this institutional struc- ture is outlined below, 
+the coordinating function of money and its role in determining value becomes clear.
+
+[1] For those looking for an accessible way to introduce themselves to Adam Smith’s vast opus, Robert Heilbroner’s The 
+Essential Adam Smith is an excellent resource.  Some may be already familiar with his text The Worldly Philosophers.
+
+[2] This insight is drawn from Capital Vol. I.
+
+
+
+25.3  THE  MONEY  HIERARCHY  AND  THE  FALSE  DUALITY  OF  THE STATE  AND  MARKET
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Apply the vocabulary and conceptions framework developed in the previous section to the Hierarchy of Money
+•    Explain where money comes from in a monetary production economy
+
+
+
+
+
+Hyman Minsky once argued that anyone can make money; the real trick is getting people to accept it.[1]  For the 
+Metallists, gold or a precious metal’s intrinsic value insured money’s acceptance as a facilitator of exchange.  While 
+simplicity is often a strong characteristic, when it comes to money, a more thorough understanding of money’s source of 
+value transforms the relationship between the market and the state.   We often think of these two concepts as opposing 
+forces struggling to direct economic activity.  From this perspective, one might imagine the market as the strong lead 
+character in pursuit of efficient solutions, and the state as a pesky nemesis taking resources from the market to 
+achieve its own objectives.  This plot, however, takes an unexpected twist in Modern Money Theory, as these two 
+characters are revealed to be the same person.  The real analysis claims of duality between the state and the market 
+are the product of methodology.  The “trick” is not that we accept dollars, but that the true source of their value 
+continues to be largely ignored by economists, policy makers, and the general public.
+
+In 2011, renowned London School of Economics anthropologist David Graeber published a compre- hensive examination of 
+the historical origins and development of money, titled Debt:The First 5000 Years.  While  all  5000  years  are 
+interesting,  and  students  are encouraged  to explore this exemplary work of scholarship, our focus is limited to the 
+current economic system. This narrow focus will allow us to build upon the above ideas of Marx and Keynes and to 
+develop an understanding of key concepts from MMT.  The first of these concepts is the hierarchy of money.  From this 
+conceptual framework, we will explore the tecftnostructure  of money (see Chapter 16 The Megacorp).  The collection of 
+institutions that regulate money’s issuance or production, are similar to the market governance (see Chapter 16 The 
+Megacorp) of business enterprises in that stability is a primary objective. Given the central role of money in economic 
+activity and its origins with the state, the clear delineation between where the market begins and state ends is all 
+but erased.
+
+712                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+We begin our analysis with MMT’s hierarchy of money.  As a social relation, not all money is created equal.  For 
+example, by definition as a social relation, you borrowing a shirt from your roommate is a money transaction, as long 
+as you promise to give it back.  We call this an IOU.  I had a friend in high school that literally carried around a 
+notebook listing all of the people that owed him money (he now works in finance).  These records represented promises 
+to pay. For some of those entries repayment was completed and their name removed, for others, I’m sure they are still 
+in that notebook somewhere in Ol’ Johnny Cocktail’s archives.
+
+These  promises  to  pay  were  money  transactions.   They  are  two-sided  balance  sheet  operations. Johnny extends 
+credit to his friend; the friend takes on a debt to Johnny.  When repayment occurs Johnny’s asset and his friend’s 
+liability are terminated.  Going back to Hyman Minsky’s comment, if one regularly borrows and repays Johnny rapidly, 
+then both parties are willing to accept the terms of the social relation.  However, if one does not repay, then future 
+credit extension will not occur. Thus, it takes two to tango.  This type of transaction between friends and family are 
+so common, we would not generally describe them as money, because that seems odd.  Similarly, borrowing a cup of sugar 
+from your neighbor to make cookies and promising to give some of the cookies in exchange is an informal arrangement, 
+but is still one of credit and debt and thus money.  The informality of these transactions makes them difficult to 
+enforce, hence they represent the money social relations at the base of our money hierarchy (Figure 2).
+
+
+Figure 2. The Money Hierarchy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What  differentiates  the  common  and  largely  unregulated  IOU  transactions  from  those  that  are described as we 
+move up the hierarchy is the institutional formality and enforceability of those social
+
+PRINCIPLES  OF  ECONOMICS                                                                                   713
+
+relations.  So the second level, contracts, might be promises to pay businesses, such as your network services  
+provider.   They  promise  to  provide  a  service  for  a  year,  and  you  promise  to  pay  a  dollar amount for 
+that service.  They credit you with service and you pay back your debt.  This contract, unlike Johnny’s notebook, is 
+legally enforceable in dollars.  If you or the network provider breaks your promise legal recourse is available.
+
+Moving on up the hierarchy we have the financial sector and then the U.S. Treasury at the very top. The formality and 
+institutional structure of the social relations generated by these organizations are what place them at higher levels 
+of this hierarchy.  The financial sector is similar to the contracts cre- ated below it on the hierarchy, so we will 
+focus our attention on the U.S. Treasury.  The U.S. Treasury is unique, because by Constitutional Law it is the sole 
+source of new U.S. dollar issue. This institu- tional reality is one of the most significant aspects of MMT, because in 
+stark contrast to the Metallist’s story money comes from the state not the market.
+
+
+Figure 3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure (3) vividly displays the hierarchy in action. As you can see, as the red line goes into the negative (government 
+deficit), the green line increases (private sector wealth), at a nearly 1:1 ratio. This rela- tionship between public 
+and private spending is described by the accounting identity equation know as sectoral balances.
+
+714                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+0 = (I – S) + (G – T) + (net exports)
+
+This equation states that the balance sheets of the private, public and international current accounts sectors of the 
+economy sum to zero.  If we were to close the economy and only have the public and private sector, then when the 
+private sector spends more than it takes in (deficit spends), the public sector, by accounting identity runs a surplus. 
+ This situation rarely occurs.  If we examine Figure 3, we see that in the early 2000’s a very brief period of 
+government budget surplus took place, only to be followed by recession and a movement back to state deficits and 
+private surpluses.
+
+Before pressing forward, let’s take a moment to summarize the hierarchy of money. Money is a social relation.  It is a 
+two-sided balance sheet operation or an IOU.  It consists of at least two parties whom agree to a credit debit 
+relationship.  The hierarchy of money is characterized by the institutional con- straints and enforcement of these 
+social relations. At the top of the hierarchy is the issuer of the cur- rency.  The currency issued in the United 
+States is the dollar.  Rather than the dollar emerging in the market to solve the double coincidence of wants, the 
+dollar comes from the state.  This leaves us with the question of value.  If there is not a precious metal or intrinsic 
+value to the dollar, then where does its value come from?
+
+Value comes from a promise from the state to accept U.S. dollars as payment for taxes.  This promise creates demand for 
+dollars in the United States.  The demand for dollars is what maintains the dollar’s value. Thus, MMT argues that taxes 
+drive money.  An important question that this raises is how does this impact the value of goods and services produced?  
+Remember in the orthodox approach the prices of goods and services are measures of their relative values as they are 
+traded in a barter system, but if we have a monetary production economy, then how are these activity’s values 
+determined? Much of this was clearly outlined at the enterprise level in the Costs and Prices chapter and further ana- 
+lyzed in the Megacorp.  Here we ask the question, how does our perspective on value change when we approach money as an 
+industry with the United States as the monopoly producer?
+
+As the monopoly producer of the dollar, the Unites States government is not the pesky nemesis taking money from the 
+market to fund its spending.  Instead private markets and the financial industry are provided  with  the  legal  
+authority  to  create  dollar  denominated  assets.   This  process  greatly  limits what is viewed to have value to 
+activities that generate profits.  This mode of utilizing money-issuing authority makes it very difficult for many in 
+the economic system to participate in the dollar econ- omy.  Orthodox economics and the Metallist story argues that 
+value creation is best handled by mar- kets, rather than direct state spending.  As the monopoly producer of the 
+currency, it is a political decision about how money enters the system and assigns value. Many MMT theorists argue that 
+the values of the community would be better met through a universal program for full employment.  This would mean the 
+monopoly producer would take more control over value creation to meet the needs of the public, than it currently does.
+
+The sectoral balances relationship between the public and private sector, suggests that there is an inti- mate 
+relationship between state and market activities.  The approach taken by neoclassical economics suggests an 
+antagonistic relationship based on real analysis.  The foundation for this position is that the state must take money 
+from the private sector to spend.  The history and an institutional analysis of where money comes from debunk this 
+foundation.  If, as Keynes suggests, we live in a monetary production economy and all new issue comes from the state, 
+then continuing to approach the market and state as hard duals is likely to continue to leave many outside of the 
+dollar economy in states of unemployment and poverty.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   715
+To further examine money’s ability to activate value, we will now turn to an examination  of local currency  systems.   
+Local  currency  systems  are  experiments.   These  experiments  are  attempting  to build understanding about the 
+power of our most important social technology.  Remember, we have defined technology as the application of scientific 
+or organized knowledge of practical tasks.  What could be more practical a task than to understand money?
+[1] Stephanie [Bell] Kelton’s 2001 Cambridge Journal of Economics article “The Role of the State and the Hierarchy of 
+Money” is widely considered to be a seminal piece in the development of Modern Money Theory.

@@ -1,0 +1,594 @@
+
+
+
+CHAPTER 14. THE RISE OF BIG BUSINESS
+
+
+
+
+INTRODUCTION  TO  THE  RISE  OF  BIG  BUSINESS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure  1.  Organizational  diagram  of  the  New  York  and  Erie  Railroad,  1855.  Daniel McCallum & George Holt 
+Henshaw. Public Domain.
+
+
+LEARNING OBJECTIVES
+
+
+Introduction to tfte Rise of Big Business
+In this chapter, you will learn about:
+
+•    Big Business in American History
+•    Industrialization and the Factory
+
+PRINCIPLES  OF  ECONOMICS                                                                                   393
+
+
+
+•    Big Business and Organized Labor
+
+
+
+s you will see in the next few chapters, heterodox economists take a very different approach to studying the modern 
+business enterprise. In contrast to focusing on the neoclassical ideal of relatively small firms in perfectly 
+competitive markets, heterodox economists start with the recognition that the modern business enterprise tends to be 
+large. We may think of large firms as pos- sessing  differential  advantage  over  their  competitors  and  the  
+ability  to  exert  control  over  key moments throughout the production process. Finally, we choose to place big 
+business at the center of our economic inquiry, because the large corporation possesses the power to act in ways that 
+other agents cannot. In this regard, the Megacorp–as Post Keynesian economist Alfred Eichner call it–may
+be viewed as a social actor–that is, one who may act with institutional capacity.
+
+What  do  we  mean  when  we  say  that  some  persons  act  with  institutional  capacity?  It  is  helpful  to return 
+briefly to the problem of institutions. In an earlier chapter on consumption we defined insti- tutions as collectively 
+shared habits of thought–of knowing, doing, and valuing.  The American insti- tutional economist John R. Commons 
+suggests that institutions result in shaping individual behavior by controlling, liberating and expanding individual 
+action. Commons’ view of the relational effects that institutions exert on individual action facilitates examination of 
+history as a process of cumula- tive causation. We wish to know how individuals interact with society as a whole, and 
+how they may affect the systems as a whole in varying degrees of efficacy. And in turn, we wish to know how social 
+structures constrain, shape and focus individual action.
+
+It is important that we keep these concepts in mind as we study the history of big business. Without a clear view as to 
+how individuals interact with one another and the system as a whole, it is difficult to situate the megacorp in 
+history, instead relegating its emergence as one of technical inevitability. With these tools let us proceed with an 
+overview of the history of big business.
+
+THE JOINT-STOCK CORPORATION AND LONG DISTANCE TRADE
+The modern business enterprise has its roots in the early trade regimes of European nation states dur- ing the 17th and 
+18th centuries.
+
+Corporations  like  the  East  India  Company  were  granted  special  privileges  by  the  political  ruling 
+establishment  in  order  to  guard  against  the  uncertainties  involved  with  long-distance  trade  –  an 
+inherently risky proposition. Such privileges are referred to in economic history as Crown Monop- olies, by reference 
+to their relationship with the monarchy. Crown monopolies belong to a class of restrictive trade practices that may be 
+considered to be common to all capitalist markets. However, it is important to stress that the actual flavor that such 
+market governance mechanisms embody depends upon the historical context in which we examine them. It is useful to draw 
+comparisons between the joint-stock corporations that enjoyed crown monopolies, such as the East India Company, and 
+mod- ern corporations that benefit from other protections in accordance with modern market governance institutions, but 
+we should exercise caution as some modern developments do not fit with early capi- talist institutions.
+
+394                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure  2.  Coat  of  Arms  of  the  British  East  India Company. Wikimedia Commons. CC BY-SA 3.0
+
+MERCANTILISM
+Mercantilism is a term that economists use to describe a social provisioning process peculiar to West- ern European 
+nation-states during the 17th and 18th centuries. Philosophers who thought and wrote about economic ideas believed that 
+a strong nation-state was one that was able to accumulate more gold and silver than their contemporaries. Hence, the 
+orientation for the economies of these monar- chies was that of external trade. To effect this end, the monarch had to 
+enable a fleet of merchant ves- sels that were capable of engaging in long-distance trade, often with costly and 
+uncertain outcomes at the end of a long voyage. Merchant vessels and crew are costly endeavors – far beyond the 
+capacity of any given individual to finance on a sustainable basis. Therefore, it was necessary to pool the funds of  
+many  investors  vested  in  a  single  shipping  enterprise.  But,  capitalists  are  easily  spooked  by  the 
+prospect of losses (early, proto-capitalists were no exception) and so the practice of granting special protections and 
+privileges to investors pooling funds for shipping concerns facilitated and enabled the investment. It is important to 
+note, also, that capitalists vested in joint-stock corporations for the purposes of long-distance trade were not random 
+citizens. They were connected via kinship networks to the aristocracy.
+
+Adam Smith’s magnum opus, An Inquiry into the Nature and Causes of the Wealth of Nations [1776], may be viewed as an 
+attack on the political economy of mercantilism. Smith’s critique lies on the theory of value embodied in mercantilism. 
+Smith observes that mercantilism was predicated upon a zero sum game. Enriching the welfare of a given nation-state 
+meant that another had to lose relative shares of total economic value. Smith argues that production, not trade, was 
+the wellspring of value. Produc- tivity, not special privileges to extended members of the aristocracy, should be the 
+end in view of any nation wishing to enrich itself. For Smith, productivity is enhanced through a greater elaboration 
+of the division of labor and extension of the market in society. Restrictive trade practices only stymied this 
+development, Smith believed.
+
+Despite Smith’s protestations market governance institutions that result in creating special privileges for specific 
+firms remain a commonplace in capitalist society.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   395
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure  3.  Pin  maker’s  factory,  indicating  the  division  of  labor  in  making  a  simple  pin.   Depicted  in 
+Diderot’s Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers 1762: Epinglier, Plate II. This 
+image is in the public domain.
+
+
+
+14.1  BIG  BUSINESS  IN  AMERICAN  HISTORY
+
+
+
+he history of the American experience tends to be viewed as exceptional relative to Europe. The tradition has generally 
+been to view the course of American development as unique and sepa- rate from the antecedent European history that 
+America originates from. One consequence of
+this ideological tradition has been to view corporate power as an anomaly to an otherwise well-func- tioning system, in 
+which unfettered market forces generally produce highly competitive, small firms that do not possess effective market 
+power. The actual history is quite different.
+
+From the very foundation of the American colonies big business has been the rule, not the exception. The Virginia 
+Company, a joint-stock company that enjoyed an exclusive patent on very large swathes of land (see figure 4 below), 
+established the first British colony at Jamestown in 1607. A patent is taken here to mean an exclusive grant by the 
+sovereign with respect to a particular land tract, and establishes a fundamental claim to ownership and disposal of 
+that land.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. Map of the Colony of Virginia — during 17th and early 18th centuries, by Kmusser. CC BY SA 2.5
+
+The managerial class vested with the power of the charter administered all aspects of colonial life. Virtually all of 
+the land that makes up the area that is described as the original thirteen colonies was held in ownership by a small 
+set of individuals vested with property rights derived from monarchical legal traditions, granted with an exclusive 
+patent for private development.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   397
+
+BUSINESS ENTERPRISE AND PROPERTY RIGHTS
+The corporate firm and the legal structure of property rights coevolved in the course of US economic history. When we 
+examine the going concern with an emphasis on its proprietary relationships with other aspects of the economy this 
+codevelopment appears all the more transparent. That is, the firm is the site of a great many transactions in the 
+economic system. Monetary transactions in which the firm makes a claim to resources generated in the economy involve 
+rules governing the proprietary relationships between the transacting party and the resources in question. In order to 
+secure exclu- sive and steady claim to a set of resources the firm must be contractually entitled to the resources as 
+private property.  Hence, it is important to study the codevelopment between firms and the legal framework on the 
+matter of property.
+
+These transactions provide the foundation for the intangible value of the firm as property. Intangible value emerges as 
+the firm is able to maintain differential advantage with respect to other participants in the market, as well as 
+maintain control over stages in the production process in which the firm is  engaged,  while  exerting  its  influence  
+over  matters  of  market  governance.  Precisely  how  society chooses to assign rights to such property is a matter 
+of primary importance from the standpoint of determining the status of vestiture. Hence, insofar as firms embody the 
+creation of property and affect existing claims to property, it is necessary to adjust the legal framework to  
+establish a coherent sys- tem of property rights. By setting up the problem as essentially a relationship between the 
+law and the corporation, we can appreciate the importance of the corporation in the development of American capitalism.
+
+COLONIAL LEGAL INSTITUTIONS
+Colonial America borrowed its legal framework from the English common law system. The common law tradition allows for 
+judges to freely interpret new laws in light of old ones, suggesting that judges take an active role in shaping the 
+subsequent development of legal institutions. This legal tradition of judicial instrumentalism will be important as we 
+examine the changing nature of property and the firm.
+
+REAL PROPERTY RIGHTS
+The colonists derived their property rights as privileges of the king. Since colonists were subjects of the king, they 
+enjoyed all the rights to property that citizens in London enjoyed. The Crown permit- ted the free and common socage 
+system of land tenure in the American colonies, as opposed to other land tenure systems that reflected the myriad 
+feudal relations and systems of mutual obligation. Free and common socage is described by the following features:
+
+•   Perpetual ownership
+•   Transmissible to heirs.
+•   Free disposal of property
+•   Alienable
+
+The fee simple system, as Americans would come to know it, embodies a set of rights. Property is often thought of as a 
+“bundle of rights” for this reason. Accompanying these bundles of rights are a set of rents due the donor of the land, 
+the king. Quit rents, then, represent the debt the holder of real property owes to the sovereign for the right to 
+remain at liberty with the property. If the land-
+
+398                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+holder defaults on this obligation by failing to make the quit rent payment, ownership reverts to the sovereign. Modern 
+observers may look to a city like Kansas City, Missouri which possesses a large inventory of housing whose landlords 
+are not current in their tax liability to the local government. Eventually, the state takes possession of the real 
+property and all rights associated with ownership are revoked, until the property is disposed of again as private 
+property.
+
+POLICE POWER
+One of the principal legal developments in American economic history is that the state holds broad powers to establish  
+and define markets, or otherwise exercise its police powers toward some eco- nomic end. This power allows the state to 
+establish special privileges to private entities so that it may collect rents by controlling access to resources. For 
+example, suppose a local municipality wished to transform a waterfall into a lock & canal system in order to facilitate 
+inland navigation via steamship. The state may grant a franchise to a firm for exclusive use of the public right of 
+way, thereby entitling the owner of the concern to a rent. Alternatively, the state may attempt to directly develop the 
+falls to remove the impediment to navigation. In either case, the extent to which income is transferred from the 
+community as a result of the establishment of a lock & canal depends entirely upon the discre- tion of those in control 
+of the property, who must decide whether and to what extent they will charge rents. In general, the firm must earn 
+revenues from its ongoing marketing activity in order to remain a going concern.
+
+EMERGENCE OF PRIORITY RIGHTS
+One peculiarity of English common law was the institution of granting existing property holders pro- tections against a 
+future neighbor who may impose costs upon on them in their own pursuits regard- ing their property. The doctrine of 
+ancient lights, as it was known, is the underlying concept of the practice of establishing a basis for prescriptive 
+rights in common law. This common law principle suggests that the long tenured holders of property rights are protected 
+from new developments that would diminish or impede upon their property, in an absolute sense. For example, a property 
+holder who enjoys the benefit of, say, unimpeded sunlight would have the reasonable expectation that rival parties  who 
+ wish  to  construct  a  home  adjacent  to  their  property  would  not  be  able  to  do  so  if  it resulted in 
+blocking such daylight. But, the doctrine of ancient lights was not restricted solely to the issue of sunlight, but 
+more broadly as referring to general benefits to property ownership. In effect, the doctrine of ancient lights imputes 
+a conservative bias in the course of development in such a way that favors temporal or generation advantage to prior 
+property holders.
+
+As  the  American  economy  developed,  this  doctrine  was  tested  in  court  and  found  to  obstruct  the economic  
+development  of  urban  areas.  Prescriptive  rights  were  found  to  be  inconsistent  with  the social conditions in 
+which American economic development was embedded. In 1838, a case in New York state, Parker v. Foote,  established 
+precedent for overturning the institution of prescriptive rights, wherein the judge ruled that the doctrine of ancient 
+lights cannot be applied without inhibiting the growth of cities and internal improvements. Hence, the law was adjusted 
+by judicial instrumental- ism to accommodate and legitimate negative externalities as a byproduct of economic 
+development. When economists refer to negative externalities they are describing costs that impact third parties as a 
+result of some economic process not born by the agents principally engaged in such activity.
+
+THE VALIDITY OF CONTRACTS BETWEEN UNEQUALS
+Under English contract law, contracts were held as valid only when struck on an equitable basis. That
+
+PRINCIPLES  OF  ECONOMICS                                                                                   399
+
+contract validity rested upon notions of equity was vestigial to feudal institutions. Contracts were not considered 
+valid if they were struck between two parties that were viewed as too unequal. For example, contracts between someone 
+of sound mind and one that is mentally impaired would be con- sidered invalid on the premise that the two parties were 
+not equal in their contracting ability. It fol- lows that based upon this equity consideration in the common-law 
+tradition contracts between, say, a factory owner and an individual laborer would not be valid. In American capitalism, 
+such an idea is anachronistic and incompatible with the manner in which value is extracted, appropriated and cap- 
+italized. While the equity tradition remained central to American contract law throughout the 18th century, four 
+important changes to contract law would emerge in the course of American develop- ment.
+
+First, in the 19th century the courts interpreted contracts struck between free persons without com- pulsions as valid, 
+on the principle that mutual assent generally implied validity irrespective of equity. For example, if a factory owner 
+made the terms of employment known to the public and workers accepted a labor contract in exchange for wages, then the 
+contract is valid whether or not the individ- ual worker stands on equitable terms with her employer. In this 
+circumstance equity refers to the bal- ance of bargaining power between parties in transaction with each other. It 
+would be absurd to think that a factory owner possesses the same bargaining power as an individual worker, for the 
+owner con- trols and exercises their discretion over the the production process. Despite this lack of equity, the labor 
+contract is considered valid so long as the worker knows in advance what she signing up for.
+
+Second, the rule embodied above, that of mutual assent or “meeting of the wills” as it is referred to in contract law, 
+applied to transactions in markets. Provided the buyer is free to inspect the quality of the goods, then any asymmetry 
+of knowledge regarding its quality or serviceability does not impair the validity of the contract in exchange.
+
+Third, contracts were struck in terms of market prices, as opposed to customary prices that ensure equity through time. 
+That is to say, if the prices of the goods changed from the time the contract is struck and the buyer takes delivery, 
+then the contracted price remains valid. This institutional change facilitated the development of futures contracts. A 
+futures contract is nothing more than a promise to pay at a later date for delivery of some good, where the contracted 
+price is settled in current market prices. The following breakout box provides a simply example to illustrate how they 
+work.
+
+
+HOW FUTURES CONTRACTS WORK
+
+Suppose I am in the wheat milling business. I know that I need 100 bushels of wheat so that I can mill all of the meal 
+I expect to sell next month. I have a feeling that next month the price of wheat is going to increase, so I decide to 
+lock in today’s prices on the wheat that I’ll receive next month. I can do this by buying a futures contract from a 
+wheat farmer for delivery of  her wheat in a month, but at today’s price.
+
+Futures contracts are the foundation of a whole class of financial instruments called options, which are ubiquitous in 
+mod- ern American capitalism as they are used to provide risk hedging positions for firms that have an interest in the 
+commodi- ties that undergird the futures contract in question. They are also a means of speculating in financial 
+markets, but that is a topic we shall avoid for now. The main point to remember here, is that changing from customary 
+to market prices in contract law opened up space for the financialized firm to thrive and grow, essential to the 
+development of the modern corporation.
+
+400                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+Fourth, the courts began to interpret contract law such that employer liability for hazards incurred by workers was 
+limited. The presumption that, with the principle of mutual assent, dangers and risks associated with the workplace 
+were encapsulated in the wage, implied that workers that agreed to the  terms  of  employment  absolved  employers’  
+liability  of  injury.  Additionally,  the  “fellow  servant doctrine” suggested  that employers were further limited 
+in liability where injuries to an employee resulted from negligence on the part of his coworkers. Given the nature of 
+production, it is common to expect that contributory negligence plays some part in the hazards, making it difficult for 
+workers to establish negligence and liability on the part of their employer.
+
+THE SUPREME COURT
+Since John Marshall’s tenure as Chief Justice (1801- 1835), the Supreme Court has exercised consid- erable power in the 
+shaping of American economic legal institutions. In the 1819 case McCullough v. Maryland, Chief Justice Marshall 
+established the implied powers of the court in engaging in judicial review and revision of the legal framework as the 
+court sees fit. The basic premise was that the con- stitution was intended to be robust through the ages to changes in 
+the technical and social character of the nation. Accordingly, the court reserved the right and asserted its power to 
+interpret its scope broadly; subsequent rulings would be made in light of new economic and social developments, while 
+preserving the legitimacy of the constitution. In McCullough v. Maryland, the constitutional legitimacy of the Second 
+Bank of the United States was under question. Marshall ruled that since the bank was chartered with the purpose of 
+effecting the ends of the constitution itself, namely regulation of inter- state commerce, then it was legitimate 
+despite no specific provision in the constitution for a central bank.
+
+Several antebellum cases before the Supreme Court helped establish the power of the federal govern- ment to regulate 
+interstate commerce via the Commerce Clause of the Constitution, superseding state and local desires for the same. In 
+Gibbons v. Ogden (1824), the court overturned a monopoly granted by the state of New York to a steamship concern 
+because its business involved traffic in New Jer- sey, ruling that individual states do not have the authority to 
+regulate interstate commerce. While the powers of the port of Philadelphia were upheld in the service of regulating 
+commerce for its munic- ipal needs, Chief Justice Taney in Cooley v. Board of Wardens (1851) held that where such 
+regulation touched upon issues of national importance, particularly involving its seaport, those regulatory pow- ers 
+were reserved for Congress. Brown v. Maryland (1827) ruled that no state had the power to license and tax importers.
+
+While the Supreme Court was laying the foundation for federal regulation of business enterprise, the immediate impact 
+following Gibbons v. Ogden was the liberation of private corporations from state regulation. Not until 1887 with the 
+establishment of the Interstate Commerce Commission, which emerged in response to problems associated with market 
+governance in railroads, did the federal gov- ernment assert itself on matters of regulation. As a consequence, 
+corporations were free to grow and pursue national markets without the interference of local intervention.
+
+Recall,  this  discussion  of  the  history  of  changing  legal  institutions  is  in  regards  to  the  proprietary 
+nature of corporations. Perhaps the most important case governing the subsequent development of the legal foundations 
+of corporate property and futurity in America economic is Dartmouth College
+v.  Woodward (1819). Again, Justice Marshall plays a pivotal role in the coevolution of property law
+
+PRINCIPLES  OF  ECONOMICS                                                                                   401
+
+and corporations. The direct issue at stake was the legitimacy of Dartmouth’s corporate charter as it rested upon a 
+grant from King George III, prior to the establishment of the United States. Indirectly, all patents granted by the 
+King prior to the revolution were called into question if the court ruled the proprietary basis for Dartmouth’s charter 
+to be invalid following the American Revolution. Mar- shall ruled that revolutions do not inherently undermine vested 
+property rights. This granted legiti- macy by judicial review to all original patents by the King, including the 
+original Virginia Company patent, which accounted for a considerable portion of all land in the United State. Nearly 
+all of the areas affected by the Northwest Ordinances were derived from the original crown patents, suggesting that 
+overturning the Dartmouth charter could undermine the legitimacy of all American real prop- erty rights.
+
+CANALS, STEAMBOATS AND RAILROADS
+The canalization of the America’s inland waterways, a period spanning 1815 – 1843, marks an impor- tant moment in the 
+development of the corporation. Particularly, the canal building era laid the foun- dations for a newfound importance 
+for corporations and the ability for private citizens to control the development of the social provisioning process. In 
+short, society’s relationship with corporations changed as it used them as institutions for the development of 
+large-scale public works projects.
+
+As the US grew westward, institutions were established to facilitate inter-regional trade, and bring to eastern markets 
+the product of the hinterland. State governments issued franchises to concerns that incorporated on the premise that 
+they would improve waterways in the interior watersheds of the nation. In return, the corporation was entitled to 
+revenues associated with control over the canals. Similarly, firms were incorporated to engage in inland navigation 
+along the canalized waterways and establish rates sufficient to cover their costs and in accordance with the principle 
+of charging what the market may bear. That is to say, firms set prices and administer them to the market, allowing the 
+firm to capture quasi-rents and accumulate monetary claims on its balance sheet. Firms are limited in the extent to 
+which such rents may be appropriated from the public, which includes factors such as the ability to pay from 
+participants in the market as well as rules, formal and informal, that may provide a governance structure to the 
+market. For instance, an association may exist between navigation con- cerns that facilitate the orderly division of 
+the market, which may impose limits on the pricing dis- cretion of its members. In other situations, the market may be 
+divided between firms with different cost structures. In the event that the firms with lowest cost structure 
+establishes a market price, less efficient firms will be limited in their ability to capture quasi-rents from the 
+public due to pressure to retain market share.
+
+The enterprises that were incorporated for the purposes of building and operating the canals were large. The 
+engineering challenges before them required the organizational capacity to administer the provisioning of resources and 
+labor that spanned whole regions. The firm was faced with planning challenges that exceeded the scope and capacity of 
+small-scale proprietors. Consequently, most enter- prises engaged in the canal business were cooperative ventures 
+between private interests and the state. Private interests included merchants who wished to lower transport costs and 
+grow the market for their trade, capitalists vested in navigation companies, as well as land speculators, who believed 
+that improvements following canalization of waterways would increase the salable value of land held adja- cent to the 
+improvement. The state became the financial partner in the venture, providing institu- tional means for generating  
+revenue through tax levies and bond issues, and remaining ultimately responsible  for  financing  its  ongoing  
+maintenance.  Notably,  the  Erie  Canal,  constructed  between 1817 and 1825, was a landmark achievement of the 
+cooperation between private interests and the
+
+402                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+State of New York toward the end of transforming economic relationships, such that corporations become a central site 
+of social provisioning in the development of the American economy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 5. Workers operating a lock at Lockport, New York ca. 1839 along the Erie Canal. Engraving by W.
+H. Bartlett. Public Domain.
+
+To better understand how large scale public works projects, like the Erie Canal, were so transforma- tive consider the 
+financial and organizational implications of its development. First, the Erie Canal was financed largely through the 
+issuance of bonds. Such bonds were held as wealth by private citi- zens who became vested in the interests of the canal 
+as a going concern. To remain a going concern, the  canal  required  the  establishment  of  rates  sufficient  to  
+cover  its  costs  as  well  as  sufficient  traf- fic to provide revenues to support its financial liabilities. As a 
+result, those financially vested in the canal as bondholders were compelled to take an interest in the development of 
+the economic space as a whole such that the canal remained viable, to include promotion of settlement in regions adja- 
+cent to the canal and its feeder lines. The grandness of the venture required a further elaboration of the large-scale, 
+economic interdependence in which national markets became increasingly important. Second, given the extent of private, 
+monied interests vested in the canal, an administrative structure was required in order to ensure the orderly operation 
+of the canal and its finances. In the case of the Erie Canal, such an administrative framework was established by 
+legislature and structured as a com- mission, whose leadership were drawn from the business communities affected by the 
+existence of the canal.
+
+As America’s inland waterways were improved through lock and canal systems, the steamship became increasingly important 
+to the social provisioning process. For some communities, navigation com- panies engaged in the steamer trade emerged 
+as its first large, powerful corporations. For example, consider the Oregon Steam Navigation Company (OSN) whose 
+business was centered in Portland, Oregon in the mid to late 19th century. While small compared to East Coast 
+metropoles, Portland was the most important city on the West Coast after San Francisco, until the 1890s when Seattle 
+was connected  with  the  transcontinental  rail  system  via  the  Northern  Pacific.  The  OSN  was  Oregon’s first, 
+great monopoly whose intangible value provided the basis for wealth for many of the region’s “founding fathers.” The 
+intangible value of the corporation lied in:
+
+1.   the the exclusive rights of way that the firm enjoyed in Portland
+2.   ownership and control over key portages along the Columbia River, and
+
+PRINCIPLES  OF  ECONOMICS                                                                                   403
+
+3.   access to the state legislature via the social networks of its owners and agents.
+
+In 1866 efforts to extend a regional trunk of the nascent transcontinental railway system into Port- land from the 
+Sacramento Valley in California involved courting the owners of the Oregon Steamship Navigation Company (OSN) on the 
+presumption that their political connections would ensure special acts of incorporation from the Oregon legislature 
+favorable to the Californian interests. Initially, such owners attempted to block the advance of the railroad promoters 
+for threat of the viability of the going business of the OSN. However, later that year, perhaps hedging against the 
+threat of eventual encroachment on their business, members of the OSN leadership sought to secure the franchise for the 
+Oregon section of the regional trunk of the transcontinental, thereby securing associated land grants and privileges 
+from the state, which set off a race between two competing concerns to build a railroad through the Willamette Valley 
+in Oregon that would connect Portland with a road from Cal- ifornia. The ultimate objective lied in establishing 
+legitimate claim to the exclusive charter, ostensibly by demonstrating commitment to actually build the road and 
+fulfill the spirit of the charter, while undermining the legitimacy of the rival concern through the courts and in the 
+public mind through influence of the press. The outcome was mutual insolvency between the two parties, who had each 
+incorporated variants on the name Oregon Central Railroad.
+
+In the late 1860s, the stagecoach magnate Ben Holladay resolved the conflict by purchasing control of one of the firms, 
+persuading the legislature to reassign the charter to the concern he had acquired, and acquiring controlling stake in 
+his rivals. Holladay reorganized his newly acquired railway assets under a new name, California & Oregon Railroad, 
+together with some steamship ventures that he had estab- lished or acquired in order to provide a revenue source while 
+he developed his railway aspirations. To finance this consolidation scheme Holladay floated a considerable amount of 
+bonds to counter- parties in Europe, who were falsely led to believe that the market in the Willamette Valley in Oregon 
+was capable of supporting the revenue requirements of his steamship and railway concerns. The bal- ance sheet of the 
+Oregon and California Railroad relied upon lines of credit extended from specula- tive financiers to remain solvent.
+
+The Panic of 1873 undermined the solvency of the Oregon and California, as Holladay did not earn enough through 
+revenues from his properties to service his debt obligations without the ability to issue new debt to refinance old. 
+During a financial panic, creditors tend to stop lending, preferring instead to hold more liquid assets on their 
+balance sheet for fear of becoming insolvent themselves, resulting in a vicious cycle of asset value deflation. The 
+response by Holladay’s creditor’s was to install an  agent  to  take  receivership  of  Holladay’s  properties  and  
+reorganize  his  properties  on  a  sounder basis. The surest way to achieve this end was to buy out Holladay’s 
+interests, thereby preventing him from exerting any control over the enterprises.
+
+Over the next decade, Henry Villard, agent for German bondholders would proceed to establish new market governance 
+institutions in the Pacific Northwest such that economic activity adjacent to the railroads would be harmonized or 
+rationalized, with the ultimate end of servicing the debt obliga- tions to foreign creditors. Villard’s aspirations 
+were grander than the German bondholders: Villard wanted to engage in thoroughgoing economic development and population 
+growth. Villard wanted to build an empire on the Columbia River. A central problem facing Villard was maintaining 
+control over the market for railroad traffic in the face of the encroaching Northern Pacific, the main north- ern line 
+of the transcontinental system. The directors of the Northern Pacific wanted to run the line to Tacoma or Seattle, 
+where the natural deepwater harbors would facilitate better access to interna- tional markets. Yet, Villard was vested 
+in properties centered on Portland and its hinterlands. Villard
+
+404                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+organized a holding company in 1879, the Oregon Railway & Navigation Company, that consolidated his railroads and 
+steamships in the Willamette with his acquisition of controlling stake in the OSN. Initially, Villard sought order in 
+the market along the Columbia River via traffic sharing agreements with the directors of the Northern Pacific. However, 
+the Northern Pacific was determined to build toward the Puget Sound. In order to protect the intangible value embodied 
+in the corporations that he had come to control, he engineered a financial takeover of the Northern Pacific, through 
+the use of another holding company, the Oregon and Transcontinental Company incorporated in 1881, which allowed Villard 
+to pool funds to acquire control in the Northern Pacific. Once in control of the North- ern Pacific, Villard connected 
+the Northern Pacific with the Oregon Railway and Navigation Com- pany, ensuring that any traffic destined for the 
+Pacific would pass through Portland.
+
+It is important to note that holding companies are essentially financial corporations chartered for the purpose of 
+acquiring  majority ownership in another corporation, with a minimum outlay of cash. Holding companies can be layered, 
+such that several holding companies stand between a given set of capitalists and the actual underlying corporations 
+that the holding companies are designed to facil- itate control. This can be illustrated with a simple example: suppose 
+that a simple majority of stock ownership is sufficient to control a railroad corporation. If there are 200 shares of 
+stock outstand- ing in the corporation, then it would be necessary to acquire 101 shares to ensure control. Now, sup- 
+pose that a holding company can be incorporated and capitalized by issuing 101 shares of stocks and assuming parity 
+value between the two stocks. If the holding company is sufficiently capitalized and has access to credit, it is 
+possible that by owning a simple majority in the holding company allows one to effectively control the first 
+corporation if the holding company is able to acquire a simple major- ity of its stock, for half the ownership 
+requirement (see Figure 5 below). With each layer of holding companies between the capitalist and the firm he wishes to 
+control, the ownership stake required for control is halved. In this way, great corporations may be brought under 
+control of a single individual with relatively little personal outlay involved. This has been a common theme in the 
+area of corporate control since the second half of the 19th century, and continued well into the 20th century.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 6.

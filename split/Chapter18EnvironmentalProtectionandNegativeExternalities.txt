@@ -1,0 +1,504 @@
+
+
+
+CHAPTER 18. ENVIRONMENTAL PROTECTION AND NEGATIVE EXTERNALITIES
+
+
+
+
+INTRODUCTION  TO  ENVIRONMENTAL  PROTECTION  AND NEGATIVE  EXTERNALITIES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Environmental Debate. Across the country, countless people have protested, even risking arrest, against the 
+Keystone XL Pipeline. (Credit: modification of image by “NoKXL”/Flickr Creative Commons)
+
+
+KEYSTONE XL
+
+You might have heard about Keystone XL in the news. It is a pipeline system designed to bring oil from Canada to the 
+refineries near the Gulf of Mexico, as well as to boost crude oil production in the United States. While a private 
+company, TransCanada, will own the pipeline, U.S. government approval is required because of its size and location. The 
+pipeline is being built in four phases, with the first two currently in operation, bringing oil from Alberta, Canada, 
+east across Canada, south through the United States into Nebraska and Oklahoma, and northeast again to Illinois. The 
+third and fourth phases of the project, known as Keystone XL, would create a pipeline southeast from Alberta straight 
+to Nebraska, and then from Oklahoma to the Gulf of Mexico.
+Sounds like a great idea, right? A pipeline that would move much needed crude oil to the Gulf refineries would increase 
+oil production for manufacturing needs, reduce price pressure at the gas pump, and increase overall economic growth. 
+Sup- porters argue that the pipeline is one of the safest pipelines built yet, and would reduce America’s dependence on 
+politically vulnerable Middle Eastern oil imports.
+Not so fast, say its critics. The Keystone XL would be constructed over an enormous aquifer (one of the largest in the 
+world) in the Midwest, and through an environmentally fragile area in Nebraska, causing great concern among 
+environmental- ists about possible destruction to the natural surroundings. They argue that leaks could taint valuable 
+water sources and construction of the pipeline could disrupt and even harm indigenous species. Environmentalist groups 
+have fought gov- ernment approval of the proposed construction of the pipeline, and as of press time the pipeline 
+projects remain stalled.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   477
+
+
+
+Of course, environmental concerns matter when discussing issues related to economic growth. But how much should they 
+factor in? In the case of the pipeline, how do we know how much damage it would cause when we do not know how to put a 
+value on the environment? Would the benefits of the pipeline outweigh the opportunity cost? The issue of how to balance 
+economic progress with unintended effects on our planet is the subject of this chapter.
+
+
+CHAPTER OBJECTIVES
+
+
+Introduction to Environmental Protection and Negative Externalities
+In this chapter, you will learn about:
+
+•    The Economics of Pollution
+
+•    Command-and-Control Regulation
+
+•    Market-Oriented Environmental Tools
+
+•    The Benefits and Costs of U.S. Environmental Laws
+
+•    International Environmental Issues
+
+•    The Tradeoff between Economic Output and Environmental Protection
+
+
+
+n 1969, the Cuyahoga River in Ohio was so polluted that it spontaneously burst into flame. Air pollution was so bad at 
+that time that Chattanooga, Tennessee was a city where, as an article from Sports Illustrated put it: “the death rate 
+from tuberculosis was double that of the rest of Tennessee and triple that of the rest of the United States, a city in 
+which the filth in the air was so bad it melted nylon  stockings  off  women’s  legs,  in  which  executives  kept  
+supplies  of  clean  white  shirts  in  their offices so they could change when a shirt became too gray to be 
+presentable, in which headlights were
+turned on at high noon because the sun was eclipsed by the gunk in the sky.”
+
+The  problem  of  pollution  arises  for  every  economy  in  the  world,  whether  high-income  or  low- income, and 
+whether market-oriented or command-oriented. Every country needs to strike some bal- ance between production and 
+environmental quality. This chapter begins by discussing how firms may fail to take certain social costs, like 
+pollution, into their planning if they do not need to pay these costs. Traditionally, policies for environmental 
+protection have focused on governmental limits on how much of each pollutant could be emitted. While this approach has 
+had some success, economists have suggested a range of more flexible, market-oriented policies that reduce pollution at 
+a lower cost. We will consider both approaches, but first let’s see how economists frame and analyze these issues.
+
+
+
+18.1  THE  ECONOMICS  OF  POLLUTION
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Explain and give examples of positive and negative externalities
+
+•    Identify equilibrium price and quantity
+
+•    Evaluate how firms can contribute to market failure
+
+
+
+rom 1970 to 2012, the U.S. population increased by one-third and the size of the U.S. economy more than doubled. Since 
+the 1970s, however, the United States, using a variety of anti-pollu- tion policies, has made genuine progress against 
+a number of pollutants. Table 1 lists the change
+in carbon dioxide emissions by users of energy (from residential to industrial) according to the U.S. Energy 
+Information Administration (EIA). The table shows that emissions of certain key air pollutants declined substantially 
+from 2007 to 2012; they dropped 730 million metric tons (MMT) a year—a 12% reduction. This seems to indicate that 
+progress has been made in the United States in reducing overall carbon dioxide emissions, which cause greenhouse gases.
+
+Primary Fossil Fuels                              Purcftased Electric Power         Total Primary Fossil Fuels End-use 
+Sector               Coal     Petroleum      Natural Gas
+Residential                        (0)          (14)                   (31)                       (134)                 
+                                 (179)
+Commercial                     (2)          (2)                      (7)                         (126)                  
+                                (136)
+Industrial                          (40)       (62)                   31                         (118)                  
+                                (191)
+Transportation                0            (228)                 5                           (1)                        
+                              (224)
+Power                                (464)     (36)                   (122)                    –                        
+                                 –
+Change 2007–2012        (508)     (342)                 121                       (378)                                 
+                 (730)
+Table 1. U.S. Carbon Dioxide (CO2) Emissions from Fossil Fuels Consumed 2007–2012, Million Metric Tons (MMT) per Year. 
+(Source: EIA Monthly Energy Review)
+
+Despite the gradual reduction in emissions from fossil fuels, many important environmental issues remain.  Along  with  
+the  still  high  levels  of  air  and  water  pollution,  other  issues  include  hazardous waste disposal, 
+destruction of wetlands and other wildlife habitats, and the impact on human health from pollution.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   479
+
+EXTERNALITIES
+Private markets,  such  as  the  cell  phone  industry,  offer  an  efficient  way  to  put  buyers  and  sellers 
+together and determine what goods are produced, how they are produced, and who gets them. The principle that voluntary 
+exchange benefits both buyers and sellers is a fundamental building block of the economic way of thinking. But what 
+happens when a voluntary exchange affects a third party who is neither the buyer nor the seller?
+
+As an example, consider a concert producer who wants to build an outdoor arena that will host coun- try music concerts 
+a half-mile from your neighborhood. You will be able to hear these outdoor con- certs while sitting on your back 
+porch—or perhaps even in your dining room. In this case, the sellers and buyers of concert tickets may both be quite 
+satisfied with their voluntary exchange, but you have no voice in their market transaction. The effect of a market 
+exchange on a third party who is out- side or “external” to the exchange is called an externality. Because 
+externalities that occur in market transactions affect other parties beyond those involved, they are sometimes called 
+spillovers.
+
+Externalities  can be  negative or positive.  If  you hate  country music,  then having  it  waft  into  your house 
+every night would be a negative externality. If you love country music, then what amounts to a series of free concerts 
+would be a positive externality.
+
+POLLUTION AS A NEGATIVE EXTERNALITY
+Pollution is a negative externality. Economists illustrate the social costs of production with a demand and supply 
+diagram. The social costs include the private costs of production incurred by the company and  the  external  costs  of 
+ pollution  that  are  passed  on  to  society.  Figure  1  shows  the  demand  and supply for manufacturing 
+refrigerators. The demand curve (D) shows the quantity demanded at each price. The supply curve (Sprivate) shows the 
+quantity of refrigerators supplied by all the firms at each price if they are taking only their private costs into 
+account and they are allowed to emit pollution at zero cost. The market equilibrium (E0), where quantity supplied and 
+quantity demanded are equal, is at a price of $650 and a quantity of 45,000. This information is also reflected in the 
+first three columns of Table 2.
+
+
+Price    Quantity
+Demanded
+Quantity Supplied before Considering Pollution Cost
+Quantity Supplied after Considering Pollution Cost
+$600    50,000                         40,000                                                                           
+     30,000
+$650    45,000                         45,000                                                                           
+     35,000
+$700    40,000                         50,000                                                                           
+     40,000
+$750    35,000                         55,000                                                                           
+     45,000
+$800    30,000                         60,000                                                                           
+     50,000
+$850    25,000                         65,000                                                                           
+     55,000
+$900    20,000                         70,000                                                                           
+     60,000
+Table 2. A Supply Shift Caused by Pollution Costs
+
+However, as a by-product of the metals, plastics, chemicals and energy that are used in manufacturing refrigerators, 
+some pollution is created. Let’s say that, if these pollutants were emitted into the air and water, they would create 
+costs of $100 per refrigerator produced. These costs might occur because of injuries to human health, property values, 
+wildlife habitat, reduction of recreation possibilities, or
+
+480                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Taking Social Costs into Account: A Supply Shift. If the firm takes only its own costs of production into 
+account, then its supply curve will be Sprivate, and the market equilibrium will occur at E0. Accounting for additional 
+ external  costs  of  $100  for  every  unit  pro- duced, the firm’s supply curve will be Ssocial. The new equilibrium 
+will occur at E1.
+
+because of other negative impacts. In a market with no anti-pollution restrictions, firms can dispose of certain wastes 
+absolutely free. Now imagine that firms which produce refrigerators must factor in these external costs of 
+pollution—that is, the firms have to consider not only the costs of labor and materials needed to make a refrigerator, 
+but also the broader costs to society of injuries to health and other values caused by pollution. If the firm is 
+required to pay $100 for the additional external costs of pollution each time it produces a refrigerator, production 
+becomes more costly and the entire sup- ply curve shifts up by $100.
+
+As illustrated in the fourth column of Table 2 and in Figure 1, the firm will need to receive a price of $700 per 
+refrigerator and produce a quantity of 40,000—and the firm’s new supply curve will be Ssocial. The new equilibrium will 
+occur at E1, taking the additional external costs of pollution into account results in a higher price, a lower quantity 
+of production, and a lower quantity of pollution. The following Work It Out feature will walk you through an example, 
+this time with musical accom- paniment.
+
+
+IDENTIFYING THE EQUILIBRIUM PRICE AND QUANTITY
+
+Table 3 shows the supply and demand conditions for a firm that will play trumpets on the streets when requested. Output 
+is measured as the number of songs played.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   481
+
+Price    Quantity
+Demanded
+Quantity Supplied witftout paying tfte costs of tfte externality
+Quantity Supplied after paying tfte costs of tfte externality
+
+$20       0                                      10                                                                     
+                                        8
+
+$18       1                                      9                                                                      
+                                         7
+
+$15       2.5                                   7.5                                                                     
+                                       5.5
+
+$12       4                                      6                                                                      
+                                         4
+
+$10       5                                      5                                                                      
+                                         3
+
+$5          7.5                                   2.5                                                                   
+                                         0.5
+Table 3. Supply and Demand Conditions for a Trumpet-Playing Firm
+
+Step 1. Determine the negative externality in this situation. To do this, you must think about the situation described 
+and consider all parties that might be impacted. A negative externality might be the increase in noise pollution in the 
+area where the firm is playing.
+Step 2. Identify the equilibrium price and quantity when only private costs are taken into account, and then when 
+social costs are taken into account. Remember that equilibrium is where the quantity demanded is equal to the quantity 
+supplied. Step 3. Look down the columns to where the quantity demanded (the second column) is equal to the “quantity 
+supplied without paying the costs of the externality” (the third column). Then refer to the first column of that row to 
+determine the equilibrium price. In this case, the equilibrium price and quantity when only private costs are taken 
+into account would be at a price of $10 and a quantity of five.
+Step 4. Identify the equilibrium price and quantity when the additional external costs are taken into account. Look 
+down the columns of quantity demanded (the second column) and the “quantity supplied after paying the costs of the 
+externality” (the fourth column) then refer to the first column of that row to determine the equilibrium price. In this 
+case, the equilib- rium will be at a price of $12 and a quantity of four.
+Step 5. Consider how taking the externality into account affects the equilibrium price and quantity. Do this by 
+comparing the two equilibrium situations. If the firm is forced to pay its additional external costs, then production 
+of trumpet songs becomes more costly, and the supply curve will shift up.
+
+Remember that the supply curve is based on choices about production that firms make while looking at their marginal 
+costs, while the demand curve is based on the benefits that individuals perceive while maximizing utility. If no 
+externalities existed, private costs would be the same as the costs to society as a whole, and private benefits would 
+be the same as the benefits to society as a whole. Thus, if no externalities existed, the interaction of demand and 
+supply will coordinate social costs and benefits.
+
+However, when the externality of pollution exists, the supply curve no longer represents all social costs. Because 
+externalities represent a case where markets no longer consider all social costs, but only some of them, economists 
+commonly refer to externalities as an example of market failure. When there is market failure, the private market fails 
+to achieve efficient output, because either firms do not account for all costs incurred in the production of output 
+and/or consumers do not account for all benefits obtained (a positive externality). In the case of pollution, at the 
+market output, social costs of production exceed social benefits to consumers, and the market produces too much of the 
+product.
+
+We can see a general lesson here. If firms were required to pay the social costs of pollution, they would create less 
+pollution but produce less of the product and charge a higher price. In the next module, we will explore how 
+governments require firms to take the social costs of pollution into account.
+
+482                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+KEY CONCEPTS AND SUMMARY
+
+Economic production can cause environmental damage. This tradeoff arises for all countries, whether high-income  or  
+low-income,  and  whether  their  economies  are  market-oriented  or  command-ori- ented.
+
+An externality occurs when an exchange between a buyer and seller has an impact on a third party who is not part of the 
+exchange. An externality, which is sometimes also called a spillover, can have a negative or a positive impact on the 
+third party. If those parties imposing a negative externality on others had to take the broader social cost of their 
+behavior into account, they would have an incen- tive to reduce the production of whatever is causing the negative 
+externality. In the case of a positive externality, the third party is obtaining benefits from the exchange between a 
+buyer and a seller, but they are not paying for these benefits. If this is the case, then markets would tend to under 
+produce output because suppliers are not aware of the additional demand from others. If the parties that are generating 
+benefits to others would be somehow compensated for these external benefits, they would have an incentive to increase 
+production of whatever is causing the positive externality.
+
+SELF-CHECK QUESTIONS
+
+
+
+1.    Identify the following situations as an example of a negative or a positive externality:
+
+a.    You are a birder (bird watcher), and your neighbor has put up several birdhouses in the yard as well as planting 
+trees and flowers that attract birds.
+b.    Your neighbor paints his house a hideous color.
+c.    Investments in private education raise your country’s standard of living.
+d.    Trash dumped upstream flows downstream right past your home.
+e.    Your roommate is a smoker, but you are a nonsmoker.
+
+2.    Identify whether the market supply curve will shift right or left or will stay the same for the following:
+
+a.    Firms in an industry are required to pay a fine for their emissions of carbon dioxide.
+b.    Companies are sued for polluting the water in a river.
+c.    Power plants in a specific city are not required to address the impact of their emissions on the quality of air.
+d.    Companies that use fracking to remove oil and gas from rock are required to clean up the damage.
+
+3.    For each of your answers to Self-Check Question 2, will equilibrium price rise or fall or stay the same?
+4.    The supply and demand conditions for a manufacturing firm are given in Table 4. The third column represents a 
+supply curve without taking the social cost of pollution into account. The fourth column represents the supply curve 
+when the firm is required to take the social cost of pollution into account. Identify the equilibrium before the social 
+cost of production is included and after the social cost of production is included.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   483
+
+Price    Quantity
+Demanded
+Quantity Supplied witftout paying tfte cost of tfte pollution
+Quantity Supplied after paying tfte cost of tfte pollution
+
+$10       450                              400                                                                          
+                  250
+
+$15       440                              440                                                                          
+                  290
+
+$20       430                              480                                                                          
+                  330
+
+$25       420                              520                                                                          
+                  370
+
+$30       410                              560                                                                          
+                  410
+Table 4.
+
+
+
+
+
+REVIEW QUESTIONS
+
+
+
+1.    What is an externality?
+2.    Give an example of a positive externality and an example of a negative externality.
+3.    What is the difference between private costs and social costs?
+4.    In a market without environmental regulations, will the supply curve for a firm take into account private costs, 
+external costs, both, or neither? Explain.
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+
+Suppose you want to put a dollar value on the external costs of carbon emissions from a power plant. What information 
+or data would you obtain to measure the external [not social] cost?
+
+
+
+PROBLEMS
+
+
+
+1.    Show the market for cigarettes in equilibrium, assuming that there are no laws banning smoking in public. Label 
+the equilibrium private market price and quantity as Pm and Qm. Add whatever is needed to the model to show the impact 
+of the negative externality from second-hand smoking. (Hint: In this case it is the consumers, not the sellers, who are 
+creating the negative externality.) Label the social optimal output and price as Pe and Qe. On the graph, shade in the 
+deadweight loss at the market output.
+2.    Refer to Table 2. The externality created by the production of refrigerators was $100. However, once both the 
+private and additional external costs were taken into consideration, the market price increased by only
+$50. If the external costs were $100 why did the price only increase by $50 when all costs were taken into account?
+3.    Table 5, shows the supply and demand conditions for a firm that will play trumpets on the streets when requested. 
+Qs1 is the quantity supplied without social costs. Qs2 is the quantity supplied with social costs. What is the negative 
+externality in this situation? Identify the equilibrium price and quantity when only private costs are taken into 
+account, and then when social costs are taken into account. How does taking the externality into account affect the 
+equilibrium price and quantity?
+
+484                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+P         Qd    Qs1     Qs2
+
+$20    0        10       8
+
+$18    1        9         7
+
+$15    2.5     7.5      5.5
+
+$12    4        6         4
+
+$10    5        5         3
+
+$5       7.5     2.5      0.5
+Table 5.
+
+
+
+REFERENCES
+
+Johnson,  Oscar  William.  “Back  on  Track:  Earth  Day  Success  Story;  The  Chattanooga  Choo-Choo No Longer Spews 
+Foul Air.” Sports Illustrated. April 30, 1990. http://www.si.com/vault/1990/04/30/ 
+121923/back-on-track-earth-day-success-story-the-chattanooga-choo-choo-no-longer-spews-foul- air.
+
+U.S. Energy Information Administration. “Total Energy: Monthly Energy Review.” U.S. Department of Energy. Accessed 
+December 19, 2013. http://www.eia.gov/totalenergy/data/monthly/.
+
+GLOSSARY
+additional external cost additional costs incurred by third parties outside the production process when a unit of 
+output is produced
+externality a market exchange that affects a third party who is outside or “external” to the exchange;
+sometimes called a “spillover”
+market failure When the market on its own does not allocate resources efficiently in a way that balances social costs 
+and benefits; externalities are one example of a market failure
+negative externality a situation where a third party, outside the transaction, suffers from a market
+transaction by others
+positive externality a situation where a third party, outside the transaction, benefits from a market transaction by 
+others
+social costs costs that include both the private costs incurred by firms and also additional costs
+incurred by third parties outside the production process, like costs of pollution
+spillover see externality
+
+SOLUTIONS
+
+
+Answers to Self-Cfteck Questions
+
+1.                a.    positive externality
+b.    negative externality
+c.    positive externality
+d.    negative externality
+
+PRINCIPLES  OF  ECONOMICS                                                                                   485
+
+
+
+
+e.    negative externality
+
+2.                a.    supply shifts left
+b.    supply shifts left
+c.    supply stays the same
+d.    supply shifts left
+
+3.                a.    price will rise
+b.    price will rise
+c.    price stays the same
+d.    price will rise.
+
+4.    The original equilibrium (before the external social cost of pollution is taken into account) is where the 
+private supply curve crosses the demand curve. This original equilibrium is at a price of $15 and a quantity of 440. 
+After taking into account the additional external cost of pollution, the production becomes more costly, and the supply 
+curve shifts up. The new equilibrium will be at a price of $30 and a quantity of 410.

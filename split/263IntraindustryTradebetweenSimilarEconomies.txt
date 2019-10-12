@@ -1,0 +1,356 @@
+
+
+
+26.3  INTRA-INDUSTRY  TRADE  BETWEEN  SIMILAR  ECONOMIES
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Identify at least two advantages of intra-industry trading
+
+•    Explain the relationship between economies of scale and intra-industry trade
+
+
+
+bsolute and comparative advantages explain a great deal about patterns of global trade. For example, they help to 
+explain the patterns noted at the start of this chapter, like why you may be eating fresh fruit from Chile or Mexico, 
+or why lower productivity regions like Africa and
+Latin America are able to sell a substantial proportion of their exports to higher productivity regions like the 
+European Union and North America. Comparative advantage, however, at least at first glance, does not seem especially 
+well-suited to explain other common patterns of international trade.
+
+THE PREVALENCE OF INTRA-INDUSTRY TRADE BETWEEN SIMILAR ECONOMIES
+
+The  theory  of  comparative  advantage  suggests  that  trade  should  happen  between  economies  with large 
+differences in opportunity costs of production. Roughly half of all world trade involves shipping goods between the 
+fairly similar high-income economies of the United States, Canada, the European Union, Japan, Mexico, and China (see 
+Table 14).
+
+Country                                            U.S. Exports Go to …                                    U.S. Imports 
+Come from …
+European Union                             19.0%                                                                 21.0%
+Canada                                              22.0%                                                               
+  14.0%
+Japan                                                    4.0%                                                           
+         6.0%
+Mexico                                              15.0%                                                               
+  13.0%
+China                                                 8.0%                                                              
+      20.0%
+Table 14. Where U.S. Exports Go and U.S. Imports Originate (2015) (Source: https://www.census.gov/foreign-trade/Press- 
+Release/current_press_release/ft900.pdf)
+
+Moreover, the theory of comparative advantage suggests that each economy should specialize to a degree in certain 
+products, and then exchange those products. A high proportion of trade, however, is intra-industry trade—that is, trade 
+of goods within the same industry from one country to another. For example, the United States produces and exports 
+autos and imports autos. Table 15 shows some of the largest categories of U.S. exports and imports. In all of these 
+categories, the United States is both
+
+740                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+a substantial exporter and a substantial importer of goods from the same industry. In 2014, accord- ing to the Bureau 
+of Economic Analysis, the United States exported $159 billion worth of autos, and imported $327 billion worth of autos. 
+About 60% of U.S. trade and 60% of European trade is intra- industry trade.
+
+Some U.S. Exports                      Quantity of Exports ($ billions)                           Quantity of Imports 
+($ billions)
+Autos                                               $146                                                                
+               $327
+Food and beverages                      $144                                                                            
+   $126
+Capital goods                                 $550                                                                      
+         $551
+Consumer goods                           $199                                                                           
+    $558
+Industrial supplies                         $507                                                                        
+       $665
+Other transportation                    $45                                                                             
+    $55
+Table 15. Some Intra-Industry U.S. Exports and Imports in 2014 (Source: http://www.bea.gov/newsreleases/international/ 
+trade/tradnewsrelease.htm)
+
+Why do similar high-income economies engage in intra-industry trade? What can be the economic benefit of having workers 
+of fairly similar skills making cars, computers, machinery and other prod- ucts which are then shipped across the 
+oceans to and from the United States, the European Union, and Japan? There are two reasons: (1) The division of labor 
+leads to learning, innovation, and unique skills; and (2) economies of scale.
+
+GAINS FROM SPECIALIZATION AND LEARNING
+
+Consider the category of machinery, where the U.S. economy has considerable intra-industry trade. Machinery  comes  in  
+many  varieties,  so  the  United  States  may  be  exporting  machinery  for  manu- facturing with wood, but importing 
+machinery for photographic processing. The underlying reason why a country like the United States, Japan, or Germany 
+produces one kind of machinery rather than another is usually not related to U.S., German, or Japanese firms and 
+workers having generally higher or lower skills. It is just that, in working on very specific and particular products, 
+firms in certain countries develop unique and different skills.
+
+Specialization in the world economy can be very finely split. In fact, recent years have seen a trend in international 
+trade called splitting up tfte value cftain. The value cftain describes how a good is pro- duced in stages. As 
+indicated in the beginning of the chapter, the production of the iPhone involves the design and engineering of the 
+phone in the United States, parts supplied from Korea, the assembly of the parts in China, and the advertising and 
+marketing done in the United States. Thanks in large part to improvements in communication technology, sharing 
+information, and transportation, it has become easier to split up the value chain. Instead of production in a single 
+large factory, all of these steps  can  be  split  up  among  different  firms  operating  in  different  places  and  
+even  different  coun- tries. Because firms split up the value chain, international trade often does not involve whole 
+finished products like automobiles or refrigerators being traded between nations. Instead, it involves shipping more 
+specialized goods like, say, automobile dashboards or the shelving that fits inside refrigerators. Intra-industry trade 
+between similar countries produces economic gains because it allows workers and firms to learn and innovate on 
+particular products—and often to focus on very particular parts of the value chain.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   741
+Visit this website for some interesting information about the assembly of the iPhone.
+
+
+
+
+
+
+
+
+
+
+
+
+ECONOMIES OF SCALE, COMPETITION, VARIETY
+
+A second broad reason that intra-industry trade between similar nations produces economic gains involves economies of 
+scale. The concept of economies of scale, as introduced in Cost and Industry Structure, means that as the scale of 
+output goes up, average costs of production decline—at least up to a point. Figure 1 illustrates economies of scale for 
+a plant producing toaster ovens. The horizontal axis of the figure shows the quantity of production by a certain firm 
+or at a certain manufacturing plant. The vertical axis measures the average cost of production. Production plant S 
+produces a small level of output at 30 units and has an average cost of production of $30 per toaster oven. Plant M 
+pro- duces at a medium level of output at 50 units, and has an average cost of production of $20 per toaster oven. 
+Plant L produces 150 units of output with an average cost of production of only $10 per toaster oven. Although plant V 
+can produce 200 units of output, it still has the same unit cost as Plant L.
+
+In this example, a small or medium plant, like S or M, will not be able to compete in the market with a large or a very 
+large plant like L or V, because the firm that operates L or V will be able to produce and sell their output at a lower 
+price. In this example, economies of scale operate up to point L, but beyond point L to V, the additional scale of 
+production does not continue to reduce average costs of production.
+
+The concept of economies of scale becomes especially relevant to international trade when it enables one or two large 
+producers to supply the entire country. For example, a single large automobile fac- tory could probably supply all the 
+cars purchased in a smaller economy like the United Kingdom or Belgium in a given year. However, if a country has only 
+one or two large factories producing cars, and no international trade, then consumers in that country would have 
+relatively little choice between kinds of cars (other than the color of the paint and other nonessential options). 
+Little or no competi- tion will exist between different car manufacturers.
+
+International trade provides a way to combine the lower average production costs that come from economies of scale and 
+still have competition and variety for consumers. Large automobile factories in different countries can make and sell 
+their products around the world. If the U.S. automobile mar- ket  was  made  up  of  only  General  Motors,  Ford,  and 
+ Chrysler,  the  level  of  competition  and  con- sumer  choice  would  be  quite  a  lot  lower  than  when  U.S.  
+carmakers  must  face  competition  from Toyota, Honda, Suzuki, Fiat, Mitsubishi, Nissan, Volkswagen, Kia, Hyundai, 
+BMW, Subaru, and oth- ers.  Greater  competition  brings  with  it  innovation  and  responsiveness  to  what  
+consumers  want. America’s car producers make far better cars now than they did several decades ago, and much of the 
+reason is competitive pressure, especially from East Asian and European carmakers.
+
+742                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Economies  of Scale. Production Plant S, has an average cost of production of $30 per toaster oven. 
+Production plant M has an average cost of production of $20 per toaster oven. Production plant L has an average cost of 
+production of only $10 per toaster oven. Production plant V would still have an average cost of pro- duction of $10 per 
+toaster oven. Thus, production plant M can pro- duce toaster ovens more cheaply than plant S because of economies of 
+scale, and plants L or V can produce more cheaply than S or M because of economies of scale. However, the economies of 
+scale end at an output level of 150. Plant V, despite being larger, cannot pro- duce more cheaply on average than plant 
+L.
+DYNAMIC COMPARATIVE ADVANTAGE
+
+The sources of gains from intra-industry trade between similar economies—namely, the learning that comes from a high 
+degree of specialization and splitting up the value chain and from economies of scale—do not contradict the earlier 
+theory of comparative advantage. Instead, they help to broaden the concept.
+
+In intra-industry trade, the level of worker productivity is not determined by climate or geography. It is not even 
+determined by the general level of education or skill. Instead, the level of worker produc- tivity is determined by how 
+firms engage in specific learning about specialized products, including taking advantage of economies of scale. In this 
+vision, comparative advantage can be dynamic—that is, it can evolve and change over time as new skills are developed 
+and as the value chain is split up in new ways. This line of thinking also suggests that countries are not destined to 
+have the same compar- ative advantage forever, but must instead be flexible in response to ongoing changes in 
+comparative advantage.
+
+KEY CONCEPTS AND SUMMARY
+
+A large share of global trade happens between high-income economies that are quite similar in having well-educated  
+workers  and  advanced  technology.  These  countries  practice  intra-industry  trade,  in which they import and 
+export the same products at the same time, like cars, machinery, and comput-
+
+PRINCIPLES  OF  ECONOMICS                                                                                   743
+
+ers. In the case of intra-industry trade between economies with similar income levels, the gains from trade come from 
+specialized learning in very particular tasks and from economies of scale. Splitting up the value chain means that 
+several stages of producing a good take place in different countries around the world.
+
+SELF-CHECK QUESTIONS
+
+
+
+1.    How can there be any economic gains for a country from both importing and exporting the same good, like cars?
+2.    Table 16 shows how the average costs of production for semiconductors (the “chips” in computer memories) change 
+as the quantity of semiconductors built at that factory increases.
+
+a.    Based on these data, sketch a curve with quantity produced on the horizontal axis and average cost of production 
+on the vertical axis. How does the curve illustrate economies of scale?
+b.    If the equilibrium quantity of semiconductors demanded is 90,000, can this economy take full advantage of 
+economies of scale? What about if quantity demanded is 70,000 semiconductors? 50,000 semiconductors? 30,000 
+semiconductors?
+c.    Explain how international trade could make it possible for even a small economy to take full advantage of 
+economies of scale, while also benefiting from competition and the variety offered by several producers.
+
+Quantity of Semiconductors    Average Total Cost
+
+10,000                                              $8 each
+
+20,000                                              $5 each
+
+30,000                                              $3 each
+
+40,000                                              $2 each
+
+100,000                                            $2 each
+Table 16.
+
+
+
+
+
+REVIEW QUESTIONS
+
+
+
+1.    What is intra-industry trade?
+2.    What are the two main sources of economic gains from intra-industry trade?
+3.    What is splitting up the value chain?
+
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+
+1.    Does intra-industry trade contradict the theory of comparative advantage?
+2.    Do consumers benefit from intra-industry trade?
+3.    Why might intra-industry trade seem surprising from the point of view of comparative advantage?
+
+744                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+PROBLEMS
+
+
+
+1.    From earlier chapters you will recall that technological change shifts the average cost curves. Draw a graph 
+showing how technological change could influence intra-industry trade.
+2.    Consider two countries: South Korea and Taiwan. Taiwan can produce one million mobile phones per day at the cost 
+of $10 per phone and South Korea can produce 50 million mobile phones at $5 per phone. Assume these phones are the same 
+type and quality and there is only one price. What is the minimum price at which both countries will engage in trade?
+
+
+
+REFERENCES
+
+U.S.  Census  Bureau.  2015.  “U.S.  International  Trade  in  Goods  and  Services:  December  2014.” Accessed     
+April     13,     2015.     http://www.bea.gov/newsreleases/international/trade/2015/pdf/ trad1214.pdf.
+
+U.S.  Census  Bureau.  U.S.  Bureau  of  Economic  Analysis.  2015.  “U.S.  International  Trade  in  Goods and 
+Services February 2015.” Accessed April 10, 2015. https://www.census.gov/foreign-trade/Press- 
+Release/current_press_release/ft900.pdf.
+
+Vernengo, Matias. “What Do Undergraduates Really Need to Know About Trade and Finance?” in Political  Economy  and 
+Contemporary Capitalism:  Radical Perspectives  on Economic  Theory and Policy, ed. Ron Baiman, Heather Boushey, and 
+Dawn Saunders. M. E. Sharpe Inc, 2000. Armonk. 177-183.
+
+GLOSSARY
+intra-industry trade international trade of goods within the same industry
+splitting up tfte value cftain many of the different stages of producing a good happen in different geographic 
+locations
+value cftain how a good is produced in stages
+
+SOLUTIONS
+
+
+Answers to Self-Cfteck Questions
+
+1.    There are a number of possible advantages of intra-industry trade. Both nations can take advantage of extreme 
+specialization and learning in certain kinds of cars with certain traits, like gas-efficient cars, luxury cars, 
+sport-utility vehicles, higher- and lower-quality cars, and so on. Moreover, nations can take advantage of economies of 
+scale, so that large companies will compete against each other across international borders, providing the benefits of 
+competition and variety to customers. This same argument applies to trade between U.S. states, where people often buy 
+products made by people of other states, even though a similar product is made within the boundaries of their own 
+state. All states—and all countries—can benefit from this kind of competition and trade.
+
+2.                a.    Start by plotting the points on a sketch diagram and then drawing a line through them. The 
+following figure illustrates the average costs of production of semiconductors.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   745
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2.
+
+
+The curve illustrates economies of scale by showing that as the scale increases—that is, as produc- tion at this 
+particular factory goes up—the average cost of production declines. The economies of scale exist up to an output of 
+40,000 semiconductors; at higher outputs, the average cost of pro- duction does not seem to decline any further.
+b.    At any quantity demanded above 40,000, this economy can take full advantage of economies of scale; that is, it 
+can produce at the lowest cost per unit. Indeed, if the quantity demanded was quite high, like 500,000, then there 
+could be a number of different factories all taking full advantage of economies of scale and competing with each other. 
+If the quantity demanded falls below 40,000, then the economy by itself, without foreign trade, cannot take full 
+advantage of economies of  scale.
+c.    The simplest answer to this question is that the small country could have a large enough factory to take full 
+advantage of economies of scale, but then export most of the output. For semiconductors, countries like Taiwan and 
+Korea have recently fit this description. Moreover, this country could also import semiconductors from other countries 
+which also have large factories, thus getting the benefits of competition and variety. A slightly more complex answer 
+is that the country can get these benefits of economies of scale without producing semiconductors, but simply by buying 
+semiconductors made at low cost around the world. An economy, especially a smaller country, may well end up 
+specializing and producing a few items on a large scale, but then trading those items for other items produced on a 
+large scale, and thus gaining the benefits  of economies of scale by trade, as well as by direct production.

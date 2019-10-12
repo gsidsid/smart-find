@@ -1,0 +1,402 @@
+
+
+
+7.3  LABOR-LEISURE  CHOICES
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Interpret labor-leisure budget constraint graphs
+
+•    Predict consumer choices based on wages and other compensation
+
+•    Explain the backward-bending supply curve of labor
+
+
+
+eople  do  not  obtain  utility  just  from  products  they  purchase.  They  also  obtain  utility  from leisure time. 
+Leisure time is time not spent at work. The decision-making process of a utility- maximizing household applies to what 
+quantity of hours to work in much the same way that it applies to purchases of goods and services. Choices made along 
+the labor-leisure budget constraint, as wages shift, provide the logical underpinning for the labor supply curve. The 
+discussion also offers some insights about the range of possible reactions when people receive higher wages, and 
+specifically about  the  claim  that  if  people  are  paid  higher  wages,  they  will  work  a  greater  quantity  of
+hours—assuming that they have a say in the matter.
+
+According to the Bureau of Labor Statistics, U.S. workers averaged 38.6 hours per week on the job in 2014. This average 
+includes part-time workers; for full-time workers only, the average was 42.5 hours per week. Table 10 shows that more 
+than half of all workers are on the job 35 to 48 hours per week, but significant proportions work more or less than 
+this amount.
+
+Table 11 breaks down the average hourly compensation received by private industry workers, includ- ing wages and 
+benefits. Wages and salaries are about three-quarters of total compensation received by workers; the rest is in the 
+form of health insurance, vacation pay, and other benefits. The compensa- tion workers receive differs for many 
+reasons, including experience, education, skill, talent, member- ship in a labor union, and the presence of 
+discrimination against certain groups in the labor market. Issues surrounding the inequality of incomes in a 
+market-oriented economy are explored in the chap- ters on Poverty and Economic Inequality and Issues in Labor Markets: 
+Unions, Discrimination, Immi- gration.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   223
+
+
+Hours Worked per Week                                   Number of Workers                             Percentage of 
+Workforce
+1–14 hours                                                             6.9 million                                      
+           5.0%
+15–34 hours                                                           27.6 million                                      
+        20.1%
+35–40 hours                                                           68.5 million                                      
+        49.9%
+41–48 hours                                                           11.9 million                                      
+        8.6%
+49–59 hours                                                           13.3 million                                      
+        9.6%
+60 hours and over                                                 9.3 million                                           
+      6.8%
+Table 10. Persons at Work, by Average Hours Worked per Week in 2013 (Total number of workers: 137.7 million). (Source: 
+http://www.bls.gov/news.release/empsit.t18.htm)
+
+Compensation, Wage, Salary, and Benefits                                                                                
+      $30.92 per ftour
+Wages and Salaries                                                                                                      
+                             $20.92
+Benefits
+Vacation                                                                                                                
+                                       $2.09
+Supplemental Pay                                                                                                        
+                              $0.84
+Insurance                                                                                                               
+                                      $2.15
+Health Benefits                                                                                                         
+                                  $2.36
+Retirement and Savings                                                                                                  
+                         $1.24
+Defined Benefit                                                                                                         
+                                 $0.57
+Defined Contribution                                                                                                    
+                           $0.064
+Legally Required                                                                                                        
+                                $2.46
+Table 11. Hourly Compensation: Wages, Benefits, and Taxes in 2014. (Source: http://www.bls.gov/news.release/pdf/ 
+ecec.pdf)
+
+
+THE LABOR-LEISURE BUDGET CONSTRAINT
+
+How do workers make decisions about the number of hours to work? Again, let’s proceed with a con- crete example. The 
+economic logic is precisely the same as in the case of a consumption cftoice bud- get constraint, but the labels are 
+different on a labor-leisure budget constraint.
+
+Vivian has 70 hours per week that she could devote either to work or to leisure, and her wage is $10/ hour. The lower 
+budget constraint in Figure 1 shows Vivian’s possible choices. The horizontal axis of this diagram measures both 
+leisure and labor, by showing how Vivian’s time is divided between leisure and labor. Hours of leisure are measured 
+from left to right on the horizontal axis, while hours of labor are measured from right to left. Vivian will compare 
+choices along this budget constraint, ranging from 70 hours of leisure and no income at point S to zero hours of 
+leisure and $700 of income at point L. She will choose the point that provides her with the highest total utility. For 
+this example, let’s assume that Vivian’s utility-maximizing choice occurs at O, with 30 hours of leisure, 40 hours of 
+work, and $400 in weekly income.
+
+For Vivian to discover the labor-leisure choice that will maximize her utility, she does not have to place numerical 
+values on the total and marginal utility that she would receive from every level of income and leisure. All that really 
+matters is that Vivian can compare, in her own mind, whether she would prefer more leisure or more income, given the 
+tradeoffs she faces. If Vivian can say to herself:
+
+224                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure  1.  How  a  Rise  in  Wages  Alters  the  Utility-Maximizing Choice. Vivian’s original choice is point O on the 
+lower opportunity set. A rise in her wage causes her opportunity set to swing upward. In response to the increase in 
+wages, Vivian can make a range of dif- ferent choices available to her: a choice like D, which involves less work; and 
+a choice like B, which involves the same amount of work but more income; or a choice like A, which involves more work 
+and considerably more income. Vivian’s personal preferences will deter- mine which choice she makes.
+
+“I’d really rather work a little less and have more leisure, even if it means less income,” or “I’d be will- ing to 
+work more hours to make some extra income,” then as she gradually moves in the direction of her preferences, she will 
+seek out the utility-maximizing choice on her labor-leisure budget con- straint.
+
+Now imagine that Vivian’s wage level increases to $12/hour. A higher wage will mean a new budget constraint that tilts 
+up more steeply; conversely, a lower wage would have led to a new budget con- straint that was flatter. How will a 
+change in the wage and the corresponding shift in the budget con- straint affect Vivian’s decisions about how many 
+hours to work?
+
+Vivian’s choices of quantity of hours to work and income along her new budget constraint can be divided  into  several  
+categories,  using  the  dashed  horizontal  and  vertical  lines  in  Figure  1  that  go through her original choice 
+(O). One set of choices in the upper-left portion of the new budget con- straint involves more hours of work (that is, 
+less leisure) and more income, at a point like A with 20 hours of leisure, 50 hours of work, and $600 of income (that 
+is, 50 hours of work multiplied by the new wage of $12 per hour). A second choice would be to work exactly the same 40 
+hours, and to take the benefits of the higher wage in the form of income that would now be $480, at choice B. A third 
+choice would involve more leisure and the same income at point C (that is, 33-1/3 hours of work mul- tiplied by the new 
+wage of $12 per hour equals $400 of total income). A fourth choice would involve
+
+PRINCIPLES  OF  ECONOMICS                                                                                   225
+
+less income and much more leisure at a point like D, with a choice like 50 hours of leisure, 20 hours of work, and $240 
+in income.
+
+In effect, Vivian can choose whether to receive the benefits of her wage increase in the form of more income, or more 
+leisure, or some mixture of these two. With this range of possibilities, it would be unwise to assume that Vivian (or 
+anyone else) will necessarily react to a wage increase by working substantially more hours. Maybe they will; maybe they 
+will not.
+
+APPLICATIONS OF UTILITY MAXIMIZING WITH THE LABOR-LEISURE BUDGET CONSTRAINT
+
+The theoretical insight that higher wages will sometimes cause an increase in hours worked, some- times cause hours 
+worked not to change by much, and sometimes cause hours worked to decline, has led to labor supply curves that look 
+like the one in Figure 2. The bottom-left portion of the labor supply curve slopes upward, which reflects the situation 
+of a person who reacts to a higher wage by supplying a greater quantity of labor. The middle, close-to-vertical portion 
+of the labor supply curve reflects the situation of a person who reacts to a higher wage by supplying about the same 
+quantity of labor. The very top portion of the labor supply curve is called a backward-bending supply curve for labor, 
+which is the situation of high-wage people who can earn so much that they respond to a still- higher wage by working 
+fewer hours. Read the following Clear It Up feature for more on the number of hours the average person works each year.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. A Backward-Bending Supply Curve of Labor. The bottom upward-sloping portion of the labor supply curve shows 
+that as wages increase over this range, the quantity of hours worked also increases. The middle, nearly vertical 
+portion of the labor supply curve shows that as wages increase over this range, the quantity of hours worked changes 
+very little. The backward-bending portion of the labor supply curve at the top shows that as wages increase over this 
+range, the quantity of hours worked actually decreases. All three of these possibilities can be derived from how a 
+change in wages causes movement in the labor-leisure budget constraint, and thus different choices by individuals.
+
+
+IS AMERICA A NATION OF WORKAHOLICS?
+
+Americans work a lot. Table 12 shows average hours worked per year in the United States, Canada, Japan, and several 
+Euro-
+
+226                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+pean countries, with data from 2013. To get a perspective on these numbers, someone who works 40 hours per week for 50 
+weeks per year, with two weeks off, would work 2,000 hours per year. The gap in hours worked is a little astonishing; 
+the 250 to 300 hour gap between how much Americans work and how much Germans or the French work amounts to roughly six 
+to seven weeks less of work per year. Economists who study these international patterns debate the extent to which 
+average Americans and Japanese have a preference for working more than, say, Germans, or whether German workers and 
+employers face particular kinds of taxes and regulations that lead to fewer hours worked. Many countries have laws that 
+regulate the work week and dictate holidays and the standards of “normal” vacation time vary from country to country. 
+It is also interesting to take the amount of time spent working in context; it is estimated that in the late nineteenth 
+century in the United States, the average work week was over 60 hours per week—leaving little to no time for leisure.
+
+Country                                    Average Annual Hours Actually Worked per Employed Person
+
+United States                            1,824
+
+Spain                                          1,799
+
+Japan                                          1,759
+
+Canada                                       1,751
+
+United Kingdom                      1,669
+
+Sweden                                      1,585
+
+Germany                                   1,443
+
+France                                        1,441
+Table 12. Average Hours Worked Per Year in Select Countries. (Source: 
+http://stats.oecd.org/Index.aspx?DataSetCode=ANHRS)
+
+
+
+The different responses to a rise in wages—more hours worked, the same hours worked, or fewer hours worked—are patterns 
+exhibited by different groups of workers in the U.S. economy. Many full- time workers have jobs where the number of 
+hours is held relatively fixed, partly by their own choice and partly by their employer’s practices. These workers do 
+not much change their hours worked as wages rise or fall, so their supply curve of labor is inelastic. However, 
+part-time workers and younger workers tend to be more flexible in their hours, and more ready to increase hours worked 
+when wages are high or cut back when wages fall.
+
+The backward-bending supply curve for labor, when workers react to higher wages by working fewer hours and having more 
+income, is not observed often in the short run. However, some well-paid pro- fessionals, like dentists or accountants, 
+may react to higher wages by choosing to limit the number of hours, perhaps by taking especially long vacations, or 
+taking every other Friday off. Over a long-term perspective, the backward-bending supply curve for labor is common. 
+Over the last century, Amer- icans have reacted to gradually rising wages by working fewer hours; for example, the 
+length of the average work-week has fallen from about 60 hours per week in 1900 to the present average of less than 40 
+hours per week.
+
+Recognizing that workers have a range of possible reactions to a change in wages casts some fresh insight on a 
+perennial political debate: the claim that a reduction in income taxes—which would, in effect, allow people to earn 
+more per hour—will encourage people to work more. The leisure-income budget set points out that this connection will 
+not hold true for all workers. Some people, especially part-timers, may react to higher wages by working more. Many 
+will work the same number of hours. Some people, especially those whose incomes are already high, may react to the tax 
+cut by working fewer hours. Of course, cutting taxes may be a good or a bad idea for a variety of reasons, not just 
+because of its impact on work incentives, but the specific claim that tax cuts will lead people to work
+
+PRINCIPLES  OF  ECONOMICS                                                                                   227
+
+more hours is only likely to hold for specific groups of workers and will depend on how and for whom taxes are cut.
+
+KEY CONCEPTS AND SUMMARY
+
+When making a choice along the labor-leisure budget constraint, a household will choose the com- bination of labor, 
+leisure, and income that provides the most utility. The result of a change in wage levels can be higher work hours, the 
+same work hours, or lower work hours.
+
+SELF-CHECK QUESTIONS
+
+
+
+1.    Siddhartha has 50 hours per week to devote to work or leisure. He has been working for $8 per hour. Based on the 
+information in Table 13, calculate his utility-maximizing choice of labor and leisure time.
+
+Leisure Hours    Total Utility from Leisure    Work Hours    Income    Total Utility from Income
+
+0                             0                                                   0                         0           
+     0
+10                           200                                               10                       80              
+500
+
+20                           350                                               20                       160            
+800
+
+30                           450                                               30                       240            
+1,040
+
+40                           500                                               40                       320            
+1,240
+
+50                           530                                               50                       400            
+1,400
+Table 13.
+
+2.    In Siddhartha’s problem, calculate marginal utility for income and for leisure. Now, start off at the choice with 
+50 hours of leisure and zero income, and a wage of $8 per hour, and explain, in terms of marginal utility how 
+Siddhartha could reason his way to the optimal choice, using marginal thinking only.
+
+
+
+REVIEW QUESTIONS
+
+
+
+1.    How will a utility-maximizer find the choice of leisure and income that provides the greatest utility?
+2.    As a general rule, is it safe to assume that a higher wage will encourage significantly more hours worked for all 
+individuals? Explain.
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+
+1.    In the labor-leisure choice model, what is the price of leisure?
+2.    Think about the backward-bending part of the labor supply curve. Why would someone work less as a result of a 
+higher wage rate?
+3.    What would be the substitution effect and the income effect of a wage increase?
+4.    Visit the BLS website and determine if education level, race/ethnicity, or gender appear to impact labor versus 
+leisure choices.
+
+228                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+GLOSSARY
+backward-bending supply curve for labor the situation when high-wage people can earn so much that they respond to a 
+still-higher wage by working fewer hours
+
+SOLUTIONS
+
+
+Answers to Self-Cfteck Questions
+
+1.    This problem is straightforward if you remember leisure hours plus work hours are limited to 50 hours total. If 
+you reverse the order of the last three columns so that more leisure corresponds to less work and income, you can add 
+up columns two and five to find utility is maximized at 10 leisure hours and 40 work hours:
+
+Leisure Hours    Total Utility from Leisure    Work Hours    Income    Total Utility from Income    Total Utility from 
+Botft
+
+0                             0                                                   50                       400          
+  1,400                                            1,400
+
+10                           200                                               40                       320            
+1,240                                            1,440
+
+20                           350                                               30                       240            
+1,040                                            1,390
+
+30                           450                                               20                       160            
+800                                               1,250
+
+40                           500                                               10                       80              
+500                                               1,000
+
+50                           530                                               0                         0              
+  0                                                   530
+Table 14.
+
+2.    Begin from the last table and compute marginal utility from leisure and work:
+
+
+Leisure Hours
+Total Utility from Leisure
+MU from Leisure
+Work Hours
+Income    Total Utility from Income
+MU from Income
+
+0                           0                                                –                                50        
+             400            1,400                                        160
+
+10                         200                                           200                            40              
+       320            1,240                                        200
+
+20                         350                                           150                            30              
+       240            1,040                                        240
+
+30                         450                                           100                            20              
+       160            800                                           300
+
+40                         500                                           50                              10             
+        80              500                                           500
+
+50                         530                                           30                              0              
+          0                0                                                –
+Table 15.
+
+Suppose Sid starts with 50 hours of leisure and 0 hours of work. As Sid moves up the table, he trades 10 hours of 
+leisure for 10 hours of work at each step. At (40, 10), his MULeisure = 50, which is substantially less than his 
+MUIncome of 500. This shortfall signals Sid to keep trading leisure for work/income until at (10, 40) the marginal 
+utility of both is equal at 200. This is the sign that he should stop here, confirming the answer in question 1.

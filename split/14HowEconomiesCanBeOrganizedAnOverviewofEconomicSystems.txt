@@ -1,0 +1,375 @@
+
+
+
+1.4  HOW  ECONOMIES  CAN  BE  ORGANIZED:  AN  OVERVIEW  OF ECONOMIC  SYSTEMS
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Contrast traditional economies, command economies, and market economies
+
+•    Explain gross domestic product (GDP)
+
+•    Assess the importance and effects of globalization
+
+
+
+hink about what a complex system a modern economy is. It includes all production of goods and services, all buying and 
+selling, all employment. The economic life of every individual is interrelated, at least to a small extent, with the 
+economic lives of thousands or even millions of
+other individuals.  Who organizes and coordinates this system? Who insures that, for example, the number of televisions 
+a society provides is the same as the amount it needs and wants? Who insures that the right number of employees work in 
+the electronics industry? Who insures that televisions are produced in the best way possible? How does it all get done?
+There are at least three ways societies have found to organize an economy. The first is the traditional economy, which 
+is the oldest economic system and can be found in parts of Asia, Africa, and South America. Traditional economies 
+organize their economic affairs the way they have always done (i.e., tradition). Occupations stay in the family. Most 
+families are farmers who grow the crops they have always  grown  using  traditional  methods.  What  you  produce  is  
+what  you  get  to  consume.  Because things are driven by tradition, there is little economic progress or development.
+
+Command economies are very different. In a command economy, economic effort is devoted to goals passed down from a 
+ruler or ruling class. Ancient Egypt was a good example: a large part of economic life was devoted to building 
+pyramids, like those shown in Figure 1, for the pharaohs. Medieval manor life is another example: the lord provided the 
+land for growing crops and protection in the event of war. In return, vassals provided labor and soldiers to do the 
+lord’s bidding. In the last century, com- munism emphasized command economies.
+
+In a command economy, the government decides what goods and services will be produced and what prices will be charged 
+for them. The government decides what methods of production will be used and how much workers will be paid. Many 
+necessities like healthcare and education are provided for free. Currently, Cuba and North Korea have command 
+economies.
+
+PRINCIPLES  OF  ECONOMICS                                                                                      19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. A Command Economy. Ancient Egypt was an example of a command economy. (Credit: Jay Bergesen/Flickr Creative 
+Com- mons)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure   2.   A   Market   Economy. Nothing  says  “market”  more  than The  New  York  Stock  Exchange. (Credit:   
+Erik   Drost/Flickr   Cre- ative Commons)
+
+Although  command  economies  have  a  very  centralized  structure  for  economic  decisions,  market economies have a 
+very decentralized structure. A market is an institution that brings together buyers and sellers of goods or services, 
+who may be either individuals or businesses. The New York Stock Exchange, shown in Figure 2, is a prime example of 
+market in which buyers and sellers are brought together. In a market economy, decision-making is decentralized. Market 
+economies are based on private enterprise: the means of production (resources and businesses) are owned and operated by 
+private individuals or groups of private individuals. Businesses supply goods and services based on demand. (In a 
+command economy, by contrast, resources and businesses are owned by the govern- ment.) What goods and services  are 
+supplied depends on what is demanded. A person’s income is based  on  his  or  her  ability  to  convert  resources  
+(especially  labor)  into  something  that  society  val-
+
+20                     ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+ues. The more society values the person’s output, the higher the income (think Lady Gaga or LeBron James). In this 
+scenario, economic decisions are determined by market forces, not governments.
+
+Most economies in the real world are mixed; they combine elements of command and market (and even  traditional)  
+systems.  The  U.S.  economy  is  positioned  toward  the  market-oriented  end  of  the spectrum.  Many  countries  in 
+ Europe  and  Latin  America,  while  primarily  market-oriented,  have  a greater degree of government involvement in 
+economic decisions than does the U.S. economy. China and Russia, while they are closer to having a market-oriented 
+system now than several decades ago, remain closer to the command economy end of the spectrum. A rich resource of 
+information about countries and their economies can be found on the Heritage Foundation’s website, as the following 
+Clear It Up feature discusses.
+
+
+WHAT COUNTRIES ARE CONSIDERED ECONOMICALLY FREE?
+
+Who is in control of economic decisions? Are people free to do what they want and to work where they want? Are busi- 
+nesses free to produce when they want and what they choose, and to hire and fire as they wish? Are banks free to choose 
+who will receive loans?  Or does the government  control these kinds of choices? Each year, researchers at the Heritage 
+Foundation and the Wall Street Journal look at 50 different categories of economic freedom for countries around the 
+world. They give each nation a score based on the extent of economic freedom in each category.
+The 2015 Heritage Foundation’s Index of Economic Freedom report ranked 178 countries around the world: some exam- ples 
+of the most free and the least free countries are listed in Table 1. Several countries were not ranked because of 
+extreme instability that made judgments about economic freedom impossible. These countries include Afghanistan, Iraq, 
+Syria, and Somalia.
+The assigned rankings are inevitably based on estimates, yet even these rough measures can be useful for discerning 
+trends. In 2015, 101 of the 178 included countries shifted toward greater economic freedom, although 77 of the 
+countries shifted toward less economic freedom. In recent decades, the overall trend has been a higher level of 
+economic freedom around the world.
+
+Most Economic Freedom                                                                      Least Economic Freedom
+
+1. Hong Kong                                                                                             167. 
+Timor-Leste
+
+2. Singapore                                                                                               168. 
+Democratic Republic of Congo
+
+3. New Zealand                                                                                         169. Argentina
+
+4. Australia                                                                                                 170. 
+Republic of Congo
+
+5. Switzerland                                                                                            171. Iran
+
+6. Canada                                                                                                    172. 
+Turkmenistan
+
+7. Chile                                                                                                        173. 
+Equatorial Guinea
+
+8. Estonia                                                                                                    174. 
+Eritrea
+
+9. Ireland                                                                                                     175. 
+Zimbabwe
+
+10. Mauritius                                                                                             176. 
+Venezuela
+
+11. Denmark                                                                                              177. Cuba
+
+12. United States                                                                                       178. North 
+Korea
+
+Table 1. Economic Freedoms, 2015 (Source: The Heritage Foundation, 2015 Index of Economic Freedom, Country Rankings, 
+http://www.heritage.org/index/ranking)
+
+PRINCIPLES  OF  ECONOMICS                                                                                      21
+
+REGULATIONS: THE RULES OF THE GAME
+
+Markets and government regulations are always entangled. There is no such thing as an absolutely free market. 
+Regulations always define the “rules of the game” in the economy. Economies that are primarily market-oriented have 
+fewer regulations—ideally just enough to maintain an even playing field for participants. At a minimum, these laws 
+govern matters like safeguarding private property against theft, protecting people from violence, enforcing legal 
+contracts, preventing fraud, and col- lecting taxes. Conversely, even the most command-oriented economies operate using 
+markets. How else would buying and selling occur? But the decisions of what will be produced and what prices will be 
+charged are heavily regulated. Heavily regulated economies often have underground economies, which  are  markets  where 
+ the  buyers  and  sellers  make  transactions  without  the  government’s approval.
+
+The  question  of  how  to  organize  economic  institutions  is  typically  not  a  black-or-white  choice between all 
+market or all government, but instead involves a balancing act over the appropriate com- bination of market freedom and 
+government rules.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. Globalization. Cargo ships are one mode of transportation for  shipping  goods  in  the  global  economy.  
+(Credit:  Raul  Valdez/ Flickr Creative Commons)
+
+THE RISE OF GLOBALIZATION
+Recent decades have seen a trend toward globalization, which is the expanding cultural, political, and economic 
+connections between people around the world. One measure of this is the increased buying and selling of goods, 
+services, and assets across national borders—in other words, international trade and financial capital flows.
+
+Globalization  has  occurred  for  a  number  of  reasons.  Improvements  in  shipping,  as  illustrated  by the 
+container ship shown in Figure 3, and air cargo have driven down transportation costs. Innova- tions in computing and 
+telecommunications have made it easier and cheaper to manage long-distance economic connections of production and 
+sales. Many valuable products and services in the modern economy can take the form of information—for example: computer 
+software; financial advice; travel planning; music, books and movies; and blueprints for designing a building. These 
+products and many
+
+22                     ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+others can be transported over telephones and computer networks at ever-lower costs. Finally, inter- national 
+agreements and treaties between countries have encouraged greater trade.
+
+Table 2 presents one measure of globalization. It shows the percentage of domestic economic produc- tion that was 
+exported for a selection of countries from 2010 to 2013, according to an entity known as The World Bank. Exports are 
+the goods and services that are produced domestically and sold abroad. Imports are the goods and services that are 
+produced abroad and then sold domestically. The size of total production in an economy is measured by the gross 
+domestic product (GDP). Thus, the ratio of exports divided by GDP measures what share of a country’s total economic 
+production is sold in other countries.
+Country                                                    2010                     2011                     2012       
+              2013
+Higfter Income Countries
+United States                                            12.4                      13.6                      13.6       
+               13.5
+Belgium                                                     76.2                      81.4                      82.2    
+                  82.8
+Canada                                                       29.1                      30.7                      30.0   
+                   30.1
+France                                                        26.0                      27.8                      28.1  
+                    28.3
+Middle Income Countries
+Brazil                                                          10.9                      11.9                      
+12.6                      12.6
+Mexico                                                       29.9                      31.2                      32.6   
+                   31.7
+South Korea                                             49.4                      55.7                      56.3        
+              53.9
+Lower Income Countries
+Chad                                                           36.8                      38.9                      36.9 
+                     32.2
+China                                                         29.4                      28.5                      27.3  
+                    26.4
+India                                                           22.0                      23.9                      
+24.0                      24.8
+Nigeria                                                      25.3                      31.3                      31.4   
+                   18.0
+Table 2. The Extent of Globalization (exports/GDP) (Source: http://databank.worldbank.org/data/)
+
+In recent decades, the export/GDP ratio has generally risen, both worldwide and for the U.S. econ- omy.  Interestingly, 
+ the  share  of  U.S.  exports  in  proportion  to  the  U.S.  economy  is  well  below  the global average, in part 
+because large economies like the United States can contain more of the division of labor inside their national borders. 
+However, smaller economies like Belgium, Korea, and Canada need to trade across their borders with other countries to 
+take full advantage of division of labor, spe- cialization, and economies of scale. In this sense, the enormous U.S. 
+economy is less affected by glob- alization than most other countries.
+
+Table 2 also shows that many medium and low income countries around the world, like Mexico and China, have also 
+experienced a surge of globalization in recent decades. If an astronaut in orbit could put on special glasses that make 
+all economic transactions visible as brightly colored lines and look down at Earth, the astronaut would see the planet 
+covered with connections.
+
+So, hopefully, you now have an idea of what economics is about. Before you move to any other chapter of study, be sure 
+to read the very important appendix to this chapter called The Use of Mathematics in Principles of Economics. It is 
+essential that you learn more about how to read and use models in economics.
+
+PRINCIPLES  OF  ECONOMICS                                                                                      23
+
+
+
+
+
+DECISIONS … DECISIONS IN THE SOCIAL MEDIA AGE
+
+The world we live in today provides nearly instant access to a wealth of information. Consider that as recently as the 
+late 1970s, the Farmer’s Almanac,  along with the Weather Bureau of the U.S. Department of Agriculture, were the 
+primary sources  American  farmers  used  to  determine  when  to  plant  and  harvest  their  crops.  Today,  farmers  
+are  more  likely  to access, online, weather forecasts from the National Oceanic and Atmospheric Administration or 
+watch the Weather Chan- nel. After all, knowing the upcoming forecast could drive when to harvest crops. Consequently, 
+knowing the upcoming weather could change the amount of crop harvested.
+Some relatively new information forums, such as Facebook, are rapidly changing how information is distributed; hence, 
+influencing decision making. In 2014, the Pew Research Center reported that 71% of online adults use Facebook. Facebook 
+post topics range from the National Basketball Association, to celebrity singers and performers, to farmers.
+Information helps us make decisions. Decisions as simple as what to wear today to how many reporters should be sent to 
+cover a crash. Each of these decisions is an economic decision. After all, resources are scarce. If ten reporters are 
+sent to cover an accident, they are not available to cover other stories or complete other tasks. Information provides 
+the knowl- edge needed to make the best possible decisions on how to utilize scarce resources. Welcome to the world of 
+economics!
+
+
+KEY CONCEPTS AND SUMMARY
+
+Societies can be organized as traditional, command, or market-oriented economies. Most societies are a mix. The last 
+few decades have seen globalization evolve as a result of growth in commercial and financial networks that cross 
+national borders, making businesses and workers from different economies increasingly interdependent.
+
+SELF-CHECK QUESTIONS
+
+
+1.    The chapter defines private enterprise as a characteristic of market-oriented economies. What would public 
+enterprise be? Hint: It is a characteristic of command economies.
+2.    Why might Belgium, France, Italy, and Sweden have a higher export to GDP ratio than the United States?
+
+
+
+
+REVIEW QUESTIONS
+
+
+
+1.    What are the three ways that societies can organize themselves economically?
+2.    What is globalization? How do you think it might have affected the economy over the past decade?
+
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+
+1.    Why do you think that most modern countries’ economies are a mix of command and market types?
+2.    Can you think of ways that globalization has helped you economically? Can you think of ways that it has not?
+
+24                     ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+REFERENCES
+
+The  Heritage  Foundation.  2015.  “2015  Index  of  Economic  Freedom.”  Accessed  March  11,  2015. 
+http://www.heritage.org/index/ranking.
+
+Garling, Caleb. “S.F. plane crash: Reporting, emotions on social media,” The San Francisco Chronicle. July      7,      
+2013.      http://www.sfgate.com/news/article/S-F-plane-crash-Reporting-emotions-on- social-4651639.php.
+
+Irvine, Jessica. “Social Networking Sites are Factories of Modern Ideas.” The Sydney Morning Herald. November   25,   
+2011.http://www.smh.com.au/federal-politics/society-and-culture/social-network- 
+ing-sites-are-factories-of-modern-ideas-20111124-1nwy3.html#ixzz2YZhPYeME.
+
+Pew   Research   Center.   2015.   “Social   Networking   Fact   Sheet.”   Accessed   March   11,   2015. 
+http://www.pewinternet.org/fact-sheets/social-networking-fact-sheet/.
+
+The World Bank Group. 2015. “World Data Bank.” Accessed March 30, 2014. http://databank.world- bank.org/data/.
+
+GLOSSARY
+command economy an economy where economic decisions are passed down from government authority and where resources are 
+owned by the government
+exports products (goods and services) made domestically and sold abroad
+globalization the trend in which buying and selling in markets have increasingly crossed national borders
+gross domestic product (GDP) measure of the size of total production in an economy
+imports products (goods and services) made abroad and then sold domestically
+market interaction between potential buyers and sellers; a combination of demand and supply market economy an economy 
+where economic decisions are decentralized, resources are owned by private individuals, and businesses supply goods and 
+services based on demand
+private enterprise system where the means of production (resources and businesses) are owned and operated by private 
+individuals or groups of private individuals
+traditional economy typically an agricultural economy where things are done the same as they have
+always been done
+underground economy a market where the buyers and sellers make transactions in violation of one or more government 
+regulations
+
+SOLUTIONS
+
+
+Answers to Self-Cfteck Questions
+
+1.    Public enterprise means the factors of production (resources and businesses) are owned and operated by the 
+government.
+2.    The United States is a large country economically speaking, so it has less need to trade internationally than the 
+other countries mentioned. (This is the same reason that France and Italy have lower ratios than
+
+PRINCIPLES  OF  ECONOMICS                                                                                      25
+Belgium or Sweden.) One additional reason is that each of the other countries is a member of the European Union, where 
+trade between members occurs without barriers to trade, like tariffs and quotas.
+
+

@@ -1,0 +1,1099 @@
+PRINCIPLES OF MICROECONOMICS: SCARCITY AND SOCIAL PROVISIONING
+
+
+
+
+
+
+
+
+
+
+
+PRINCIPLES  OF  MICROECONOMICS:  SCARCITY  AND
+SOCIAL  PROVISIONING
+
+
+Erik Dean, Justin Elardo, Mitch Green, Benjamin Wilson, Sebastian Berger
+
+
+Adapted from OpenStax Principles of Economics
+
+
+
+
+
+
+
+
+
+
+
+
+Principles of Microeconomics: Scarcity and Social Provisioning by Rice University is licensed under a Creative Commons 
+Attribution 4.0 International License, except where otherwise noted.
+
+© May 18, 2016 OpenStax Economics. Textbook content produced by OpenStax Economics is licensed under a Creative Commons 
+Attribution License 4.0 license.
+
+Under this license, any user of this textbook or the textbook contents herein must provide proper attribution as 
+follows:
+
+Tfte OpenStax College name, OpenStax College logo, OpenStax College book covers, OpenStax CNX name, and OpenStax CNX 
+logo are not subject to tfte creative commons license and may not be reproduced witftout tfte prior and express written 
+consent of Rice University. For questions regarding this license, please contact partners@openstaxcollege.org.
+
+•   If you use this textbook as a bibliographic reference, then you should cite it as follows: OpenStax Economics, 
+Principles of Economics. OpenStax CNX. May 18, 2016 
+http://cnx.org/contents/69619d2b-68f0-44b0-b074-a9b2bf90b2c6@11.330.
+•   If you redistribute this textbook in a print format, then you must include on every physical page the following 
+attribution:
+“Download for free at http://cnx.org/contents/ 69619d2b-68f0-44b0-b074-a9b2bf90b2c6@11.330.”
+•   If you redistribute part of this textbook, then you must retain in every digital format page view (including but 
+not limited to EPUB, PDF, and HTML) and on every physical printed page the following attribution:
+“Download for free at http://cnx.org/contents/ 69619d2b-68f0-44b0-b074-a9b2bf90b2c6@11.330.”
+
+
+
+CONTENTS
+
+
+
+Preface                                                                                                                 
+                                         xxi
+About OpenStax                                                                                                          
+                                xxi
+About OpenStax’s Resources                                                                                              
+                         xxi
+About Principles of Economics                                                                                           
+                        xxii
+About Our Team                                                                                                          
+                            xxvii
+Ancillaries                                                                                                             
+                                     xxxi
+Copyright                                                                                                               
+                                    xxxi
+CHAPTER  1.  WELCOME  TO  ECONOMICS!
+Introduction                                                                                                            
+                                      2
+1.1 What Is Economics, and Why Is It Important?                                                                         
+       3
+The Problem of Scarcity                                                                                                 
+                                 3
+The Division of and Specialization of Labor                                                                             
+                    5
+Why the Division of Labor Increases Production                                                                          
+                6
+Trade and Markets                                                                                                       
+                                  7
+Why Study Economics?                                                                                                    
+                               7
+Key Concepts and Summary                                                                                                
+                          8
+References                                                                                                              
+                                          9
+1.2 Microeconomics and Macroeconomics                                                                                   
+       10
+Microeconomics                                                                                                          
+                                  11
+Macroeconomics                                                                                                          
+                                 11
+Key Concepts and Summary                                                                                                
+                        11
+1.3 How Economists Use Theories and Models to Understand Economic                                    13
+Issues
+Key Concepts and Summary                                                                                                
+                        15
+1.4 How Economies Can Be Organized: An Overview of Economic Systems                               18
+Regulations: The Rules of the Game                                                                                      
+                      21
+The Rise of Globalization                                                                                               
+                              21
+Key Concepts and Summary                                                                                                
+                        23
+References                                                                                                              
+                                       24
+CHAPTER  2.  CHOICE  IN  A  WORLD  OF  SCARCITY
+Introduction to Choice in a World of Scarcity                                                                           
+          28
+
+vi
+2.1 How Individuals Make Choices Based on Their Budget Constraint                                         30
+The Concept of Opportunity Cost                                                                                         
+                       31
+Identifying Opportunity Cost                                                                                            
+                          33
+Marginal Decision-Making and Diminishing Marginal Utility                                                               
+ 34
+Sunk Costs                                                                                                              
+                                      35
+From a Model with Two Goods to One of Many Goods                                                                        
+      35
+Key Concepts and Summary                                                                                                
+                        35
+References                                                                                                              
+                                       37
+2.2 The Production Possibilities Frontier and Social Choices                                                          
+39
+The Shape of the PPF and the Law of Diminishing Returns                                                                 
+     41
+Productive Efficiency and Allocative Efficiency                                                                         
+                 42
+Why Society Must Choose                                                                                                 
+                           43
+The PPF and Comparative Advantage                                                                                       
+                 43
+Key Concepts and Summary                                                                                                
+                        45
+2.3 Confronting Objections to the Economic Approach                                                                   
+47
+First Objection: People, Firms, and Society Do Not Act Like This                                                        
+     47
+Second Objection: People, Firms, and Society Should Not Act This Way                                                   
+48
+Key Concepts and Summary                                                                                                
+                        51
+References                                                                                                              
+                                       51
+CHAPTER  3:  DEFINING  ECONOMICS:  A  PLURALISTIC  APPROACH
+Defining Economics: A Pluralistic Approach                                                                              
+         54
+3.1 The Importance of Definitions                                                                                       
+                  55
+3.2 Multiple Perspectives Require Multiple Definitions                                                                  
+  56
+3.3 A Brief Synopsis of Different Economic Perspectives                                                                 
+ 57
+3.4 Deconstructing the Orthodox Definition of Economics                                                             60
+3.5 A Critical Examination of the Orthodox Definition of Economics and its                              62
+Resultant Impacts
+3.6 An Alternative Approach to Defining Economics                                                                       
+  73
+CHAPTER  4.  DEMAND  AND  SUPPLY
+Introduction to Demand and Supply                                                                                       
+              76
+4.1 Demand, Supply, and Equilibrium in Markets for Goods and Services                                    79
+Demand for Goods and Services                                                                                           
+                       79
+Supply of Goods and Services                                                                                            
+                           81
+Equilibrium—Where Demand and Supply Intersect                                                                           
+        82
+Key Concepts and Summary                                                                                                
+                        84
+References                                                                                                              
+                                       86
+
+vii
+4.2 Shifts in Demand and Supply for Goods and Services                                                                 
+88
+What Factors Affect Demand?                                                                                             
+                        88
+The Ceteris Paribus Assumption                                                                                          
+                        89
+How Does Income Affect Demand?                                                                                          
+                    89
+Other Factors That Shift Demand Curves                                                                                  
+                91
+Summing Up Factors That Change Demand                                                                                   
+           93
+How Production Costs Affect Supply                                                                                      
+                     94
+Other Factors That Affect Supply                                                                                        
+                        96
+Summing Up Factors That Change Supply                                                                                   
+              97
+Key Concepts and Summary                                                                                                
+                        99
+References                                                                                                              
+                                     101
+4.3 Changes in Equilibrium Price and Quantity: The Four-Step Process                                     104
+Good Weather for Salmon Fishing                                                                                         
+                   105
+Newspapers and the Internet                                                                                             
+                        106
+The Interconnections and Speed of Adjustment in Real Markets                                                            
+ 107
+A Combined Example                                                                                                      
+                          107
+Key Concepts and Summary                                                                                                
+                      111
+References                                                                                                              
+                                     113
+4.4 Price Ceilings and Price Floors                                                                                     
+                 114
+Price Ceilings                                                                                                          
+                                    114
+Price Floors                                                                                                            
+                                     116
+Key Concepts and Summary                                                                                                
+                      117
+4.5 Demand, Supply, and Efficiency                                                                                      
+              120
+Consumer Surplus, Producer Surplus, Social Surplus                                                                      
+        120
+Inefficiency of Price Floors and Price Ceilings                                                                         
+                 121
+Demand and Supply as a Social Adjustment Mechanism                                                                      
+   123
+Key Concepts and Summary                                                                                                
+                      124
+CHAPTER  5.  LABOR  AND  FINANCIAL  MARKETS
+Introduction to Labor and Financial Markets                                                                             
+      128
+5.1 Demand and Supply at Work in Labor Markets                                                                         
+130
+Equilibrium in the Labor Market                                                                                         
+                     130
+Shifts in Labor Demand                                                                                                  
+                           132
+Shifts in Labor Supply                                                                                                  
+                              133
+Technology and Wage Inequality: The Four-Step Process                                                                   
+     134
+Price Floors in the Labor Market: Living Wages and Minimum Wages                                                  136
+The Minimum Wage as an Example of a Price Floor                                                                         
+      137
+Key Concepts and Summary                                                                                                
+                      139
+References                                                                                                              
+                                     140
+
+viii
+5.2 Demand and Supply in Financial Markets                                                                              
+     142
+Who Demands and Who Supplies in Financial Markets?                                                                      
+  142
+Equilibrium in Financial Markets                                                                                        
+                     144
+Shifts in Demand and Supply in Financial Markets                                                                        
+        144
+The United States as a Global Borrower                                                                                  
+                 145
+Price Ceilings in Financial Markets: Usury Laws                                                                         
+           147
+Key Concepts and Summary                                                                                                
+                      148
+References                                                                                                              
+                                     150
+5.3 The Market System as an Efficient Mechanism for Information                                            152
+Key Concepts and Summary                                                                                                
+                      154
+CHAPTER  6.  ELASTICITY
+Introduction to Elasticity                                                                                              
+                         162
+6.1 Price Elasticity of Demand and Price Elasticity of Supply                                                        
+165
+Calculating Price Elasticity of Demand                                                                                  
+                  166
+Calculating the Price Elasticity of Supply                                                                              
+                   168
+Key Concepts and Summary                                                                                                
+                      170
+6.2 Polar Cases of Elasticity and Constant Elasticity                                                                   
+     176
+Key Concepts and Summary                                                                                                
+                      179
+6.3 Elasticity and Pricing                                                                                              
+                         181
+Does Raising Price Bring in More Revenue?                                                                               
+              183
+Can Costs Be Passed on to Consumers?                                                                                    
+                 184
+Elasticity and Tax Incidence                                                                                            
+                          186
+Long-Run vs. Short-Run Impact                                                                                           
+                    188
+Key Concepts and Summary                                                                                                
+                      189
+6.4 Elasticity in Areas Other Than Price                                                                                
+             192
+Income Elasticity of Demand                                                                                             
+                        192
+Cross-Price Elasticity of Demand                                                                                        
+                      193
+Elasticity in Labor and Financial Capital Markets                                                                       
+           193
+Expanding the Concept of Elasticity                                                                                     
+                    194
+Key Concepts and Summary                                                                                                
+                      195
+References                                                                                                              
+                                     196
+CHAPTER  7.  CONSUMER  CHOICES
+Introduction to Consumer Choices                                                                                        
+             200
+7.1 Consumption Choices                                                                                                 
+                    202
+Total Utility and Diminishing Marginal Utility                                                                          
+             203
+Choosing with Marginal Utility                                                                                          
+                      205
+A Rule for Maximizing Utility                                                                                           
+                       207
+Measuring Utility with Numbers                                                                                          
+                    208
+Key Concepts and Summary                                                                                                
+                      209
+References                                                                                                              
+                                     211
+
+ix
+7.2 How Changes in Income and Prices Affect Consumption Choices                                         214
+How Changes in Income Affect Consumer Choices                                                                           
+       214
+How Price Changes Affect Consumer Choices                                                                               
+           216
+The Foundations of Demand Curves                                                                                        
+                 217
+Applications in Government and Business                                                                                 
+               218
+Key Concepts and Summary                                                                                                
+                      220
+7.3 Labor-Leisure Choices                                                                                               
+                      222
+The Labor-Leisure Budget Constraint                                                                                     
+                  223
+Applications of Utility Maximizing with the Labor-Leisure Budget Constraint                                     225
+Key Concepts and Summary                                                                                                
+                      227
+7.4 Intertemporal Choices in Financial Capital Markets                                                                 
+229
+Using Marginal Utility to Make Intertemporal Choices                                                                    
+       230
+Applications of the Model of Intertemporal Choice                                                                       
+            233
+The Unifying Power of the Utility-Maximizing Budget Set Framework                                                 234
+Behavioral Economics: An Alternative Viewpoint                                                                          
+          234
+Key Concepts and Summary                                                                                                
+                      237
+References                                                                                                              
+                                     237
+CHAPTER  8.  CHALLENGING  THE  ROLE  OF  UTILITARIANISM
+The Role of Value(s) in the Economics Discipline                                                                        
+     240
+8.1 Economics and Value                                                                                                 
+                      241
+8.2 Utilitarianism: The Philosophy Behind Orthodox Economics                                                243
+
+8.3 Utility and Pareto Optimality: The Orthodox Economic View of Social Welfare
+247
+8.4 Abandoning the Normative Constraints of Utilitarianism                                                       251
+8.5 Conclusion                                                                                                          
+                               257
+CHAPTER  9.  AN  INSTITUTIONAL  ANALYSIS  OF  MODERN  CONSUMPTION
+Introduction to An Institutional Analysis of Modern Consumption                                            260
+9.1 Institutional Analysis                                                                                              
+                         263
+9.2 Conspicuous Consumption                                                                                             
+               265
+9.3 The Complex World of Modern Consumption                                                                          
+268
+9.4 Conclusion                                                                                                          
+                               271
+CHAPTER  10.  COST  AND  INDUSTRY  STRUCTURE
+Introduction to Cost and Industry Structure                                                                             
+        274
+10.1 Explicit and Implicit Costs, and Accounting and Economic Profit                                       277
+Key Concepts and Summary                                                                                                
+                      279
+References                                                                                                              
+                                     280
+
+x
+10.2 The Structure of Costs in the Short Run                                                                            
+        281
+Fixed and Variable Costs                                                                                                
+                           281
+Average Total Cost, Average Variable Cost, Marginal Cost                                                                
+     283
+Lessons from Alternative Measures of Costs                                                                              
+               285
+A Variety of Cost Patterns                                                                                              
+                            286
+Key Concepts and Summary                                                                                                
+                      287
+10.3 The Structure of Costs in the Long Run                                                                             
+       290
+Choice of Production Technology                                                                                         
+                     290
+Economies of Scale                                                                                                      
+                               292
+Shapes of Long-Run Average Cost Curves                                                                                  
+              293
+The Size and Number of Firms in an Industry                                                                             
+            295
+Shifting Patterns of Long-Run Average Cost                                                                              
+              298
+Key Concepts and Summary                                                                                                
+                      299
+Problems                                                                                                                
+                                     300
+CHAPTER  11.  PERFECT  COMPETITION
+Introduction to Perfect Competition                                                                                     
+              304
+11.1 Perfect Competition and Why It Matters                                                                             
+      306
+Key Concepts and Summary                                                                                                
+                      307
+11.2 How Perfectly Competitive Firms Make Output Decisions                                                   309
+Determining the Highest Profit by Comparing Total Revenue and Total Cost                                        309
+Comparing Marginal Revenue and Marginal Costs                                                                           
+      311
+Profits and Losses with the Average Cost Curve                                                                          
+             314
+The Shutdown Point                                                                                                      
+                             317
+Short-Run Outcomes for Perfectly Competitive Firms                                                                      
+       320
+Marginal Cost and the Firm’s Supply Curve                                                                               
+             320
+Key Concepts and Summary                                                                                                
+                      324
+11.3 Entry and Exit Decisions in the Long Run                                                                           
+     328
+How Entry and Exit Lead to Zero Profits in the Long Run                                                                 
+     329
+The Long-Run Adjustment and Industry Types                                                                              
+          330
+Key Concepts and Summary                                                                                                
+                      330
+11.4 Efficiency in Perfectly Competitive Markets                                                                        
+    333
+Key Concepts and Summary                                                                                                
+                      335
+References                                                                                                              
+                                     335
+CHAPTER  12.  MONOPOLY
+Introduction to a Monopoly                                                                                              
+                   338
+
+xi
+12.1 How Monopolies Form: Barriers to Entry                                                                             
+    341
+Natural Monopoly                                                                                                        
+                              341
+Control of a Physical Resource                                                                                          
+                        343
+Legal Monopoly                                                                                                          
+                                343
+Promoting Innovation                                                                                                    
+                            343
+Intimidating Potential Competition                                                                                      
+                     345
+Summing Up Barriers to Entry                                                                                            
+                      345
+Key Concepts and Summary                                                                                                
+                      346
+12.2 How a Profit-Maximizing Monopoly Chooses Output and Price                                         349
+Demand Curves Perceived by a Perfectly Competitive Firm and by a Monopoly                                   349
+Total Cost and Total Revenue for a Monopolist                                                                           
+             351
+Marginal Revenue and Marginal Cost for a Monopolist                                                                     
+     352
+Illustrating Monopoly Profits                                                                                           
+                          355
+The Inefficiency of Monopoly                                                                                            
+                        357
+Key Concepts and Summary                                                                                                
+                      359
+References                                                                                                              
+                                     361
+CHAPTER  13.  MONOPOLISTIC  COMPETITION  AND  OLIGOPOLY
+Introduction to Monopolistic Competition and Oligopoly                                                            364
+13.1 Monopolistic Competition                                                                                           
+                367
+Differentiated Products                                                                                                 
+                             367
+Perceived Demand for a Monopolistic Competitor                                                                          
+          368
+How a Monopolistic Competitor Chooses Price and Quantity                                                                
+ 369
+Monopolistic Competitors and Entry                                                                                      
+                   371
+Monopolistic Competition and Efficiency                                                                                 
+                373
+The Benefits of Variety and Product Differentiation                                                                     
+           374
+Key Concepts and Summary                                                                                                
+                      375
+References                                                                                                              
+                                     377
+13.2 Oligopoly                                                                                                          
+                                379
+Why Do Oligopolies Exist?                                                                                               
+                         379
+Collusion or Competition?                                                                                               
+                          380
+The Prisoner’s Dilemma                                                                                                  
+                           381
+The Oligopoly Version of the Prisoner’s Dilemma                                                                         
+           382
+How to Enforce Cooperation                                                                                              
+                        383
+Tradeoffs of Imperfect Competition                                                                                      
+                     384
+Key Concepts and Summary                                                                                                
+                      386
+References                                                                                                              
+                                     388
+CHAPTER  14.  THE  RISE  OF  BIG  BUSINESS
+Introduction to the Rise of Big Business                                                                                
+             392
+The Joint-Stock Corporation and Long Distance Trade                                                                     
+      393
+Mercantilism                                                                                                            
+                                  394
+
+xii
+14.1 Big Business in American History                                                                                   
+            396
+Business Enterprise and Property Rights                                                                                 
+                  397
+Colonial legal institutions                                                                                             
+                             397
+The Supreme Court                                                                                                       
+                             400
+Canals, Steamboats and Railroads                                                                                        
+                    401
+14.2 Industrialization and the Factory                                                                                  
+              405
+Large-scale technologies that make up the core of the economic system.                                                  
+405
+Integrated chains of production that link markets and industries.                                                       
+    405
+14.3 Big Business and Organized Labor                                                                                   
+           408
+The Knights of Labor                                                                                                    
+                             408
+The Great Railway Strike of 1877                                                                                        
+                     409
+14.4 Regulation of Big Business                                                                                         
+                   411
+The Sherman Act                                                                                                         
+                               412
+14.5 Conclusion                                                                                                         
+                              413
+CHAPTER  15.  COSTS  AND  PRICES:  THE  EVIDENCE
+Introduction to Costs and Prices                                                                                        
+                  416
+15.1 Testing the Neoclassical Theory of the Firm                                                                        
+     417
+Testing the Theory                                                                                                      
+                                418
+Designing the Average Total Cost Curve                                                                                  
+                 418
+15.2 Costing and Pricing: A Heterodox Alternative                                                                       
+  422
+Depreciation and the Going Concern                                                                                      
+                  422
+Prices from Pricing                                                                                                     
+                                423
+15.3 Comparing Neoclassical and Heterodox Theory                                                                     
+427
+CHAPTER  16.  THE  MEGACORP
+Introduction to the Megacorp                                                                                            
+                  430
+16.1 The Imperatives of Technology                                                                                      
+             433
+16.2 Business Models, Plural: Aims and Methods of the Megacorp                                              437
+16.3 Stabilizing Unstable Markets                                                                                       
+                442
+16.4 The High Price of College Textbooks                                                                                
+         444
+CHAPTER  17.  MONOPOLY  AND  ANTITRUST  POLICY
+Introduction to Monopoly and Antitrust Policy                                                                           
+    448
+17.1 Corporate Mergers                                                                                                  
+                       450
+Regulations for Approving Mergers                                                                                       
+                    450
+The Four-Firm Concentration Ratio                                                                                       
+                  452
+The Herfindahl-Hirshman Index                                                                                           
+                   453
+New Directions for Antitrust                                                                                            
+                         454
+Key Concepts and Summary                                                                                                
+                      456
+
+xiii
+17.2 Regulating Anticompetitive Behavior                                                                                
+         459
+Restrictive Practices                                                                                                   
+                                 459
+Key Concepts and Summary                                                                                                
+                      461
+17.3 Regulating Natural Monopolies                                                                                      
+             463
+The Choices in Regulating a Natural Monopoly                                                                            
+          463
+Cost-Plus versus Price Cap Regulation                                                                                   
+                  466
+Key Concepts and Summary                                                                                                
+                      466
+17.4 The Great Deregulation Experiment                                                                                  
+        469
+Doubts about Regulation of Prices and Quantities                                                                        
+           469
+The Effects of Deregulation                                                                                             
+                          470
+Key Concepts and Summary                                                                                                
+                      471
+References                                                                                                              
+                                     472
+CHAPTER  18.  ENVIRONMENTAL  PROTECTION  AND  NEGATIVE
+EXTERNALITIES
+Introduction to Environmental Protection and Negative Externalities                                       476
+18.1 The Economics of Pollution                                                                                         
+                478
+Externalities                                                                                                           
+                                    479
+Pollution as a Negative Externality                                                                                     
+                      479
+Key Concepts and Summary                                                                                                
+                      482
+References                                                                                                              
+                                     484
+18.2 Command-and-Control Regulation                                                                                     
+      486
+Key Concepts and Summary                                                                                                
+                      487
+18.3 Market-Oriented Environmental Tools                                                                                
+     489
+Pollution Charges                                                                                                       
+                                489
+Marketable Permits                                                                                                      
+                              491
+Better-Defined Property Rights                                                                                          
+                        492
+Applying Market-Oriented Environmental Tools                                                                            
+         493
+Key Concepts and Summary                                                                                                
+                      494
+Self-Check Questions                                                                                                    
+                             494
+References                                                                                                              
+                                     495
+18.4 The Benefits and Costs of U.S. Environmental Laws                                                              497
+Benefits and Costs of Clean Air and Clean Water                                                                         
+           497
+Ecotourism: Making Environmentalism Pay                                                                                 
+           498
+Marginal Benefits and Marginal Costs                                                                                    
+                 498
+Key Concepts and Summary                                                                                                
+                      500
+References                                                                                                              
+                                     502
+18.5 International Environmental Issues                                                                                 
+           504
+Key Concepts and Summary                                                                                                
+                      505
+References                                                                                                              
+                                     506
+
+18.6 The Tradeoff between Economic Output and Environmental Protection
+508
+Key Concepts and Summary                                                                                                
+                      509
+
+xiv
+CHAPTER  19.  POSITIVE  EXTERNALITIES  AND  PUBLIC  GOODS
+Introduction to Positive Externalities and Public Goods                                                                
+514
+19.1 Why the Private Sector Under Invests in Innovation                                                              
+517
+The Positive Externalities of New Technology                                                                            
+              518
+Why Invest in Human Capital?                                                                                            
+                     519
+Other Examples of Positive Externalities                                                                                
+                  520
+Key Concepts and Summary                                                                                                
+                      521
+References                                                                                                              
+                                     524
+19.2 How Governments Can Encourage Innovation                                                                       526
+Intellectual Property Rights                                                                                            
+                           526
+Policy #1: Government Spending on Research and Development                                                            
+528
+Policy #2: Tax Breaks for Research and Development                                                                      
+        529
+Policy #3 Cooperative Research                                                                                          
+                       529
+Key Concepts and Summary                                                                                                
+                      529
+References                                                                                                              
+                                     530
+19.3 Public Goods                                                                                                       
+                            532
+The Definition of a Public Good                                                                                         
+                       532
+The Free Rider Problem of Public Goods                                                                                  
+                 533
+The Role of Government in Paying for Public Goods                                                                       
+        534
+Common Resources and the “Tragedy of the Commons”                                                                       
+   535
+Positive Externalities in Public Health Programs                                                                        
+             536
+Key Concepts and Summary                                                                                                
+                      537
+References                                                                                                              
+                                     538
+CHAPTER  20.  POVERTY  AND  ECONOMIC  INEQUALITY
+Introduction to Poverty and Economic Inequality                                                                         
+  542
+20.1 Drawing the Poverty Line                                                                                           
+                  544
+Key Concepts and Summary                                                                                                
+                      547
+References                                                                                                              
+                                     548
+20.2 The Poverty Trap                                                                                                   
+                         550
+Key Concepts and Summary                                                                                                
+                      554
+20.3 The Safety Net                                                                                                     
+                            558
+Temporary Assistance for Needy Families                                                                                 
+                558
+The Earned Income Tax Credit (EITC)                                                                                     
+                559
+Supplemental Nutrition Assistance Program (SNAP)                                                                        
+       560
+Medicaid                                                                                                                
+                                     561
+Key Concepts and Summary                                                                                                
+                      563
+References                                                                                                              
+                                     564
+
+xv
+20.4 Income Inequality: Measurement and Causes                                                                          
+ 566
+Measuring Income Distribution by Quintiles                                                                              
+             567
+Lorenz Curve                                                                                                            
+                                  567
+Causes of Growing Inequality: The Changing Composition of American Households                           570
+Causes of Growing Inequality: A Shift in the Distribution of Wages                                                      
+ 570
+Key Concepts and Summary                                                                                                
+                      572
+References                                                                                                              
+                                     574
+20.5 Government Policies to Reduce Income Inequality                                                                 
+578
+Redistribution                                                                                                          
+                                   579
+The Ladder of Opportunity                                                                                               
+                         579
+Inheritance Taxes                                                                                                       
+                                580
+The Tradeoff between Incentives and Income Equality                                                                     
+       580
+Key Concepts and Summary                                                                                                
+                      582
+References                                                                                                              
+                                     583
+CHAPTER  21.  ISSUES  IN  LABOR  MARKETS:  UNIONS,  DISCRIMINATION, IMMIGRATION
+
+Introduction to Issues in Labor Markets: Unions, Discrimination, Immigration
+21.1 Unions
+586
+589
+Facts about Union Membership and Pay                                                                                    
+               589
+Higher Wages for Union Workers                                                                                          
+                    590
+The Decline in U.S. Union Membership                                                                                    
+                593
+Key Concepts and Summary                                                                                                
+                      596
+References                                                                                                              
+                                     598
+21.2 Employment Discrimination                                                                                          
+              600
+Earnings Gaps by Race and Gender                                                                                        
+                  600
+Investigating the Female/Male Earnings Gap                                                                              
+            601
+Investigating the Black/White Earnings Gap                                                                              
+             602
+Competitive Markets and Discrimination                                                                                  
+               603
+Public Policies to Reduce Discrimination                                                                                
+                  604
+An Increasingly Diverse Workforce                                                                                       
+                    605
+Key Concepts and Summary                                                                                                
+                      605
+References                                                                                                              
+                                     607
+21.3 Immigration                                                                                                        
+                             610
+Historical Patterns of Immigration                                                                                      
+                      610
+Economic Effects of Immigration                                                                                         
+                      611
+Proposals for Immigration Reform                                                                                        
+                    612
+Key Concepts and Summary                                                                                                
+                      613
+References                                                                                                              
+                                     614
+CHAPTER  22.  INFORMATION,  RISK,  AND  INSURANCE
+Introduction to Information, Risk, and Insurance                                                                        
+    616
+
+xvi
+22.1 The Problem of Imperfect Information and Asymmetric Information                                618
+“Lemons” and Other Examples of Imperfect Information                                                                    
+    619
+How Imperfect Information Can Affect Equilibrium Price and Quantity                                               620
+When Price Mixes with Imperfect Information about Quality                                                               
+ 620
+Mechanisms to Reduce the Risk of Imperfect Information                                                                  
+     621
+Key Concepts and Summary                                                                                                
+                      624
+References                                                                                                              
+                                     625
+22.2 Insurance and Imperfect Information                                                                                
+        627
+How Insurance Works                                                                                                     
+                           628
+Government and Social Insurance                                                                                         
+                    629
+Risk Groups and Actuarial Fairness                                                                                      
+                    629
+The Moral Hazard Problem                                                                                                
+                       630
+The Adverse Selection Problem                                                                                           
+                       631
+U.S. Health Care in an International Context                                                                            
+              632
+Government Regulation of Insurance                                                                                      
+                  633
+The Patient Protection and Affordable Care Act                                                                          
+             635
+Key Concepts and Summary                                                                                                
+                      636
+References                                                                                                              
+                                     638
+CHAPTER  23.  FINANCIAL  MARKETS
+Introduction to Financial Markets                                                                                       
+                642
+23.1 How Businesses Raise Financial Capital                                                                             
+       645
+Early Stage Financial Capital                                                                                           
+                        645
+Profits as a Source of Financial Capital                                                                                
+                    646
+Borrowing: Banks and Bonds                                                                                              
+                      646
+Corporate Stock and Public Firms                                                                                        
+                     647
+How Firms Choose between Sources of Financial Capital                                                                   
+     648
+Key Concepts and Summary                                                                                                
+                      649
+References                                                                                                              
+                                     651
+23.2 How Households Supply Financial Capital                                                                            
+    653
+Expected Rate of Return, Risk, and Actual Rate of Return                                                                
+       653
+Bank Accounts                                                                                                           
+                                 654
+Bonds                                                                                                                   
+                                       656
+Stocks                                                                                                                  
+                                        658
+Mutual Funds                                                                                                            
+                                 661
+Housing and Other Tangible Assets                                                                                       
+                    662
+The Tradeoffs between Return and Risk                                                                                   
+                 665
+Key Concepts and Summary                                                                                                
+                      666
+References                                                                                                              
+                                     668
+23.3 How to Accumulate Personal Wealth                                                                                  
+        670
+Why It Is Hard to Get Rich Quick: The Random Walk Theory                                                               
+670
+Getting Rich the Slow, Boring Way                                                                                       
+                    671
+How Capital Markets Transform Financial Flows                                                                           
+        673
+Key Concepts and Summary                                                                                                
+                      674
+References                                                                                                              
+                                     675
+
+xvii
+CHAPTER  24.  PUBLIC  ECONOMY
+Introduction to Public Economy                                                                                          
+                678
+24.1 Voter Participation and Costs of Elections                                                                         
+       680
+Key Concepts and Summary                                                                                                
+                      682
+References                                                                                                              
+                                     683
+24.2 Special Interest Politics                                                                                          
+                        685
+Identifiable Winners, Anonymous Losers                                                                                  
+                687
+Pork Barrels and Logrolling                                                                                             
+                          687
+Key Concepts and Summary                                                                                                
+                      688
+References                                                                                                              
+                                     690
+24.3 Flaws in the Democratic System of Government                                                                     
+691
+Where Is Government’s Self-Correcting Mechanism?                                                                        
+      693
+A Balanced View of Markets and Government                                                                               
+          694
+Key Concepts and Summary                                                                                                
+                      695
+References                                                                                                              
+                                     697
+CHAPTER  25.  MONEY  AND  THE  THEORY  OF  THE  FIRM
+Introduction to Money and the Theory of the Firm                                                                        
+ 700
+25.1 The Metallist and the Barter Myth                                                                                  
+            703
+25.2 Smith, Marx, Keynes, Chartalism and Modern Money Theory                                             706
+25.3 The Money Hierarchy and the False Duality of the State and Market                                 711
+25.4 Local Currency Systems: Social Money and Community Currencies                                  716
+CHAPTER  26.  INTERNATIONAL  TRADE
+Introduction to International Trade                                                                                     
+               720
+26.1 Absolute and Comparative Advantage                                                                                 
+      722
+A Numerical Example of Absolute and Comparative Advantage                                                            
+723
+Gains from Trade                                                                                                        
+                               725
+Key Concepts and Summary                                                                                                
+                      728
+References                                                                                                              
+                                     729
+
+26.2 What Happens When a Country Has an Absolute Advantage in All Goods
+731
+Production Possibilities and Comparative Advantage                                                                      
+        731
+Mutually Beneficial Trade with Comparative Advantage                                                                    
+    732
+How Opportunity Cost Sets the Boundaries of Trade                                                                       
+        734
+Comparative Advantage Goes Camping                                                                                      
+             735
+Key Concepts and Summary                                                                                                
+                      736
+References                                                                                                              
+                                     738
+
+xviii
+26.3 Intra-industry Trade between Similar Economies                                                                   
+739
+The Prevalence of Intra-industry Trade between Similar Economies                                                      
+739
+Gains from Specialization and Learning                                                                                  
+                740
+Economies of Scale, Competition, Variety                                                                                
+                 741
+Dynamic Comparative Advantage                                                                                           
+                 742
+Key Concepts and Summary                                                                                                
+                      742
+References                                                                                                              
+                                     744
+26.4 The Benefits of Reducing Barriers to International Trade                                                     746
+From Interpersonal to International Trade                                                                               
+                747
+Key Concepts and Summary                                                                                                
+                      748
+References                                                                                                              
+                                     749
+CHAPTER  27.  GLOBALIZATION  AND  PROTECTIONISM
+Introduction to Globalization and Protectionism                                                                         
+   752
+27.1 Protectionism: An Indirect Subsidy from Consumers to Producers                                    754
+Demand and Supply Analysis of Protectionism                                                                             
+           755
+Who Benefits and Who Pays?                                                                                              
+                      760
+Key Concepts and Summary                                                                                                
+                      761
+References                                                                                                              
+                                     762
+
+27.2 International Trade and Its Effects on Jobs, Wages, and Working Conditions
+764
+Fewer Jobs?                                                                                                             
+                                     764
+Trade and Wages                                                                                                         
+                               766
+Labor Standards and Working Conditions                                                                                  
+              767
+Key Concepts and Summary                                                                                                
+                      768
+References                                                                                                              
+                                     769
+27.3 Arguments in Support of Restricting Imports                                                                        
+  771
+The Infant Industry Argument                                                                                            
+                      771
+The Anti-Dumping Argument                                                                                               
+                    773
+The Environmental Protection Argument                                                                                   
+              774
+The Unsafe Consumer Products Argument                                                                                   
+            776
+The National Interest Argument                                                                                          
+                     776
+Key Concepts and Summary                                                                                                
+                      778
+References                                                                                                              
+                                     780
+27.4 How Trade Policy Is Enacted: Globally, Regionally, and Nationally                                     782
+The World Trade Organization                                                                                            
+                     782
+Regional Trading Agreements                                                                                             
+                       783
+Trade Policy at the National Level                                                                                      
+                      784
+Long-Term Trends in Barriers to Trade                                                                                   
+                 785
+Key Concepts and Summary                                                                                                
+                      785
+References                                                                                                              
+                                     786
+27.5 The Tradeoffs of Trade Policy                                                                                      
+                788
+Key Concepts and Summary                                                                                                
+                      789
+References                                                                                                              
+                                     791
+
+xix
+CHAPTER  28.  THE  ECONOMICS  OF  GLOBALIZATION  AND  TRADE:  A PLURALISTIC  APPROACH
+Introduction to Globalization and Trade from a Pluralistic Perspective                                      794
+28. 1 The Orthodox Story of Trade: A Synopsis                                                                           
+     796
+28. 2 A Critical Examination of the Orthodox Depiction of Free Trade                                       799
+28. 3 Challenging Functionality: A More Penetrating Critique                                                      805
+28. 4 An Alternative Presentation of International Trade: Path Dependency                              812
+
+

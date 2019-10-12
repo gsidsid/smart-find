@@ -1,0 +1,234 @@
+
+
+
+CHAPTER 8. CHALLENGING THE ROLE OF UTILITARIANISM
+
+
+
+
+THE  ROLE  OF  VALUE(S)  IN  THE  ECONOMICS  DISCIPLINE
+
+
+
+CHAPTER OBJECTIVES
+
+
+In this chapter, you will learn about:
+
+•    Value Theory in Economics
+•    Value as it is Defined by Orthodox Economics
+•    The Relationship between Utilitarian Philosophy and the Economics discipline.
+•    Critique of the Utilitarian Approach.
+•    The Application in Economics of Philosophies other than Utilitarianism.
+
+
+
+8.1  ECONOMICS  AND  VALUE
+
+
+
+LEARNING OBJECTIVES
+
+
+By the end of this section, you will be able to:
+
+•    Define the term value.
+•    Identify different interpretations of the term value.
+
+
+
+he term value and the concept of value tfteory have taken on two distinct definitions in rela- tion to economic theory. 
+ The first definition of the term value pertains to the role of normative analysis within economic theory.  As 
+discussed in chapter 1, for orthodox economic thinkers
+there is little room for normative thinking in the rigorous world of scientific economics.    Subjective or moral 
+judgments are discouraged in favor of utilizing a positive, value-free approach that is not a statement of anyone’s 
+value judgment or subjective feelings, but rather of what “is.”  By the standard orthodox textbook definition, the term 
+“value” relates to personal biases and subjective beliefs.  Also, recall from Chapter 2, the positive versus normative 
+conflict presented by orthodox economics rep- resents a false dichotomy.  As has been discussed by non-orthodox 
+economic theorists, subjective val- ues tend to be present in all economic paradigms and are unavoidable.
+
+The second definition of value that is common in economics is the one most people think of when they think of the term 
+“value.”  For most people when they think of the value of something, such as a product, they are simultaneously 
+thinking of the price of that product.  Therefore, the term value and the term price tend to be used interchangeably.  
+As a result, for many economists it is important to develop a theory of value because the theory of value provides the 
+theorist with a sense of the origin of prices.  After all, if an economist can identify the root source of value, then 
+the same economist will also understand the root origin of prices.  Since prices are incredibly important informational 
+signals, being able to explain from where prices originate adds an important depth to economic theory.
+
+On the surface both usages of the term “value,” as described above, appear to be mutually exclusive. However, closer 
+inspection reveals two interrelated issues.   Scientists, economists included, already tend to, whether knowingly or 
+unknowingly, assert subjective values within their theories.  Values not only generate a necessary entanglement of 
+facts and values, but they then become present throughout the very act of theorizing.  In the case of economics, this 
+means that the economic ideas that theorists present will include elements of their basic worldview or, as some would 
+say, their philosophy.
+
+The remainder of this chapter is laid out in such a manner as to explore the role of philosophy in economics.  First, 
+the philosophical foundation of orthodox economics, and its history, is explored. As will be shown, orthodox economics 
+relies upon utilitarian philosophy for its value-based under-
+
+242                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+standing of human action and motivation.  As such, orthodox economics believes that the concept of utility holds the 
+key to understanding the origin of prices.  Additionally, utilitarianism forms the basis for the ethical perspective 
+presented by orthodox economics.  Upon closely examining the orthodox story of utility, the chapter moves on to 
+identify important limitations that develop as a result of the use of utility.  The chapter then moves on to provide 
+alternative examples from heterodox economics, pointing out philosophical worldviews outside of utilitarianism that can 
+form the basis of economic thought.  Importantly, the alternative approaches presented do not suffer the pitfalls that 
+are present within the orthodox, utilitarian approach.
+
+
+
+
+
+
+
+
+LEARNING OBJECTIVES
+
+
+By the end of this section, you will be able to:
+
+•    Identify the history of utility and its relationship to economic ideas.
+•    Define use-value
+•    Contrast Adam Smith and Jeremy Bentham with regard to their view of utility.
+•    Contrast cardinal and ordinal utility
+•    Define revealed preference theory
+
+
+
+or those interested in the study of economics the concept of utility has a long history.  Going back to the time of 
+antiquity, great thinkers such as Aristotle made reference to the importance of the creation of use-value.  From an 
+Aristotelian standpoint use-value is the idea that human
+material production ought to be directed toward the creation of things that benefit human beings. Aristotle prioritized 
+usefulness and discouraged wastefulness.
+
+The role of the utility theory of value as a central component of the preferred ideological vision of orthodox 
+economists of today, in some ways dates back to the time of Adam Smith.  Smith, continu- ing the Aristotelian line of 
+thinking, also saw significance in the concept of use-value.
+
+Use-Value – The idea that the value of an object is based on how useful the product is to the consumer.  Products have 
+an intrinsic value to their consumers.
+
+For Smith though, use-value represented the perceived benefit that people would derive from con- sumption.  For Smith, 
+consumers would be more apt to buy products that they perceived as useful as opposed to products that they believed are 
+not useful.  Still, Smith’s analysis remains a long way from how utility is utilized by orthodox economists.
+
+Although Smith does not go into much further development beyond his acknowledgement that con- sumers  attach  some  
+kind  of use-value  to useful items,  it is clear that Smith  opens the door to the potential development of the idea 
+that utility plays a role in determining the prices of products.  Con- sider,  if  utility,  or  use-value,  is  
+important  to  consumers,  then,  presumably,  utility  must  play  a  role in determining consumers’ interest in 
+purchasing a product.  Because consumer demand is a reflec- tion of consumer purchasing interests, consumer demand will 
+be essential to the determination of the prices of products.  It is with the evolution of economic ideas in the 19th 
+century that the relationship between utility and prices is cemented within orthodox economic thought.
+
+In order to understand the role of utility in contemporary orthodox economics, the place to begin is
+
+244                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+with the early 19th century philosopher and political economist Jeremy Bentham.  Bentham possibly had the most 
+prominent influence on the philosophical development of utility.  Bentham’s perspective is known as utilitarianism.  
+Bentham describes utility as the cornerstone of the “Greatest Happiness Principle.”  In Bentham’s usage, utility 
+evolves beyond a description of usefulness into the embodi- ment of happiness.  Utilitarianism espouses the belief that 
+people are pleasure maximizers and pain minimizers.  Therefore, any action that a person engages in must be driven by 
+the desire either to gain happiness or to reduce pain.  Taken to the field of economics, in Bentham’s view, people 
+desire products because those products bring the person happiness.  Clearly, Bentham’s perspective had a profound 
+effect on orthodox economics, given the many references that this textbook has made in Chapters 2 and 6 to consumers 
+being driven to maximize their utility.
+
+Bentham’s story, for all of its applicability to contemporary orthodox economics, is still only a partial analysis.  
+One area in which Bentham’s argument is incomplete is in his treatment of the measurability of utility.  When 
+describing how a consumer may assign utility to a product, Bentham freely employed both cardinal and ordinal measures 
+of utility.
+
+Cardinal utility – Is the idea that the utility a consumer assigns to a product is objective and, therefore, quan- 
+tifiably measurable.
+
+Ordinal utility – Is the idea that the utility that a consumer assigns to a product is subjective, in the mind of the 
+consumer, and is, therefore, not directly quantifiably measurable.
+
+As a rule Bentham seemed to generally acknowledge ordinal utility as being conceptually sound in comparison to cardinal 
+utility.  Bentham understood that cardinal utility cannot be objectively mea- sured, a person cannot be attached to a 
+device that measures units of happy (utils).  There are, how- ever,  indirect  measures  that  can  allude  to  
+cardinal  utility,  such  as  the  order  in  which  consumers purchase products.  Given two products with an identical 
+price, if a consumer purchases one of the products prior to the other, it stands to reason that the first product 
+purchased retain greater utility than the second product.  Regardless, in absolute terms, how much utility a consumer 
+actually assigns to a product cannot be empirically measured, rendering it subjective to the consumer.  Limitations 
+aside, Bentham frequently developed examples that required cardinal measures of utility.
+
+Another area in which Bentham’s analysis was incomplete pertained to the relationship between util- ity and the origins 
+of prices of products.  Recall the principle of diminishing marginal utility described in Chapter 6.  Bentham 
+anticipates the idea of diminishing marginal utility by describing instances in which a person can acquire more of 
+something but feel less satisfaction from the additional unit than they received from earlier units.  Bentham’s 
+depiction, however, remains abstract rather than appear- ing “scientifically” concrete.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   245
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portrait of Jeremy Bentham (Source: Wellcome Images, Wikimedia, CC-BY 4.0)
+
+Resolving some of the incomplete features of Bentham’s story are the marginalists of the 1870s.  Inde- pendent of one 
+another, a group of thinkers triggered what is now referred to as the marginalist rev- olution.  The marginalists 
+famously apply differential calculus to utility analysis.  Differential calculus focuses on rates of change between two 
+variables.  In the case of utility, differential calculus can be used to tell a story about how, as a consumer consumes 
+more of a product, the happiness derived from that product will change.  The marginalists attempted to demonstrate, in 
+a more concrete way, the idea that as more of something is consumed, the satisfaction or utility per unit would 
+decline.  By applying calculus, and drawing pictures to reflect the conclusions drawn from the mathematical pre- 
+sentation, the marginalists create the appearance of a scientific advancement in the study of utility in economics.  In 
+terms of legacy, the marginalists use of calculus is a hallmark of modern orthodox eco- nomic theory.
+
+As much as the marginalists influence the apparatus of modern orthodox economics, their analysis still remained 
+incomplete in that the marginalists do not resolve the issue of ordinal versus cardinal utility.  It is not until the 
+20th century that orthodox economic theorists settle on the use of ordinal utility as the foundation of their 
+measurement of utility.  The thinker most responsible for solidifying ordinal utility’s place within economics is Paul 
+Samuelson.  Paul Samuelson develops a theory known as  Revealed  Preference.   On  the  surface,  revealed  preference  
+theory  articulates  the  idea  that  the amount of utility that any one person derives from the consumption of a 
+product is purely subjective to the consumer in question.  However, once a consumer identifies that which brings them 
+the greater happiness, the consumer then reveals their preferences to everyone by consuming the product that they 
+desire.  In this respect, revealed preference theory seeks to quantify utility by identifying utility as a consequence 
+of a consumer’s actions.
+
+
+THE  APPLICATION  OF  UTILITARIANISM  WITHIN  ORTHODOX  ECONOMICS  AND  ITS IMPLICATIONS.
+
+246                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+Whether an unwitting or a conscious choice, utility continues to be the preferred philosophical start- ing point for 
+contemporary orthodox economists.  Utility also carries with it a specific interpretation of human actions and 
+interactions.  Recall, for orthodox economics, the human being is a hedonist continually in search of greater pleasure 
+or diminished pain.  Any socially determined characteris- tics are given (not analyzed, merely accepted), yielding an 
+isolated utility maximizer.  Also, recall, that this notion of a hedonistic person is deeply controversial with respect 
+to its application in econom- ics.  There simply does not exist irrefutable evidence that individuals only pursue 
+products because those products provide the individual with pleasure.  Human motive can be defined in many ways with 
+hedonism being just one of many interpretations.
+
+Regardless of its accuracy or inaccuracy, orthodox economists perceive that, for individuals, utility is maximized 
+through the act of exchange.  At any particular point in time, an individual, possessing an initial endowment (income), 
+begins engaging in the act of exchange with some other individual eco- nomic agent.  As all exchanges are assumed to be 
+voluntary, any exchange that two parties are will- ing to engage in must be an exchange that will make both parties 
+better off, otherwise neither party would engage  in the exchange.  Because  being  made better  off means,  according 
+to orthodox eco- nomic theory, acquiring more utility, the act of exchanging is the act increasing one’s holdings of 
+util- ity.  Any and all exchanges then must be increasing individual, and subsequently, society’s total utility. 
+Presumably, once some kind of round of exchanges is complete, any and all parties that engaged in exchanges are now 
+better off because now they have more utility as a result of their exchanges.
+
+Of course, no one really knows whether or not the result of these exchanges really has made the par- ticipants better 
+off or worse off because there is no device that measures utility.  Utility is purely sub- jective and non-empirical, 
+which means that the revealed preference argument yields an outcome in which it must be assumed that all exchange 
+participants are made better, otherwise they would not have participated in the exchange.  Assuming people are better 
+off does not mean that people are actu- ally better off.

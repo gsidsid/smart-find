@@ -1,0 +1,391 @@
+
+
+
+18.5  INTERNATIONAL  ENVIRONMENTAL  ISSUES
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Explain biodiversity
+
+•    Analyze the partnership of high-income and low-income countries in efforts to address international externalities
+
+
+any countries around the world have become more aware of the benefits of environmental protection. Yet even if most 
+nations individually took steps to address their environmental issues, no nation acting alone can solve certain 
+environmental problems which spill over
+national  borders.  No  nation  by  itself  can  reduce  emissions  of  carbon  dioxide  and  other  gases  by enough  
+to  solve  the  problem  of  global  warming—not  without  the  cooperation  of  other  nations. Another issue is the 
+challenge of preserving biodiversity, which includes the full spectrum of animal and  plant  genetic  material.  
+Although  a  nation  can  protect  biodiversity  within  its  own  borders,  no nation acting alone can protect 
+biodiversity around the world. Global warming and biodiversity are examples of international externalities.
+
+Bringing the nations of the world together to address environmental issues requires a difficult set of  negotiations  
+between  countries  with  different  income  levels  and  different  sets  of  priorities.  If nations such as China, 
+India, Brazil, Mexico, and others are developing their economies by burning vast amounts of fossil fuels or by 
+stripping their forest and wildlife habitats, then the world’s high- income  countries  acting  alone  will  not  be  
+able  to  reduce  greenhouse  gases.  However,  low-income countries, with some understandable exasperation, point out 
+that high-income countries do not have much moral standing to lecture them on the necessities of putting environmental 
+protection ahead of economic growth. After all, high-income countries have historically been the primary contributors 
+to greenhouse warming by burning fossil fuels—and still are today. It is hard to tell people who are living in a 
+low-income country, where adequate diet, health care, and education are lacking, that they should sacrifice an improved 
+quality of life for a cleaner environment.
+
+Can rich and poor countries come together to address global environmental spillovers? At the ini- tiative of the 
+European Union and the most vulnerable developing nations, the Durban climate con- ference  in  December  2011  
+launched  negotiations  to  develop  a  new  international  climate  change agreement that covers all countries. The 
+agreement will take the form of an agreed upon outcome with  legal  force  applicable  to  all  parties.  According  to 
+ the  EU,  the  goal  is  to  adopt  the  plan  in
+
+PRINCIPLES  OF  ECONOMICS                                                                                   505
+2015 and implement it in 2020. For the agreement to work, the two biggest emitters of greenhouse gases—China and the 
+United States—will have to sign on.
+Visit this website to learn more about the European Commission.
+
+
+
+
+
+
+
+
+
+
+
+If high-income countries want low-income countries to reduce their emissions of greenhouse gases, then the high-income 
+countries may need to pay some of the costs. Perhaps some of these payments will happen through private markets; for 
+example, some tourists from rich countries will pay hand- somely to vacation near the natural treasures of low-income 
+countries. Perhaps some of the transfer of resources can happen through making modern pollution-control technology 
+available to poorer countries.
+
+The practical details of what such an international system might look like and how it would operate across 
+international borders are forbiddingly complex. But it seems highly unlikely that some form of world government will 
+impose a detailed system of environmental command-and-control regulation around the world. As a result, a decentralized 
+and market-oriented approach may be the only practi- cal way to address international issues such as global warming and 
+biodiversity.
+
+KEY CONCEPTS AND SUMMARY
+
+Certain global environmental issues, such as global warming and biodiversity, spill over national bor- ders and will 
+need to be addressed with some form of international agreement.
+
+SELF-CHECK QUESTIONS
+
+
+
+Consider the case of global environmental problems that spill across international borders as a prisoner’s dilemma of 
+the sort studied in Monopolistic Competition and Oligopoly. Say that there are two countries, A and B. Each country can 
+choose whether to protect the environment, at a cost of 10, or not to protect it, at a cost of zero. If one country 
+decides to protect the environment, there is a benefit of 16, but the benefit is divided equally between the two coun- 
+tries. If both countries decide to protect the environment, there is a benefit of 32, which is divided equally between 
+the two countries.
+
+a.    In Table 16, fill in the costs, benefits, and total payoffs to the countries of the following decisions. Explain 
+why, without some international agreement, they are likely to end up with neither country acting to protect the 
+environment.
+
+506                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+Country B
+
+Protect    Not Protect
+
+
+Country A
+
+Protect
+
+Not Protect
+Table 16.
+
+
+
+REVIEW QUESTIONS
+
+
+
+1.    What are the economic tradeoffs between low-income and high-income countries in international conferences on 
+global environmental damage?
+2.    What arguments do low-income countries make in international discussions of global environmental clean- up?
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+
+1.    Can extreme levels of pollution hurt the economic development of a high-income country? Why or why not?
+2.    How can high-income countries benefit from covering much of the cost of reducing pollution created by low-income 
+countries?
+
+
+
+REFERENCES
+
+European Union. “Durban Conference Delivers Breakthrough for Climate.” Press release. December 11,          2012.       
+   Accessed          December          19,          2013.          http://europa.eu/rapid/press- 
+release_MEMO-11-895_en.htm?locale=en.
+
+GLOSSARY
+biodiversity the full spectrum of animal and plant genetic material
+international externalities externalities that cross national borders and that cannot be resolved by a single nation 
+acting alone
+
+SOLUTIONS
+
+
+Answers to Self-Cfteck Questions
+
+PRINCIPLES  OF  ECONOMICS                                                                                   507
+Country B
+Protect                                                                                                     Not Protect
+
+Country
+Protect    Both A and B have a cost of 10 and a benefit of 16; each country has net = 6
+A has a cost of 10 and a benefit of 8 (net = –2); B has a cost of 0 and a benefit of 8 ( net = 8)
+
+A                  Not
+Protect
+A has a cost of 0 and a benefit of 8 (net = 8); B has a cost of 10 and a benefit of 8 (net = –2)
+Both A and B have a zero cost and a zero benefit; each country has net = 0
+Table 17.
+Country B will reason this way: If A protects the environment, then we will have benefits of 6 if we act to protect the 
+environment, but 8 if we do not, so we will not protect it. If A is not protecting the environment, we will have losses 
+of 2 if we protect, but have zero if we do not protect, so again, we will not protect it. Country A will reason in a 
+similar manner. The result is that both countries choose to not protect, even though they will achieve the largest 
+social ben- efits—a combined benefit of 12 for the two countries—if they both choose to protect. Environmental treaties 
+can be viewed as a way for countries to try to extricate themselves from this situation.
+
+
+
+18.6  THE  TRADEOFF  BETWEEN  ECONOMIC  OUTPUT  AND ENVIRONMENTAL  PROTECTION
+
+
+
+LEARNING OBJECTIVES
+
+
+
+By the end of this section, you will be able to:
+
+•    Apply the production possibility frontier to evaluate the tradeoff between economic output and the environment
+•    Interpret a graphic representation of the tradeoff between economic output and environmental protection
+
+
+
+he tradeoff between economic output and the environment can be analyzed with a production possibility frontier (PPF) 
+such as the one shown in Figure 1. At one extreme, at a choice like P, a country would be selecting a high level of 
+economic output but very little environmental pro-
+tection. At the other extreme, at a choice like T, a country would be selecting a high level of environ- mental 
+protection but little economic output. According to the graph, an increase in environmental protection involves an 
+opportunity cost of less economic output. No matter what their preferences, all  societies  should  wish  to  avoid  
+choices  like  M,  which  are  productively  inefficient.  Efficiency requires that the choice should be on the 
+production possibility frontier.
+
+Economists do not have a great deal to say about the choice between P, Q, R, S and T in Figure 1, all of which lie 
+along the production possibility frontier. Countries with low per capita gross domestic product (GDP), such as China, 
+place a greater emphasis on economic output—which in turn helps to produce nutrition, shelter, health, education, and 
+desirable consumer goods. Countries with higher income levels, where a greater share of people have access to the basic 
+necessities of life, may be will- ing to place a relatively greater emphasis on environmental protection.
+
+However, economists are united in their belief that an inefficient choice such as M is undesirable. Rather than 
+choosing M, a nation could achieve either greater economic output with the same envi- ronmental  protection,  as  at  
+point  Q,  or  greater  environmental  protection  with  the  same  level  of output, as at point S. The problem with 
+command-and-control environmental laws is that they some- times  involve  a  choice  like  M.  Market-oriented  
+environmental  tools  offer  a  mechanism  either  for providing either the same environmental protection at lower 
+cost, or providing a greater degree of environmental protection for the same cost.
+
+PRINCIPLES  OF  ECONOMICS                                                                                   509
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. The Tradeoff between Economic Output and Environmental Protection.  Each  society  will  have  to  weigh  its 
+ own  values  and  decide whether it prefers a choice like P with more economic output and less environmental 
+protection, or a choice like T with more environmental protection and less economic output.
+
+
+KEYSTONE XL
+
+So how would an economist respond to claims of environmental damage caused by the Keystone XL project? Clearly the 
+environmental cost of oil spills would be considered a negative externality, but how many external costs would arise? 
+And are these costs “too high” when measured against any potential for economic benefit?
+As this chapter indicates, in deciding whether construction of the pipeline is a good idea, an economist would want to 
+know not only about the marginal benefits resulting from the additional pipeline construction, but also the potential 
+marginal costs—and especially the marginal external costs of the pipeline. Typically these come in the form of 
+environmental impact statements, which are usually required for these kinds of projects. The most recent impact 
+statement, released in March 2013 by the Nebraska Department of State, considered the possibility of fewer miles of 
+pipeline going over the aquifer system and avoiding completely environmentally fragile areas; it indicated that “most 
+resources” would not be harmed by construction of the pipeline.
+As of press time, the Obama Administration has not approved construction of the Keystone XL project. While the eco- 
+nomic benefits of additional oil in the United States may be fairly easily quantified, the social costs are not. It 
+seems that, in a period of economic expansion, people want to err on the side of caution and estimate the marginal 
+costs to be greater than the marginal benefits of additional oil generation. Those estimates may change, however, if 
+the price of gasoline con- tinues to rise.
+
+
+KEY CONCEPTS AND SUMMARY
+
+Depending on their different income levels and political preferences, countries are likely to make dif- ferent choices 
+about allocative efficiency—that is, the choice between economic output and environ-
+
+510                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+mental protection along the production possibility frontier. However, all countries should prefer to make a choice that 
+shows productive efficiency—that is, the choice is somewhere on the production possibility frontier rather than inside 
+it. Revisit Choice in a World of Scarcity for more on these terms.
+
+SELF-CHECK QUESTIONS
+
+
+
+A country called Sherwood is very heavily covered with a forest of 50,000 trees. There are proposals to clear some of 
+Sherwood’s forest and grow corn, but obtaining this additional economic output will have an environmental cost from 
+reducing the number of trees. Table 18 shows possible combinations of economic output and environmental protec- tion.
+Combos    Corn Busftels (tftousands)    Number of Trees (tftousands) P               9                                  
+                5
+Q               2                                                  30
+R               7                                                  20
+S                2                                                  40
+T               6                                                  10
+Table 18.
+
+a.    Sketch a graph of a production possibility frontier with environmental quality on the horizontal axis, measured 
+by the number of trees, and the quantity of economic output, measured in corn, on the vertical axis.
+b.    Which choices display productive efficiency? How can you tell?
+c.    Which choices show allocative efficiency? How can you tell?
+d.    In the choice between T and R, decide which one is better. Why?
+e.    In the choice between T and S, can you say which one is better, and why?
+f.    If you had to guess, which choice would you think is more likely to represent a command-and-control environmental 
+policy and which choice is more likely to represent a market-oriented environmental policy, choice Q or S? Why?
+
+
+
+REVIEW QUESTIONS
+
+
+
+1.    In the tradeoff between economic output and environmental protection, what do the combinations on the protection 
+possibility curve represent?
+2.    What does a point inside the production possibility frontier represent?
+
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+
+Technological innovations shift the production possibility curve. Look at graph you sketched for Self-Check Question 1 
+Which types of technologies should a country promote? Should “clean” technologies be promoted over other tech- 
+nologies? Why or why not?
+
+PRINCIPLES  OF  ECONOMICS                                                                                   511
+
+
+
+
+PROBLEMS
+
+
+
+In the Land of Purity, there is only one form of pollution, called “gunk.” Table 19 shows possible combinations of eco- 
+nomic output and reduction of gunk, depending on what kinds of environmental regulations are chosen.
+
+Combos    Eco Output    Gunk Cleaned Up J                800                   10%
+K               500                   30%
+L               600                   40%
+M              400                   40%
+N               100                   90%
+Table 19.
+
+a.    Sketch a graph of a production possibility frontier with environmental quality on the horizontal axis, measured 
+by the percentage reduction of gunk, and with the quantity of economic output on the vertical axis.
+b.    Which choices display productive efficiency? How can you tell?
+c.    Which choices show allocative efficiency? How can you tell?
+d.    In the choice between K and L, can you say which one is better and why?
+e.    In the choice between K and N, can you say which one is better, and why?
+f.    If you had to guess, which choice would you think is more likely to represent a command-and-control environmental 
+policy and which choice is more likely to represent a market-oriented environmental policy, choice L or M? Why?
+
+
+
+SOLUTIONS
+
+
+Answear.s to Self-Cfteck Questions
+
+b.    Of the choices provided, P, R, and S demonstrate productive efficiency. These are the choices on the production 
+possibility frontier.
+c.    Allocative efficiency is determined by the preferences—in this case by the preferences of society as expressed 
+through government and other social institutions. Because you do not have information about these preferences, you 
+really cannot say much about allocative efficiency.
+d.    In the choice between T and R, R should clearly be preferred, because it has both more corn and more trees. This 
+answer illustrates why productive efficiency is beneficial. Compared with choices inside the PPF, it means more of one 
+or both goods.
+e.    In the choice between T and S, it is not possible to say which choice is better. True, S is on the PPF and T is 
+not—but that only addresses the issue of productive efficiency. If a society has a strong preference for economic 
+output and places a lower value on trees, then allocative efficiency may lead to a choice of T over
+S. Of course, the reverse could also be true, leading to a choice of S. Without information on society’s preferences to 
+judge allocative efficiency, this question cannot be answered.
+f.    Compared with command-and-control policies, market-oriented policies allow either more output with the same 
+environmental protection or more environmental protection with the same level of output—or more
+
+512                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2.
+
+
+of both environmental protection and output. Thus, a choice like Q inside the PPF is more likely to represent a 
+command-and-control policy demand than a choice like S on the frontier of the PPF.

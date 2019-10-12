@@ -1,0 +1,270 @@
+
+
+
+4.4  PRICE  CEILINGS  AND  PRICE  FLOORS
+
+
+
+LEARNING OBJECTIVES
+
+
+By the end of this section, you will be able to:
+
+•    Explain price controls, price ceilings, and price floors
+•    Analyze demand and supply as a social adjustment mechanism
+
+
+
+ontroversy sometimes surrounds the prices and quantities established by demand and supply, especially for products that 
+are considered necessities. In some cases, discontent over prices turns into public pressure on politicians, who may 
+then pass legislation to prevent a certain
+price from climbing “too high” or falling “too low.”
+
+The demand and supply model shows how people and firms will react to the incentives provided by these laws to control 
+prices, in ways that will often lead to undesirable consequences. Alternative pol- icy tools can often achieve the 
+desired goals of price control laws, while avoiding at least some of their costs and tradeoffs.
+
+PRICE CEILINGS
+Laws that government enacts to regulate prices are called Price controls. Price controls come in two flavors. A price 
+ceiling keeps a price from rising above a certain level (the “ceiling”), while a price floor keeps a price from falling 
+below a certain level (the “floor”). This section uses the demand and supply framework to analyze price ceilings. The 
+next section discusses price floors.
+
+In many markets for goods and services, demanders outnumber suppliers. Consumers, who are also potential voters, 
+sometimes unite behind a political proposal to hold down a certain price. In some cities, such as Albany, renters have 
+pressed political leaders to pass rent control laws, a price ceiling that usually works by stating that rents can be 
+raised by only a certain maximum percentage each year.
+
+Rent  control  becomes  a  politically  hot  topic  when  rents  begin  to  rise  rapidly.  Everyone  needs  an 
+affordable place to live. Perhaps a change in tastes makes a certain suburb or town a more popular place to live. 
+Perhaps locally-based businesses expand, bringing higher incomes and more people into the area. Changes of this sort 
+can cause a change in the demand for rental housing, as Figure 1 illus- trates. The original equilibrium (E0) lies at 
+the intersection of supply curve S0 and demand curve D0, corresponding to an equilibrium price of $500 and an 
+equilibrium quantity of 15,000 units of rental housing. The effect of greater income or a change in tastes is to shift 
+the demand curve for rental
+
+PRINCIPLES  OF  ECONOMICS                                                                                   115
+housing to the right, as shown by the data in Table 10 and the shift from D0 to D1 on the graph. In this market, at the 
+new equilibrium E1, the price of a rental unit would rise to $600 and the equilibrium quantity would increase to 17,000 
+units.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure  1.  A  Price  Ceiling  Example—Rent  Control.  The  original intersection  of  demand  and  supply  occurs  at  
+E0.  If  demand  shifts from D0  to D1, the new equilibrium would be at E1—unless a price ceiling prevents the price 
+from rising. If the price is not permitted to rise, the quantity supplied remains at 15,000. However, after the change 
+in demand, the quantity demanded rises to 19,000, resulting in a shortage.
+
+Price    Original Quantity Supplied    Original Quantity Demanded    New Quantity Demanded
+$400    12,000                                             18,000                                                 
+23,000
+$500    15,000                                             15,000                                                 
+19,000
+$600    17,000                                             13,000                                                 
+17,000
+$700    19,000                                             11,000                                                 
+15,000
+$800    20,000                                             10,000                                                 
+14,000
+Table 10. Rent Control
+
+Suppose that a rent control law is passed to keep the price at the original equilibrium of $500 for a typ- ical 
+apartment. In Figure 1, the horizontal line at the price of $500 shows the legally fixed maximum price set by the rent 
+control law. However, the underlying forces that shifted the demand curve to the right are still there. At that price 
+($500), the quantity supplied remains at the same 15,000 rental units, but the quantity demanded is 19,000 rental 
+units. In other words, the quantity demanded exceeds the quantity supplied, so there is a shortage of rental housing. 
+One of the ironies of price ceilings is that while the price ceiling was intended to help renters, there are actually 
+fewer apartments rented out under the price ceiling (15,000 rental units) than would be the case at the market rent of 
+$600 (17,000 rental units).
+
+Price  ceilings  do  not  simply  benefit  renters  at  the  expense  of  landlords.  Rather,  some  renters  (or
+
+116                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+potential  renters)  lose  their  housing  as  landlords  convert  apartments  to  co-ops  and  condos.  Even when the 
+housing remains in the rental market, landlords tend to spend less on maintenance and on essentials like heating, 
+cooling, hot water, and lighting. The first rule of economics is you do not get something for nothing—everything has an 
+opportunity cost. So if renters get “cheaper” housing than the market requires, they tend to also end up with lower 
+quality housing.
+
+Price ceilings have been proposed for other products. For example, price ceilings to limit what pro- ducers can charge 
+have been proposed in recent years for prescription drugs, doctor and hospital fees, the charges made by some automatic 
+teller bank machines, and auto insurance rates. Price ceilings are enacted in an attempt to keep prices low for those 
+who demand the product. But when the market price is not allowed to rise to the equilibrium level, quantity demanded 
+exceeds quantity supplied, and thus a shortage occurs. Those who manage to purchase the product at the lower price 
+given by the price ceiling will benefit, but sellers of the product will suffer, along with those who are not able to 
+purchase the product at all. Quality is also likely to deteriorate.
+
+PRICE FLOORS
+A price floor is the lowest legal price that can be paid in markets for goods and services, labor, or financial 
+capital. Perhaps the best-known example of a price floor is the minimum wage, which is based on the normative view that 
+someone working full time ought to be able to afford a basic stan- dard of living. The federal minimum wage at the end 
+of 2014 was $7.25 per hour, which yields an income for a single person slightly higher than the poverty line. As the 
+cost of living rises over time, the Congress periodically raises the federal minimum wage.
+
+Price floors are sometimes called “price supports,” because they support a price by preventing it from falling below a 
+certain level. Around the world, many countries have passed laws to create agricultural price supports. Farm prices and 
+thus farm incomes fluctuate, sometimes widely. So even if, on aver- age, farm incomes are adequate, some years they can 
+be quite low. The purpose of price supports is to prevent these swings.
+
+The most common way price supports work is that the government enters the market and buys up the product, adding to 
+demand to keep prices higher than they otherwise would be. According to the Common Agricultural Policy reform passed in 
+2013, the European Union (EU) will spend about 60 billion euros per year, or 67 billion dollars per year, or roughly 
+38% of the EU budget, on price sup- ports for Europe’s farmers from 2014 to 2020.
+
+Figure 2 illustrates the effects of a government program that assures a price above the equilibrium by focusing on the 
+market for wheat in Europe. In the absence of government intervention, the price would  adjust  so  that  the  quantity 
+ supplied  would  equal  the  quantity  demanded  at  the  equilibrium point E0, with price P0 and quantity Q0. 
+However, policies to keep prices high for farmers keeps the price above what would have been the market equilibrium 
+level—the price Pf shown by the dashed horizontal line in the diagram. The result is a quantity supplied in excess of 
+the quantity demanded (Qd). When quantity supplied exceeds quantity demanded, a surplus exists.
+
+The high-income areas of the world, including the United States, Europe, and Japan, are estimated to spend roughly $1 
+billion per day in supporting their farmers. If the government is willing to purchase the excess supply (or to provide 
+payments for others to purchase it), then farmers will benefit from the price floor, but taxpayers and consumers of 
+food will pay the costs. Numerous proposals have been
+
+PRINCIPLES  OF  ECONOMICS                                                                                   117
+offered for reducing farm subsidies. In many countries, however, political support for subsidies for farmers remains 
+strong. Either because this is viewed by the population as supporting the traditional rural way of life or because of 
+the lobbying power of the agro-business industry.
+For more detail on the effects price ceilings and floors have on demand and supply, see the following Clear It Up 
+feature.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure  2.  European  Wheat  Prices:  A  Price  Floor  Example.  The intersection of demand (D) and supply (S) would be 
+at the equilib- rium point E0. However, a price floor set at Pf holds the price above E0 and prevents it from falling. 
+The result of the price floor is that the quantity supplied Qs exceeds the quantity demanded Qd. There is excess 
+supply, also called a surplus.
+
+
+DO PRICE CEILINGS AND FLOORS CHANGE DEMAND OR SUPPLY?
+
+Neither price ceilings nor price floors cause demand or supply to change. They simply set a price that limits what can 
+be legally charged in the market. Remember, changes in price do not cause demand or supply to change. Price ceilings 
+and price floors can cause a different choice of quantity demanded along a demand curve, but they do not move the 
+demand curve. Price controls can cause a different choice of quantity supplied along a supply curve, but they do not 
+shift the supply curve.
+
+
+KEY CONCEPTS AND SUMMARY
+Price ceilings prevent a price from rising above a certain level. When a price ceiling is set below the equilibrium 
+price, quantity demanded will exceed quantity supplied, and excess demand or shortages will result. Price floors 
+prevent a price from falling below a certain level. When a price floor is set
+
+118                   ERIK  DEAN, JUSTIN  ELARDO, MITCH  GREEN, BENJAMIN  WILSON, SEBASTIAN  BERGER 
+
+above the equilibrium price, quantity supplied will exceed quantity demanded, and excess supply or surpluses will 
+result. Price floors and price ceilings often lead to unintended consequences.
+
+SELF-CHECK QUESTIONS
+
+
+1.    What is the effect of a price ceiling on the quantity demanded of the product? What is the effect of a price 
+ceiling on the quantity supplied? Why exactly does a price ceiling cause a shortage?
+2.    Does a price ceiling change the equilibrium price?
+3.    What would be the impact of imposing a price floor below the equilibrium price?
+
+
+
+REVIEW QUESTIONS
+
+
+1.    Does a price ceiling attempt to make a price higher or lower?
+2.    How does a price ceiling set below the equilibrium level affect quantity demanded and quantity supplied?
+3.    Does a price floor attempt to make a price higher or lower?
+4.    How does a price floor set above the equilibrium level affect quantity demanded and quantity supplied?
+
+
+
+CRITICAL THINKING QUESTIONS
+
+
+1.    Most government policy decisions have winners and losers. What are the effects of raising the minimum wage? It is 
+more complex than simply producers lose and workers gain. Who are the winners and who are the losers, and what exactly 
+do they win and lose? To what extent does the policy change achieve its goals?
+2.    Agricultural price supports result in governments holding large inventories of agricultural products. Why do you 
+think the government cannot simply give the products away to poor people?
+3.    Can you propose a policy that would induce the market to supply more rental housing units?
+
+
+
+PROBLEMS
+
+
+A low-income country decides to set a price ceiling on bread so it can make sure that bread is affordable to the poor. 
+The conditions of demand and supply are given in Table 11. What are the equilibrium price and equilibrium quantity 
+before the price ceiling? What will the excess demand or the shortage (that is, quantity demanded minus quantity sup- 
+plied) be if the price ceiling is set at $2.40? At $2.00? At $3.60?
+
+PRINCIPLES  OF  ECONOMICS                                                                                   119
+
+
+
+
+Price                            Qd                                Qs
+$1.60                            9,000                            5,000
+$2.00                            8,500                            5,500
+$2.40                            8,000                            6,400
+$2.80                            7,500                             7,500
+$3.20                            7,000                            9,000
+$3.60                            6,500                            11,000
+$4.00                            6,000                            15,000
+Table 11. Demand and Supply of Bread in Low-Income Country
+
+
+
+
+
+price ceiling a legal maximum price
+
+GLOSSARY
+price control government laws to regulate prices instead of letting market forces determine prices
+price floor a legal minimum price
+total surplus see social surplus
+
+SOLUTIONS
+
+
+Answers to Self-Cfteck Questions
+
+1.    A price ceiling (which is below the equilibrium price) will cause the quantity demanded to rise and the quantity 
+supplied to fall. This is why a price ceiling creates a shortage.
+2.    A price ceiling is just a legal restriction. Equilibrium is an economic condition. People may or may not obey the 
+price ceiling, so the actual price may be at or above the price ceiling, but the price ceiling does not change the 
+equilibrium price.
+3.    A price ceiling is a legal maximum price, but a price floor is a legal minimum price and, consequently, it would 
+leave room for the price to rise to its equilibrium level. In other words, a price floor below equilibrium will not be 
+binding and will have no effect.
