@@ -3,7 +3,7 @@ Flask-Dropzone==1.5.4
 Flask-RESTful==0.3.7
 gunicorn==19.9.0
 heroku==0.1.4
-Jinja2==2.10
+Jinja2==2.11.3
 jsonpickle==1.0
 jsonschema==2.6.0
 numpy==1.15.2
