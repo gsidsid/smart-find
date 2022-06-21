@@ -6,7 +6,7 @@ heroku==0.1.4
 Jinja2==2.10
 jsonpickle==1.0
 jsonschema==2.6.0
-numpy==1.15.2
+numpy==1.22.0
 pdfminer==20140328
 pdfminer.six==20181108
 pyparsing==2.2.2
